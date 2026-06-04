@@ -16,7 +16,6 @@ hysteria2://masir_sefid@3.121.136.75:443?security=tls&obfs=salamander&obfs-passw
 vless://1a5b24bc-6180-4fa7-922d-ba7ee8a7a2b7@216.24.57.1:443?path=%2Fid-pusat&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=support.zoom.us.cyylr.eu.cc&fp=chrome&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=support.zoom.us.cyylr.eu.cc#%3E%3E%40configV2rayNG%3A%3AUS
 vless://6726c483-a99b-459e-9ce0-e01b38bcd9b6@test6.aiproject.info:2087?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=DE52.cdngreatfast.us&type=xhttp&allowInsecure=0&sni=DE52.cdngreatfast.us#none
 vless://6e358b1e-d91c-4e1e-ac23-54031a9729ad@test.mohammad555.cfd:443?path=%2Fws&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=test.mohammad555.cfd&fp=chrome&type=ws&allowInsecure=0&sni=test.mohammad555.cfd#%E2%9C%85%40AR14N24b
-vless://6e358b1e-d91c-4e1e-ac23-54031a9729ad@test.mohammad555.cfd:443?path=%2Fws&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=test.mohammad555.cfd&fp=chrome&type=ws&allowInsecure=0&sni=test.mohammad555.cfd#%E2%9C%85%40AR14N24b
 vless://fd32bbb1-3410-45fb-8db6-d606fde34bd6@snapp.ir:80?path=%2F&security=&encryption=none&host=kabotar.garfar.ir&type=ws#none
 vless://b8c4080d-c2b9-44eb-8540-0e9a8fab61fc@snapp.ir:80?path=%2F&security=&encryption=none&host=kabotar.garfar.ir&type=ws#%40ehsawn8
 trojan://humanity@216.24.57.1:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmloud.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmloud.com#%5B70720%5D%20-%20Telegram%20%3A%20%40V2All
