@@ -1,5 +1,6 @@
 {
   "tgChannels": [
+    { "channelName": "TmpCfg" },
     { "channelName": "AR14N24B" },
     { "channelName": "SOSkeyNET" },
     { "channelName": "Farah_VPN" },
