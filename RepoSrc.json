@@ -28,7 +28,8 @@
     { "channelName": "Net2Proxy" },
     { "channelName": "v2ray_free_conf" },
     { "channelName": "freeconfigv2" },
-    { "channelName": "vpnfail_v2ray" }
+    { "channelName": "vpnfail_v2ray" },
+    { "channelName": "oneclickvpnkeys" }
   ],
   "subs":[
     { "subName": "Masire_Sefid1", "url": "https://raw.githubusercontent.com/moradi618/pubfile/refs/heads/main/test.json#test"},    
