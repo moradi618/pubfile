@@ -30,6 +30,20 @@
     { "channelName": "freeconfigv2" },
     { "channelName": "vpnfail_v2ray" },
     { "channelName": "oneclickvpnkeys" }
+    { "channelName": "iguanaVPN" }
+    { "channelName": "tootffarangi" }
+
+    { "channelName": "" }
+    { "channelName": "" }
+    { "channelName": "" }
+    { "channelName": "" }
+    { "channelName": "" }
+    { "channelName": "" }
+    { "channelName": "" }
+    { "channelName": "" }
+    { "channelName": "" }
+    { "channelName": "" }
+    { "channelName": "" }
   ],
   "subs":[
     { "subName": "Masire_Sefid1", "url": "https://raw.githubusercontent.com/moradi618/pubfile/refs/heads/main/test.json#test"},    
@@ -38,6 +52,12 @@
     { "subName": "", "url": ""},
     { "subName": "", "url": ""},
     { "subName": "", "url": ""},
+    { "subName": "", "url": ""}
+    { "subName": "", "url": ""}
+    { "subName": "", "url": ""}
+    { "subName": "", "url": ""}
+    { "subName": "", "url": ""}
+    { "subName": "", "url": ""}
     { "subName": "", "url": ""}
   ]  
 }
