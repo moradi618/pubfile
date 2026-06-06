@@ -29,20 +29,20 @@
     { "channelName": "v2ray_free_conf" },
     { "channelName": "freeconfigv2" },
     { "channelName": "vpnfail_v2ray" },
-    { "channelName": "oneclickvpnkeys" }
-    { "channelName": "iguanaVPN" }
-    { "channelName": "tootffarangi" }
+    { "channelName": "oneclickvpnkeys" },
+    { "channelName": "iguanaVPN" },
+    { "channelName": "tootffarangi" },
 
-    { "channelName": "" }
-    { "channelName": "" }
-    { "channelName": "" }
-    { "channelName": "" }
-    { "channelName": "" }
-    { "channelName": "" }
-    { "channelName": "" }
-    { "channelName": "" }
-    { "channelName": "" }
-    { "channelName": "" }
+    { "channelName": "" },
+    { "channelName": "" },
+    { "channelName": "" },
+    { "channelName": "" },
+    { "channelName": "" },
+    { "channelName": "" },
+    { "channelName": "" },
+    { "channelName": "" },
+    { "channelName": "" },
+    { "channelName": "" },
     { "channelName": "" }
   ],
   "subs":[
@@ -52,12 +52,15 @@
     { "subName": "", "url": ""},
     { "subName": "", "url": ""},
     { "subName": "", "url": ""},
-    { "subName": "", "url": ""}
-    { "subName": "", "url": ""}
-    { "subName": "", "url": ""}
-    { "subName": "", "url": ""}
-    { "subName": "", "url": ""}
-    { "subName": "", "url": ""}
+    { "subName": "", "url": ""},
+    { "subName": "", "url": ""},
+    { "subName": "", "url": ""},
+    { "subName": "", "url": ""},
+    { "subName": "", "url": ""},
+    { "subName": "", "url": ""},
+    { "subName": "", "url": ""},
+    { "subName": "", "url": ""},
+    { "subName": "", "url": ""},
     { "subName": "", "url": ""}
   ]  
 }
