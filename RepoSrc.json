@@ -47,7 +47,7 @@
     { "channelName": "" }
   ],
   "subs":[
-    { "subName": "Masire_Sefid1", "url": "https://raw.githubusercontent.com/moradi618/pubfile/refs/heads/main/test.json#test"},    
+    { "subName": "MasireSefid", "url": "https://raw.githubusercontent.com/moradi618/pubfile/refs/heads/main/test.json#test"},    
     { "subName": "MySub", "url": "https://raw.githubusercontent.com/moradi618/pubfile/refs/heads/main/test.json#test"},
 
     { "subName": "", "url": ""},
