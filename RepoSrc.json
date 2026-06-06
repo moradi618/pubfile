@@ -29,9 +29,5 @@
     { "channelName": "v2ray_free_conf" },
     { "channelName": "freeconfigv2" },
     { "channelName": "vpnfail_v2ray" }
-  ],
-  "subs":[
-    { "subName": "Masire_Sefid1", "url": "http:"},
-    { "subName": "Masire_Sefid", "url": "http:"}
   ]
 }
