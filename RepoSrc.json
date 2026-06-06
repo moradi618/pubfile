@@ -31,7 +31,27 @@
     { "channelName": "vpnfail_v2ray" }
   ],
   "subs":[
-    { "subName": "Masire_Sefid1", "url": "https://raw.githubusercontent.com/moradi618/pubfile/refs/heads/main/test.json#test"},
-    { "subName": "Masire_Sefid2", "url": ""}
+    { "subName": "Masire_Sefid1", "url": "https://raw.githubusercontent.com/moradi618/pubfile/refs/heads/main/test.json#test"},    
+    { "subName": "MySub", "url": "https://raw.githubusercontent.com/moradi618/pubfile/refs/heads/main/test.json#test"},
+
+    { "subName": "", "url": ""},
+    { "subName": "", "url": ""},
+    { "subName": "", "url": ""},
+    { "subName": "", "url": ""}
   ]  
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
