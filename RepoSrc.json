@@ -31,7 +31,7 @@
     { "channelName": "vpnfail_v2ray" }
   ],
   "subs":[
-    { "subName": "Masire_Sefid1", "url": "http:"},
-    { "subName": "Masire_Sefid2", "url": "http:"}
+    { "subName": "Masire_Sefid1", "url": "https://raw.githubusercontent.com/moradi618/pubfile/refs/heads/main/test.json#test"},
+    { "subName": "Masire_Sefid2", "url": ""}
   ]  
 }
