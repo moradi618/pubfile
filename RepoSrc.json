@@ -61,7 +61,7 @@
       "url": "https://raw.githubusercontent.com/moradi618/pubfile/refs/heads/main/test.json#test"
     },
 
-    { "subName": "", "url": "" },
+    { "subName": "iProxyChannel", "url": "https://raw.githubusercontent.com/iProxyChannel/V2ray-Configs/refs/heads/main/sub_plain.txt" },
     { "subName": "", "url": "" },
     { "subName": "", "url": "" },
     { "subName": "", "url": "" },
