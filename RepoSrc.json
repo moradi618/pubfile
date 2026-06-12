@@ -52,16 +52,10 @@
   ],
 
   "subs": [
-    {
-      "subName": "MasireSefid",
-      "url": "https://raw.githubusercontent.com/moradi618/pubfile/refs/heads/main/test.json#test"
-    },
-    {
-      "subName": "MySub",
-      "url": "https://raw.githubusercontent.com/moradi618/pubfile/refs/heads/main/test.json#test"
-    },
-
+    { "subName": "MasireSefid", "url": "https://raw.githubusercontent.com/moradi618/pubfile/refs/heads/main/test.json#test" },
+    { "subName": "MySub", "url": "https://raw.githubusercontent.com/moradi618/pubfile/refs/heads/main/test.json#test" },
     { "subName": "iProxyChannel", "url": "https://raw.githubusercontent.com/iProxyChannel/V2ray-Configs/refs/heads/main/sub_plain.txt" },
+
     { "subName": "", "url": "" },
     { "subName": "", "url": "" },
     { "subName": "", "url": "" },
