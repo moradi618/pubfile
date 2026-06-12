@@ -52,7 +52,7 @@
   ],
 
   "subs": [
-    { "subName": "MasireSefid", "url": "https://raw.githubusercontent.com/moradi618/pubfile/refs/heads/main/test.json#test" },
+    { "subName": "MasireSefid", "url": "https://raw.githubusercontent.com/masir-sefid/Sub/main/Telegram-Channel-@Masir_Sefid.txt" },
     { "subName": "MySub", "url": "https://raw.githubusercontent.com/moradi618/pubfile/refs/heads/main/test.json#test" },
     { "subName": "iProxyChannel", "url": "https://raw.githubusercontent.com/iProxyChannel/V2ray-Configs/refs/heads/main/sub_plain.txt" },
     { "subName": "v2FreeHub", "url": "https://raw.githubusercontent.com/v2FreeHub/v2hub-configs/refs/heads/main/Sub-AutoUpdate" },
