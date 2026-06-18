@@ -61,6 +61,7 @@ vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjIyNyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMDNmY2M2
 trojan://MiTiVPN@103.31.4.213:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#Khodemoni-082839
 trojan://MiTiVPN@198.41.218.202:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#Khodemoni-082866
 vless://54a4ffba-9512-4a22-8c1f-6abf10552d3b@usa3.baipiaoo.site:10002?security=reality&encryption=none&pbk=UoEo7zFog5_Pv6hJ34mtWCnpN8nwGg2i4PNsT-gMfQc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=4815c685#Khodemoni-084878
+vless://4d7ece1d-b5c2-4e53-90cf-212f5ab105b9@s.yousefcj.ir:5000?type=tcp&encryption=none&path=%2F&host=sheypoor.com&headerType=http&security=none#Khodemoni-084859
 vless://dc109a0f-04e7-4e27-8df0-4decdc4fc90c@g-de2-x9cr8bwsquaj.radshim.com:8443?path=%2Fapi&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=httpupgrade&allowInsecure=0#Khodemoni-084434
 vless://25014e98-0fd5-4b7b-ac84-a03d0e0ec52a@103.160.204.239:443?encryption=none&security=tls&sni=site.iotserver.workers.dev&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=site.iotserver.workers.dev&path=%2F#Khodemoni-084905
 vless://43488128-319e-f480-64ea-0acdc712e2a8@139.84.236.5:443?security=reality&encryption=none&pbk=UkoqOh9VtAhhMrlKY3wAmijgjCrLIKMZT-An0NjrHng&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.alibaba.com&sid=8d17b7ebab7b99d7#Khodemoni-064246
