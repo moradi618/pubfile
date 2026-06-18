@@ -1,6 +1,5 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNSUsxYzV2eG5kSXd6MzVr@20.166.122.87:443?outline=1&prefix=POST%20z33c6abL#Khodemoni-084316
 vless://0970ff22-ef41-4dce-b05c-0ba0d1f73e67@fi.mobileemdad.top:42538?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=fi.mobileemdad.top#Khodemoni-083712
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080#Khodemoni-009585
 vless://58a42eee-bbf0-4f90-a72f-0f57792ef50a@tr.avenpulse.ir:2087?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-083956
 vless://4870e8e9-1afd-45be-9050-9d2fb2c0f6e0@87.120.106.101:34634?encryption=none&host=play.google.com&path=%2F&security=none&type=ws#Khodemoni-084324
 vless://989aa5d4-061d-4836-949e-3d5a2e6f69c6@germanhjjk.dadashinet10.ir:2044?encryption=none&type=tcp&headerType=http&host=play.google.com&security=none#Khodemoni-084271
@@ -39,12 +38,12 @@ vless://d32f9d6c-b191-41a3-80bd-77628abe95a3@199.232.78.159:443?path=%2F&securit
 trojan://MiTiVPN@104.21.18.41:443?path=%2Fcdn%3Dmitivpn&security=tls&alpn=http%2F1.1&host=linkkon-w.ir&fp=chrome&type=ws&sni=linkkon-w.ir#Khodemoni-084308
 vless://XpnTeam-kwu2@167.82.75.138:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#Khodemoni-081358
 trojan://MiTiVPN@104.24.17.0:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#Khodemoni-082863
-trojan://MiTiVPN@104.18.53.211:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#Khodemoni-082862
 trojan://MiTiVPN@172.67.210.215:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#Khodemoni-082835
+trojan://MiTiVPN@104.18.53.211:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#Khodemoni-082862
 vless://d02f96b5-9d92-4b72-8e86-2fe2e184deeb@209.38.234.66:443?encryption=mlkem768x25519plus.native.0rtt.RHOotzuuoo-ImevmMxWexITYUBQEKhuvybb1EeUZPTg&fp=chrome&headerType=http&host=&path=%2F&pbk=UqW3DfuQK6Y77RSPztD1MHMBEooixJnmQMge5BJ9uUU&security=reality&sid=9a&sni=www.sony.com&spx=%2FSU3i8MF8okEqsOy&type=tcp#Khodemoni-083780
 vless://8937c203-8ec6-477f-830b-939992cba4eb@mci.connectingissues.ir:80?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&mode=auto&path=%2F%3Fed%3D2048&security=none&type=xhttp&x_padding_bytes=100-1000#Khodemoni-084037
-trojan://%4D%69%54%69%56%50%4E@172.67.210.215:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#Khodemoni-082096
 trojan://MiTiVPN@104.25.253.129:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#Khodemoni-082842
+trojan://%4D%69%54%69%56%50%4E@172.67.210.215:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#Khodemoni-082096
 vless://9126b19d-53c8-4236-9f87-3bb88bf37804@global.connectingissues.ir:80?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&mode=auto&path=%2F%3Fed%3D2048&security=none&type=xhttp&x_padding_bytes=100-1000#Khodemoni-083605
 trojan://MiTiVPN@172.67.210.215:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#Khodemoni-081964
 trojan://MiTiVPN@104.19.199.34:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#Khodemoni-082841
@@ -53,6 +52,7 @@ vless://8937c203-8ec6-477f-830b-939992cba4eb@local.connectingissues.ir:80?encryp
 vless://8937c203-8ec6-477f-830b-939992cba4eb@euro.connectingissues.ir:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&host=shirin-kose.de&type=xhttp#Khodemoni-084047
 trojan://MiTiVPN@104.21.18.41:443?path=%2Fcdn%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#Khodemoni-080477
 trojan://MiTiVPN@104.16.72.70:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#Khodemoni-083491
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080#Khodemoni-009585
 vless://15767113-9f48-b71b-718c-d36fdae8b8c6@104.21.79.54:443?security=tls&type=ws&path=%2F&sni=dehys.nekagsm.com#Khodemoni-084228
 vless://76a556ba-cec0-4323-81d4-546ea40a360c@chatgpt.com:443?path=/atom88?ed=2560&security=tls&encryption=none&insecure=0&host=atom1.appleidcity.com&type=ws&allowInsecure=0&sni=atom1.appleidcity.com#Khodemoni-083883
 trojan://MiTiVPN@151.101.1.194:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&host=mitivpn-s2.global.ssl.fastly.net&fp=chrome&type=ws&sni=global.fastly.com#Khodemoni-084225
