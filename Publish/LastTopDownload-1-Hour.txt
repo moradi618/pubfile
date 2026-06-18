@@ -22,8 +22,8 @@ vless://52faee73-e0fe-4661-992d-67259257170f@uk-gthost-01.com:8443?security=real
 vless://7dfdbb4b-5bf7-4503-b2c0-4ef05922dcb9@psf-1.zdshop.ir:80?security=none&encryption=none&host=khodroshop.ir&type=ws#Khodemoni-085737
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#Khodemoni-080079
 trojan://%4D%69%54%69%56%50%4E@45.131.4.118:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#Khodemoni-082097
-trojan://MiTiVPN@172.67.210.215:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=1&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=1&sni=linkkon-w.ir#Khodemoni-085736
 vless://0d543aed-4e30-4553-b5ac-211419bb0961@185.128.139.11:18244?security=&%3Bencryption=none&%3BheaderType=none&%3Btype=tcp#Khodemoni-081883
+trojan://MiTiVPN@172.67.210.215:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=1&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=1&sni=linkkon-w.ir#Khodemoni-085736
 trojan://MiTiVPN@104.21.18.41:443?path=%2Fcdn%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#Khodemoni-080477
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206eW1VRUl3Ukwzb1VtMC9PUkhhZGR2UXU1aUtVcW1oNzFWaDlLUGtMMTltVT06eklQYVlSU1VFQnBQQXVBREJsNk5ObDB3OCtzUXYzZXVKY0RBbWM1QWwxND0@5.145.113.74:2030?#Khodemoni-085826
 trojan://MiTiVPN@45.131.4.118:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&host=linkkon-w.ir&fp=chrome&type=ws&sni=linkkon-w.ir#Khodemoni-081667
@@ -44,7 +44,6 @@ trojan://MiTiVPN@45.131.4.118:443?alpn=http%2F1.1&fp=chrome&host=linkkon-w.ir&pa
 vless://334b4652-f11d-4f0a-9d26-b5c0fff6c31f@104.18.93.137:8880?path=%2F%3Fed%3D2082&security=&encryption=none&host=Cdn8-pro.postshup.ir.&type=httpupgrade#Khodemoni-085134
 trojan://MiTiVPN@172.67.210.215:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&host=linkkon-w.ir&fp=chrome&type=ws&sni=linkkon-w.ir#Khodemoni-083050
 trojan://MiTiVPN@104.18.53.211:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#Khodemoni-082862
-vless://0d543aed-4e30-4553-b5ac-211419bb0961@185.128.139.11:18244?security=&encryption=none&headerType=&type=tcp#Khodemoni-039129
 trojan://MiTiVPN@198.41.222.60:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#Khodemoni-082840
 trojan://%4D%69%54%69%56%50%4E@172.67.210.215:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#Khodemoni-082096
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080#Khodemoni-009585
@@ -72,6 +71,7 @@ vless://141bbdef-a341-4846-aec7-9d6531ff8790@132.243.160.70:444?mode=gun&securit
 vless://233e7318-f1a9-4af0-be12-e9368aa5984a@104.17.17.154:443?path=%2F&security=tls&encryption=none&insecure=0&host=ez-d27129.ezaccess1f71cbe.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-d27129.ezaccess1f71cbe.workers.dev#Khodemoni-085957
 vless://141bbdef-a341-4846-aec7-9d6531ff8790@latviant2.life:2053?mode=gun&security=reality&encryption=none&authority=deepl.com&pbk=ZYLVtAAKXdjtyV3rLfODQiheWedxr6_ZRGX6gfGd51k&fp=chrome&type=grpc&serviceName=deepl.com&sni=deepl.com&sid=d7abeb515312dc2f#Khodemoni-085857
 trojan://MiTiVPN@104.19.199.34:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#Khodemoni-082841
+vless://141bbdef-a341-4846-aec7-9d6531ff8790@hdupubkpph.pl.cdnfludelivery.com:2053?mode=gun&security=reality&encryption=none&authority=deepl.com&pbk=ZYLVtAAKXdjtyV3rLfODQiheWedxr6_ZRGX6gfGd51k&fp=qq&type=grpc&serviceName=deepl.com&sni=deepl.com&sid=d7abeb515312dc2f#Khodemoni-085846
 trojan://MiTiVPN@151.101.1.194:443?type=ws&security=tls&path=%2Fed%3Dmitivpn&host=mitivpn-s2.global.ssl.fastly.net&sni=global.fastly.com&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#Khodemoni-083346
 vless://141bbdef-a341-4846-aec7-9d6531ff8790@dushanbeflulife.com:446?mode=gun&security=reality&encryption=none&authority=deepl.com&pbk=5OXrB8hUCnvYyT9wVqpYN4NbJSWavxlHu7b3Dt3IgEw&fp=chrome&type=grpc&serviceName=deepl.com&sni=deepl.com&sid=d7abeb515312dc2f#Khodemoni-085858
 vless://141bbdef-a341-4846-aec7-9d6531ff8790@swflyingsupp.com:446?mode=gun&security=reality&encryption=none&authority=deepl.com&pbk=uD-Adu6t_iFo4-FoaXOjNfSG0fHPcvPaQmO6v3qL3XY&fp=qq&type=grpc&serviceName=deepl.com&sni=deepl.com&sid=d7abeb515312dc2f#Khodemoni-085875
