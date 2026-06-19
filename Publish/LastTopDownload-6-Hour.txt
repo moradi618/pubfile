@@ -1,5 +1,6 @@
 vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-086961
 vmess://eyJhZGQiOiI4NS4yMzQuNjkuMjI3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQ1ZTQ2NDE0LTYxNDctNDQwZS05NzMzLTA1OWU1YjQ4YWFiYSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTEwIiwicHMiOiJLaG9kZW1vbmktMDg2ODY0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiI4NS4yMzQuNjkuMjI3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQ1ZTQ2NDE0LTYxNDctNDQwZS05NzMzLTA1OWU1YjQ4YWFiYSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTEwIiwicHMiOiJLaG9kZW1vbmktMDg3ODcyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://35495e54-3b92-4835-9f51-6cba41bacb5e@3.124.172.115:440?security=&encryption=none&headerType=none&type=tcp#Khodemoni-086759
 vless://35495e54-3b92-4835-9f51-6cba41bacb5e@3.124.172.115:440?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-087074
 vless://bf890d66-0c47-4e62-a22f-05af3a2a6b51@209.38.196.100:16150?security=&encryption=none&headerType=none&type=tcp#Khodemoni-086768
@@ -57,7 +58,6 @@ vless://b8f58a98-313c-6882-1c90-a01d46418eb5@tmesubgift.up.railway.app:443?encry
 vless://efcb261d-bd0d-4589-9cda-053553eee8b3@amin.sylixteam.ir:443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=amin.sylixteam.ir&mode=auto&path=%2Fcatchmebitch&security=tls&sni=amin.sylixteam.ir&type=xhttp&x_padding_bytes=100-1000#Khodemoni-087001
 vless://f106648e-0644-40bc-974c-6edc966fe18d@45.130.125.162:8443?mode=auto&path=%2F%3Fed%3D2053&security=tls&encryption=none&alpn=h3,h2&fp=chrome&allowinsecure=0&type=xhttp&sni=cji.new-persian-song.ir#Khodemoni-087069
 vless://ac006062-f051-43c6-bd4c-f409285c8635@45.130.125.6:443?encryption=none&type=xhttp&mode=auto&host=germany4.alibaba1405.org&path=/v2raylink&security=tls&fp=chrome&sni=germany4.alibaba1405.org&alpn=http/1.1,h2#Khodemoni-086552
-vless://7506af01-9326-4c2f-ab77-1f568435777a@admin.console.support.admin.iranvatanam.com:700?security=&encryption=none&host=rubika.ir%2Cigap.net%2Csplus.ir%2Cskyroom.online&headerType=http&type=tcp#Khodemoni-087192
 vless://1961d0da-1a20-4849-8867-0fb7ff29737b@free1.ziroxcompany.ir:8080?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&authority=free.ziroxcompany.ir&insecure=0&fp=chrome&type=grpc&serviceName=%2Fdashboard&allowInsecure=0&sni=free.ziroxcompany.ir#Khodemoni-087754
 vless://5508abe3-adb7-4b50-9107-45b3bec9f723@german.monopoli.shop:56626?mode=gun&security=reality&encryption=none&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&fp=chrome&type=grpc&sni=icloud.com&sid=abbb6e5e07cdf34b#Khodemoni-087677
 vless://0b444497-0746-4833-b52f-478149d28916@104.27.122.202:443?encryption=none&security=tls&sni=panel2.panelgfw.workers.dev&fp=chrome&type=ws&host=panel2.panelgfw.workers.dev&path=/sync&allowInsecure=0#Khodemoni-087062
