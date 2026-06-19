@@ -1,9 +1,8 @@
-vless://a7703bb9-3fc0-41d5-a931-9f6ee58e95d8@104.252.111.54:12595?encryption=none&headerType=http&host=&path=%2F&security=none&type=tcp#Khodemoni-085995
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080#Khodemoni-009585
 vless://334b4652-f11d-4f0a-9d26-b5c0fff6c31f@190.93.247.3:8880?path=%2F%3Fed%3D2082&security=&encryption=none&host=Cdn8-pro.postshup.ir.&type=httpupgrade#Khodemoni-085132
 vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?encryption=none&type=ws&path=%2F&host=azsv1.drpingservice.com#Khodemoni-082627
-vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?encryption=none&security=none&type=ws&host=azsv1.drpingservice.com&path=%2F#Khodemoni-081861
 vless://334b4652-f11d-4f0a-9d26-b5c0fff6c31f@104.16.76.102:8880?path=%2F%3Fed%3D2082&security=&encryption=none&host=Cdn8-pro.postshup.ir.&type=httpupgrade#Khodemoni-085135
+vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?encryption=none&security=none&type=ws&host=azsv1.drpingservice.com&path=%2F#Khodemoni-081861
 vless://334b4652-f11d-4f0a-9d26-b5c0fff6c31f@108.162.196.203:8880?path=%2F%3Fed%3D2082&security=&encryption=none&host=Cdn8-pro.postshup.ir.&type=httpupgrade#Khodemoni-085129
 vless://334b4652-f11d-4f0a-9d26-b5c0fff6c31f@104.21.83.111:8880?path=%2F%3Fed%3D2082&security=&encryption=none&host=Cdn8-pro.postshup.ir.&type=httpupgrade#Khodemoni-085130
 vless://334b4652-f11d-4f0a-9d26-b5c0fff6c31f@forallpanel.srtongston.ir:8880?encryption=none&type=httpupgrade&host=Cdn8-pro.postshup.ir.&path=/?ed%3D2082&security=none#Khodemoni-084788
@@ -64,6 +63,7 @@ trojan://MiTiVPN@104.24.50.97:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F
 vless://dc109a0f-04e7-4e27-8df0-4decdc4fc90c@g-de2-x9cr8bwsquaj.radshim.com:8443?path=%2Fapi&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=httpupgrade&allowInsecure=0#Khodemoni-084434
 trojan://MiTiVPN@104.24.50.97:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#Khodemoni-082864
 vless://6091db2d-1905-465a-9ce3-25c1c603865d@x.fl.vpnpplvpn.top:8008?mode=stream-up&path=%2Fupload&security=&encryption=mlkem768x25519plus.native.1rtt.gtmOXB2AN_r905czmOIr6dKq_YDdEJB8RWGqfsXurns&host=pcloud.com&type=xhttp#Khodemoni-082139
+vless://fa937ff5-89cc-49a4-9bf9-da2b7285070d@suolar.yellowsky.ir:2053?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=bulghari.appleseraj.ir&fp=chrome&type=xhttp&sni=bulghari.appleseraj.ir#Khodemoni-083846
 vless://141bbdef-a341-4846-aec7-9d6531ff8790@swflyingsupp.com:446?mode=gun&security=reality&encryption=none&authority=deepl.com&pbk=uD-Adu6t_iFo4-FoaXOjNfSG0fHPcvPaQmO6v3qL3XY&fp=qq&type=grpc&serviceName=deepl.com&sni=deepl.com&sid=d7abeb515312dc2f#Khodemoni-085875
 vless://ceb0c850-a5a8-41ea-afc7-1fc8f0cc4391@s4.eldoradu.ir:2053?path=%2F&security=tls&encryption=none&insecure=0&host=xlsf.sellink.ir&fp=chrome&type=ws&allowInsecure=0&sni=xlsf.sellink.ir#Khodemoni-081895
 vless://dc109a0f-04e7-4e27-8df0-4decdc4fc90c@g-de2-x9cr8bwsquaj.radshim.com:443?path=%2Fws&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0#Khodemoni-084458
