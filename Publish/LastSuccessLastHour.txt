@@ -1,3 +1,8 @@
+vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@104.17.108.69:8443?path=%2F&security=tls&encryption=none&insecure=0&host=srv14.hamiibar.com&fp=chrome&type=ws&allowInsecure=0&sni=srv14.hamiibar.com#Khodemoni-085742
+vless://2562bd96-560a-4999-84fe-6f1a2a8e0ecf@cdn2.portalcode.ir:2087?encryption=none&security=tls&sni=8bcf202822bc19d9.monopolitass.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=8bcf202822bc19d9.monopolitass.ir&path=%2F#Khodemoni-085476
+vless://a78c6631-94fc-4edf-884a-0b0c0e2b1623@31.57.46.215:16300?security=reality&encryption=none&pbk=qW_L7rLG6PTLs9KaoSf-HSSWAUPLUyh1p8KLcCHrxAk&headerType=none&fp=chrome&spx=%2F2u6uO2Ak1XhJ5bL&type=tcp&sni=www.amazon.com&sid=934b64dd5a99c1#Khodemoni-087259
+vless://89cab6e5-db32-4741-b1e3-90482cbd2df8@144.124.236.44:443?security=reality&encryption=none&pbk=QS2q7mXouqtXgN8aD76zsoPOSeeApgMVemx2XcrezEo&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=2e3bc3ef113779f6#Khodemoni-087255
+vless://7dfdbb4b-5bf7-4503-b2c0-4ef05922dcb9@psf-1.zdshop.ir:80?path=%2F&security=none&encryption=none&host=khodroshop.ir&type=ws#Khodemoni-087256
 vless://3c37d31e-9990-4c52-80fa-d971564d58c1@91.193.58.158:2087?path=%2F%3Fu%3D73742dbc12&security=tls&encryption=none&insecure=0&host=nova-atlas-core-609c.nova-c40b57.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-atlas-core-609c.nova-c40b57.workers.dev#Khodemoni-087253
 vless://15d0a396-e4bb-475a-a345-da0c5767b306@132.243.160.138:443?security=reality&encryption=none&pbk=CL5aeP6smcd4ie9upZlYVEvuHDwLAt46BOIfHOjkMis&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=fr-cdg-1.blook.network&sid=cae7fcef#Khodemoni-086579
 vless://bf8fb0b8-affc-42f3-9e82-f9a821066de1@188.94.156.216:443?security=reality&encryption=none&pbk=cEKfInbAE2ZWB3RH-MYQiIfA2aAPO6wZT_TNCPgh7TE&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=kz-ala-1.blook.network&sid=85b45f16#Khodemoni-086589
@@ -48,9 +53,7 @@ vless://9f5fe7e9-33fa-430e-b51d-39367042ad73@156.248.10.58:443?flow=xtls-rprx-vi
 trojan://humanity@104.18.185.26:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#Khodemoni-073130
 trojan://R6am5csvuv6rXxURXiDSPg@178.63.244.11:8443?security=none&headerType=none&allowInsecure=0&type=tcp#Khodemoni-087027
 vless://928d8e01-289f-4a8b-91ea-2689ec62aed1@arvancloud.ir:8880?security=none&allowInsecure=0&encryption=none&type=ws&host=sinimoo.com&path=/#Khodemoni-087023
-trojan://telegram-id-privatevpns@15.188.182.93:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-087056
 vless://OwLimbow@31.56.117.234:80?path=%2Fws&security=none&encryption=none&host=31.56.117.234&type=ws#Khodemoni-087051
-trojan://telegram-id-directvpn@15.188.182.93:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-087057
 vless://9ce7ac33-5004-40ea-8236-15bc2d25a37c@104.18.34.140:443?path=%2FMaSTeRSeRVeR1-MaSTeRSeRVeR1-MaSTeRSeRVeR1-MaSTeRSeRVeR1-MaSTeRSeRVeR1-MaSTeRSeRVeR1&security=tls&encryption=none&host=summer-butterfly-21b6.mohsenzzx.workers.dev&fp=chrome&type=ws&sni=summer-butterfly-21b6.mohsenzzx.workers.dev#Khodemoni-087044
 trojan://humanity@104.16.71.213:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#Khodemoni-086061
 vless://09da719f-0160-490e-a269-e4d0e4906883@84.32.25.137:443?security=reality&encryption=none&pbk=ocQPA5ysaQo8n7TkQmPy8iy-m-WSKEMy7gXGnP0Fdic&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=lt-vno-2.blook.network&sid=5246981c#Khodemoni-086578
