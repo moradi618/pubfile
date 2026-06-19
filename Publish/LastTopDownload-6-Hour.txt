@@ -17,7 +17,6 @@ trojan://telegram-id-directvpn@18.195.157.51:22223?security=tls&alpn=http/1.1&he
 trojan://telegram-id-privatevpns@3.70.56.34:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-086451
 trojan://telegram-id-directvpn@63.178.57.215:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-084820
 vless://6476ed5b-e7ad-4706-9883-83a99273fbf2@37.49.229.208:443?security=reality&encryption=none&pbk=r77nilacD34SeLmghmchRKuNiUL0xzh-pK87Ux58dzI&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=nl.kosmosapp.ru&sid=d0a1665d1b96515e#Khodemoni-086691
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca25.speedmeter.shop:8880?mode=gun&security=none&encryption=none&authority=BIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#Khodemoni-086008
 vless://a8203aa1-7192-478c-9d18-bf93e6eb5b2a@37.49.229.225:443?security=reality&encryption=none&pbk=r77nilacD34SeLmghmchRKuNiUL0xzh-pK87Ux58dzI&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=nl.kosmosapp.ru&sid=d0a1665d1b96515e#Khodemoni-086697
 vless://f106648e-0644-40bc-974c-6edc966fe18d@45.130.125.101:8443?mode=auto&path=%2F%3Fed&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=cji.new-persian-song.ir#Khodemoni-085782
 vless://f106648e-0644-40bc-974c-6edc966fe18d@45.130.125.162:8443?mode=auto&path=%2F%3Fed%3D80&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=ssd.mojaz-persian-music.ir#Khodemoni-085630
@@ -78,3 +77,4 @@ trojan://MiTiVPN@151.101.1.194:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2
 vless://9a1ca418-134f-4750-b97a-55ea81135742@140.248.185.253:443?path=%2F&security=tls&encryption=none&host=pan1.global.ssl.fastly.net&type=ws&sni=default.ssl.fastly.net#Khodemoni-083217
 trojan://MiTiVPN@172.67.210.215:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&host=linkkon-w.ir&fp=chrome&type=ws&sni=linkkon-w.ir#Khodemoni-083050
 trojan://%4D%69%54%69%56%50%4E@45.131.4.118:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#Khodemoni-082097
+vless://0d543aed-4e30-4553-b5ac-211419bb0961@185.128.139.11:18244?security=&encryption=none&headerType=&type=tcp#Khodemoni-039129
