@@ -1,6 +1,8 @@
 vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?encryption=none&type=ws&path=%2F&host=azsv1.drpingservice.com#Khodemoni-082627
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#Khodemoni-080079
 vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?encryption=none&security=none&type=ws&host=azsv1.drpingservice.com&path=%2F#Khodemoni-081861
+vless://c1db9e72-4de3-4c0b-bbb9-65ffc29371c2@37.49.229.206:443?security=reality&encryption=none&pbk=r77nilacD34SeLmghmchRKuNiUL0xzh-pK87Ux58dzI&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=nl.kosmosapp.ru&sid=d0a1665d1b96515e#Khodemoni-086212
+trojan://telegram-id-privatevpns@63.183.26.234:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-086216
 vless://21784e1c-392e-4c5f-b50a-9f8a49f87e9a@2.144.5.90:8443?encryption=none&type=ws&host=bama.ir&path=/Stream&security=none#Khodemoni-081798
 vless://7dfdbb4b-5bf7-4503-b2c0-4ef05922dcb9@psf-1.zdshop.ir:80?security=&encryption=none&host=khodroshop.ir&type=ws#Khodemoni-085741
 trojan://telegram-id-directvpn@18.195.157.51:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-084881
