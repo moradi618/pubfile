@@ -1,3 +1,9 @@
+vless://5a802fbb-00ed-4447-bece-3e0faf45e213@newus.mmrknight.app:80?security=none&allowInsecure=0&encryption=none&type=ws&host=play.google.com&path=%2FTelegram-Raiv2mmr.php#Khodemoni-087868
+vless://9f5fe7e9-33fa-430e-b51d-39367042ad73@156.248.10.58:443?security=reality&encryption=none&pbk=EXIEsAJq-s30mA0r997iwrR8ijvGLZ7DOTkr_R39QCE&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=hk-atlas.besnow.xyz&sid=54fc3827c8#Khodemoni-087867
+trojan://telegram-id-privatevpns@15.224.75.26:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-087857
+trojan://telegram-id-directvpn@15.224.75.26:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-087856
+vless://52faee73-e0fe-4661-992d-67259257170f@45.206.0.44:8443?security=reality&encryption=none&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=ea10cd5686751ec5#Khodemoni-087853
+vless://a365a98b-b655-4480-886f-fcaad4956b7d@94.183.240.225:1003?security=reality&encryption=none&pbk=OyxvimJx2EPWwJv1nBGi0y60V6zM7q4t_zLOR991Xzc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=8d#Khodemoni-087854
 vless://d9307ab3-1ed0-4b6d-bfd0-e104c7ccc25a@193.176.240.129:8880?encryption=none&security=none&type=ws&host=azsv2.ir5ive.ir&path=%2F#Khodemoni-079124
 trojan://humanity@sourceforge.net:443?allowInsecure=1&alpn=http%2F1.1&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#Khodemoni-063361
 trojan://humanity@sourceforge.net:443/?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#Khodemoni-022912
