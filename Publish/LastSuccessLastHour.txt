@@ -1,3 +1,5 @@
+vless://0e49e208-e09e-49bc-afee-2907e5419107@80.64.24.118:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=rus.tropatg.ru&pbk=8UWFWRTGQEwvG_tmQPDnZOxxVsTmLI2aEjONq1Ad0Hk&sid=531e2895f6b53c8f#Khodemoni-087826
+trojan://SoftNetConnect@83.228.230.226:42549?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.speedtest.net#Khodemoni-087923
 vless://89049f79-320b-48a0-b1cf-110165cae30c@83.228.230.226:2083?security=reality&encryption=none&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=4e590fdc#Khodemoni-087920
 vless://9948a93e-a2f5-4875-ad1b-de35d915e02e@irrrrr.samankvh.ir:443?path=%2F&security=none&encryption=none&host=fast.com&type=ws#Khodemoni-087905
 vless://a190fed9-0571-4c55-ba5f-213de40f2a5c@ez-276f58.ezaccess1f87adc.workers.dev:2053?path=%2F&security=tls&encryption=none&insecure=0&host=ez-276f58.ezaccess1f87adc.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-276f58.ezaccess1f87adc.workers.dev#Khodemoni-087721
