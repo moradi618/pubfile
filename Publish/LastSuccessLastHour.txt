@@ -127,8 +127,8 @@ trojan://%4D%69%54%69%56%50%4E@45.131.4.118:443?path=%2Fed%3Dmitivpn&security=tl
 vless://35495e54-3b92-4835-9f51-6cba41bacb5e@3.78.39.35:440?type=tcp&encryption=none&security=none#Khodemoni-086435
 trojan://MiTiVPN@172.67.210.215:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#Khodemoni-082835
 vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@104.248.199.220:443?security=reality&encryption=none&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ea.com&sid=a4844ba7#Khodemoni-086437
-trojan://MiTiVPN@108.162.196.190:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#Khodemoni-082865
 trojan://MiTiVPN@104.18.53.211:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#Khodemoni-082862
+trojan://MiTiVPN@108.162.196.190:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#Khodemoni-082865
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.calmloud.com&fp=ios&type=ws&sni=www.calmloud.com#Khodemoni-060927
 vless://ed67de09-2283-4ce0-8da8-382d828e8508@188.114.96.3:443?path=%2FeyJqdW5rIjoiZWF3djRCd0dud1lTSCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=lwa4jxf1sx58nnl51k0ugg8u3xbsubxl.pages.dev&fp=chrome&type=ws&sni=LWa4Jxf1sx58NnL51K0Ugg8U3xBSubxl.PAGes.Dev#Khodemoni-079309
 trojan://humanity@172.66.44.211:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#Khodemoni-082251
