@@ -1,3 +1,4 @@
+vless://3d8b5191-7ff5-4fac-ac6e-1d6bedefff4e@sub.ashii.ir:8080?path=%2FfK0IrRsJlxCFK0xGQ7&security=none&alpn=http%2F1.1&encryption=none&host=sub.ashii.ir&fp=randomized&type=httpupgrade&sni=sub.ashii.ir#Khodemoni-083084
 trojan://BxceQaOe@18.181.208.41:28694?allowInsecure=1&sni=t.me%252Fripaojiedian#Khodemoni-086144
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca25.speedmeter.shop:8880?mode=gun&security=none&encryption=none&authority=BIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#Khodemoni-086008
 ss://Y2hhY2hhMjAtcG9seTEzMDU6cGcxNm5odGNncm83eTU3eg@109.207.169.188:8443?type=tcp#Khodemoni-086117
