@@ -110,8 +110,8 @@ vless://334b4652-f11d-4f0a-9d26-b5c0fff6c31f@190.93.247.3:8880?path=%2F%3Fed%3D2
 vless://e0346ac5-f345-44d9-a969-54378934e49f@z9.asamping.ir:2052?path=%2F&security=none&encryption=none&host=z5.asamping.ir&type=ws#Khodemoni-085984
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0RzIyOTdhL010d2d6TU5HbjhmbUZzdUhNZlZmTk55WHZxM0dBVzBDUzc4PQ@213.176.7.3:51570?type=tcp#Khodemoni-085991
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@www.speedtest.org:443?path=%2Frsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&type=ws&allowInsecure=0&sni=shegeftihaaa.net#Khodemoni-084832
-vless://233e7318-f1a9-4af0-be12-e9368aa5984a@104.25.121.200:443?path=%2F&security=tls&encryption=none&insecure=0&host=ez-d27129.ezaccess1f71cbe.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-d27129.ezaccess1f71cbe.workers.dev#Khodemoni-085983
 trojan://telegram-id-directvpn@63.178.57.215:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-084820
+vless://233e7318-f1a9-4af0-be12-e9368aa5984a@104.25.121.200:443?path=%2F&security=tls&encryption=none&insecure=0&host=ez-d27129.ezaccess1f71cbe.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-d27129.ezaccess1f71cbe.workers.dev#Khodemoni-085983
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@love.ns.cloudflare.com:80?path=%2F%3Fed&security=&encryption=none&host=pon.antalmani.mm.am&type=ws#Khodemoni-084893
 vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.67.71.247:443?path=%2Fudfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&fp=chrome&type=ws&allowInsecure=0&sni=octopusss5.info#Khodemoni-084834
 trojan://telegram-id-privatevpns@63.178.57.215:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-084821
