@@ -484,8 +484,8 @@ vless://a5548d28-c1dc-4c87-93ba-b6a1a393a2eb@13.212.114.60:443?encryption=none&f
 vless://OwLimbow@31.56.117.234:80?path=%2Fws&security=none&encryption=none&host=31.56.117.234&type=ws#Khodemoni-087051
 vless://af977679-981d-41cb-b728-89d5aa5f006b@www.speedtest.net:8880?security=none&allowInsecure=0&encryption=none&type=ws&host=ez-b4dd84.rttbmqf6fn.workers.dev&path=/#Khodemoni-087025
 vless://a5548d28-c1dc-4c87-93ba-b6a1a393a2eb@47.131.225.166:443?encryption=none&fp=firefox&pbk=tg5AZG_Mj0_c4hh6oeHSRZGkp1ju8Ge7i2nkxRu4jAw&security=reality&sid=ed41&sni=play.google.com&spx=%2Fis7UqNeUm5nh8rQ&type=tcp#Khodemoni-087141
-vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@betty.ns.cloudflare.com:443?path=%2Fpoiuyws&security=tls&encryption=none&host=amoosamiii.net&fp=chrome&type=ws&sni=amoosamiii.net#Khodemoni-084835
 vless://a5548d28-c1dc-4c87-93ba-b6a1a393a2eb@54.169.83.233:443?encryption=none&fp=firefox&pbk=tg5AZG_Mj0_c4hh6oeHSRZGkp1ju8Ge7i2nkxRu4jAw&security=reality&sid=ed41&sni=play.google.com&spx=%2Fis7UqNeUm5nh8rQ&type=tcp#Khodemoni-087134
+vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@betty.ns.cloudflare.com:443?path=%2Fpoiuyws&security=tls&encryption=none&host=amoosamiii.net&fp=chrome&type=ws&sni=amoosamiii.net#Khodemoni-084835
 vless://9ce7ac33-5004-40ea-8236-15bc2d25a37c@104.18.34.140:443?path=%2FMaSTeRSeRVeR1-MaSTeRSeRVeR1-MaSTeRSeRVeR1-MaSTeRSeRVeR1-MaSTeRSeRVeR1-MaSTeRSeRVeR1&security=tls&encryption=none&host=summer-butterfly-21b6.mohsenzzx.workers.dev&fp=chrome&type=ws&sni=summer-butterfly-21b6.mohsenzzx.workers.dev#Khodemoni-087044
 trojan://humanity@172.67.200.219:443/?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#Khodemoni-007168
 vless://35495e54-3b92-4835-9f51-6cba41bacb5e@3.124.172.115:440?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-087074
@@ -915,8 +915,8 @@ vless://4fcb91d0-bbc4-480c-b362-216d4a79bb5c@fast.cd-tur4.ir:443?path=%2F%3FTELE
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@162.159.38.119:80?path=%2F%3Fed&security=&encryption=none&host=pon.antalmani.mm.am&type=ws#Khodemoni-085783
 vless://e9f91332-4324-0b7c-e677-52d6b6c35202@173.245.58.34:2053?path=/sync&security=tls&encryption=none&insecure=0&host=amir-nehan.netpass.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=mortezaloreh.netpass.workers.dev#Khodemoni-070751
 vless://ed67de09-2283-4ce0-8da8-382d828e8508@188.114.96.3:443?path=%2FeyJqdW5rIjoiZWF3djRCd0dud1lTSCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=lwa4jxf1sx58nnl51k0ugg8u3xbsubxl.pages.dev&fp=chrome&type=ws&sni=LWa4Jxf1sx58NnL51K0Ugg8U3xBSubxl.PAGes.Dev#Khodemoni-079309
-trojan://humanity@188.114.98.0:443/?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#Khodemoni-022449
 trojan://humanity@159.112.235.52:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#Khodemoni-081790
+trojan://humanity@188.114.98.0:443/?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#Khodemoni-022449
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@108.162.195.230:80?encryption=none&type=ws&path=%2F%3Fed%3D3000&host=pon.antalmani.mm.am#Khodemoni-083055
 trojan://humanity@104.18.152.97:443/?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#Khodemoni-010154
 trojan://MiTiVPN@108.162.196.190:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#Khodemoni-082865
@@ -1317,8 +1317,8 @@ trojan://humanity@172.64.147.29:443/?type=ws&security=tls&path=%2Fassignment&sni
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.23.4:2095?encryption=none&host=cnmfangbinxing.cnmfangbinxing.workers.dev&path=%2Ffp%3Drandomized&security=none&type=ws#Khodemoni-076164
 trojan://VN3zRAL4Hq@45.130.125.156:8080?type=ws&security=none&path=%2Fda&host=s3.aananas.ir#Khodemoni-078934
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.142.120.40:8880?encryption=none&type=ws&host=vms.lifetime08.workers.dev&path=/&early_data_header_name=Sec-WebSocket-Protocol&packetEncoding=xudp#Khodemoni-075780
-vless://f7e3ff36-276c-4477-b6d4-47257500d869@104.16.72.70:443?path=%2F%3Fed&security=tls&encryption=none&host=pon.antalmani.mm.am&fp=chrome&type=ws&sni=pon.antalmani.mm.am#Khodemoni-085170
 trojan://humanity@216.24.57.1:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&ech=54.mk%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.creationlong.org#Khodemoni-063879
+vless://f7e3ff36-276c-4477-b6d4-47257500d869@104.16.72.70:443?path=%2F%3Fed&security=tls&encryption=none&host=pon.antalmani.mm.am&fp=chrome&type=ws&sni=pon.antalmani.mm.am#Khodemoni-085170
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.189.40:8880?security=none&type=ws&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2Fyoutube%40ZYFXS%F0%9F%87%A8%F0%9F%87%B3&host=vms.lifetime19.workers.dev#Khodemoni-058548
 vless://59931360-0ee5-4ebd-8535-20e917bd8091@198.41.208.118:2083?encryption=none&fp=chrome&host=testservers0.arminbetatest2-cc5.workers.dev&path=%2F%3Fu%3D2c8828c18e&security=tls&sni=testservers0.arminbetatest2-cc5.workers.dev&type=ws#Khodemoni-069232
 vless://4fcb91d0-bbc4-480c-b362-216d4a79bb5c@fast.cd-tur4.ir:443?path=%2F&security=tls&encryption=none&insecure=0&host=pan3.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#Khodemoni-076343
