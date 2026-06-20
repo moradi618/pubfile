@@ -1,5 +1,6 @@
 vless://fb37aadd-b957-4462-8738-80c55d77a52d@91.107.252.109:8080?encryption=none&type=tcp&headerType=none#Khodemoni-090152
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEdVBlNkpXbGRjbFIxT3dh@20.107.208.165:443?outline=1&prefix=POST%20K33cdbfL#Khodemoni-090137
+vless://88465cb5-b8a0-4f39-aa8d-cf06f7911d95@65.109.219.2:52219?type=tcp&encryption=none&security=reality&pbk=cKE3i_J1asS5PgauqF-Ci8OlabLXmfUo1KaJ0Kc_rWQ&fp=chrome&sni=www.oracle.com&sid=f8&spx=%2F#Khodemoni-090246
 vless://fdbd8287-690d-46de-a5f2-3899dc8a2ee3@45.130.125.162:8443?encryption=none&type=xhttp&security=tls&path=%2F%3Fed%3D2053&mode=auto&sni=sh.mojaz-persian-music.ir&alpn=h3%2Ch2&fp=chrome&insecure=0&allowInsecure=0#Khodemoni-090239
 vless://fdbd8287-690d-46de-a5f2-3899dc8a2ee3@45.130.125.101:8443?mode=auto&path=%2F%3Fed%3D2053&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=cji.new-persian-song.ir#Khodemoni-090230
 vless://fdbd8287-690d-46de-a5f2-3899dc8a2ee3@45.130.125.162:8443?mode=auto&path=%2F%3Fed%3D80&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=ssd.mojaz-persian-music.ir#Khodemoni-090229
