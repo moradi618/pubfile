@@ -3,6 +3,7 @@ vless://7c47eb1d-58b3-4019-9c4c-3ad3df670cfa@91.107.155.189:2053?encryption=none
 vless://e5d07969-f008-42ee-bbab-7995ef4d1e1d@185.173.144.209:11919?encryption=none&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#Khodemoni-090787
 vless://baf38792-aa3c-4cfb-9d5c-45a4335d7113@5.10.215.244:2095?encryption=none&type=httpupgrade&path=%2F&host=de.carefreemob2.com.#Khodemoni-090759
 vless://%40Net2ray@85.198.12.105:43116?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-090756
+vless://cd6a9e75-2df3-4fad-9bd1-0752bb1bf30c@64.118.155.66:44918?encryption=none&security=none&type=tcp#Khodemoni-090854
 vless://39e01e3e-5161-43e0-9a27-cc3316177466@65.109.219.2:52219?type=tcp&encryption=none&security=reality&pbk=cKE3i_J1asS5PgauqF-Ci8OlabLXmfUo1KaJ0Kc_rWQ&fp=chrome&sni=www.oracle.com&sid=f8&spx=%2F#Khodemoni-090783
 vless://0b2c62fb-f1d2-dcec-1159-b7084862501c@tmesubgift.up.railway.app:443?encryption=none&security=tls&sni=&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=&path=/ws/0b2c62fb-f1d2-dcec-1159-b7084862501c#Khodemoni-090831
 vless://c90bc4c0-1cae-4417-8139-3da1b1b9265c@hes.purplrose.ir:2053?path=%2Fpath&security=tls&encryption=none&host=sub.purplrose.ir&type=ws&sni=sub.purplrose.ir#Khodemoni-090781
