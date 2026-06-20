@@ -182,8 +182,8 @@ vless://OwLimbow@31.56.117.234:80?path=%2Fws&security=&encryption=none&host=31.5
 vless://89049f79-320b-48a0-b1cf-110165cae30c@83.228.230.226:2083?encryption=none&type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&sid=4e590fdc&spx=%2F&flow=xtls-rprx-vision#Khodemoni-087904
 vless://285eacec-5433-4bb0-ad34-4fbea6c79ea1@46.29.235.172:8443?security=reality&encryption=none&pbk=Jh5wXAPCOSrmVbshLa_LZxCGzZ1-dsWOBzSFWUU83mM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dk-3.alpha-ai-studio.com&sid=1aa760b0#Khodemoni-087883
 vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bd@fbi.gov:2052?encryption=none&type=xhttp&mode=auto&host=cdn1.goofymoofy.com&path=/pabloping&security=none#Khodemoni-088447
-trojan://SoftNetConnect@83.228.230.226:42549?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.speedtest.net#Khodemoni-087923
 vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bd@14.102.228.201:2052?encryption=none&type=xhttp&mode=auto&host=cdn1.goofymoofy.com&path=/pabloping&security=none#Khodemoni-088441
+trojan://SoftNetConnect@83.228.230.226:42549?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.speedtest.net#Khodemoni-087923
 vless://546bd638-8aeb-0f83-9a31-8be7c5ce814a@ffdownload.dlc-bazigame.ir:8880?path=%2F%3Fed%3D2082&security=none&encryption=none&host=cdn-nl1.akssoldier.top&type=httpupgrade#Khodemoni-083156
 vless://c7665648-eff9-4317-8978-4ee2fb34f752@159.65.117.197:443?security=tls&type=ws&ech=godotengine.org%2Budp%3A%2F%2F208.67.220.220%3A443&host=v7s1e040.5qqzdipkj05g8copceva.workers.dev&fp=chrome&sni=v7s1e040.5qqzdipkj05g8copceva.workers.dev&path=%2F%3Fed%3D2560&encryption=none#Khodemoni-087817
 vless://3fb3f217-72df-4e2f-affa-181d757ee2f2@chatgpt.com:2083?encryption=none&security=tls&sni=pl.hknet.pro&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=pl.hknet.pro&path=/#Khodemoni-088485
