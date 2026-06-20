@@ -1,3 +1,5 @@
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.253:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#Khodemoni-090126
+vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjIyNyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwb3J0Ijo0NDMsInBzIjoiS2hvZGVtb25pLTAzNzc3OCIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
 vless://6526f31a-7456-4b17-8b74-da876e977501@snapp.ir:80?encryption=none&host=star.nopm.ir&path=%2F&security=none&type=ws#Khodemoni-090107
 vless://b6e7849c-7dea-46f5-97bd-0dca85e53b42@snapp.ir:80?encryption=none&host=star.nopm.ir&path=%2F&security=none&type=ws#Khodemoni-090106
 vless://2eaf3e87-edcd-479b-997e-3e693d2ec458@31.57.106.21:8080?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=IiXOtrr72OAumtdjHDdvqxwyiInUq8_5b2wG477U40k&sid=cee5cf0cb56d6912&type=tcp&headerType=none#Khodemoni-090096
@@ -317,7 +319,6 @@ vless://d999eb9a-4aa8-43e4-a912-e86ef99ec143@frirancellspeedfr.naxinshooping.ir:
 vless://275cd593-5bba-4d06-8579-7d179e05559e@65.21.109.91:80?encryption=none&host=speedtest.com&path=%2Fnotbin&security=none&type=ws#Khodemoni-088646
 vless://d999eb9a-4aa8-43e4-a912-e86ef99ec143@91.206.71.162:2095?security=none&type=httpupgrade&headerType=&path=%2F&host=pl.carefreemob2.com.#Khodemoni-088648
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@172.64.34.119:443?path=%2F%3Fed%3D3000&security=tls&encryption=none&insecure=0&host=pon.antalmani.mm.am&fp=firefox&type=ws&allowInsecure=0&sni=pon.antalmani.mm.am#Khodemoni-085639
-trojan://MiTiVPN@wwww.95r.ir:443?security=tls&sni=wwww.95r.ir&fp=chrome&allowInsecure=0&alpn=http/1.1&type=ws&path=/ed%3Dmitivpn#Khodemoni-081680
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@162.159.44.7:2053?path=%2F&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&fp=chrome&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#Khodemoni-084929
 vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@172.64.32.75:443?encryption=none&host=amoosamiii.net&path=%2Fpoiuyws&security=tls&sni=amoosamiii.net&type=ws#Khodemoni-085252
 vless://5b56647e-ec7a-42df-bee2-1269f82265c0@45.130.125.88:443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=panel.fredomiran.com&mode=auto&path=%2F&security=tls&sni=panel.fredomiran.com&type=xhttp&x_padding_bytes=100-1000#Khodemoni-088575
