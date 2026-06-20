@@ -1,3 +1,4 @@
+vless://fb37aadd-b957-4462-8738-80c55d77a52d@91.107.252.109:8080?encryption=none&type=tcp&headerType=none#Khodemoni-090152
 trojan://telegram-id-directvpn@3.126.148.235:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-090146
 trojan://telegram-id-privatevpns@3.126.148.235:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-090145
 vless://43488128-319e-f480-64ea-0acdc712e2a8@139.84.236.5:443?security=reality&encryption=none&pbk=UkoqOh9VtAhhMrlKY3wAmijgjCrLIKMZT-An0NjrHng&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.alibaba.com&sid=8d17b7ebab7b99d7#Khodemoni-064254
@@ -1807,8 +1808,8 @@ vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@172.64.53.205:443?security=tls&type
 vmess://eyJhZGQiOiIxMDQuMTcuNzcuNzciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InYycmF5MS5kb3phcHAueHl6IiwiaWQiOiI2MDQ0MTU0OC1iNjhlLTQzYjItODE5MS1lM2I4ODRiZTRiM2MiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbE1uc1pVTjQvIiwicG9ydCI6Ijg0NDMiLCJwcyI6Iktob2RlbW9uaS0wNjM5NDAiLCJzY3kiOiJhdXRvIiwic25pIjoidjJyYXkxLmRvemFwcC54eXoiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@docs.cloudflare.com:2095?encryption=none&security=none&sni=cnmfangbinxing.cnmfangbinxing.workers.dev&type=ws&host=cnmfangbinxing.cnmfangbinxing.workers.dev&path=/fp=randomized#Khodemoni-059209
 trojan://humanity@216.24.57.1:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&ech=54.mk%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.creationlong.org#Khodemoni-063879
-trojan://humanity@172.64.147.29:443/?type=ws&security=tls&path=%2Fassignment&sni=www.gossipglove.com&fp=chrome&allowInsecure=1#Khodemoni-021492
 vless://e6bad6ca-ab7c-4bdd-b07e-5c8ec407decd@172.67.223.190:2086/?path=%2FeyJqdW5rIjoidGpkTkY2VHk0bE1pV3AiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0%3D%3Fed%3D2560&security=none&encryption=none&host=cool-hill-7fe5.thenewata.workers.dev&type=ws#Khodemoni-035162
+trojan://humanity@172.64.147.29:443/?type=ws&security=tls&path=%2Fassignment&sni=www.gossipglove.com&fp=chrome&allowInsecure=1#Khodemoni-021492
 vless://b8f58a98-313c-6882-1c90-a01d46418eb5@tmesubgift.up.railway.app:443?encryption=none&security=tls&sni=&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=&path=%2Fws%2Fb8f58a98-313c-6882-1c90-a01d46418eb5#Khodemoni-087538
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.189.40:8880?security=none&type=ws&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2Fyoutube%40ZYFXS%F0%9F%87%A8%F0%9F%87%B3&host=vms.lifetime19.workers.dev#Khodemoni-058548
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.197.75.30:8880/?encryption=none&security=none&type=ws&host=vms.lifetime37.workers.dev&path=%2F#Khodemoni-007306
