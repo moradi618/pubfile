@@ -1,3 +1,6 @@
+vless://41f46aa9-da29-45f6-b33e-50ed736c8646@global.cloud-play.ir:80?encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=xenoengineer.com&mode=auto&path=%2F&security=none&type=xhttp&x_padding_bytes=100-1000#Khodemoni-090670
+vless://41f46aa9-da29-45f6-b33e-50ed736c8646@local.cloud-play.ir:80?encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=xenoengineer.com&mode=auto&path=%2F&security=none&type=xhttp&x_padding_bytes=100-1000#Khodemoni-090671
+vless://41f46aa9-da29-45f6-b33e-50ed736c8646@euro.cloud-play.ir:80?encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=xenoengineer.com&mode=auto&path=%2F&security=none&type=xhttp&x_padding_bytes=100-1000#Khodemoni-090672
 trojan://humanity@104.17.121.43:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#Khodemoni-087415
 vless://bf748e5b-dbd7-4012-b111-f0a73d7e5732@31.56.188.161:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=dev.max.ru&fp=safari&pbk=r77nilacD34SeLmghmchRKuNiUL0xzh-pK87Ux58dzI&sid=d0a1665d1b96515e#Khodemoni-090664
 vless://097a6067-520a-4b5e-ad9f-e541eb125258@217.26.29.198:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=dev.max.ru&fp=safari&pbk=r77nilacD34SeLmghmchRKuNiUL0xzh-pK87Ux58dzI&sid=d0a1665d1b96515e#Khodemoni-090666
