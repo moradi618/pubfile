@@ -1,3 +1,5 @@
+trojan://MiTiVPN@151.101.110.219:443?path=&security=tls&alpn=http%2F1.1&insecure=1&host=mitivpn-77.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#Khodemoni-090860
+trojan://MiTiVPN@151.101.110.219:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn-77.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#Khodemoni-090861
 vless://cd6a9e75-2df3-4fad-9bd1-0752bb1bf30c@64.118.155.66:44918?encryption=none&security=none&type=tcp#Khodemoni-090854
 vless://83bea1c3-4386-44cc-96de-e72e529a4244@s2.cvbesty.ir:58784?encryption=none&type=grpc&security=reality&mode=gun&sni=yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=THDZjFEtOb85UM7wb9gMkaQeL2sJBarNw4RJ-mBrdWM&sid=3f5684&spx=%2F#Khodemoni-090850
 vless://7d938228-0ee2-4758-9f33-1a6c6592b791@72.56.65.210:40443?encryption=none&type=tcp&security=reality&headerType=none&sni=deepl.com&fp=qq&insecure=1&allowInsecure=1&pbk=a1UMmt4ytNFwDizX92056cCle6dG1ASF46vf4awNXTk&sid=d46b&flow=xtls-rprx-vision#Khodemoni-090848
