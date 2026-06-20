@@ -6,6 +6,7 @@ vless://3805c64a-ac60-49ad-883c-43e6309b68d0@65.21.109.91:80?encryption=none&hos
 vless://4265c8cf-c35d-4f22-838b-64d971bb6fe6@91.107.153.72:443?security=reality&encryption=none&pbk=DvhPy7880qvUlfIX2pzy2H41gbQa5JSDC-zeu-mVSQU&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=docker.com&sid=cdcc7654#Khodemoni-088094
 vless://a11692b0-ecc1-1e83-769c-c81bed2d7459@185.173.144.212:2086?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-088101
 vless://a11692b0-ecc1-1e83-769c-c81bed2d7459@185.173.144.209:2086?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-088100
+ss://YWVzLTEyOC1nY206ZDJma2d6c2R1NXN0dXJqczhmMTk@205.209.109.194:17277#Khodemoni-058333
 vless://e2abce26-03d8-4224-618e-20fb7b57a53b@185.173.144.209:2086?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-088288
 vless://e2abce26-03d8-4224-618e-20fb7b57a53b@185.173.144.212:2086?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-088289
 vless://b8f2f59e-a842-44a8-9374-14dc2b13bcba@65.21.109.91:80?encryption=none&host=speedtest.com&path=%2Fnotbin&security=none&type=ws#Khodemoni-087964
