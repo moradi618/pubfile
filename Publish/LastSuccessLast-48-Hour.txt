@@ -1,3 +1,4 @@
+vless://18059398-6c3a-0e59-24e0-b3a83879091c@it.ipa-lornaomega-company.lornaomegacompany-powerfull.ir.lornaet.ir.lornanet.ir:443?mode=auto&path=%2F%3Fed%3D2560&security=reality&encryption=none&pbk=mASz_I_F0STLXSd7YNrVmA8WEpMR_wVVvbK2kVCAkhk&host=it.ipa-lornaomega-company.lornaomegacompany-powerfull.ir.lornaet.ir.lornanet.ir&fp=random&spx=%2F%3Fed%3D3560&type=xhttp&sni=www.yahoo.com&sid=4cb33e81#Khodemoni-087729
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyQzVOTko1a0Z5Z01HbWVUd01NSVBLQzViLWo4WUJmSA%3D%3D@p4.hoomankh.info:1080#Khodemoni-090922
 vless://66785f3e-d3ee-4308-8010-95e9b58aa36a@104.17.163.129:443?path=%2F&security=tls&encryption=none&insecure=0&host=damp-math-0a33.amirmuhamad.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=damp-math-0a33.amirmuhamad.workers.dev#Khodemoni-090920
 vless://e9512639-35d8-4913-8d46-26796f9d5386@mo.abcdefghijklmnopqrstuvwxyz1234567890.ir:444?path=%2F&security=none&encryption=none&host=cna.abcdefghijklmnopqrstuvwxyz1234567890.ir&type=ws#Khodemoni-090921
@@ -20,12 +21,9 @@ vless://44f7eb71-de22-4a9c-8d5a-64fb7115c82f@ser7.fredomiran.com:443?alpn=h2%2Ch
 vless://b68392ef-bed8-4698-9ec3-5091683cfa4a@hikvision-plus.com:2052?encryption=none&security=none&type=ws&host=uwu.blueknightnet.qzz.io&path=%2Fapi-v1#Khodemoni-085723
 vless://233e7318-f1a9-4af0-be12-e9368aa5984a@104.17.170.205:443?path=%2F&security=tls&encryption=none&insecure=0&host=ez-d27129.ezaccess1f71cbe.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-d27129.ezaccess1f71cbe.workers.dev#Khodemoni-085959
 vless://233e7318-f1a9-4af0-be12-e9368aa5984a@104.24.50.222:443?path=%2F&security=tls&encryption=none&insecure=0&host=ez-d27129.ezaccess1f71cbe.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-d27129.ezaccess1f71cbe.workers.dev#Khodemoni-085955
-vless://334b4652-f11d-4f0a-9d26-b5c0fff6c31f@forallpanel.srtongston.ir:8880?encryption=none&type=httpupgrade&host=Cdn8-pro.postshup.ir.&path=/?ed%3D2082&security=none#Khodemoni-084788
-vless://233e7318-f1a9-4af0-be12-e9368aa5984a@162.159.36.235:443?path=%2F&security=tls&encryption=none&insecure=0&host=ez-d27129.ezaccess1f71cbe.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-d27129.ezaccess1f71cbe.workers.dev#Khodemoni-085979
 vless://334b4652-f11d-4f0a-9d26-b5c0fff6c31f@104.18.93.137:8880?path=%2F%3Fed%3D2082&security=&encryption=none&host=Cdn8-pro.postshup.ir.&type=httpupgrade#Khodemoni-085134
 vless://334b4652-f11d-4f0a-9d26-b5c0fff6c31f@190.93.246.205:8880?path=%2F%3Fed%3D2082&security=&encryption=none&host=Cdn8-pro.postshup.ir.&type=httpupgrade#Khodemoni-085133
 vless://334b4652-f11d-4f0a-9d26-b5c0fff6c31f@104.21.14.97:8880?path=%2F%3Fed%3D2082&security=&encryption=none&host=Cdn8-pro.postshup.ir.&type=httpupgrade#Khodemoni-085145
-vless://233e7318-f1a9-4af0-be12-e9368aa5984a@104.25.121.200:443?path=%2F&security=tls&encryption=none&insecure=0&host=ez-d27129.ezaccess1f71cbe.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-d27129.ezaccess1f71cbe.workers.dev#Khodemoni-085983
 vless://334b4652-f11d-4f0a-9d26-b5c0fff6c31f@104.24.90.228:8880?path=%2F%3Fed%3D2082&security=&encryption=none&host=Cdn8-pro.postshup.ir.&type=httpupgrade#Khodemoni-085131
 vless://90a656ff-c77a-4b6d-87f4-a0b2cec91373@104.18.9.235:8443?path=%2F&security=tls&encryption=none&insecure=0&host=young-queen-488a.adriansheykhi730.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=young-queen-488a.adriansheykhi730.workers.dev#Khodemoni-060280
 vless://44f7eb71-de22-4a9c-8d5a-64fb7115c82f@ser4.fredomiran.com:443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=panel.fredomiran.com&mode=auto&path=%2F&security=tls&sni=panel.fredomiran.com&type=xhttp&x_padding_bytes=100-1000#Khodemoni-078862
@@ -894,8 +892,8 @@ vless://Tel-HqV2rayNG-HqV2rayNG@gkgjfjeifidjejfj.fars-daxter.ir:80?security=none
 vmess://eyJhZGQiOiIxMDMuMTQzLjIzOC4xOTYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMWUxYTZiM2ItMTRiMi00YWU0LTlhYTktODgwYmE1ZGZmNmZhIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzd3NzIiwicG9ydCI6IjIxODc5IiwicHMiOiJLaG9kZW1vbmktMDc5ODQzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://01cf9f11-7695-47e6-94bf-6aa987d3a05f@85.9.123.241:22729?security=&encryption=none&headerType=none&type=tcp#Khodemoni-089623
 vmess://eyJhZGQiOiIxMzQuMTk1LjE5OC4xNDciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJLaG9kZW1vbmktMDc5ODM1Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-ss://Y2hhY2hhMjAtcG9seTEzMDU6cjhiNGQ4N2Nybno3eGRqbg@109.207.169.188:8443?type=tcp#Khodemoni-086119
 vless://09d8ebf3-c4bb-4597-91e4-5cebfa593b7c@109.248.161.206:443?security=reality&encryption=none&pbk=oqrU5jM7qTRqjb1N-cakTOyTtVU3Zs9lmet-irbr8TU&headerType=&fp=chrome&spx=/abJKOaPacyi1dli&type=tcp&sni=www.yahoo.com&sid=6443cb87ea#Khodemoni-089612
+ss://Y2hhY2hhMjAtcG9seTEzMDU6cjhiNGQ4N2Nybno3eGRqbg@109.207.169.188:8443?type=tcp#Khodemoni-086119
 ss://Y2hhY2hhMjAtcG9seTEzMDU6OGx3a3VlZm1meHZ6MDJ0dg@109.207.169.188:8443?type=tcp#Khodemoni-086122
 vless://1303b62b-2fab-4771-bdec-059b5d65fd4c@5.202.8.12:80?path=%2F&security=none&encryption=none&type=ws#Khodemoni-089620
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxYjhOTjkyeUtrWDFrS1FE@20.107.208.165:443#Khodemoni-089626
