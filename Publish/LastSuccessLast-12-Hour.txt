@@ -1,3 +1,5 @@
+vless://ed3e860f-c97d-45be-a56b-47b77da11059@sw-3.coinbridge.nl:443?mode=gun&security=reality&encryption=none&pbk=kPBXTe2KCp55GrHS_qU_sF7ohUcT8Vu-e8i6Yd9MERI&fp=random&type=grpc&serviceName=data-sync&sni=google.com&sid=d5c7f84e37e0c12d#Khodemoni-089172
+trojan://telegram-id-privatevpns@52.58.146.145:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-090946
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.30.30:8880?encryption=none&security=none&type=ws&host=vms.lifetime28.workers.dev&path=%2F#Khodemoni-088996
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@185.176.26.50:8880?encryption=none&security=none&type=ws&host=vms.lifetime06.workers.dev&path=%2F%3Fed%3D2560#Khodemoni-088999
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@45.142.120.40:8880?encryption=none&security=none&type=ws&host=vms.lifetime08.workers.dev&path=%2F#Khodemoni-088998
