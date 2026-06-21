@@ -1,3 +1,5 @@
+vless://5142d845-0105-4f40-a7e8-e2a6c192ffe4@s5.tehranionliine.ir:80?encryption=none&type=ws&path=/#Khodemoni-083592
+vless://5142d845-0105-4f40-a7e8-e2a6c192ffe4@s5.tehranionliine.ir:80?path=%2F&security=none&encryption=none&type=ws#Khodemoni-083615
 vless://39eb6d15-e27a-4f2e-b865-b49a15b2d5f6@85.234.84.206:443?security=reality&encryption=none&pbk=m0laydpddP-MhAgDbMB_QGrSk4-nrIvDSoIHK_Q8Uy4&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=a796a1f52722b3a5#Khodemoni-091118
 vless://84950ccc-b8cf-435b-a9ba-d0a71aa23764@gameevbs.ir:8080?encryption=none&host=api.morvaridvps.ir&path=%2F&security=none&type=ws#Khodemoni-091119
 trojan://b810b5f0-6774-11f1-9361-1239d0255272@news.microsoft.com:443?path=%2Fhowdy&security=tls&insecure=0&host=uk1.test3.net&type=ws&allowInsecure=0&sni=uk1.test3.net#Khodemoni-091121
@@ -659,7 +661,6 @@ vless://c8a8dcf1-18aa-40e6-97d5-5dae9912e51b@65.109.217.246:2026?encryption=none
 vless://2dacceea-8664-4fed-ba16-27fdd3b40f3e@s5.meoshop.ir:2053?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=baba.meoshop.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=baba.meoshop.ir#Khodemoni-088699
 vmess://eyJ2IjoiMiIsInBzIjoiS2hvZGVtb25pLTA4ODQ4OSIsImFkZCI6IjE2MC4yNTAuMjQ3LjcwIiwicG9ydCI6NDkxNzgsImlkIjoiZDdjMTNlMTAtMmJhOS00Njc3LWE4NzctZDllOWQxNzM4Mzk0IiwiYWlkIjowLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsImhvc3QiOiJ2YXJ6ZXNoMy5jb20iLCJwYXRoIjoiLyIsInRscyI6Im5vbmUifQ==
 trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@45.130.125.126:443?path=%2Fau-do&security=tls&host=space.byu.id.yxls.eu.cc&type=ws&sni=space.byu.id.yxls.eu.cc#Khodemoni-087396
-ss://YWVzLTI1Ni1nY206WmpVNU9HRXhNbVZrWm1RMlptRXhZVGN3Wmpnd01ETTRNalEyWlRjNQ@193.176.243.246:8125#Khodemoni-088820
 vless://90a656ff-c77a-4b6d-87f4-a0b2cec91373@104.18.9.41:8443?path=%2F&security=tls&encryption=none&insecure=0&host=young-queen-488a.adriansheykhi730.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=young-queen-488a.adriansheykhi730.workers.dev#Khodemoni-060277
 trojan://f922fa0f-3311-4368-85ff-cf65e727c854@141.193.213.30:443?host=space.byu.id.yxls.eu.cc&path=%2Fbr-orcl&sni=space.byu.id.yxls.eu.cc&type=ws#Khodemoni-088748
 vmess://eyJhZGQiOiIyLjI2LjIzMS44NyIsImlkIjoiNmQ2NTk1YjUtZmY3Zi00OTk1LWFiZGUtYjExODcyOTlhNjNkIiwibmV0IjoidGNwIiwicG9ydCI6MTEwLCJwcyI6Iktob2RlbW9uaS0wODkwODUiLCJzY3kiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
