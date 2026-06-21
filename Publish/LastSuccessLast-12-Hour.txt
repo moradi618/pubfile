@@ -1,3 +1,9 @@
+trojan://humanity@141.193.213.21:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#Khodemoni-065451
+vless://5b56647e-ec7a-42df-bee2-1269f82265c0@ser9.fredomiran.com:443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=panel.fredomiran.com&mode=auto&path=%2F&security=tls&sni=panel.fredomiran.com&type=xhttp&x_padding_bytes=100-1000#Khodemoni-088566
+trojan://humanity@104.16.174.36:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#Khodemoni-060552
+trojan://humanity@srv1.khatibirepair.ir:443?type=ws&security=tls&path=%2Fassignment&sni=www.calmlunch.com&fp=chrome&allowInsecure=1#Khodemoni-043448
+trojan://humanity@srv1.khatibirepair.ir:443/?path=%2Fassignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#Khodemoni-009971
+trojan://humanity@104.16.250.22:443/?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#Khodemoni-007166
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.202:8443/?type=tcp&encryption=none&flow=&security=tls&sni=ams1.fromblancwithlove.com#Khodemoni-092127
 vless://b26ec0f4-6c92-45f7-b287-2a664abf1963@45.130.125.126:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=ws&sni=server-ir-2.ariyuz.org#Khodemoni-091930
 vless://967064b5-3272-431e-8dce-9519acfb94be@finland.zestful.bond:443?security=reality&encryption=none&pbk=KS0F6q2PTY1s6y2sH5PdrznYqprIkUBtS1masvcrJjo&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=finland.zestful.bond&sid=823257b7b9ab9d02#Khodemoni-091886
