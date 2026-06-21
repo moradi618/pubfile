@@ -1,3 +1,4 @@
+vless://1a5d6dea-3769-43b1-a39d-7225cf01b2bd@185.147.127.101:40443?flow=xtls-rprx-vision&fp=firefox&pbk=a-GLfBU_yhZcBKPODh1zl-Ypj-jm4nYN_fkHBhMGAGs&security=reality&sid=d56f&sni=deepl.com&type=tcp#Khodemoni-091000
 vless://4f009c13-b9d5-4e3d-90b7-534b2808ac72@65.109.219.2:52219?type=tcp&encryption=none&security=reality&pbk=cKE3i_J1asS5PgauqF-Ci8OlabLXmfUo1KaJ0Kc_rWQ&fp=chrome&sni=www.oracle.com&sid=f8&spx=/#Khodemoni-090999
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@www.speedtest.org:443?path=%2Frsedgws%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&type=ws&allowInsecure=0&sni=shegeftihaaa.net#Khodemoni-089347
 ss://YWVzLTEyOC1nY206dDZkMjZpZDBwanpkbzN4NXd0bGY@69.164.240.83:10878#Khodemoni-087699
