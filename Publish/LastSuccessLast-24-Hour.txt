@@ -1,3 +1,11 @@
+trojan://%25%7Bq%3Aqf%7D%27ogr%3B@104.21.37.101:443?path=%2FeyJqdW5rIjoia3lhOG5VQlY2NU1tZyIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=lumosconfig.codmdemonyt1.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=LUmOscoNfig.codmDemOnYt1.WORKeRS.DEV#Khodemoni-081677
+trojan://humanity@104.16.174.12:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#Khodemoni-081076
+trojan://humanity@216.24.57.2:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&ech=54.mk%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.creationlong.org#Khodemoni-083380
+vless://af475b0e-0c07-40fe-b4db-3dea2c0a481d@91.193.58.17:2083?path=/fp&security=tls&encryption=none&insecure=1&host=edgetunnel-cmliu.lyqnihao.dpdns.org&type=ws&allowInsecure=1&sni=edgetunnel-cmliu.lyqnihao.dpdns.org#Khodemoni-080706
+vless://af475b0e-0c07-40fe-b4db-3dea2c0a481d@91.193.58.17:2083?allowInsecure=1&sni=edgetunnel-cmliu.lyqnihao.dpdns.org&type=ws&host=edgetunnel-cmliu.lyqnihao.dpdns.org&path=/fp=chrome&security=tls#Khodemoni-060611
+vless://d8c9013a-52b5-44d7-ab0c-ee07c3ba2a2e@s1.eldoradu.ir:2053?path=%2F&security=tls&encryption=none&insecure=0&host=fz3.sellink.ir&fp=chrome&type=ws&allowInsecure=0&sni=fz3.sellink.ir#Khodemoni-082721
+vless://2330f424-ef1f-47ad-a42a-815e5c576820@chatgpt.com:2087?mode=stream-up&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=r1.firefly-service.com#Khodemoni-073103
+vless://1303b62b-2fab-4771-bdec-059b5d65fd4c@5.202.8.12:80?encryption=none&type=ws&path=%2F#Khodemoni-090849
 vmess://eyJhZGQiOiIxNTguNTEuMTIxLjYzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzZXJpYnVzLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6Iktob2RlbW9uaS0wOTA5MTMiLCJzY3kiOiJhdXRvIiwic25pIjoic2VyaWJ1cy5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 vless://ac9daa31-f637-4dc1-b5cf-3f7dbfee23aa@ez-3db455.mehrshad1596.workers.dev:443?path=%2F&security=tls&encryption=none&host=ez-3db455.mehrshad1596.workers.dev&fp=chrome&type=ws&sni=ez-3db455.mehrshad1596.workers.dev#Khodemoni-090748
 vless://0c7b248c-f51a-4afc-a174-fdf320f1fa1d@65.21.109.91:443?encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=speedtest.com&mode=auto&path=%2Fbin&pbk=v0vhjyFJPMzOUrM5l1PgoQCr83mHd1rNAIK2hi8ID1s&security=reality&sid=767b095ffb&sni=www.samsung.com&spx=%2F4wIocOMXGBls7N3&type=xhttp&x_padding_bytes=100-1000#Khodemoni-090713
@@ -425,8 +433,8 @@ vless://Tel-HqV2rayNG-HqV2rayNG@gkgjfjeifidjejfj.fars-daxter.ir:80?security=none
 vmess://eyJhZGQiOiIxMDMuMTQzLjIzOC4xOTYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMWUxYTZiM2ItMTRiMi00YWU0LTlhYTktODgwYmE1ZGZmNmZhIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzd3NzIiwicG9ydCI6IjIxODc5IiwicHMiOiJLaG9kZW1vbmktMDc5ODQzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://01cf9f11-7695-47e6-94bf-6aa987d3a05f@85.9.123.241:22729?security=&encryption=none&headerType=none&type=tcp#Khodemoni-089623
 vmess://eyJhZGQiOiIxMzQuMTk1LjE5OC4xNDciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJLaG9kZW1vbmktMDc5ODM1Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-ss://Y2hhY2hhMjAtcG9seTEzMDU6cjhiNGQ4N2Nybno3eGRqbg@109.207.169.188:8443?type=tcp#Khodemoni-086119
 vless://09d8ebf3-c4bb-4597-91e4-5cebfa593b7c@109.248.161.206:443?security=reality&encryption=none&pbk=oqrU5jM7qTRqjb1N-cakTOyTtVU3Zs9lmet-irbr8TU&headerType=&fp=chrome&spx=/abJKOaPacyi1dli&type=tcp&sni=www.yahoo.com&sid=6443cb87ea#Khodemoni-089612
+ss://Y2hhY2hhMjAtcG9seTEzMDU6cjhiNGQ4N2Nybno3eGRqbg@109.207.169.188:8443?type=tcp#Khodemoni-086119
 ss://Y2hhY2hhMjAtcG9seTEzMDU6OGx3a3VlZm1meHZ6MDJ0dg@109.207.169.188:8443?type=tcp#Khodemoni-086122
 vless://1303b62b-2fab-4771-bdec-059b5d65fd4c@5.202.8.12:80?path=%2F&security=none&encryption=none&type=ws#Khodemoni-089620
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxYjhOTjkyeUtrWDFrS1FE@20.107.208.165:443#Khodemoni-089626
