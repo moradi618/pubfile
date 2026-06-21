@@ -1,3 +1,4 @@
+vless://cb7b5122-7030-4d3d-9590-da00fafe1c05@fast.cd-tur4.ir:443?path=%2F&security=tls&encryption=none&insecure=0&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#Khodemoni-092670
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@8.219.134.138:443?path=%2F&security=tls&insecure=0&type=ws&allowInsecure=0&sni=hhcm.hhxaf.cc.cd#Khodemoni-091583
 vless://EarnMoneyarz-ZoRoVpn@104.16.72.70:8443?path=/ZoRoVpn&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=speedtest-chekhost-fastly.amuseftdomainroyal.com&fp=chrome&type=ws&allowInsecure=0&sni=speedtest-chekhost-fastly.amuseftdomainroyal.com#Khodemoni-092595
 vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bd@50.62.89.21:2052?encryption=none&security=none&type=xhttp&host=cdn3.goofymoofy.com&path=%2Fpabloping&mode=auto#Khodemoni-092541
@@ -185,7 +186,6 @@ vmess://eyJhZGQiOiJzaW5hdmlwMi5jbmF2aXBwYW5lbC5jb20iLCJhaWQiOiIwIiwiaG9zdCI6InBs
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.244.130:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=enterprisekitten.com&type=tcp#Khodemoni-092145
 vless://5005e971-b6a7-4d68-9100-616358f3cdab@185.91.126.49:448?encryption=none&security=reality&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&pbk=RlXCeIykJsVU_xhJMu9zohMUQiTfi52kibVvY5Zz9k4&sid=943e6ba0e346b3a8#Khodemoni-092015
 vless://f4013b10-838a-4dda-abe1-1dad4ecdc6c8@45.130.125.162:8443?mode=auto&path=%2F%3Fed%3D80&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=ssd.mojaz-persian-music.ir#Khodemoni-092078
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.97:45553?allowInsecure=1&sni=ch.01.naiun.bilibili.com#Khodemoni-086606
 vless://6922b13c-6753-42e9-a6bd-5f53d8764010@raxon.raxon.techafraz.ir:16056?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-092068
 vless://ae0db2dd-c245-4a91-a91f-d10fb402038f@217.26.29.198:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=dev.max.ru&pbk=r77nilacD34SeLmghmchRKuNiUL0xzh-pK87Ux58dzI&sid=d0a1665d1b96515e#Khodemoni-091996
 vless://366bb7e1-6019-41a9-816d-380e0e90c36e@sinavip5.cnavippanel.com:8091?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-092082
