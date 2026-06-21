@@ -3,6 +3,7 @@ vless://0a715ede-593a-4018-8406-66e2c3b1169c@89.106.64.15:7000?encryption=none&s
 vless://fb37aadd-b957-4462-8738-80c55d77a52d@91.107.252.109:8080?encryption=none&type=tcp&headerType=none#Khodemoni-090152
 vless://10ff0bbc-28ba-4eab-9377-0a90cea8eb60@germanyjkjklj.dadashinet10.ir:2044?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-092369
 vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?encryption=none&type=ws&path=%2F&host=azsv1.drpingservice.com#Khodemoni-082627
+vless://10ff0bbc-28ba-4eab-9377-0a90cea8eb60@lobgfvdas.dadashinet10.ir:2044?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-092370
 vless://f5a9b0d7-a060-4a77-a6bc-b035925a5cfc@172.64.146.15:8443?mode=auto&path=%2Fjs&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=video.mrcoai.org&fp=firefox&type=xhttp&allowInsecure=0&sni=video.mrcoai.org#Khodemoni-092245
 vless://76420ede-08de-4869-abeb-ad2d11729386@DaSHBoard.mobileatlass.ir:2035?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-091311
 vless://76420ede-08de-4869-abeb-ad2d11729386@DaSHBoard.mobileatlass.ir:2035?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-091504
