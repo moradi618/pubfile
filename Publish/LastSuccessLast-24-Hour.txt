@@ -1,3 +1,17 @@
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.64.147.236:443?path=%2Fudfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&fp=chrome&type=ws&allowInsecure=0&sni=octopusss5.info#Khodemoni-068128
+trojan://humanity@172.64.146.143:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#Khodemoni-068130
+vless://073d1d50-8478-47bf-a828-7a1b381931d5@betty.ns.cloudflare.com:443?encryption=none&fp=chrome&host=octopusss.net&path=%2Fodiyfws&security=tls&sni=octopusss.net&type=ws#Khodemoni-088249
+vless://967064b5-3272-431e-8dce-9519acfb94be@150.241.102.175:443?security=reality&type=tcp&packetEncoding=xudp&sni=usa.zestful.bond&fp=firefox&flow=xtls-rprx-vision&sid=823257b7b9ab9d02&pbk=KS0F6q2PTY1s6y2sH5PdrznYqprIkUBtS1masvcrJjo#Khodemoni-091322
+trojan://humanity@104.19.229.21:443?path=%2F%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#Khodemoni-069124
+trojan://humanity@104.18.13.149:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#Khodemoni-073628
+trojan://humanity@162.159.17.189:443/?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#Khodemoni-036653
+trojan://humanity@104.19.229.21:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#Khodemoni-069122
+trojan://humanity@104.19.229.21:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#Khodemoni-069121
+trojan://humanity@45.130.125.158:443?path=%2Fassignment&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&host=www.ignitelimit.com&fp=ios&type=ws&sni=www.ignitelimit.com#Khodemoni-087567
+trojan://humanity@104.18.13.149:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmloud.com&fp=ios&type=ws&allowInsecure=0&sni=www.calmloud.com#Khodemoni-069463
+trojan://humanity@104.19.229.21:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#Khodemoni-073068
+trojan://humanity@104.19.229.21:443?path=%2Fassignment%3FTELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#Khodemoni-069123
+trojan://humanity@104.19.229.21:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#Khodemoni-073114
 trojan://humanity@104.18.13.149:443/?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#Khodemoni-022805
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@betty.ns.cloudflare.com:443?path=%2Frdfgtws&security=tls&encryption=none&host=vangoghhh.info&fp=chrome&type=ws&sni=vangoghhh.info#Khodemoni-084838
 trojan://humanity@172.64.147.15:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#Khodemoni-073107
@@ -268,8 +282,8 @@ vless://07b42786-6f24-4d2d-905b-d7e34e99ad21@euro.cloud-play.ir:80?encryption=no
 vless://c420ee7d-a567-46d2-8571-c78ac0c87428@anten.ir:2095?security=none&type=ws&headerType=&path=%2F&host=arv4.wzpower.ir#Khodemoni-090691
 vless://e5d07969-f008-42ee-bbab-7995ef4d1e1d@185.173.144.209:37368?encryption=none&host=play.google.com&path=%2Fmeet&security=none&type=ws#Khodemoni-090788
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpERmZBNjNaTUZBZ1ZISUNI@20.107.208.165:443?outline=1&prefix=POST%20n33cea6W#Khodemoni-090684
-vless://41f46aa9-da29-45f6-b33e-50ed736c8646@global.cloud-play.ir:80?encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=xenoengineer.com&mode=auto&path=%2F&security=none&type=xhttp&x_padding_bytes=100-1000#Khodemoni-090670
 vless://%40Net2ray@85.198.12.105:43116?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-090756
+vless://41f46aa9-da29-45f6-b33e-50ed736c8646@global.cloud-play.ir:80?encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=xenoengineer.com&mode=auto&path=%2F&security=none&type=xhttp&x_padding_bytes=100-1000#Khodemoni-090670
 vless://41f46aa9-da29-45f6-b33e-50ed736c8646@local.cloud-play.ir:80?encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=xenoengineer.com&mode=auto&path=%2F&security=none&type=xhttp&x_padding_bytes=100-1000#Khodemoni-090671
 vless://41f46aa9-da29-45f6-b33e-50ed736c8646@global.cloud-play.ir:80?mode=auto&path=%2F&security=none&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=simeonelaparo.de&type=xhttp#Khodemoni-090682
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YmFhNGVhZDIyZGIxZDdlOGZlYTA2M2I2YWVmY2M3Mw@159.69.21.145:1080#Khodemoni-090696
@@ -773,8 +787,8 @@ vless://356c9372-6049-c02c-3460-b021014693c2@188.114.98.0:443?encryption=none&se
 vless://2dacceea-8664-4fed-ba16-27fdd3b40f3e@s10.meoshop.ir:2053?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=baba.meoshop.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=baba.meoshop.ir#Khodemoni-088704
 vless://18655112-fd8a-44e7-a30c-37388c05816b@45.8.228.110:443?security=reality&encryption=none&pbk=kIwNoNzk1uJnZD1evWxURZskv9ZY0aGoUjrAbn3uVXQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=4d3ff920673f7534#Khodemoni-088816
 vless://356c9372-6049-c02c-3460-b021014693c2@172.64.155.209:443?encryption=none&security=tls&sni=cold-cake-60bd.javascriptirir.workers.dev&fp=chrome&pbk=enabled&insecure=0&allowInsecure=0&type=ws&host=cold-cake-60bd.javascriptirir.workers.dev&path=%2Fmsad#Khodemoni-088680
-vless://5b56647e-ec7a-42df-bee2-1269f82265c0@45.205.0.52:443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=panel.fredomiran.com&mode=auto&path=%2F&security=tls&sni=panel.fredomiran.com&type=xhttp&x_padding_bytes=100-1000#Khodemoni-088496
 vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@172.64.32.75:443?encryption=none&host=amoosamiii.net&path=%2Fpoiuyws&security=tls&sni=amoosamiii.net&type=ws#Khodemoni-085252
+vless://5b56647e-ec7a-42df-bee2-1269f82265c0@45.205.0.52:443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=panel.fredomiran.com&mode=auto&path=%2F&security=tls&sni=panel.fredomiran.com&type=xhttp&x_padding_bytes=100-1000#Khodemoni-088496
 vless://90a656ff-c77a-4b6d-87f4-a0b2cec91373@104.18.9.247:8443?path=%2F&security=tls&encryption=none&insecure=0&host=young-queen-488a.adriansheykhi730.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=young-queen-488a.adriansheykhi730.workers.dev#Khodemoni-060295
 vless://04e28e6c-7a6c-4ec7-bed2-3da8f7c9edce@45.130.125.126:2053?path=%2FeyJqdW5rIjoiTG1BbkpIVHV2S21jNjRNIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ2LjEwMy4xMTMuMTU4Il19%3Fed&security=tls&alpn=http%2F1.1&encryption=none&host=bpb-expo--10rayly4zy.expo.app&fp=chrome&type=ws&sni=BpB-expO--10RaYly4zY.EXPO.App#Khodemoni-087391
 trojan://humanity@45.130.125.126:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#Khodemoni-087413
