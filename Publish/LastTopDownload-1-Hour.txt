@@ -1,6 +1,1 @@
-vless://36562b99-aadd-4e38-b566-24e0d219b1d6@195.63.133.145:443?security=none&encryption=none&type=ws#Khodemoni-091798
-vmess://eyJhZGQiOiJzaW5hdmlwMi5jbmF2aXBwYW5lbC5jb20iLCJhaWQiOiIwIiwiaG9zdCI6InBsYXkuZ29vZ2xlLmNvbSIsImlkIjoiZGZkZjUxYWEtNzQ1Mi00YjQwLWJhMzAtM2EyNWNiYmU3MTQ0IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoxNTE1LCJwcyI6Iktob2RlbW9uaS0wOTE3ODIiLCJzY3kiOiJhdXRvIiwidGxzIjoibm9uZSIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
-vless://277c8fe3-ba2e-44ca-84d3-c7f54f240f3b@sinavip6.cnavippanel.com:8092?security=none&type=tcp&headerType=http&path=%2F&host=#Khodemoni-091780
-vmess://eyJhZGQiOiJzaW5hdmlwLmNuYXZpcHBhbmVsLmNvbSIsImFpZCI6IjAiLCJob3N0IjoicGxheS5nb29nbGUuY29tIiwiaWQiOiJkZmRmNTFhYS03NDUyLTRiNDAtYmEzMC0zYTI1Y2JiZTcxNDQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOjE1MTQsInBzIjoiS2hvZGVtb25pLTA5MTc4MSIsInNjeSI6ImF1dG8iLCJ0bHMiOiJub25lIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
-vless://69a2af58-d74a-44ca-864a-e09b493f4274@45.144.48.187:443?security=reality&encryption=none&pbk=hgQ3Wa09f9ectEos7QyC1LQ8bBq8lEAcAtGIDFTKin0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=c0#Khodemoni-091789
-vless://277c8fe3-ba2e-44ca-84d3-c7f54f240f3b@sinavip4.cnavippanel.com:8090?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-091778
+trojan://MITIVPN@104.16.72.70:443?path=%2Fed%3Dmitivpn&security=tls&insecure=1&host=www.pagess.ir&fp=chrome&type=ws&allowInsecure=1&sni=pagess.ir#Khodemoni-092141
