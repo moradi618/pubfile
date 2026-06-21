@@ -1,3 +1,5 @@
+vless://ed3e860f-c97d-45be-a56b-47b77da11059@sw-3.coinbridge.nl:443?mode=gun&security=reality&encryption=none&pbk=kPBXTe2KCp55GrHS_qU_sF7ohUcT8Vu-e8i6Yd9MERI&fp=random&type=grpc&serviceName=data-sync&sni=google.com&sid=d5c7f84e37e0c12d#Khodemoni-089172
+trojan://telegram-id-privatevpns@52.58.146.145:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-090946
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.30.30:8880?encryption=none&security=none&type=ws&host=vms.lifetime28.workers.dev&path=%2F#Khodemoni-088996
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@185.176.26.50:8880?encryption=none&security=none&type=ws&host=vms.lifetime06.workers.dev&path=%2F%3Fed%3D2560#Khodemoni-088999
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@45.142.120.40:8880?encryption=none&security=none&type=ws&host=vms.lifetime08.workers.dev&path=%2F#Khodemoni-088998
@@ -5912,8 +5914,8 @@ vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@fastly.com:80/?mode=auto&path=%2Flo
 trojan://telegram-id-privatevpns@15.236.184.10:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-061881
 ss://YWVzLTI1Ni1nY206cm5OUmMzVGwrUFZXVWtUUTl6UVBwaEdlNkRqYUZhczVnbUxTaHV1cHdhMD0%3D@89.44.112.248:44453#Khodemoni-063922
 vless://d4eb1900-6515-494e-85c5-306bb9594f56@45.130.125.194:8443/?mode=auto&path=%2F%3Fed%3D2053&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=vo.new-persian-song.ir#Khodemoni-036835
-vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@151.101.130.133:80?encryption=none&type=xhttp&mode=auto&host=shangulin.global.ssl.fastly.net&path=/login&security=none#Khodemoni-041730
 vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@fastly.com:80?mode=auto&path=%2FTignaliSWithYou&security=&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=tignaltofan.global.ssl.fastly.net&type=xhttp#Khodemoni-060699
+vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@151.101.130.133:80?encryption=none&type=xhttp&mode=auto&host=shangulin.global.ssl.fastly.net&path=/login&security=none#Khodemoni-041730
 vless://da48859d-edf9-4a8c-a026-80910591f284@151.101.1.164:80?mode=auto&path=/Tignal&security=none&encryption=none&host=tignaltofansv8.global.ssl.fastly.net&type=xhttp#Khodemoni-044497
 vless://99899fb0-b47f-4eab-ac4f-7fe47c8bdd2c@45.130.125.20:8443?encryption=none&type=xhttp&security=tls&path=%2Fmediaprocessing&host=api.mmad.kdns.fr&mode=auto&sni=sni.mmad.kdns.fr&fp=chrome&insecure=0&allowInsecure=0#Khodemoni-062108
 vless://d4eb1900-6515-494e-85c5-306bb9594f56@45.130.125.194:8443/?mode=auto&path=%2F%3Fed%3D2053&security=tls&alpn=h3%2Ch2&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&fp=chrome&type=xhttp&sni=vo.new-persian-song.ir#Khodemoni-036681
