@@ -8,10 +8,10 @@ vless://698c2a3e-16e7-4ebe-8f19-76e6f41e2d65@damp-tree-14a8.mohammad1426.workers
 trojan://1tMXmaYmJ7PmnTuyaRmXaA@sv1.hosttbd.ir:10001?security=none&headerType=none&allowInsecure=0&type=tcp&path=/&host=PuLaVPN.Net#Khodemoni-090522
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyQzVOTko1a0Z5Z01HbWVUd01NSVBLQzViLWo4WUJmSA@p4.hoomankh.info:1080#Khodemoni-090909
 vless://a7dd651e-902b-4c55-b238-6ec060ec4050@104.21.61.228:2086?path=%2FeyJqdW5rIjoiVU1GQmFPNDZZIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiNDkuMTIuMjM3LjcxIl19%3Fed%3D2560&security=none&encryption=none&host=late-haze-dc16.jokerhosting-ir.workers.dev&type=ws#Khodemoni-088235
+vless://b2ec1e04-17b8-48ee-966e-5633deb7f98b@jahan25.irbazi.com:443?path=%2Fvr1025%3Fed%3D2560&security=tls&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=jahan25.irbazi.com#Khodemoni-090364
 vless://df119433-8691-41fa-9c2a-7e54efd02dcb@87.107.111.40:18623?encryption=none&headerType=http&host=&path=%2F&security=none&type=tcp#Khodemoni-090903
 vmess://eyJhZGQiOiJkZS5nZWUtZW1lcmdlbmN5LmlyIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImFkYTNjY2JhLTlmMTMtNGM3Yy04NGMwLWI3NjJjMmMyY2RiOSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6MzIwMCwicHMiOiJLaG9kZW1vbmktMDkwODk1Iiwic2N5IjoiYWVzLTEyOC1nY20iLCJ0bHMiOiJub25lIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 vless://SoonTeam@104.17.52.188:8080?mode=auto&path=%2F%40SoonTeam&security=&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=new.new.new.ab841.com&type=xhttp#Khodemoni-089667
-vless://b2ec1e04-17b8-48ee-966e-5633deb7f98b@jahan25.irbazi.com:443?path=%2Fvr1025%3Fed%3D2560&security=tls&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=jahan25.irbazi.com#Khodemoni-090364
 vless://1303b62b-2fab-4771-bdec-059b5d65fd4c@5.202.8.12:80?encryption=none&type=ws&path=%2F#Khodemoni-090849
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@se.faygo.bot:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#Khodemoni-089026
 vless://43efc1e1-0c44-4e32-824d-653135185a87@p4.hoomankh.info:62692?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-090893
