@@ -1,3 +1,7 @@
+vless://ec797c83-0b8d-4d5c-b556-1d786ca074c3@66.33.23.33:443?encryption=none&security=tls&type=ws&host=r-production-260d.up.railway.app&path=%2Fws&sni=r-production-260d.up.railway.app&fp=chrome#Khodemoni-091015
+vless://ec797c83-0b8d-4d5c-b556-1d786ca074c3@66.33.23.33:443?encryption=none&security=tls&type=xhttp&host=r-production-260d.up.railway.app&path=%2Fxh&sni=r-production-260d.up.railway.app&fp=chrome&mode=auto#Khodemoni-091014
+vless://ec797c83-0b8d-4d5c-b556-1d786ca074c3@66.33.23.33:443?encryption=none&security=tls&type=grpc&host=r-production-260d.up.railway.app&serviceName=grpc&sni=r-production-260d.up.railway.app&fp=chrome&mode=gun#Khodemoni-091019
+vless://ec797c83-0b8d-4d5c-b556-1d786ca074c3@66.33.23.33:443?encryption=none&security=tls&type=httpupgrade&host=r-production-260d.up.railway.app&path=%2Fhu&sni=r-production-260d.up.railway.app&fp=chrome#Khodemoni-091018
 vless://3805c64a-ac60-49ad-883c-43e6309b68d0@65.21.109.91:80?encryption=none&type=ws&path=%2Fnotbin&host=speedtest.com#Khodemoni-091012
 vless://437c9e5b-e0c5-47b9-930a-12824ffc53ed@134.255.252.76:9999?security=reality&encryption=none&pbk=_kcz60zlz7bBTIXtK11MgHIrnVBF9sTJnU2MiLCwDF8&headerType=none&fp=chrome&spx=%2FPj6iU7uqVMKnPwd&type=tcp&sni=varzesh3.com&sid=80335f00af#Khodemoni-088183
 vless://be88d265-a268-4ce1-ba06-516fa5c8471d@134.255.252.76:9999?security=reality&encryption=none&pbk=_kcz60zlz7bBTIXtK11MgHIrnVBF9sTJnU2MiLCwDF8&headerType=none&fp=chrome&spx=%2F3LB8Ys42AC9wwHz&type=tcp&sni=varzesh3.com&sid=02#Khodemoni-088227
