@@ -1,4 +1,5 @@
 vless://0a715ede-593a-4018-8406-66e2c3b1169c@89.106.64.15:7000?encryption=none&security=none&type=xhttp&host=a12.crowsvpn.shop&path=%2F&mode=stream-one&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D#Khodemoni-090282
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YmFhNGVhZDIyZGIxZDdlOGZlYTA2M2I2YWVmY2M3Mw@159.69.21.145:1080#Khodemoni-090696
 vless://fb37aadd-b957-4462-8738-80c55d77a52d@91.107.252.109:8080?encryption=none&type=tcp&headerType=none#Khodemoni-090152
 vmess://eyJhZGQiOiIyLjI2LjIzMS44NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI2ZDY1OTViNS1mZjdmLTQ5OTUtYWJkZS1iMTE4NzI5OWE2M2QiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjExMCIsInBzIjoiS2hvZGVtb25pLTA5MDM4OCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vless://2d756dca-7ad6-42f2-90aa-9e6de423606d@87.107.111.40:58761?encryption=none&headerType=http&host=&path=%2F&security=none&type=tcp#Khodemoni-090894
