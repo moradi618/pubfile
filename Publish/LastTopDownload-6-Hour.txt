@@ -3,7 +3,6 @@ vless://0a715ede-593a-4018-8406-66e2c3b1169c@89.106.64.15:7000?encryption=none&s
 vless://fb37aadd-b957-4462-8738-80c55d77a52d@91.107.252.109:8080?encryption=none&type=tcp&headerType=none#Khodemoni-090152
 vless://10ff0bbc-28ba-4eab-9377-0a90cea8eb60@germanyjkjklj.dadashinet10.ir:2044?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-092369
 vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?encryption=none&type=ws&path=%2F&host=azsv1.drpingservice.com#Khodemoni-082627
-vless://10ff0bbc-28ba-4eab-9377-0a90cea8eb60@lobgfvdas.dadashinet10.ir:2044?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-092370
 vless://f5a9b0d7-a060-4a77-a6bc-b035925a5cfc@172.64.146.15:8443?mode=auto&path=%2Fjs&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=video.mrcoai.org&fp=firefox&type=xhttp&allowInsecure=0&sni=video.mrcoai.org#Khodemoni-092245
 vless://76420ede-08de-4869-abeb-ad2d11729386@DaSHBoard.mobileatlass.ir:2035?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-091311
 vless://76420ede-08de-4869-abeb-ad2d11729386@DaSHBoard.mobileatlass.ir:2035?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-091504
@@ -12,6 +11,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyQzVOTko1a0Z5Z01HbWVUd01NSVBLQzViLWo4WUJmSA@
 vless://TurboConfigs@31.56.206.13:2035?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-092181
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388#Khodemoni-089123
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3eEg5d3Z0VWNkeXRHVkdPTjJidTE0@91.107.153.246:64893/?outline=1#Khodemoni-092169
+vmess://eyJhZGQiOiI5NC4xODIuMTA3LjI1NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoia2NwLmludmFsaWQiLCJpZCI6IjkzOTZlYjNlLTcxY2YtNDFlYi1hNTc1LTBkMzA2YWEyNDY0OSIsImluc2VjdXJlIjoiMSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiOTA5MCIsInBzIjoiS2hvZGVtb25pLTA5MjQ0MSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 vless://10ff0bbc-28ba-4eab-9377-0a90cea8eb60@germanubhf.dadashinet10.ir:2044?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-092368
 vless://6b60a5db-9802-450c-9fad-336c831924ca@51.75.38.203:44233?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-088617
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@se.faygo.bot:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#Khodemoni-089023
@@ -63,6 +63,7 @@ vless://6e7ebc40-58a6-c567-4ae8-51b7605a272b@www.ar6.plusmusical8.ir:8880?encryp
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.251:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#Khodemoni-089128
 vmess://eyJhZGQiOiI4MS4zMC4xMDguNjMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMmE0ZmVkYTAtMDUyMi00NjhmLWIxOGYtMmU0NDg3ZjdhNzI0IiwiaW5zZWN1cmUiOiIxIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMDIwIiwicHMiOiJLaG9kZW1vbmktMDc5ODMxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://f4013b10-838a-4dda-abe1-1dad4ecdc6c8@45.130.125.162:8443?mode=auto&path=%2F%3Fed%3D80&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=ssd.mojaz-persian-music.ir#Khodemoni-092078
+vless://6e7ebc40-58a6-c567-4ae8-51b7605a272b@140.248.185.253:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=nesfzzeshab.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=global.fastly.com#Khodemoni-092438
 vless://3e9381fa-b6b0-42c8-8014-4818aa05b346@nl-2.coinbridge.nl:443?mode=gun&security=reality&encryption=none&pbk=kPBXTe2KCp55GrHS_qU_sF7ohUcT8Vu-e8i6Yd9MERI&fp=random&type=grpc&serviceName=data-sync&sni=google.com&sid=d5c7f84e37e0c12d#Khodemoni-089739
 vless://52faee73-e0fe-4661-992d-67259257170f@45.206.0.41:8443?flow=xtls-rprx-vision&fp=firefox&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&security=reality&sid=ea10cd5686751ec5&sni=storage.yandex.net&type=tcp#Khodemoni-091993
 trojan://MITIVPN@151.101.110.219:443?type=ws&security=tls&path=%2Fed%3Dmitivpn&host=mitivpn-6.global.ssl.fastly.net&sni=global.fastly.com&fp=chrome&insecure=1&allowInsecure=1#Khodemoni-091325
@@ -72,7 +73,6 @@ vmess://eyJhZGQiOiJzaW5hdmlwLmNuYXZpcHBhbmVsLmNvbSIsImFpZCI6IjAiLCJob3N0IjoicGxh
 vless://5982d32f-f2e4-4267-a8ad-48492e65344c@95.133.242.210:443?security=reality&encryption=none&pbk=U_E3xSI6QY_Mj-3zjkB4esvMj0aVvYH6W6oHOR50XBs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=filesconvert.org&sid=10debbdf94767541#Khodemoni-090273
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.250:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#Khodemoni-091788
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@ru.faygo.bot:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#Khodemoni-088310
-trojan://MITIVPN@104.16.72.70:443?path=%2Fed%3Dmitivpn&security=tls&insecure=1&host=www.pagess.ir&fp=chrome&type=ws&allowInsecure=1&sni=pagess.ir#Khodemoni-092141
 vless://017be259-a5de-442e-a4da-ee7a6294a620@Cloudflare.sellvpn.app:2087?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0#Khodemoni-092366
 vless://bc5988e1-4e16-468f-a672-3c36db178373@rezix.amirserx.ir:443?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-092260
 vmess://eyJhZGQiOiJzaW5hdmlwMy5jbmF2aXBwYW5lbC5jb20iLCJhaWQiOiIwIiwiaG9zdCI6InBsYXkuZ29vZ2xlLmNvbSIsImlkIjoiNWQwNGI2ZTItNDk2Ny00ZTJhLWEzYWYtYTY2YjIzYjA5ODdlIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoxNTE2LCJwcyI6Iktob2RlbW9uaS0wOTIwODYiLCJzY3kiOiJhdXRvIiwidGxzIjoibm9uZSIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
