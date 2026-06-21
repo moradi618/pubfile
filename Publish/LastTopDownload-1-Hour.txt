@@ -8,4 +8,6 @@ vless://78832d37-6ac9-4059-87e1-46da35061917@cdn4.sudonetwork.com:2096?path=%2F%
 vless://78485147-82d0-4fc4-80cf-dd08c54bbaa1@188.114.97.5:443?ech=udp%3A%2F%2F1.1.1.1%3A53&encryption=none&fp=chrome&host=mozconfigs.mohammadaz2sub.ir&path=%2Fws%3Fed%3D2048&security=tls&type=ws#Khodemoni-091445
 trojan://MITIVPN@151.101.69.219:443?type=ws&security=tls&path=%2Fed%3Dmitivpn&host=mitivpn-77.global.ssl.fastly.net&sni=speedtest.net&alpn=h2&fp=chrome&insecure=1&allowInsecure=1#Khodemoni-091326
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@94.242.55.42:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#Khodemoni-091341
+vless://ed007a44-5601-49d1-860a-c2182391a9e6@flae2.faradl.ir:2087?security=&encryption=none&headerType=http&type=tcp#Khodemoni-091503
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@ru.faygo.bot:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#Khodemoni-091334
+vless://76420ede-08de-4869-abeb-ad2d11729386@DaSHBoard.mobileatlass.ir:2035?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-091504
