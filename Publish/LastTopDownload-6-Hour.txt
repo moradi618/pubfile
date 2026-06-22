@@ -1,3 +1,4 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YkxsSkk0QWoyb3NzbHpUbHhINElkUXd3Uk9WR2I5OQ@p4.hoomankh.info:1080#Khodemoni-106719
 vless://6bb0a8ec-ec08-4358-b53d-7e6193069119@k6.capigodserv.ir:42542?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-106208
 vless://a4ec2a04-fb52-4c80-86bb-5cedb6df9655@snapp.ir:8080/?type=ws&encryption=none&path=%2Fray&host=dwn.budgetnet.ir&security=none#Khodemoni-106505
 vless://e3ebd5d5-7553-4f0f-99dd-a5d92029e941@185.147.27.105:80?path=%2F&security=&encryption=none&type=ws#Khodemoni-095969
