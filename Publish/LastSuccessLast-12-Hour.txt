@@ -1,3 +1,4 @@
+trojan://6Uksekbp6w@104.17.108.1:443?path=/?ed=2048&security=tls&insecure=0&host=s8.aananas.ir&fp=firefox&type=ws&allowInsecure=0&sni=s8.aananas.ir#Khodemoni-093138
 vless://b90b424c-6053-415c-8547-16f996331d63@134.255.252.76:9999?security=reality&encryption=none&pbk=_kcz60zlz7bBTIXtK11MgHIrnVBF9sTJnU2MiLCwDF8&headerType=none&fp=chrome&spx=%2FN5rLmYZAAhURETl&type=tcp&sni=varzesh3.com&sid=0731#Khodemoni-093136
 vless://b0f08ae1-7cf9-4612-ad61-72681e0b92da@sw-1.coinbridge.nl:443?mode=gun&security=reality&encryption=none&pbk=kPBXTe2KCp55GrHS_qU_sF7ohUcT8Vu-e8i6Yd9MERI&fp=random&type=grpc&serviceName=data-sync&sni=google.com&sid=d5c7f84e37e0c12d#Khodemoni-093137
 vless://8cf1e524-ce8c-4c63-8440-3ecd687f5e8d@173.245.59.14:2053?encryption=none&fp=chrome&host=still-lake-3cf7.dls2026.workers.dev&path=%2F&security=tls&sni=still-lake-3cf7.dls2026.workers.dev&type=ws#Khodemoni-080380
