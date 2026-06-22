@@ -42,6 +42,7 @@ vless://33de2596-d95d-412b-a8c2-410be7060ca3@72.56.32.211:443?encryption=none&ty
 vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?encryption=none&type=ws&path=%2F&host=azsv1.drpingservice.com#Khodemoni-082627
 trojan://MITIVPN@151.101.110.219:443?path=%2Fed&security=tls&insecure=1&host=mitivpn-6.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=global.fastly.com#Khodemoni-094650
 vless://90cd4a77-141a-43c9-991b-08263cfe9c10@railway-production-b185.up.railway.app:443?encryption=none&security=tls&sni=&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=&path=/ws#Khodemoni-093155
+vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@solar.appleseraj.ir:2083?path=%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=nuren1.appleseraj.ir&fp=chrome&type=ws&allowInsecure=0&sni=nuren1.appleseraj.ir#Khodemoni-095448
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1SkZrbm9iUW90RkZZYUZX@20.166.91.10:443#Khodemoni-093648
 vmess://eyJhZGQiOiI4Mi4xNTguMTIwLjE2OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4M2Q3ODA2YS1kZmU5LTQwOGUtODkwZC03MTkyZDVjN2JhYWYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjEyMzQiLCJwcyI6Iktob2RlbW9uaS0wOTM1NTIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Ukt4MEpSYmdQTVRyTmJDRUlsRmp5UUN3L3JTYnZhYUVLM3p3TlNBSWo1cz06d0xadyt6K0hvaGFtdzhOZDdLblNBb1dTNnRtaVJROGZsU1NGOFRRcE9Zcz0@82.158.120.168:1#Khodemoni-093447
