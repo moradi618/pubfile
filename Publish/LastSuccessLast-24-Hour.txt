@@ -1,3 +1,4 @@
+trojan://6Uksekbp6w@104.17.108.1:443?path=/?ed=2048&security=tls&insecure=0&host=s8.aananas.ir&fp=firefox&type=ws&allowInsecure=0&sni=s8.aananas.ir#Khodemoni-093138
 vless://b90b424c-6053-415c-8547-16f996331d63@134.255.252.76:9999?security=reality&encryption=none&pbk=_kcz60zlz7bBTIXtK11MgHIrnVBF9sTJnU2MiLCwDF8&headerType=none&fp=chrome&spx=%2FN5rLmYZAAhURETl&type=tcp&sni=varzesh3.com&sid=0731#Khodemoni-093136
 vless://b0f08ae1-7cf9-4612-ad61-72681e0b92da@sw-1.coinbridge.nl:443?mode=gun&security=reality&encryption=none&pbk=kPBXTe2KCp55GrHS_qU_sF7ohUcT8Vu-e8i6Yd9MERI&fp=random&type=grpc&serviceName=data-sync&sni=google.com&sid=d5c7f84e37e0c12d#Khodemoni-093137
 vless://8cf1e524-ce8c-4c63-8440-3ecd687f5e8d@173.245.59.14:2053?encryption=none&fp=chrome&host=still-lake-3cf7.dls2026.workers.dev&path=%2F&security=tls&sni=still-lake-3cf7.dls2026.workers.dev&type=ws#Khodemoni-080380
@@ -843,7 +844,6 @@ vless://a1231b43-48aa-4e5b-895a-7f52309ba582@ip.sb:2086?encryption=none&host=dev
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@162.120.94.30:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vms.lifetime07.workers.dev&path=%2F&security=none&type=ws#Khodemoni-083565
 vless://bb789aaa-c07a-47ae-987f-5adba035e8c7@65.109.219.2:110?#Khodemoni-091023
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.30.30:8880?encryption=none&security=none&type=ws&host=vms.lifetime28.workers.dev&path=%2F#Khodemoni-088996
-vless://4f009c13-b9d5-4e3d-90b7-534b2808ac72@65.109.219.2:52219?type=tcp&encryption=none&security=reality&pbk=cKE3i_J1asS5PgauqF-Ci8OlabLXmfUo1KaJ0Kc_rWQ&fp=chrome&sni=www.oracle.com&sid=f8&spx=/#Khodemoni-090999
 vless://be88d265-a268-4ce1-ba06-516fa5c8471d@134.255.252.76:9999?security=reality&encryption=none&pbk=_kcz60zlz7bBTIXtK11MgHIrnVBF9sTJnU2MiLCwDF8&headerType=none&fp=chrome&spx=%2F3LB8Ys42AC9wwHz&type=tcp&sni=varzesh3.com&sid=02#Khodemoni-088227
 vless://7a43e613-f52b-43af-8c0c-2ba094833c5e@www.speedtest.net:443?path=%2FeyJqdW5rIjoiTVVXMEFJOVh2ZEwiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=v2ngnet.baghaei0025.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=V2NgNET.baGHAEi0025.WoRKeRS.DeV#Khodemoni-091002
 ss://YWVzLTEyOC1nY206dDZkMjZpZDBwanpkbzN4NXd0bGY@69.164.240.83:10878#Khodemoni-087699
