@@ -652,8 +652,8 @@ vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bd@192.169.223.21:2052?encryption=none
 vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bd@195.85.59.21:2052?encryption=none&security=none&type=xhttp&host=cdn3.goofymoofy.com&path=%2Fpabloping&mode=auto#Khodemoni-092536
 vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bd@194.36.55.21:2052?encryption=none&security=none&type=xhttp&host=cdn3.goofymoofy.com&path=%2Fpabloping&mode=auto#Khodemoni-092532
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@8.219.134.138:443?path=%2F&security=tls&insecure=0&type=ws&allowInsecure=0&sni=hhcm.hhxaf.cc.cd#Khodemoni-091583
-vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bd@198.71.232.21:2052?encryption=none&security=none&type=xhttp&host=cdn3.goofymoofy.com&path=%2Fpabloping&mode=auto#Khodemoni-092559
 vless://EarnMoneyarz-ZoRoVpn@104.16.72.70:8443?path=/ZoRoVpn&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=speedtest-chekhost-fastly.amuseftdomainroyal.com&fp=chrome&type=ws&allowInsecure=0&sni=speedtest-chekhost-fastly.amuseftdomainroyal.com#Khodemoni-092595
+vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bd@198.71.232.21:2052?encryption=none&security=none&type=xhttp&host=cdn3.goofymoofy.com&path=%2Fpabloping&mode=auto#Khodemoni-092559
 vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bd@5.10.215.21:2052?encryption=none&security=none&type=xhttp&host=cdn3.goofymoofy.com&path=%2Fpabloping&mode=auto#Khodemoni-092538
 vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bd@198.177.56.21:2052?encryption=none&security=none&type=xhttp&host=cdn3.goofymoofy.com&path=%2Fpabloping&mode=auto#Khodemoni-092583
 vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bd@160.153.136.21:2052?encryption=none&security=none&type=xhttp&host=cdn3.goofymoofy.com&path=%2Fpabloping&mode=auto#Khodemoni-092562
