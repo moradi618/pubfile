@@ -292,8 +292,8 @@ vless://042ac5fe-e1e9-4857-8cc6-c3c0113a7be3@65.21.109.91:443?mode=auto&path=%2F
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.7.30:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=vms.lifetime02.workers.dev&type=ws#Khodemoni-086188
 vless://e5d07969-f008-42ee-bbab-7995ef4d1e1d@185.173.144.212:19430?encryption=none&host=play.google.com&path=%2Fmeet&security=none&type=ws#Khodemoni-090791
 vless://e5d07969-f008-42ee-bbab-7995ef4d1e1d@185.173.144.212:38334?encryption=none&fp=chrome&pbk=NziHXc_dnhzsVEfn_asAz4JONCuwQYHNiCW_2-GX5FA&security=reality&sid=b0ab63ef9a&sni=www.yahoo.com&spx=%2FOecT1TIRBgMRSP8&type=tcp#Khodemoni-090790
-vless://af475b0e-0c07-40fe-b4db-3dea2c0a481d@91.193.58.17:2083?allowInsecure=1&sni=edgetunnel-cmliu.lyqnihao.dpdns.org&type=ws&host=edgetunnel-cmliu.lyqnihao.dpdns.org&path=/fp=chrome&security=tls#Khodemoni-060611
 vless://7a43e613-f52b-43af-8c0c-2ba094833c5e@www.speedtest.net:443?path=%2FeyJqdW5rIjoiTVVXMEFJOVh2ZEwiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=v2ngnet.baghaei0025.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=V2NgNET.baGHAEi0025.WoRKeRS.DeV#Khodemoni-091002
+vless://af475b0e-0c07-40fe-b4db-3dea2c0a481d@91.193.58.17:2083?allowInsecure=1&sni=edgetunnel-cmliu.lyqnihao.dpdns.org&type=ws&host=edgetunnel-cmliu.lyqnihao.dpdns.org&path=/fp=chrome&security=tls#Khodemoni-060611
 vless://e5d07969-f008-42ee-bbab-7995ef4d1e1d@185.173.144.212:39860?encryption=none&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#Khodemoni-090789
 vless://1303b62b-2fab-4771-bdec-059b5d65fd4c@5.202.8.12:80?path=%2F&security=none&encryption=none&type=ws#Khodemoni-089620
 vless://More-Config-Telegram-Zodproxy@66.33.23.33:443?encryption=none&security=tls&sni=railway-production-3a38.up.railway.app&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=railway-production-3a38.up.railway.app&path=%2Fws#Khodemoni-090898
@@ -2146,8 +2146,8 @@ vless://9ae7432c-317f-40e1-b551-a03f0e0e7ca7@grok.com:443/?encryption=none&secur
 vless://ad40a583-2d59-44ff-88cf-b5db0e1e00a7@104.18.37.41:443?encryption=none&type=ws&security=tls&path=%2F&host=edgetunnel.kalmevebto.workers.dev&sni=edgetunnel.kalmevebto.workers.dev&fp=chrome&insecure=0&allowInsecure=0#Khodemoni-077832
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@155.46.213.30:8880?encryption=none&type=ws&host=vms.lifetime51.workers.dev&packetEncoding=xudp#Khodemoni-075777
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.30.30:8880/?type=ws&encryption=none&flow=&host=vms.lifetime28.workers.dev&path=%2F#Khodemoni-091061
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.30.30:8880/?type=ws&encryption=none&flow=&host=vms.lifetime28.workers.dev&path=%2F#Khodemoni-091063
 vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.103:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&fp=chrome&security=reality&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7#Khodemoni-093037
+ss://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.30.30:8880/?type=ws&encryption=none&flow=&host=vms.lifetime28.workers.dev&path=%2F#Khodemoni-091063
 vless://54c91154-0559-4c48-923b-3872a77be226@172.67.157.237:443?path=%2F&security=tls&encryption=none&insecure=0&host=ez-9ef1b7.ezaccess1ad2f86.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-9ef1b7.ezaccess1ad2f86.workers.dev#Khodemoni-070292
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@8.34.70.30:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=vms.lifetime09.workers.dev&type=ws#Khodemoni-086189
 vless://8a53834d-435a-496c-bcc3-a66088e5b926@45.38.37.4:45012?encryption=none&host=&path=%2F&security=none&type=httpupgrade#Khodemoni-093064
