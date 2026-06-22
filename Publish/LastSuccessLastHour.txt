@@ -1,3 +1,4 @@
+trojan://6Uksekbp6w@104.17.108.1:443?path=/?ed=2048&security=tls&insecure=0&host=s8.aananas.ir&fp=firefox&type=ws&allowInsecure=0&sni=s8.aananas.ir#Khodemoni-093138
 vless://b90b424c-6053-415c-8547-16f996331d63@134.255.252.76:9999?security=reality&encryption=none&pbk=_kcz60zlz7bBTIXtK11MgHIrnVBF9sTJnU2MiLCwDF8&headerType=none&fp=chrome&spx=%2FN5rLmYZAAhURETl&type=tcp&sni=varzesh3.com&sid=0731#Khodemoni-093136
 vless://b0f08ae1-7cf9-4612-ad61-72681e0b92da@sw-1.coinbridge.nl:443?mode=gun&security=reality&encryption=none&pbk=kPBXTe2KCp55GrHS_qU_sF7ohUcT8Vu-e8i6Yd9MERI&fp=random&type=grpc&serviceName=data-sync&sni=google.com&sid=d5c7f84e37e0c12d#Khodemoni-093137
 vless://8cf1e524-ce8c-4c63-8440-3ecd687f5e8d@173.245.59.14:2053?encryption=none&fp=chrome&host=still-lake-3cf7.dls2026.workers.dev&path=%2F&security=tls&sni=still-lake-3cf7.dls2026.workers.dev&type=ws#Khodemoni-080380
@@ -34,4 +35,3 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@184.174.80.50:8880?host=vms.lifetim
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@184.174.80.50:8880?host=vms.lifetime42.workers.dev&path=/?ed=2560&https://t.me/youtube@VPNine1%F0%9F%87%A8%F0%9F%87%B3&type=ws#Khodemoni-058268
 vless://9cd65844-3f28-4081-8d70-b5c61815f45d@62.210.172.148:443/?type=ws&encryption=none&flow=&host=t-panel.wasmer.app&path=%2Fws%2F9cd65844-3f28-4081-8d70-b5c61815f45d&security=tls&sni=t-panel.wasmer.app&alpn=http%2F1.1networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-#Khodemoni-092710
 vless://2e95c404-21f3-4f94-aa34-f65ccf9c5143@vonipvip.samclothing.uno:2083?path=%2F&security=none&encryption=none&type=httpupgrade#Khodemoni-093129
-vless://df724c8a-5c5a-4859-974e-6e911b14955c@45.89.106.99:40443?flow=xtls-rprx-vision&fp=firefox&pbk=-sirwzF9HjIp1PVRK-z-2Ux39ufs6_W1cBw1cFoHXHc&security=reality&sid=a852&sni=deepl.com&type=tcp#Khodemoni-093128
