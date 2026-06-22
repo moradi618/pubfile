@@ -39,7 +39,6 @@ vless://d0fa08fb-4222-4236-bc4e-5b59b1ed927b@hentai-cdn.apruxdomain.xyz:80?secur
 vless://33de2596-d95d-412b-a8c2-410be7060ca3@5.42.99.188:443?encryption=none&type=tcp&security=reality&headerType=none&sni=sellflow.org&fp=firefox&insecure=1&allowInsecure=1&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#Khodemoni-093181
 vless://92c3e2ac-c521-4065-9129-f61752c09808@hentai-cdn.apruxdomain.xyz:80?security=&encryption=none&fp=firefox&type=ws#Khodemoni-095821
 vless://e3ebd5d5-7553-4f0f-99dd-a5d92029e941@185.147.27.105:80?path=%2F&security=&encryption=none&type=ws#Khodemoni-095967
-vless://7fc295ae-7b73-48ff-a413-bf7cbaf94819@185.147.27.105:80?security=&encryption=none&type=ws#Khodemoni-095925
 vless://af8310cf-ea01-47a5-8c44-5134865d5e3e@104.25.161.250:2095?path=%2F&security=&encryption=none&host=ez-732171.ezaccess1a5128f.workers.dev&fp=chrome&type=ws&sni=ez-732171.ezaccess1a5128f.workers.dev#Khodemoni-106373
 vless://6bb0a8ec-ec08-4358-b53d-7e6193069119@c3.lunaparkmaku.ir:8444?security=reality&encryption=none&pbk=gNmqmGa13mq8A8wUg1wPGmxTObGpb3OBA5aUz-T7q0c&headerType=http&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=d431f113#Khodemoni-106183
 vless://a487f942-fba4-4d29-ab5d-9c7992064c24@hentai-cdn.apruxdomain.xyz:80?security=&encryption=none&fp=firefox&type=ws#Khodemoni-095917
