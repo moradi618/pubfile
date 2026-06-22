@@ -1,3 +1,6 @@
+trojan://humanity@104.18.17.216:443/?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#Khodemoni-007167
+trojan://humanity@104.18.17.216:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&fp=ios&type=ws&allowInsecure=0&sni=www.calmloud.com#Khodemoni-068442
+trojan://humanity@104.18.8.83:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#Khodemoni-070383
 vless://e1ea855f-d0c2-5ed2-a454-294bb73c0cee@104.16.72.70:8443?encryption=none&host=speedtest-chekhost-fastly.amuseftdomainroyal.com&path=%2FZoRoVpn&security=tls&sni=speedtest-chekhost-fastly.amuseftdomainroyal.com&type=ws#Khodemoni-093115
 vless://4d2f353f-73cd-44f0-834c-e4e6874551df@72.56.71.247:40443?security=reality&encryption=none&pbk=zH_3ABX1RiBh4Be_xH9QJcQMzOEI4L4zmiuTiA2_ThU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=b9a9#Khodemoni-093098
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.199:8443/?type=tcp&encryption=none&flow=&security=tls&sni=ams1.fromblancwithlove.com&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-#Khodemoni-093095
@@ -165,7 +168,6 @@ vless://626b07bd-81c4-4212-be7a-27442a579620@5.180.173.222:448?security=reality&
 vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bd@185.133.35.21:2052?encryption=none&security=none&type=xhttp&host=cdn3.goofymoofy.com&path=%2Fpabloping&mode=auto#Khodemoni-092729
 vless://b991b390-dd0f-4061-9150-bee0cb467bce@45.142.120.240:443?encryption=none&security=tls&sni=opu-ao6.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=opu-ao6.pages.dev&path=/?ed=2560&https://t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3#Khodemoni-092736
 vless://b991b390-dd0f-4061-9150-bee0cb467bce@185.207.196.240:443?encryption=none&security=tls&sni=opu-ao6.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=opu-ao6.pages.dev&path=/?ed=2560&https://t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3#Khodemoni-092740
-vless://bff8a2c9-01b5-4a26-8c9d-a2bf92081ffd@feedback.spotify.com:2096?path=%2FeyJqdW5rIjoicklkc0hzR1ZJIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=masterserver1.xzero77.workers.dev&fp=chrome&type=ws&sni=MasTErSerVeR1.XZero77.WoRkErS.DEv#Khodemoni-092708
 vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bd@45.80.110.21:2052?encryption=none&security=none&type=xhttp&host=cdn3.goofymoofy.com&path=%2Fpabloping&mode=auto#Khodemoni-092576
 vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bd@198.71.190.21:2052?encryption=none&security=none&type=xhttp&host=cdn3.goofymoofy.com&path=%2Fpabloping&mode=auto#Khodemoni-092557
 trojan://humanity@141.193.213.21:443?security=tls&sni=www.calmloud.com&alpn=http%2F1.1&type=ws&host=www.calmloud.com&path=%2Fassignment#Khodemoni-057322
