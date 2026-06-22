@@ -1,6 +1,7 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YkxsSkk0QWoyb3NzbHpUbHhINElkUXd3Uk9WR2I5OQ@p4.hoomankh.info:1080#Khodemoni-106719
 ss://YWVzLTI1Ni1nY206REwza3AvYzltdytWY1BCZzlwbkN1Z1FvejlrRlVabHZ0c2toaHFmU3lLST0@95.182.85.39:27934#Khodemoni-106750
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0bFFXVjlYWnhyZ2hudVds@20.166.91.10:443?outline=1&prefix=POST%20K33d4fap#Khodemoni-106683
+vless://440d497c-4609-4c67-8ff3-31d254f67061@portal.web.site.client.server.iranvatanam.com:800?security=none&encryption=none&host=rubika.ir%2Cigap.net%2Csplus.ir%2Cskyroom.online&headerType=http&type=tcp#Khodemoni-106802
 vless://e692da68-3bb0-4716-909a-9918acfcef42@itsshadyvpn-production.up.railway.app:443?encryption=none&type=xhttp&security=tls&path=%2Fapi&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=itsshadyvpn-production.up.railway.app&alpn=h2%2Chttp%2F1.1%2Ch3&fp=chrome&insecure=1&allowInsecure=1#Khodemoni-106662
 trojan://MITIVPN@151.101.1.194:80?type=ws&security=none&path=%2Fed%3Dmitivpn&host=mitivpn--3.global.ssl.fastly.net#Khodemoni-106790
 vless://be7c593b-9fa7-4775-b0ea-313d4a6ca612@local.cloud-play.ir:80?mode=auto&path=%2F&security=none&encryption=none&host=connectingissues.pl&type=xhttp#Khodemoni-106763
