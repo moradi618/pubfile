@@ -1,3 +1,7 @@
+vless://205d2bb2-c7ac-45c1-aef8-1df5a209c364@fanland.monopoli.shop:56626?mode=gun&security=reality&encryption=none&authority=&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&fp=firefox&allowinsecure=1&type=grpc&serviceName=&sni=icloud.com&sid=f46de42b38cf0a64#Khodemoni-094028
+vless://a1b2c3d4-e5f6-4789-9a0b-1c2d3e4f5a6b@45.130.125.114:80?encryption=none&type=ws&path=%2F&host=hzr101-cdn.grid.name.ng.#Khodemoni-090493
+vless://a1b2c3d4-e5f6-4789-9a0b-1c2d3e4f5a6b@45.130.125.114:8443?encryption=none&type=ws&security=tls&path=%2F&host=scale124-cdn.soren-app.com.&sni=ssl.soren-app.com.&fp=chrome&insecure=0&allowInsecure=0#Khodemoni-090441
+vless://a1b2c3d4-e5f6-4789-9a0b-1c2d3e4f5a6b@104.16.72.162:8443?encryption=none&type=ws&security=tls&path=%2F&host=hzr101-cdn.soren-app.com.&sni=ssl.soren-app.com.&fp=chrome&insecure=0&allowInsecure=0#Khodemoni-090490
 vless://bc5988e1-4e16-468f-a672-3c36db178373@185.92.182.55:2056?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-092261
 vless://aa9453dc-0e52-4628-8911-933c5286a9da@fanland.monopoli.shop:56626?mode=gun&security=reality&encryption=none&authority=&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&fp=firefox&allowinsecure=1&type=grpc&serviceName=&sni=icloud.com&sid=f46de42b38cf0a64#Khodemoni-094031
 trojan://humanity@172.67.180.92:443?security=tls&sni=www.multiplydose.com&type=ws&host=www.multiplydose.com&path=%2Fassignment#Khodemoni-093412
