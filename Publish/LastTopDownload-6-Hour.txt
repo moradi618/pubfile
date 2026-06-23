@@ -1,6 +1,5 @@
 vless://Telegram%3AX_RAY_VPN1@45.74.159.218:2035?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-106801
 vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?encryption=none&type=ws&path=%2F&host=azsv1.drpingservice.com#Khodemoni-082627
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YkxsSkk0QWoyb3NzbHpUbHhINElkUXd3Uk9WR2I5OQ@p4.hoomankh.info:1080#Khodemoni-106719
 vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@176.223.66.59:8080?security=none&encryption=none&host=play.google.com%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#Khodemoni-107740
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1SWk0N3dGdWJndjUydG5SNUsyN2hXSGlZcl9acUh6WQ==@p4.hoomankh.info:1080#Khodemoni-106849
 vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@176.223.66.59:8080?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-107636
@@ -28,6 +27,7 @@ vless://c7ecc306-5e8b-4459-b2d8-3d98d7ae9e0f@euro.cloud-play.ir:80?encryption=no
 vless://6e7ebc40-58a6-c567-4ae8-51b7605a272b@www.ar1.plusmusical8.ir:8880?encryption=none&security=none&type=httpupgrade&host=ygefuoegfuioy.whiteshopp.com.&path=%2F%3Fed%3D2082#Khodemoni-090320
 vless://dd632900-378f-4e2b-ad89-84ea66478e94@hentai-cdn.apruxdomain.xyz:80?security=&encryption=none&fp=firefox&type=ws#Khodemoni-094271
 vless://92e41c23-4b39-464a-bbff-63ef84f317da@84.17.58.133:443?security=reality&encryption=none&pbk=3hiGU9oArRYulbhHEJa7nTfx1k0XL6ItE_xs-8Yi_Uc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=17a2a5e0#Khodemoni-106865
+vless://7c0f30a2-a7c1-43b1-bc51-20f07036a76e@5.129.236.132:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=ams-01.gni-daed.ru&pbk=L78hKnIWL5jdxw3R2NcY725t8QMqAfX8rGdYI46cFgs&sid=a8399289e18af5f4#Khodemoni-107067
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.244.129:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#Khodemoni-094487
 vless://be5ee63f-2537-4aee-bf7b-f416de371d1e@htttppp.arazcctv.ir:2082?path=%2F&security=none&encryption=none&host=frclfr.superip.ir&type=httpupgrade#Khodemoni-107639
 trojan://MITIVPN@199.232.78.157:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&host=mitivpn--4.global.ssl.fastly.net&fp=chrome&type=ws&sni=global.fastly.com#Khodemoni-107862
