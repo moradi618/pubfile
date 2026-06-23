@@ -78,7 +78,6 @@ trojan://MiTiVPN@151.101.110.219:443?path=%2Fde%3Dmitivpn&security=tls&alpn=http
 vless://ac006062-f051-43c6-bd4c-f409285c8635@45.130.125.6:443?encryption=none&type=xhttp&mode=auto&host=germany4.alibaba1405.org&path=/v2raylink&security=tls&fp=chrome&sni=germany4.alibaba1405.org&alpn=http/1.1,h2#Khodemoni-086552
 trojan://MiTiVPN@151.101.56.6:443?path=%2Fde%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=1&host=cdn-mitivpn.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=1&sni=global.fastly.com#Khodemoni-109119
 vmess://eyJhZGQiOiJzaW5hdmlwLmNuYXZpcHBhbmVsLmNvbSIsImFpZCI6IjAiLCJob3N0IjoicGxheS5nb29nbGUuY29tIiwiaWQiOiIwYWNhMzVlZS1iODQ1LTQ1ZDctOWI1Mi0zNzlhMjk4NDM3OGEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOjE1MTQsInBzIjoiS2hvZGVtb25pLTEwOTI5NiIsInNjeSI6ImF1dG8iLCJ0bHMiOiJub25lIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
-vless://8f7a9509-561c-41b3-ae97-97793a74460e@sinavip4.cnavippanel.com:8090?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-109124
 vless://73eed38e-09ea-4c07-aa95-c53684400d68@91.107.160.130:33819?security=&encryption=none&headerType=none&type=tcp#Khodemoni-108924
 vless://fb35b76f-0319-4382-bb92-2dee3bf85e0d@cof.gametvr.ir:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=cloud.pedramhost.ir#Khodemoni-108908
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.249:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=enterprisekitten.com&type=tcp#Khodemoni-107920
