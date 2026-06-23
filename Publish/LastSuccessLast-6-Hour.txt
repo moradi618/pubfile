@@ -1,3 +1,4 @@
+vless://Telegram%3ATurboConfigs@45.74.159.218:2035?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-107879
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.17.25.173:443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#Khodemoni-088733
 vless://651c68a7-fb5b-46d9-a8c4-a3642f5f8ce4@91.107.177.111:44714?path=%2FTelegram-FAST78_CHANNEL--Telegram-FAST78_CHANNEL--Telegram-FAST78_CHANNEL--Telegram-FAST78_CHANNEL--Telegram-FAST78_CHANNEL&security=none&encryption=none&type=ws#Khodemoni-107876
 vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@betty.ns.cloudflare.com:443?encryption=none&fp=chrome&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=amooaliii.net&type=ws#Khodemoni-089050
