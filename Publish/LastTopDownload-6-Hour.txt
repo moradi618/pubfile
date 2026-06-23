@@ -3,6 +3,7 @@ vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?encryption=non
 vless://Telegram%3ATurboConfigs@45.74.159.218:2035?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-107879
 vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?security=none&encryption=none&headerType=none&fp=firefox&type=tcp#Khodemoni-090379
 vless://5d349e00-453c-49c6-9f60-324e5d4d2482@185.147.27.105:80?path=%2F&security=&encryption=none&fp=firefox&type=ws#Khodemoni-096018
+trojan://cqz67xapwvzf52zq@91.107.165.205:26?security=none&type=tcp#Khodemoni-107911
 vless://9f45695f-0848-4d9d-9fac-949efdf2dc0b@185.147.27.105:80?encryption=none&type=ws&security=none&path=/#Khodemoni-107569
 vless://06287fd2-c6af-49ab-9e48-451bd0eee1d4@85.198.10.213:5050?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-094983
 vless://8c733dfd-07a4-4ad5-8b28-07ca0e57deda@185.147.27.105:80?security=&encryption=none&type=ws#Khodemoni-094397
