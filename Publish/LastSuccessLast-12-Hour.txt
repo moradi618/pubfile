@@ -1,3 +1,4 @@
+vless://Telegram%3ATurboConfigs@45.74.158.246:443?security=reality&encryption=none&pbk=LBY0XERNoJ_3Rxh5dqla6JAZQQ98XuDCnO97uU5B9wY&host=play.google.com&headerType=http&fp=chrome&spx=%2F3DyuMMfhHg60njD&type=tcp&sni=play.google.com&sid=a44a2f#Khodemoni-109527
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNaVcwRDRRQU5YRjI1TDVCRGU2d1dPZWxnMFhCVDM1WA@5.189.203.197:2055#Khodemoni-109501
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@103.160.204.140:80?path=Telegram%20%40VPNine1&security=none&encryption=none&host=s5.868001.xyz&type=ws#Khodemoni-109520
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@104.254.140.140:80?encryption=none&security=none&type=ws&host=s5.868001.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#Khodemoni-109517
