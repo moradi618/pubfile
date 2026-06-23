@@ -1,3 +1,4 @@
+trojan://humanity@104.16.174.71:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=%2Fassignment#Khodemoni-090296
 vless://ed40d506-0489-4924-8fe9-f7a1bf3a3107@cdn2.iostops.com:443?encryption=none&type=xhttp&mode=auto&host=trcdn1.iostops.com&path=/login&security=tls&fp=chrome&sni=trcdn1.iostops.com&alpn=http/1.1,h2#Khodemoni-107986
 vless://85da21e8-89dd-5eb7-6508-0f543b785c2d@172.64.81.191:443?encryption=none&security=tls&sni=delicate-scene-1fac.alferedoo123soosis.workers.dev&fp=chrome&type=ws&host=delicate-scene-1fac.alferedoo123soosis.workers.dev&path=/soosis&allowInsecure=0#Khodemoni-107961
 trojan://85da21e8-89dd-5eb7-6508-0f543b785c2d@104.19.112.106:8080?encryption=none&security=none&sni=delicate-scene-1fac.alferedoo123soosis.workers.dev&fp=chrome&type=ws&host=delicate-scene-1fac.alferedoo123soosis.workers.dev&path=/soosis&allowInsecure=0#Khodemoni-107965
@@ -218,7 +219,6 @@ vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@betty.ns.cloudflare.com:443?path=%2
 vless://20cefac1-4d7f-4618-97f3-1ffece7135ee@104.21.76.128:443?path=%2F&security=tls&encryption=none&insecure=0&host=darkwiki20.darkwiki200.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=darkwiki20.darkwiki200.workers.dev#Khodemoni-095087
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@104.26.14.137:8080?path=%2F&security=none&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#Khodemoni-107054
 trojan://bpb-trojan@172.67.135.88:443?path=%2Ftr%3Fed%3D2560&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=vless.herogoing.top#Khodemoni-095558
-vless://8c528c28-141a-9b18-a718-5040fcbb00a6@wandering-mode-754c.pashashams99.workers.dev:443?path=%2Fsync&security=tls&encryption=none&insecure=0&host=wandering-mode-754c.pashashams99.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=wandering-mode-754c.pashashams99.workers.dev#Khodemoni-107048
 trojan://bpb-trojan@172.67.135.88:443?path=%2Ftr%3Fed%3D2560&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=vless.herogoing.top#Khodemoni-095555
 trojan://humanity@104.18.152.246:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#Khodemoni-095157
 trojan://humanity@104.18.152.246:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#Khodemoni-095158
@@ -243,9 +243,7 @@ trojan://humanity@172.64.146.28:443?path=%2Fassignment&security=tls&insecure=1&f
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@160.153.137.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#Khodemoni-106888
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@betty.ns.cloudflare.com:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&fp=chrome&type=ws&allowInsecure=0&sni=vangoghhh.info#Khodemoni-094809
 trojan://humanity@172.64.146.28:443?path=%2Fassignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.gossipglove.com#Khodemoni-095052
-vless://394389d7-0110-411e-86b1-7fce866db43d@hentai-cdn.apruxdomain.xyz:80?type=ws#Khodemoni-106946
 trojan://humanity@172.64.146.1:443?path=%2Fassignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.gossipglove.com#Khodemoni-095082
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@www.speedtest.org:443?path=%2Frsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&fp=chrome&type=ws&allowInsecure=0&sni=shegeftihaaa.net#Khodemoni-094925
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@betty.ns.cloudflare.com:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&fp=chrome&type=ws&allowInsecure=0&sni=vangoghhh.info#Khodemoni-094811
 vless://9770fce0-0b88-590f-992d-7dac8625d360@195.231.60.106:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=winq35461s-19523160106-direct.irgame.co#Khodemoni-094577
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@172.64.32.75:443?path=%2Fodiyfws&security=tls&encryption=none&insecure=0&host=octopusss.net&fp=chrome&type=ws&allowInsecure=0&sni=octopusss.net#Khodemoni-094964
