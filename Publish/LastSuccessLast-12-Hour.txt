@@ -1,3 +1,4 @@
+trojan://humanity@104.16.174.71:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=%2Fassignment#Khodemoni-090296
 vless://ed40d506-0489-4924-8fe9-f7a1bf3a3107@cdn2.iostops.com:443?encryption=none&type=xhttp&mode=auto&host=trcdn1.iostops.com&path=/login&security=tls&fp=chrome&sni=trcdn1.iostops.com&alpn=http/1.1,h2#Khodemoni-107986
 vless://85da21e8-89dd-5eb7-6508-0f543b785c2d@172.64.81.191:443?encryption=none&security=tls&sni=delicate-scene-1fac.alferedoo123soosis.workers.dev&fp=chrome&type=ws&host=delicate-scene-1fac.alferedoo123soosis.workers.dev&path=/soosis&allowInsecure=0#Khodemoni-107961
 trojan://85da21e8-89dd-5eb7-6508-0f543b785c2d@104.19.112.106:8080?encryption=none&security=none&sni=delicate-scene-1fac.alferedoo123soosis.workers.dev&fp=chrome&type=ws&host=delicate-scene-1fac.alferedoo123soosis.workers.dev&path=/soosis&allowInsecure=0#Khodemoni-107965
