@@ -1940,8 +1940,8 @@ vless://51d6e77c-c3cd-4a58-98ad-6d60a372400a@hentai-cdn.apruxdomain.xyz:80?secur
 vless://c8c0a619-74ad-4365-9ca6-65af13e7739c@hentai-cdn.apruxdomain.xyz:80?security=&encryption=none&type=ws#Khodemoni-094094
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkR2hwZHRWRHd5Q05zQTRn@20.166.91.10:443?outline=1&prefix=POST%20i33d3f1s#Khodemoni-094095
 vless://92c3e2ac-c521-4065-9129-f61752c09808@hentai-cdn.apruxdomain.xyz:80?security=&encryption=none&type=ws#Khodemoni-094008
-vless://ed8094c5-1232-4cbc-9c4b-d9a0684e388b@hentai-cdn.apruxdomain.xyz:80?security=&encryption=none&fp=firefox&type=ws#Khodemoni-094077
 vless://e52fedb7-befe-4615-a53e-89d446f74bf4@80.78.245.227:80?encryption=none&host=rutube.globaledgenet.com&path=%2Frutube&security=none&type=ws#Khodemoni-093986
+vless://ed8094c5-1232-4cbc-9c4b-d9a0684e388b@hentai-cdn.apruxdomain.xyz:80?security=&encryption=none&fp=firefox&type=ws#Khodemoni-094077
 vmess://eyJhZGQiOiJzaW5hdmlwLmNuYXZpcHBhbmVsLmNvbSIsImFpZCI6IjAiLCJob3N0IjoicGxheS5nb29nbGUuY29tIiwiaWQiOiI0ZWM4ZDFmNy0yMWVmLTQ2N2MtYWM2Yi00ODAzYWFmN2JkYjciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOjE1MTQsInBzIjoiS2hvZGVtb25pLTA5Mzk0MyIsInNjeSI6ImF1dG8iLCJ0bHMiOiJub25lIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 vless://906762f6-ad63-4916-b675-3bb2921a58f9@hentai-cdn.apruxdomain.xyz:80?security=&encryption=none&type=ws#Khodemoni-094084
 vless://8216a78c-218c-405e-9216-a1d0afc90e57@hentai-cdn.apruxdomain.xyz:80?security=&encryption=none&type=ws#Khodemoni-094122
