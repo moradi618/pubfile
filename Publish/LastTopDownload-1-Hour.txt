@@ -7,6 +7,7 @@ ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TWFINm51L2prWm1ZdXNrVkpXekdKUT09Oi9KaVFDU21
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TWFINm51L2prWm1ZdXNrVkpXekdKUT09Oi9KaVFDU21lMWQxU3dVTUVqdlRuZWc9PQ==@92.242.196.173:443#Khodemoni-109168
 vless://6e7ebc40-58a6-c567-4ae8-51b7605a272b@www.ar3.plusmusical8.ir:8880?encryption=none&security=none&type=httpupgrade&host=cdn-pro1.topshopingg.com.&path=%2F%3Fed%3D2082#Khodemoni-090617
 trojan://telegram-id-directvpn@13.36.118.76:22223?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#Khodemoni-109276
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNaVcwRDRRQU5YRjI1TDVCRGU2d1dPZWxnMFhCVDM1WA@5.189.203.197:2055#Khodemoni-109501
 vless://737fa505-90cc-4234-93a4-ac8a2aaaf723@uae.codesystem.ir:8080?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Khodemoni-109444
 vless://1625be68-8ed9-47b5-ab00-0d03c27f9082@86.38.214.77:2096?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=c.tiptop-3.top&mode=auto&sni=c.tiptop-3.top#Khodemoni-109141
 trojan://aR9EJWEB2Jp3m6xKJK%3DCt7kLyqFSU-iDBR@92.119.35.123:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#Khodemoni-109155
