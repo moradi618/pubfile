@@ -39,4 +39,5 @@ vmess://eyJhZGQiOiJzaW5hdmlwMi5jbmF2aXBwYW5lbC5jb20iLCJhaWQiOiIwIiwiaG9zdCI6InBs
 vless://Telegram%3AX_RAY_VPN1@45.74.158.246:8443?encryption=none&type=tcp&security=reality&headerType=none&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=oitYj2sYOanSBldmUzl3gRw4dfWPVmwO74eTjFWgWRI&sid=2125d7ff&spx=/#Khodemoni-109319
 vless://8f7a9509-561c-41b3-ae97-97793a74460e@sinavip4.cnavippanel.com:8090?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-109124
 vless://8f7a9509-561c-41b3-ae97-97793a74460e@sinavip6.cnavippanel.com:8092?security=none&type=tcp&headerType=http&path=%2F&host=#Khodemoni-109126
+vless://1dd5f2be-f124-4f35-9239-8abc042829c2@77.110.110.81:14302?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.samsung.com&fp=firefox&pbk=lw7-Msn5E2O6HbBdqMw9SvoDJgbDIvHss0UVQ9iZFRc&sid=106f1604d65bb70c&type=tcp&headerType=none#Khodemoni-107491
 vless://Telegram%3ATurboConfigs@45.74.158.246:8443?encryption=none&type=tcp&security=reality&headerType=none&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=oitYj2sYOanSBldmUzl3gRw4dfWPVmwO74eTjFWgWRI&sid=2125d7ff&spx=/#Khodemoni-109342
