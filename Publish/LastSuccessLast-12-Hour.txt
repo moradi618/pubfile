@@ -1,3 +1,4 @@
+vless://85da21e8-89dd-5eb7-6508-0f543b785c2d@104.19.112.106:8080?encryption=none&security=none&sni=delicate-scene-1fac.alferedoo123soosis.workers.dev&fp=chrome&type=ws&host=delicate-scene-1fac.alferedoo123soosis.workers.dev&path=/soosis&allowInsecure=0#Khodemoni-107960
 vless://5b56647e-ec7a-42df-bee2-1269f82265c0@ser8.fredomiran.com:443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=panel.fredomiran.com&mode=auto&path=%2F&security=tls&sni=panel.fredomiran.com&type=xhttp&x_padding_bytes=100-1000#Khodemoni-088567
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#Khodemoni-080079
 vless://ceb0c850-a5a8-41ea-afc7-1fc8f0cc4391@s4.eldoradu.ir:2053?path=%2F&security=tls&encryption=none&insecure=0&host=xlsf.sellink.ir&fp=chrome&type=ws&allowInsecure=0&sni=xlsf.sellink.ir#Khodemoni-081895
@@ -1275,8 +1276,8 @@ vless://51d6e77c-c3cd-4a58-98ad-6d60a372400a@hentai-cdn.apruxdomain.xyz:80?secur
 vless://c8c0a619-74ad-4365-9ca6-65af13e7739c@hentai-cdn.apruxdomain.xyz:80?security=&encryption=none&type=ws#Khodemoni-094094
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkR2hwZHRWRHd5Q05zQTRn@20.166.91.10:443?outline=1&prefix=POST%20i33d3f1s#Khodemoni-094095
 vless://92c3e2ac-c521-4065-9129-f61752c09808@hentai-cdn.apruxdomain.xyz:80?security=&encryption=none&type=ws#Khodemoni-094008
-vless://e52fedb7-befe-4615-a53e-89d446f74bf4@80.78.245.227:80?encryption=none&host=rutube.globaledgenet.com&path=%2Frutube&security=none&type=ws#Khodemoni-093986
 vless://ed8094c5-1232-4cbc-9c4b-d9a0684e388b@hentai-cdn.apruxdomain.xyz:80?security=&encryption=none&fp=firefox&type=ws#Khodemoni-094077
+vless://e52fedb7-befe-4615-a53e-89d446f74bf4@80.78.245.227:80?encryption=none&host=rutube.globaledgenet.com&path=%2Frutube&security=none&type=ws#Khodemoni-093986
 vless://906762f6-ad63-4916-b675-3bb2921a58f9@hentai-cdn.apruxdomain.xyz:80?security=&encryption=none&type=ws#Khodemoni-094084
 vless://8216a78c-218c-405e-9216-a1d0afc90e57@hentai-cdn.apruxdomain.xyz:80?security=&encryption=none&type=ws#Khodemoni-094122
 vless://dba2a5dc-3b84-463a-aba4-8e4b53a69f8b@hentai-cdn.apruxdomain.xyz:80?security=&encryption=none&fp=firefox&type=ws#Khodemoni-093992
