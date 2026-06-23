@@ -1,12 +1,15 @@
 vless://Telegram%3AX_RAY_VPN1@45.74.159.218:2035?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-106801
-vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?encryption=none&type=ws&path=%2F&host=azsv1.drpingservice.com#Khodemoni-082627
+vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?encryption=none&security=none&type=ws&host=azsv1.drpingservice.com&path=%2F#Khodemoni-081861
 vless://Telegram%3ATurboConfigs@45.74.159.218:2035?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-107879
 vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@176.223.66.59:8080?security=none&encryption=none&host=play.google.com%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#Khodemoni-107740
+vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?encryption=none&type=ws&path=%2F&host=azsv1.drpingservice.com#Khodemoni-082627
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1SWk0N3dGdWJndjUydG5SNUsyN2hXSGlZcl9acUh6WQ==@p4.hoomankh.info:1080#Khodemoni-106849
+vmess://eyJhZGQiOiI5My4xMjYuNjAuMTkwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJaSkpVRXo5eTVwYld5MGxvTUtqR1oudmlyYWtvei5pciIsImlkIjoiYmFmM2UwZjUtYzBiZC00ZjFjLThjMjQtZGYzMDVhNjM0YWIwIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoieGh0dHAiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6Iktob2RlbW9uaS0xMDc4ODkiLCJzY3kiOiJhdXRvIiwic25pIjoiWkpKVUV6OXk1cGJXeTBsb01LakdaLnZpcmFrb3ouaXIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInYiOiIyIn0=
 vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@176.223.66.59:8080?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-107636
 vless://1b428bb8-5f14-470d-8d2b-67808901da6d@85.234.65.77:8088?encryption=none&headerType=http&host=&path=%2F&security=none&type=tcp#Khodemoni-106305
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080#Khodemoni-009585
 vless://1b428bb8-5f14-470d-8d2b-67808901da6d@85.234.65.77:8088?security=none&encryption=none&headerType=http&type=tcp#Khodemoni-106219
+vmess://eyJhZGQiOiI5My4xMjYuNjAuMTgyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJIODN1WDl5bXVqYVJ2T21UdTkwSi52aXJha296LmlyIiwiaWQiOiJiYWYzZTBmNS1jMGJkLTRmMWMtOGMyNC1kZjMwNWE2MzRhYjAiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ4aHR0cCIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoiS2hvZGVtb25pLTEwNzg4OCIsInNjeSI6ImF1dG8iLCJzbmkiOiJIODN1WDl5bXVqYVJ2T21UdTkwSi52aXJha296LmlyIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
 vless://a48c736e-d3de-47b8-a6eb-ef1d6fd34c63@84.201.148.58:2777?security=reality&encryption=none&pbk=HyxhIAJ1VbVX77n76vXAps81yWRVbKCr8AC_71sM5Ao&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=0f4dacf08722a29f#Khodemoni-107034
 vless://a48c736e-d3de-47b8-a6eb-ef1d6fd34c63@84.201.176.245:2777?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=ads.x5.ru&pbk=HyxhIAJ1VbVX77n76vXAps81yWRVbKCr8AC_71sM5Ao&sid=0f4dacf08722a29f#Khodemoni-106950
 vless://a48c736e-d3de-47b8-a6eb-ef1d6fd34c63@84.201.141.52:2777?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=HyxhIAJ1VbVX77n76vXAps81yWRVbKCr8AC_71sM5Ao&sid=0f4dacf08722a29f#Khodemoni-106974
@@ -45,7 +48,6 @@ vless://a48c736e-d3de-47b8-a6eb-ef1d6fd34c63@disk.api-yandex.net:2777?type=tcp&s
 vless://c0c1fec4-7583-4bc9-975b-d010529ab683@MCI.OVERPING.IR:2052?security=none&encryption=none&host=CDN.OVERSTORE.IR&type=httpupgrade#Khodemoni-106843
 trojan://MITIVPN@199.232.78.157:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=1&host=mitivpn--4.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=global.fastly.com#Khodemoni-106659
 vless://8658fe29-466b-41d9-b1f9-05c268054f87@de-1.coinbridge.nl:443?mode=gun&security=reality&encryption=none&pbk=kPBXTe2KCp55GrHS_qU_sF7ohUcT8Vu-e8i6Yd9MERI&fp=chrome&type=grpc&serviceName=data-sync&sni=google.com&sid=d5c7f84e37e0c12d#Khodemoni-094717
-vless://0dd1365f-4765-4502-a20d-1e09516ae8f5@45.146.131.154:8548?encryption=none&security=reality&type=grpc&serviceName=service&mode=multi&fp=chrome&sni=www.microsoft.com&pbk=4IOWxdtudwyVdmZl1Z2CINSbYHgMk94Bet0hVlgkrXo&sid=c4e8a1f29b3d6075#Khodemoni-092638
 vless://0dd1365f-4765-4502-a20d-1e09516ae8f5@45.146.131.154:8549?encryption=none&security=reality&type=grpc&serviceName=service&mode=multi&fp=chrome&sni=www.microsoft.com&pbk=4IOWxdtudwyVdmZl1Z2CINSbYHgMk94Bet0hVlgkrXo&sid=c4e8a1f29b3d6075#Khodemoni-092448
 vless://6e7ebc40-58a6-c567-4ae8-51b7605a272b@www.speedtest.net:8880?encryption=none&security=none&type=httpupgrade&host=wwwwch.giftin1404.com.&path=%2F%3Fed%3D2082#Khodemoni-090286
 vless://8658fe29-466b-41d9-b1f9-05c268054f87@de-1.coinbridge.nl:443?mode=gun&security=reality&encryption=none&pbk=kPBXTe2KCp55GrHS_qU_sF7ohUcT8Vu-e8i6Yd9MERI&fp=random&type=grpc&serviceName=data-sync&sni=google.com&sid=d5c7f84e37e0c12d#Khodemoni-090030
