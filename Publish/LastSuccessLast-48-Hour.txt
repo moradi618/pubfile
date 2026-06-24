@@ -146,8 +146,8 @@ vless://48341628-ba4f-4c1b-a58c-802d1e4f48e6@hentai-cdn.apruxdomain.xyz:80?secur
 vless://732914bc-a7ff-4cb0-a8d0-40a67fda19ff@hentai-cdn.apruxdomain.xyz:80?security=&encryption=none&type=ws#Khodemoni-095692
 vless://d1e2cc62-a7e0-483d-9553-6511bcdfe727@hentai-cdn.apruxdomain.xyz:80?security=&encryption=none&type=ws#Khodemoni-095814
 vless://906762f6-ad63-4916-b675-3bb2921a58f9@hentai-cdn.apruxdomain.xyz:80?security=&encryption=none&fp=firefox&type=ws#Khodemoni-095856
-vless://e18dfd9f-15e3-41c0-b779-20b9d68a527e@hentai-cdn.apruxdomain.xyz:80?security=&encryption=none&fp=firefox&type=ws#Khodemoni-095830
 vless://bc475fa1-29c3-48fe-a78b-18367bdf4338@hentai-cdn.apruxdomain.xyz:80?security=&encryption=none&type=ws#Khodemoni-095798
+vless://e18dfd9f-15e3-41c0-b779-20b9d68a527e@hentai-cdn.apruxdomain.xyz:80?security=&encryption=none&fp=firefox&type=ws#Khodemoni-095830
 vless://7d577d3b-71ff-4a12-99e5-b7662c92a9f1@hentai-cdn.apruxdomain.xyz:80?security=&encryption=none&fp=firefox&type=ws#Khodemoni-095804
 vless://48341628-ba4f-4c1b-a58c-802d1e4f48e6@hentai-cdn.apruxdomain.xyz:80?security=&encryption=none&type=ws#Khodemoni-095737
 vless://05012964-6d5e-4d6b-b1f0-d8ad91f293b8@hentai-cdn.apruxdomain.xyz:80?security=&encryption=none&type=ws#Khodemoni-095870
@@ -341,8 +341,8 @@ vless://8044e8fa-7509-f303-a2b3-a288ad6487e9@cd3.videobazi.com:443?path=%2Fsync&
 vless://e241d34c-647b-4545-b414-bc4cfafa24ac@185.92.223.128:41022?mode=gun&security=&encryption=none&authority=www.mega.io&type=grpc&serviceName=www.google.com%3A443#Khodemoni-107949
 vless://33de2596-d95d-412b-a8c2-410be7060ca3@72.56.32.211:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sellflow.org#Khodemoni-095741
 vless://a48c736e-d3de-47b8-a6eb-ef1d6fd34c63@disk.api-yandex.net:2777?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=HyxhIAJ1VbVX77n76vXAps81yWRVbKCr8AC_71sM5Ao&sid=0f4dacf08722a29f&type=tcp&headerType=none#Khodemoni-107209
-vless://0a8ee840-04cb-443b-ba6a-fd5effb9e13b@213.165.55.34:2083?security=reality&encryption=none&pbk=gdF-IDuq4kWMmxwoYgzgpFpCPYOCchygPn22g5_OB3M&headerType=none&fp=chrome&spx=%2Fb9OzJAZW8mS5jvr&type=tcp&sni=www.amd.com&sid=df2422d3#Khodemoni-107945
 vless://8dddaa4c-4d49-41bb-9fb4-05ae35bc50ec@185.147.27.105:80?encryption=none&type=ws&security=none&path=%2F#Khodemoni-107226
+vless://0a8ee840-04cb-443b-ba6a-fd5effb9e13b@213.165.55.34:2083?security=reality&encryption=none&pbk=gdF-IDuq4kWMmxwoYgzgpFpCPYOCchygPn22g5_OB3M&headerType=none&fp=chrome&spx=%2Fb9OzJAZW8mS5jvr&type=tcp&sni=www.amd.com&sid=df2422d3#Khodemoni-107945
 vless://bbab81f3-87a0-4e63-8b3b-010c645d8da7@www.speedtest.net:443?mode=stream-one&path=%2Fmeti&security=tls&encryption=none&extra=%7B%22uplinkHTTPMethod%22%3A%22PUT%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=HeTZ4-1Y751ohl.LnewAPDOMINFastLOGIn2.orG&fp=chrome&type=xhttp&allowInsecure=0&sni=HeTZ4-1Y751ohl.LnewAPDOMINFastLOGIn2.orG#Khodemoni-107981
 vless://6fcc5005-7f67-4cbb-87cf-c734b2e87a7f@5.187.6.30:8443?path=%2Fproxyip%3D45.150.108.59&security=tls&encryption=none&host=nova-mango-portal-b9ac.nova-f8af73.workers.dev&fp=chrome&type=ws&sni=nova-mango-portal-b9ac.nova-f8af73.workers.dev#Khodemoni-107996
 vless://d1e2cc62-a7e0-483d-9553-6511bcdfe727@185.147.27.105:80?fp=firefox&security=none&type=ws#Khodemoni-106845
