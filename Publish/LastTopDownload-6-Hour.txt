@@ -4,10 +4,10 @@ vless://0a715ede-593a-4018-8406-66e2c3b1169c@89.106.64.15:7000?encryption=none&s
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2U2plQWpYY0Ryb3ZFNDVTME55Q0dnUWZJUUxTRlYwNEp5TWhNdG1aaUdRPQ@e1.cover20.ir:51570?type=tcp#Khodemoni-107674
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplbVVxQUxDVkM4THY0VEdpR0JaYmRZQnNXeUtQSTF6VWpraDhzMlNHcU5nPQ%3D%3D@e3.cover20.ir:56985#Khodemoni-107675
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TWFINm51L2prWm1ZdXNrVkpXekdKUT09Oi9KaVFDU21lMWQxU3dVTUVqdlRuZWc9PQ==@92.242.196.172:443#Khodemoni-109148
-vless://a120d57e-f5c3-46c0-bb72-c84c025523e3@172.67.223.243:80?encryption=none&security=none&type=ws&host=1.ez-b5f226.workers.dev&path=%2FeyJqdW5rIjoieDVSc2xEeElJM2wiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#Khodemoni-091279
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwZjFCb3pzSUZhSmVLOXlWYXJhZVBQTWRPTU81aWF1Rm0yM3c0K0ZmcWNrPQ%3D%3D@e2.cover20.ir:30874#Khodemoni-107677
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TWFINm51L2prWm1ZdXNrVkpXekdKUT09Oi9KaVFDU21lMWQxU3dVTUVqdlRuZWc9PQ==@92.242.196.166:443#Khodemoni-109147
 vless://5b721433-6f61-41e9-846a-9d463965efb8@pr-1.easyodin.ir:80?encryption=none&headerType=http&host=&path=%2F&security=none&type=tcp#Khodemoni-109596
+vless://a120d57e-f5c3-46c0-bb72-c84c025523e3@172.67.223.243:80?encryption=none&security=none&type=ws&host=1.ez-b5f226.workers.dev&path=%2FeyJqdW5rIjoieDVSc2xEeElJM2wiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#Khodemoni-091279
 vless://%40Net2ray@85.198.15.137:6666?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-109196
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080#Khodemoni-109122
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwZjFCb3pzSUZhSmVLOXlWYXJhZVBQTWRPTU81aWF1Rm0yM3c0K0ZmcWNrPQ@e2.cover20.ir:30874?type=tcp#Khodemoni-107678
