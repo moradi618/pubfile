@@ -5,6 +5,7 @@ vless://cefd668f-5ef4-4133-9d17-58d12918cedf@vip.cafearef.ir:10001?security=&enc
 vless://2c745da3-f69f-4268-810e-389e935412e9@167.104.55.25:35401?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-114759
 vless://@Net2ray@45.84.157.122:6666?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-110721
 vless://%40Net2ray@45.84.157.122:6666?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-108584
+vless://7521b247-9b73-46ab-8bae-341ee17f2efc@185.143.235.201:80?path=%2F&security=none&encryption=none&host=t1i6.niropardaz.ir&type=ws#Khodemoni-116048
 vless://11c67dde-905e-4d34-8f6c-e0c6d71a86f9@ns2.zabidat.ir:2096?security=tls&type=xhttp&headerType=&path=&host=final.ikoochi.ir&mode=auto&extra=%7B%22scMaxEachPostBytes%22:%201000000,%20%22scMaxConcurrentPosts%22:%20100,%20%22scMinPostsIntervalMs%22:%2030,%20%22xPaddingBytes%22:%20%22100-1000%22,%20%22noGRPCHeader%22:%20false%7D&sni=final.ikoochi.ir&fp=chrome#Khodemoni-114666
 vless://b11e7062-4508-4188-9d66-e48c66e6a4f9@old2.v2xpin.de:8443?mode=auto&path=%2Frandom&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=base2.korvian.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=base2.korvian.ir#Khodemoni-115357
 vless://7521b247-9b73-46ab-8bae-341ee17f2efc@185.143.235.201:80?encryption=none&security=none&type=ws&headerType=none&path=%2F&host=t1i6.niropardaz.ir#Khodemoni-115877
