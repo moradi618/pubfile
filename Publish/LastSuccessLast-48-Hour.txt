@@ -583,8 +583,8 @@ vless://0058c215-ab1e-400c-a403-b5b2fda7e846@cd4.videobazi.com:8080?path=%2F&sec
 vless://77f5211d-055e-494c-af83-4ae460d982b3@free1.ziroxcompany.ir:8880/?type=grpc&encryption=none&flow=&serviceName=%2Fdashboard&security=tls&sni=free.ziroxcompany.ir&alpn=h2%2Chttp%2F1.1&fp=chrome#Khodemoni-090967
 ss://YWVzLTI1Ni1nY206d2MvZXFSUHJZam54ZkFKMkpLbmlvN2NHMktvOUs5RGlNd3pvblJqVTNMST0=@103.130.147.40:1122#Khodemoni-067024
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.238:8443/?type=tcp&encryption=none&flow=&security=tls&sni=cdn9-33.vk-cdnvideo.com#Khodemoni-076380
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.242:8443/?type=tcp&encryption=none&flow=&security=tls&sni=cdn9-33.vk-cdnvideo.com#Khodemoni-076454
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.145.202:443?path=%2F%3FTELEGRAM-YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy%3Fed%3D512&security=tls&encryption=none&host=t1s1.rittbo.kdns.fr&type=ws&sni=t1s1.rittbo.kdns.fr#Khodemoni-092689
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.242:8443/?type=tcp&encryption=none&flow=&security=tls&sni=cdn9-33.vk-cdnvideo.com#Khodemoni-076454
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.119:8443/?type=tcp&encryption=none&flow=&security=tls&sni=cdn9-33.vk-cdnvideo.com#Khodemoni-076402
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.145.202:443?allowInsecure=1&encryption=none&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#Khodemoni-080377
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.145.202:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2048&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#Khodemoni-087594
