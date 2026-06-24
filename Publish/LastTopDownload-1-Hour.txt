@@ -1,5 +1,6 @@
 vless://3a0e37f7-b83b-4db2-838a-b93bd5ed7a39@80.249.112.235:8081?encryption=mlkem768x25519plus.native.0rtt.BcBXsL1S8mZsNZGovADooXdMgHAi56vwLb6DlCF0phU&type=tcp&headerType=none#Khodemoni-108526
 vless://2c745da3-f69f-4268-810e-389e935412e9@167.104.55.25:35401?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-114759
+vless://@Net2ray@45.84.157.122:6666?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-110721
 vless://%40Net2ray@45.84.157.122:6666?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-108584
 vless://11c67dde-905e-4d34-8f6c-e0c6d71a86f9@ns2.zabidat.ir:2096?security=tls&type=xhttp&headerType=&path=&host=final.ikoochi.ir&mode=auto&extra=%7B%22scMaxEachPostBytes%22:%201000000,%20%22scMaxConcurrentPosts%22:%20100,%20%22scMinPostsIntervalMs%22:%2030,%20%22xPaddingBytes%22:%20%22100-1000%22,%20%22noGRPCHeader%22:%20false%7D&sni=final.ikoochi.ir&fp=chrome#Khodemoni-114666
 vless://SoonTeam@108.162.195.19:8080?mode=auto&path=/@SoonTeam&security=&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=new.new.new.ab841.com&type=xhttp#Khodemoni-110765
