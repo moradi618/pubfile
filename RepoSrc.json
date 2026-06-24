@@ -54,12 +54,12 @@
   ],
 
   "subs": [
-    { "subName": "MasireSefid", "url": "https://raw.githubusercontent.com/masir-sefid/Sub/main/Telegram-Channel-@Masir_Sefid.txt" },
-    { "subName": "MySub", "url": "https://raw.githubusercontent.com/moradi618/pubfile/refs/heads/main/test.json#test" },
-    { "subName": "iProxyChannel", "url": "https://raw.githubusercontent.com/iProxyChannel/V2ray-Configs/refs/heads/main/sub_plain.txt" },
-    { "subName": "v2FreeHub", "url": "https://raw.githubusercontent.com/v2FreeHub/v2hub-configs/refs/heads/main/Sub-AutoUpdate" },
-    { "subName": "Leviko_V2ray", "url": "https://raw.githubusercontent.com/danesh1118/gwiwgwfgdjdgeiy86wgdbdow6tebdieggohekwbdbmcnxmdkdiegeh5wgdidbskcbdofjktkfks/refs/heads/main/sub" },
-    { "subName": "Config7x", "url": "https://raw.githubusercontent.com/Config7x/Config7x/refs/heads/main/v2ray%20Config7x.txt" },
+    { "___subName___": "MasireSefid", "url": "https://raw.githubusercontent.com/masir-sefid/Sub/main/Telegram-Channel-@Masir_Sefid.txt" },
+    { "___subName___": "MySub", "url": "https://raw.githubusercontent.com/moradi618/pubfile/refs/heads/main/test.json#test" },
+    { "___subName___": "iProxyChannel", "url": "https://raw.githubusercontent.com/iProxyChannel/V2ray-Configs/refs/heads/main/sub_plain.txt" },
+    { "___subName___": "v2FreeHub", "url": "https://raw.githubusercontent.com/v2FreeHub/v2hub-configs/refs/heads/main/Sub-AutoUpdate" },
+    { "___subName___": "Leviko_V2ray", "url": "https://raw.githubusercontent.com/danesh1118/gwiwgwfgdjdgeiy86wgdbdow6tebdieggohekwbdbmcnxmdkdiegeh5wgdidbskcbdofjktkfks/refs/heads/main/sub" },
+    { "___subName___": "Config7x", "url": "https://raw.githubusercontent.com/Config7x/Config7x/refs/heads/main/v2ray%20Config7x.txt" },
 
     { "subName": "", "url": "" },
     { "subName": "", "url": "" },
