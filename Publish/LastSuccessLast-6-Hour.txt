@@ -1,3 +1,4 @@
+trojan://telegram-id-directvpn@15.224.42.113:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-114914
 vless://52b06c93-5a5e-487a-9e1a-b48f3d6f3768@irani.datammr.ir:8081?path=%2F&security=none&encryption=none&host=play.google.com&type=ws#Khodemoni-114863
 vless://2179aaaf-7bfa-483f-a9d1-5ae64978b72b@57.131.128.160:42198?encryption=none&security=none&type=tcp#Khodemoni-114861
 vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@43.153.155.143:2053?path=%2Fproxyip%253Dtw.william.us.ci&security=tls&encryption=none&insecure=0&host=s5.868001.xyz&type=ws&allowInsecure=0#Khodemoni-114862
