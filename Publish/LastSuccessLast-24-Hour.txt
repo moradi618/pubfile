@@ -1,3 +1,5 @@
+vless://@Net2ray@45.84.157.122:6666?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-110721
+vless://@Net2ray@45.84.157.122:5555?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-110720
 vless://3866d9f3-ff23-4551-b157-7420cedba9b9@ez-a215e5.ezaccess155e83c.workers.dev:2053?path=%2F&security=tls&encryption=none&insecure=0&host=ez-a215e5.ezaccess155e83c.workers.dev&fp=random&type=ws&allowInsecure=0&sni=ez-a215e5.ezaccess155e83c.workers.dev#Khodemoni-114776
 vless://3866d9f3-ff23-4551-b157-7420cedba9b9@ez-a215e5.ezaccess155e83c.workers.dev:2083?path=%2F&security=tls&encryption=none&insecure=0&host=ez-a215e5.ezaccess155e83c.workers.dev&fp=random&type=ws&allowInsecure=0&sni=ez-a215e5.ezaccess155e83c.workers.dev#Khodemoni-114777
 vless://3866d9f3-ff23-4551-b157-7420cedba9b9@ez-a215e5.ezaccess155e83c.workers.dev:443?path=%2F&security=tls&encryption=none&insecure=0&host=ez-a215e5.ezaccess155e83c.workers.dev&fp=random&type=ws&allowInsecure=0&sni=ez-a215e5.ezaccess155e83c.workers.dev#Khodemoni-114775
