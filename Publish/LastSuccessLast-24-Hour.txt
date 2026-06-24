@@ -1,3 +1,5 @@
+vless://3ed7abb5-1275-4e47-bfd6-faa1c9dcd3e5@172.67.220.1:2087?alpn=http%2F1.1&encryption=none&fp=chrome&host=login.arshia-nova.ir&path=%2Flogin&security=tls&sni=login.arshia-nova.ir&type=ws#Khodemoni-109580
+vless://a3585167-b919-4067-c770-972d53aedc5e@mpt.com.mm:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=vip.sirsis2.my.id&type=ws&allowInsecure=0&sni=vip.sirsis2.my.id#Khodemoni-109583
 vless://023e0e98-9550-4f6b-9bda-363d3105d407@www.speedtest.net:443?path=%2FeyJqdW5rIjoiUGNrSDQwUGJPbCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=v2ngfast-xas.shimimm.workers.dev&fp=chrome&type=ws&sni=v2NgFast-xaS.ShimImM.WOrkERs.dev#Khodemoni-109551
 vless://777d1a04-942d-4379-be82-476b7fcb74f7@sub.arshia-nova.ir:2087?alpn=http%2F1.1&encryption=none&fp=chrome&host=login.arshia-nova.ir&path=%2Flogin&security=tls&sni=login.arshia-nova.ir&type=ws#Khodemoni-109553
 vless://777d1a04-942d-4379-be82-476b7fcb74f7@173.245.58.84:2087?alpn=http%2F1.1&encryption=none&fp=chrome&host=login.arshia-nova.ir&path=%2Flogin&security=tls&sni=login.arshia-nova.ir&type=ws#Khodemoni-109564
@@ -1750,7 +1752,6 @@ vless://ca294ffd-a985-4862-b20b-3d4dee098918@hentai-cdn.apruxdomain.xyz:80?secur
 vless://6aa17b49-5f3c-47e6-9990-305a8b9f705e@hentai-cdn.apruxdomain.xyz:80?security=&encryption=none&type=ws#Khodemoni-095644
 trojan://humanity@172.66.47.69:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#Khodemoni-095425
 vless://01bda09b-f79a-4e47-b903-acaae59ebfee@185.147.27.105:80?path=%2F&security=&encryption=none&type=ws#Khodemoni-095657
-vless://26ab47c5-d6c2-493b-829c-2eb04c232ea9@hentai-cdn.apruxdomain.xyz:80?security=&encryption=none&type=ws#Khodemoni-095627
 vless://7698fed3-70c6-4938-b2da-e66a76dc44ff@hentai-cdn.apruxdomain.xyz:80?security=&encryption=none&type=ws#Khodemoni-095703
 vless://e9fce5e2-c7e1-43e2-bffa-31a2d183db9a@hentai-cdn.apruxdomain.xyz:80?security=&encryption=none&fp=firefox&type=ws#Khodemoni-095638
 vless://732914bc-a7ff-4cb0-a8d0-40a67fda19ff@hentai-cdn.apruxdomain.xyz:80?security=&encryption=none&type=ws#Khodemoni-095691
@@ -1775,11 +1776,9 @@ vless://6aa17b49-5f3c-47e6-9990-305a8b9f705e@hentai-cdn.apruxdomain.xyz:80?secur
 vless://a51f87d2-3cdd-48ed-9e82-b758b42cdb96@hikvision-plus.com:2052?path=%2Fapi-v1&security=none&encryption=none&host=uwu.blueknightnet.qzz.io&type=ws#Khodemoni-107492
 trojan://humanity@172.66.47.69:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#Khodemoni-095583
 vless://01bda09b-f79a-4e47-b903-acaae59ebfee@185.147.27.105:80?path=%2F&security=&encryption=none&type=ws#Khodemoni-095656
-vless://26ab47c5-d6c2-493b-829c-2eb04c232ea9@hentai-cdn.apruxdomain.xyz:80?security=&encryption=none&type=ws#Khodemoni-095628
 trojan://humanity@188.114.96.250:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#Khodemoni-095545
 vless://1028a267-929a-45ca-a5d8-13dd180941d5@185.147.27.105:80?path=%2F&security=&encryption=none&type=ws#Khodemoni-095664
 trojan://humanity@172.66.47.69:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#Khodemoni-095424
-vless://1dcf4ce9-a7c7-4f14-ba87-a93e46221d18@hikvision-plus.com:2052?encryption=none&security=none&type=ws&host=uwu.blueknightnet.qzz.io&path=%2Fapi-v1#Khodemoni-107509
 trojan://humanity@172.66.47.69:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#Khodemoni-095582
 vless://2e3e24de-b2fe-43ea-a7f0-4ab3379255e3@185.147.27.105:80?type=ws&security=none&fp=firefox#Khodemoni-107622
 trojan://humanity@172.66.47.69:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#Khodemoni-095426
