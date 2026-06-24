@@ -1,3 +1,4 @@
+trojan://humanity@chatgpt.com:443/?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com#Khodemoni-109074
 vless://5b9fbf67-e47c-4a2e-9dc2-f1a7a024a9b8@www.speedtest.net:443?path=/eyJqdW5rIjoiRHFvaXJXdEc2QjF1IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=ezaccess-project-ffd5d4.ez-b75eb6.workers.dev&fp=chrome&type=ws&sni=ezAccESs-pROject-fFD5d4.ez-B75Eb6.WorkeRs.DEV#Khodemoni-108216
 vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@adf.ly:443?security=tls&sni=rAyAn-007.pArViN.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-007.parvin.dpdns.org&encryption=none#Khodemoni-108212
 vless://06081ec9-2f11-4839-bb5b-04764ea922e7@108.162.194.165:2053?mode=packet-up&path=/dl?id=5556&security=tls&encryption=none&insecure=0&host=ca.zarzirzor.ir&fp=random&type=xhttp&allowInsecure=0&sni=ca.zarzirzor.ir#Khodemoni-109316
