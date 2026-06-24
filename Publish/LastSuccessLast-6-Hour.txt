@@ -1,3 +1,6 @@
+vless://d5b30ef2-bd47-49c4-b6bc-a79ab0712477@91.107.158.48:443?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=icloud.com&fp=firefox&pbk=U_rQwdtIdKisGwj3HCTWQyj7gSQgo0lKDn6_mSsh0Bo&sid=6ea7c544fb066c60#Khodemoni-116171
+vless://210637d7-f61c-4d6e-8633-20e7fbe3a215@63.178.21.29:2053?security=reality&encryption=none&pbk=M3ihD-vo-WR0kSek1xhb5vUyWYk-vOS5ZgP083XMMDc&headerType=none&fp=chrome&spx=%2Fv2raybazi&type=tcp&sni=www.amazon.com&sid=77b6#Khodemoni-116170
+vmess://eyJhZGQiOiJjbGllbnQuZ2FtZTRkbnMueHl6IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImRhZWVlZDgwLWJhNmEtNGIyOC05NTE0LTc1MjMzZTMyYjAyZiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzE1MCIsInBzIjoiS2hvZGVtb25pLTExNjE3MiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vless://c2f0a8f0-36fe-4a94-824b-bca271ca642b@104.16.72.70:443?path=%2Fws&security=tls&encryption=none&insecure=0&host=alphacdn.alphashops.shop&fp=chrome&type=ws&allowInsecure=0&sni=alphacdn.alphashops.shop#Khodemoni-114692
 vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@suolar.yellowsky.ir:2053?encryption=none&security=tls&sni=nuren1.aPPleseraj.IR.&type=xhttp&host=nuren1.aPPleseraj.IR.&path=%3Fed%3D2560&fp=chrome#Khodemoni-114697
 vless://c2f0a8f0-36fe-4a94-824b-bca271ca642b@104.16.72.70:443?path=%2Fws&security=tls&encryption=none&host=alphacdn.alphashops.shop&type=ws&sni=alphacdn.alphashops.shop#Khodemoni-114677
@@ -511,7 +514,6 @@ vless://3e488cf9-a685-2997-0b39-3950bf98bcea@tmesubgift.up.railway.app:443?path=
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.49.151:80?path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#Khodemoni-114517
 vless://d26598cf-2cdf-4219-80d0-94646dff160d@206.82.3.131:443?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-114527
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.114.151:80?path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#Khodemoni-114521
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@185.193.29.140:80?type=ws&security=none&fp=chrome&path=Telegram+@WangCai2&host=s5.868001.xyz#Khodemoni-109869
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.122.151:80?path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#Khodemoni-114522
 vless://067a6239-4c7b-4d3a-b085-9fd984a1a43b@tamin.ir:8443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=ws&sni=ghab.dorfaa.ir#Khodemoni-114525
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.110.151:80?allowInsecure=0&type=ws&host=max-gb1.global.ssl.fastly.net&path=/?https://t.me/WangCai2#Khodemoni-110025
@@ -521,11 +523,8 @@ vless://5b56647e-ec7a-42df-bee2-1269f82265c0@ser3.fredomiran.com:443?alpn=h2%2Ch
 vless://fb4a4647-4ed7-4123-972b-7f913bfe8deb@63.180.232.95:443?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=randomized&host=&mode=auto&path=%40namedzadim&pbk=LCrs5y-PFAORDvliIsUgmWNSl-x9amwG1hNd2E_jgSs&security=reality&sid=64f62f25bb4dd7&sni=s.mzstatic.com&spx=%2FDD8q534CDxAh1iT&type=xhttp&x_padding_bytes=100-1000#Khodemoni-114475
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@194.53.53.140:80?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=none&encryption=none&host=s5.868001.xyz&fp=firefox&type=ws#Khodemoni-109799
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@store.ubi.com:443?fp=chrome&host=hhcm.hhxaf.cc.cd&path=%2F&security=tls&sni=hhcm.hhxaf.cc.cd&type=ws#Khodemoni-110059
-vless://5b56647e-ec7a-42df-bee2-1269f82265c0@ser2.fredomiran.com:443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=panel.fredomiran.com&mode=auto&path=%2F&security=tls&sni=panel.fredomiran.com&type=xhttp&x_padding_bytes=100-1000#Khodemoni-088555
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.79.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#Khodemoni-110024
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@store.ubi.com:443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#Khodemoni-109753
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.46.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=%2F#Khodemoni-109930
-vless://a3585167-b919-4067-c770-972d53aedc5e@mpt.com.mm:443?alpn=http%2F1.1&encryption=none&host=vip.sirsis2.my.id&path=%2F&security=tls&sni=vip.sirsis2.my.id&type=ws#Khodemoni-109532
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@www.speedtest.org:443?encryption=none&host=shegeftihaaa.net&path=%2Frsedgws&security=tls&sni=shegeftihaaa.net&type=ws#Khodemoni-109373
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@www.speedtest.org:443?path=%2Frsedgws%23%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&type=ws&allowInsecure=0&sni=shegeftihaaa.net#Khodemoni-109382
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@194.53.53.140:80?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=none&encryption=none&host=s5.868001.xyz&type=ws#Khodemoni-109795
