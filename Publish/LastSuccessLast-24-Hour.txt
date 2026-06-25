@@ -1,3 +1,5 @@
+vless://Telgram%3ATurboConfigs@91.228.227.86:443?security=reality&encryption=none&pbk=LBY0XERNoJ_3Rxh5dqla6JAZQQ98XuDCnO97uU5B9wY&host=play.google.com&headerType=http&fp=firefox&spx=%2FnE4fjnJ7pnDTTzi&type=tcp&sni=play.google.com&sid=ba3034c8e4896385#Khodemoni-130868
+vless://bbab81f3-87a0-4e63-8b3b-010c645d8da7@www.speedtest.net:443?mode=stream-one&path=%2Fmeti%2F%3F%40MARAMBASHI_MARAMBASHI%3Fed%3D2048&security=tls&encryption=none&extra=%7B%22uplinkHTTPMethod%22%3A%22PUT%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=MajID-ApP-3kNus0R6.LneWAPDOMinFasTLogIn2.org&fp=chrome&type=xhttp&allowInsecure=0&sni=MajID-ApP-3kNus0R6.LneWAPDOMinFasTLogIn2.org#Khodemoni-130886
 trojan://SoftNetConnect@83.228.226.164:42549?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.speedtest.net#Khodemoni-132176
 ss://YWVzLTI1Ni1nY206cCtzc2xUdlBSNWpVdUVDWndqYVRMWmlJbUpQVG5jL0J0NG43YytoMXZ5Zz0@85.198.9.136:443?type=tcp#Khodemoni-132165
 trojan://telegram-id-privatevpns@18.197.212.181:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-132171
