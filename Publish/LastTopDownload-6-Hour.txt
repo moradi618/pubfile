@@ -48,8 +48,8 @@ vmess://eyJhZGQiOiJzcHQucmVhdGEuaXIiLCJhaWQiOiIwIiwiaG9zdCI6InNwdC5yZWF0YS5pciIs
 trojan://Mitivpn@151.101.56.6:443?type=ws&security=tls&path=%2Fde%3Dmitivpn&host=4-4-3-mitivpn.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=h2&fp=chrome&insecure=0&allowInsecure=0#Khodemoni-132726
 vless://903123fd-84fd-45d9-abc8-08c83d704224@local.cloud-play.ir:80?mode=packet-up&path=%2F&security=none&encryption=none&host=connectingissues.pl&type=xhttp#Khodemoni-132402
 trojan://MiTiVPN@167.82.101.251:443?path=/nl&security=tls&alpn=http/1.1&insecure=0&host=cdn-mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#Khodemoni-132126
-trojan://MiTiVPN@167.82.101.251:443?path=%2Fnl%3Dmitivpn&security=tls&alpn=http%2F1.1&host=cdn-mitivpn.global.ssl.fastly.net&fp=firefox&type=ws&sni=default.ssl.fastly.net#Khodemoni-132287
 vless://903123fd-84fd-45d9-abc8-08c83d704224@euro.cloud-play.ir:80?mode=packet-up&path=%2F&security=none&encryption=none&host=connectingissues.pl&type=xhttp#Khodemoni-132404
+trojan://MiTiVPN@167.82.101.251:443?path=%2Fnl%3Dmitivpn&security=tls&alpn=http%2F1.1&host=cdn-mitivpn.global.ssl.fastly.net&fp=firefox&type=ws&sni=default.ssl.fastly.net#Khodemoni-132287
 vless://00722148-3d6c-403d-854e-581b105ceffd@www.ietf.org:443?path=%2Fapi%2Fv3%2Fws%2Fevents&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=RigW6bZIE7qM3Iqn.geekylinux.com&fp=chrome&type=ws&allowInsecure=0&sni=0iXGgvWA3b.geekylinux.com#Khodemoni-109187
 trojan://MiTiVPN@151.101.110.219:443?path=%2Fde&security=tls&host=cdn2-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#Khodemoni-131954
 vless://5c9ca141-62fb-4c9a-8ba2-af48afdeafaa@ch-zicid.locations-sub.com:6200?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#Khodemoni-131963
@@ -77,7 +77,6 @@ vless://0b7882c4-4b3d-4ed8-9d70-e0f57a2b7ac6@10telegram.com.zapas.iran.janebical
 vless://9c2dafe8-2d29-4079-92da-fca21b4876aa@vvip.mgwarrior.ir:80?type=ws&security=none&path=/#Khodemoni-132881
 vless://bbab81f3-87a0-4e63-8b3b-010c645d8da7@www.speedtest.net:443?mode=stream-one&path=%2Fmeti%2F%3F%40MARAMBASHI_MARAMBASHI%3Fed%3D2048&security=tls&encryption=none&extra=%7B%22uplinkHTTPMethod%22%3A%22PUT%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=MajID-ApP-3kNus0R6.LneWAPDOMinFasTLogIn2.org&fp=chrome&type=xhttp&allowInsecure=0&sni=MajID-ApP-3kNus0R6.LneWAPDOMinFasTLogIn2.org#Khodemoni-130886
 vless://c1d05f0a-c18c-4490-906c-42d2a20ce694@185.143.235.200:80?encryption=none&security=none&type=ws&host=taraneh.pointspeed.ir&path=%2Farvancloud.ir#Khodemoni-132427
-vless://903123fd-84fd-45d9-abc8-08c83d704224@global.cloud-play.ir:80?mode=packet-up&path=%2F&security=none&encryption=none&host=connectingissues.pl&type=xhttp#Khodemoni-132403
 vless://903123fd-84fd-45d9-abc8-08c83d704224@local.cloud-play.ir:80?encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=connectingissues.pl&mode=packet-up&path=%2F&security=none&type=xhttp&x_padding_bytes=100-1000#Khodemoni-132354
 vless://481969d4-60bc-48ab-9e34-82e6922a4aaa@dl.google.ssl-5.aiteamplus.ir:2083?security=reality&encryption=none&pbk=4OIOh3Ln3d2q3USqev7GGZcOIIMOhXcxtSg2EiBu6Cs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dl.google.com&sid=c005224e81c8ebe3#Khodemoni-132224
 trojan://MiTiVPN@151.101.65.242:443?path=/?ed=2560&Telegram🇨🇳 @VPNine1&security=tls&insecure=0&host=www.f6r.ir&type=ws&allowInsecure=0&sni=www.f6r.ir#Khodemoni-132102
