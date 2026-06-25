@@ -1,3 +1,6 @@
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.16.72.70:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&fp=chrome&type=ws&allowInsecure=0&sni=vangoghhh.info#Khodemoni-131940
+trojan://MiTiVPN@151.101.110.219:443?path=%2Fde&security=tls&host=cdn2-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#Khodemoni-131954
+vless://d8dabd75-ae26-4c27-993e-75a00ff72185@152.70.72.249:80?type=ws&host=dual.abhizzz.net&path=%2Fvless&fp=chrome#Khodemoni-130748
 vless://210637d7-f61c-4d6e-8633-20e7fbe3a215@3.71.19.240:2053?security=reality&encryption=none&pbk=M3ihD-vo-WR0kSek1xhb5vUyWYk-vOS5ZgP083XMMDc&headerType=none&fp=chrome&spx=%2Fv2raybazi&type=tcp&sni=www.amazon.com&sid=77b6#Khodemoni-130001
 vless://3509334e-bda5-4c03-91b3-b0122ae00291@colourful-peach.ir:8443?security=tls&type=xhttp&headerType=&path=%2F&host=mx.khazarservers.ir&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+%221000000%22%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=mx.khazarservers.ir&fp=chrome#Khodemoni-129294
 vless://3509334e-bda5-4c03-91b3-b0122ae00291@colourful-peach.ir:2083?security=tls&type=ws&headerType=&path=%2F&host=mx.khazarservers.ir&sni=mx.khazarservers.ir&fp=chrome#Khodemoni-129341
@@ -7,7 +10,6 @@ vless://bef4c9ac-908d-4ff2-97b3-4ca70f232881@45.134.97.33:50070?security=none&en
 vless://b490830e-b6a4-d468-ad15-6d25d801c462@104.194.144.187:443?path=%2Fnetlivpn&security=tls&encryption=none&insecure=0&host=1.t-me-netlivpn.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=1.t-me-netlivpn.workers.dev#Khodemoni-131932
 vless://481969d4-60bc-48ab-9e34-82e6922a4aaa@dl.google.ssl-4.aiteamplus.ir:2087?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=dl.google.com&fp=chrome&pbk=4OIOh3Ln3d2q3USqev7GGZcOIIMOhXcxtSg2EiBu6Cs&sid=7bbd0412575b0262#Khodemoni-131784
 vless://22973875-4342-4436-887b-639769de87da@104.26.6.159:2053?mode=auto&path=%2Fnjgdx&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=test1.majedtechnical.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=test1.majedtechnical.ir#Khodemoni-131809
-vless://f5b5dccc-35a6-4809-90f3-0db3a7781249@lobgfvdas.dadashinet10.ir:2044?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-131810
 trojan://humanity@104.18.152.229:443?path=/assignment&security=tls&alpn=http/1.1&host=www.calmloud.com&fp=chrome&type=ws&sni=www.calmloud.com#Khodemoni-131803
 vless://db1b568f-8847-42bf-84e5-a51e2e49a786@65.109.179.137:55375?encryption=none&security=none&type=tcp#Khodemoni-131726
 trojan://MiTiVPN@151.101.95.95:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn2-mitivpn.global.ssl.fastly.net&path=/?ed=2560&https://t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3&security=none&type=ws#Khodemoni-131532
