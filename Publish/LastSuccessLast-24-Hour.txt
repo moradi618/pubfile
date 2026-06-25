@@ -1,3 +1,6 @@
+trojan://f922fa0f-3311-4368-85ff-cf65e727c854@104.16.72.70:443?host=space.byu.id.yxls.eu.cc&path=%2Fbr-orcl&sni=space.byu.id.yxls.eu.cc&type=ws#Khodemoni-129068
+trojan://telegram-id-privatevpns@13.39.122.22:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-132543
+trojan://telegram-id-directvpn@13.39.122.22:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-132542
 vless://5b9fbae6-4aef-4282-b14d-3ebdb19d532c@72.56.238.44:443?security=reality&encryption=none&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=4c02bbbfa833b3b6#Khodemoni-132514
 vless://9adb5a9e-ef33-406f-0562-34656d0a3ea2@s2.zynavo.ir:2087?mode=auto&alpn=h3%2Ch2%2Chttp%2F1.1&pcs=02dbd988f959ab1da732a2ededea00a5907badd9ec17f77e2ab72658ddcb8454&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&type=xhttp&security=tls&path=%2FBetForward&allowInsecure=1&host=cdn.zynavo.ir&sni=cdn.zynavo.ir&fp=chrome&encryption=none&insecure=1#Khodemoni-132517
 vless://9ccb3811-dda2-40fb-a799-ec931dd4fe76@91.108.189.227:443?encryption=none&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#Khodemoni-132520
