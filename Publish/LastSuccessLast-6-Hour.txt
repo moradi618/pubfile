@@ -1,3 +1,4 @@
+vless://43488128-319e-f480-64ea-0acdc712e2a8@139.84.236.5:443?type=tcp&security=reality&sni=www.alibaba.com&fp=chrome&flow=xtls-rprx-vision&pbk=UkoqOh9VtAhhMrlKY3wAmijgjCrLIKMZT-An0NjrHng&sid=8d17b7ebab7b99d7#Khodemoni-064085
 vless://aa6aa427-07f2-42a3-b047-f62fbc3e4eef@namavamovie.easyodin.ir:443?encryption=mlkem768x25519plus.native.0rtt.UxOIJ1nGw_VCKG1yctQCba3i2jFNJ7534iVeAExoxk0&security=none&type=tcp&headerType=http&host=play.google.com#Khodemoni-133490
 vless://3311d6f1-dcdd-4b2f-9bc5-90821c99b98d@tr.freepath.ir:2087?encryption=none&security=reality&type=tcp&headerType=none&sni=www.yahoo.com&fp=qq&pbk=Coi4iHem72jt-UfSoMOsPnGI6AL1SjwkkT4SMIm1mHg&sid=b73cff#Khodemoni-133491
 vless://39eb6d15-e27a-4f2e-b865-b49a15b2d5f6@85.234.84.162:443?security=reality&encryption=none&pbk=m0laydpddP-MhAgDbMB_QGrSk4-nrIvDSoIHK_Q8Uy4&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=a796a1f52722b3a5#Khodemoni-133274
@@ -179,7 +180,6 @@ vless://0b7882c4-4b3d-4ed8-9d70-e0f57a2b7ac6@10telegram.com.zapas.iran.janebical
 trojan://MiTiVPN@151.101.110.219:443?path=%2Fde&security=tls&alpn=http%2F1.1&host=cdn2-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#Khodemoni-132288
 trojan://MiTiVPN@151.101.113.242:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&host=www.f6r.ir&type=ws&sni=www.f6r.ir#Khodemoni-132289
 trojan://MiTiVPN@151.101.53.242:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&host=www.f6r.ir&type=ws&sni=www.f6r.ir#Khodemoni-132290
-vless://17c815b6-8f85-444b-8e31-dbc96527a92e@56.228.16.220:2053?security=reality&encryption=none&pbk=fxkVuna7aS4wMJ4w3fO--p3Ltp8vJ_zOApUMFx9WPhI&headerType=none&fp=chrome&spx=%2Fv2raybazi&type=tcp&sni=www.intel.com&sid=17b0df99526856a6#Khodemoni-132192
 trojan://%4d%69%54%69%56%50%4e@151.101.128.128:80?path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=none&host=cdn2-%6d%69%74%69%76%70%6e.global.ssl.fastly.net&type=ws#Khodemoni-132228
 vless://0b7882c4-4b3d-4ed8-9d70-e0f57a2b7ac6@8telegram.com.zapas.iran.janebicall.ir:2087?alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&fp=chrome&host=jojo.blaackgame.ir&path=%2Fxnxx&security=tls&sni=jojo.blaackgame.ir&type=ws#Khodemoni-132280
 trojan://MiTiVPN@167.82.101.251:443?path=%2Fnl%3Dmitivpn&security=tls&alpn=http%2F1.1&host=cdn-mitivpn.global.ssl.fastly.net&fp=firefox&type=ws&sni=default.ssl.fastly.net#Khodemoni-132287
@@ -187,8 +187,6 @@ trojan://%4d%69%54%69%56%50%4e@151.101.128.128:80?path=/?ed=2560&https://t.me/Wa
 trojan://MiTiVPN@151.101.65.242:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&host=www.f6r.ir&type=ws&sni=www.f6r.ir#Khodemoni-132291
 ss://YWVzLTI1Ni1nY206WkdNeVpqRTFPR1U0T0dZNVlURmlOMkV6TVRBMk1qTXdNVGxqWkRVMA@37.32.10.251:11109?prefix=%16%03%01%00%C2%A8%01%01#Khodemoni-132230
 vless://8a53160d-23c4-47a3-8e25-d8f33a65490f@fastly.videobazi.com:80?mode=auto&path=%2F&security=none&encryption=none&host=Marymary.global.ssl.fastly.net&type=xhttp#Khodemoni-132199
-vless://3394c03e-801f-43e0-a08e-6b95b197fec3@104.105.106.57:11470?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-132202
-trojan://MiTiVPN@151.101.113.242:443?security=tls&sni=www.f6r.ir&insecure=0&allowInsecure=0&type=ws&host=www.f6r.ir&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#Khodemoni-132221
 vless://481969d4-60bc-48ab-9e34-82e6922a4aaa@dl.google.ssl-5.aiteamplus.ir:2083?security=reality&encryption=none&pbk=4OIOh3Ln3d2q3USqev7GGZcOIIMOhXcxtSg2EiBu6Cs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dl.google.com&sid=c005224e81c8ebe3#Khodemoni-132224
 vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@43.160.223.69:666?allowInsecure=1&insecure=1&type=ws&security=tls&path=%2Fproxy&host=43.160.223.69&fp=chrome#Khodemoni-130910
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.84:443?type=tcp&security=tls&headerType=none&insecure=1&allowInsecure=1#Khodemoni-130790
