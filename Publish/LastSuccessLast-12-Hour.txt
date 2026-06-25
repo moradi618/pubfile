@@ -1246,8 +1246,8 @@ vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.25.151:80?path=%2F%3Fhttps%
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.17.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=%2F#Khodemoni-109967
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.10.151:80?path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#Khodemoni-114519
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.97.151:80?path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#Khodemoni-114518
-vless://536a80c2-18bd-40ac-b147-dbafc6f8e872@37.49.224.93:443?security=reality&encryption=none&pbk=QWxSKVguwUnPvmYaOR4DvxpmVxCJfPEaipbjdAfAbG4&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=dev.max.ru&sid=c338fe2b01cf271a#Khodemoni-114526
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.49.151:80?path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#Khodemoni-114517
+vless://536a80c2-18bd-40ac-b147-dbafc6f8e872@37.49.224.93:443?security=reality&encryption=none&pbk=QWxSKVguwUnPvmYaOR4DvxpmVxCJfPEaipbjdAfAbG4&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=dev.max.ru&sid=c338fe2b01cf271a#Khodemoni-114526
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.239.151:80?path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#Khodemoni-114513
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.190.151:80?path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#Khodemoni-114524
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.110.151:80?allowInsecure=0&type=ws&host=max-gb1.global.ssl.fastly.net&path=/?https://t.me/WangCai2#Khodemoni-110025
@@ -1640,8 +1640,8 @@ vless://f9255507-1b65-433f-bfd8-193b35e068e2@185.148.105.140:80?path=%2FTelegram
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@185.170.166.140:80?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=&encryption=none&host=s5.868001.xyz&fp=firefox&type=ws#Khodemoni-114181
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@194.53.53.140:80?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=&encryption=none&host=s5.868001.xyz&fp=firefox&type=ws#Khodemoni-114191
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@198.12.145.140:80?path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=&encryption=none&host=s5.868001.xyz&type=ws#Khodemoni-114199
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@185.148.104.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#Khodemoni-114170
 vless://87ace6ba-7c02-46b3-9e4e-61ea450c8ae5@reality1.novmber.ir:262?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-117142
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@185.148.104.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#Khodemoni-114170
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@194.53.53.140:80?path=/Telegram+@VPNine1&security=&encryption=none&host=s5.868001.xyz&type=ws#Khodemoni-114192
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@185.135.9.140:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/Telegram🇨🇳+@WangCai2&security=none&encryption=none&host=s5.868001.xyz&type=ws#Khodemoni-114169
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@185.162.228.140:80?path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=&encryption=none&host=s5.868001.xyz&type=ws#Khodemoni-114179
