@@ -1,3 +1,4 @@
+vless://1c0abb34-4313-4acb-993d-62bf52eace71@fbi.gov:443?path=%2F&security=tls&encryption=none&insecure=0&host=c.downloadphysics.ir&fp=chrome&type=ws&allowInsecure=0&sni=c.downloadphysics.ir#Khodemoni-130798
 vless://05aeebd2-6031-4729-81e0-ebdf20c75f56@57.131.18.123:13355?encryption=none&security=none&type=tcp#Khodemoni-130758
 vless://d7d95e1b-0c38-4553-82e4-6002f472fcd5@57.131.18.123:13355?encryption=none&security=none&type=tcp#Khodemoni-130774
 vless://132fcc60-07eb-4d75-b493-88477638f403@57.131.18.123:13355?encryption=none&security=none&type=tcp#Khodemoni-130759
@@ -99,7 +100,6 @@ vless://06347f8b-44b2-40b5-b498-e7eaabcff088@167.82.101.251:443?mode=auto&path=%
 vless://57ea13b1-50b7-4ef7-951f-17f34316607e@104.16.72.70:8443?encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&fp=chrome&host=sa.sorixset.ir&mode=auto&path=/@IRAN_V2RAY1-@IRAN_V2RAY1-@IRAN_V2RAY1-@IRAN_V2RAY1-@IRAN_V2RAY1-@IRAN_V2RAY1-@IRAN_V2RAY1-&security=tls&sni=sa.sorixset.ir&type=xhttp&x_padding_bytes=100-1000#Khodemoni-120185
 vless://4bf5989f-ab5a-41c4-b43f-99320aa9e800@zeus-panel-yilj6d.zeus-fjo5h1.workers.dev:2053?path=%2F&security=tls&encryption=none&insecure=0&host=zeus-panel-yilj6d.zeus-fjo5h1.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-yilj6d.zeus-fjo5h1.workers.dev#Khodemoni-115696
 vless://2730487f-0ed5-4f04-92d5-f95f9253d4f4@172.67.135.69:443?encryption=none&security=tls&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev&insecure=0&allowInsecure=0&type=ws&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev&path=ws#Khodemoni-115546
-trojan://fs9rozbqca2shhlq@64.225.72.24:443?security=none&type=tcp#Khodemoni-128750
 trojan://telegram-id-privatevpns@13.39.209.35:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-116908
 vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@cf.090227.xyz:443?encryption=none&security=tls&sni=xhttp3.azadnet5000.dpdns.org&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&host=xhttp3.azadnet5000.dpdns.org&path=%2F&mode=stream-one#Khodemoni-116242
 vless://5b56647e-ec7a-42df-bee2-1269f82265c0@ser7.fredomiran.com:443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=panel.fredomiran.com&mode=auto&path=%2F&security=tls&sni=panel.fredomiran.com&type=xhttp&x_padding_bytes=100-1000#Khodemoni-088562
