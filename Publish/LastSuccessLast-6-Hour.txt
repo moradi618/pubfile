@@ -1,3 +1,5 @@
+trojan://humanity@188.114.96.3:443/?type=ws&host=www.multiplydose.com&path=%2Fassignment&security=tls&sni=www.multiplydose.com&fp=chrome#Khodemoni-129995
+trojan://CHhHZoXQCp@45.130.125.2:443/?type=ws&host=se.farxmode.ir&path=%2Fda&security=tls&sni=se.farxmode.ir&fp=chrome#Khodemoni-129998
 vless://39eb6d15-e27a-4f2e-b865-b49a15b2d5f6@www.speedtest.net:8080?path=%2F&security=none&encryption=none&host=cloud.pedramhost.ir&type=httpupgrade#Khodemoni-129595
 trojan://humanity@172.66.47.69:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment&host=www.multiplydose.com#Khodemoni-065708
 trojan://humanity@216.24.57.1:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmloud.com#Khodemoni-059277
@@ -337,15 +339,12 @@ trojan://MiTiVPN@151.101.209.209:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn2-
 vless://deffbfcd-0626-365b-ff92-9b93f2fd6459@rvg-production-1ab7.up.railway.app:443?path=%2Fws%2Fdeffbfcd-0626-365b-ff92-9b93f2fd6459&security=tls&encryption=none&insecure=1&host=rvg-production-1ab7.up.railway.app&type=ws&allowInsecure=1&sni=rvg-production-1ab7.up.railway.app#Khodemoni-131961
 trojan://MiTiVPN@151.101.1.242:443?path=/de=mitivpn&security=tls&alpn=http/1.1&host=www.f6r.ir&fp=chrome&type=ws&sni=www.f6r.ir#Khodemoni-132005
 vless://SoonTeam@109.106.244.163:8443?type=xhttp&security=reality&path=/&sni=aws.amazon.com&fp=chrome&pbk=Q_u5jQ1JI7ZKOliDvsaXGd899R4ybleSp5bMqUtg2y4&sid=e616ea5c2046#Khodemoni-124042
-vless://d8dabd75-ae26-4c27-993e-75a00ff72185@152.70.72.249:80?type=ws&host=dual.abhizzz.net&path=%2Fvless&fp=chrome#Khodemoni-130748
 vless://5c9ca141-62fb-4c9a-8ba2-af48afdeafaa@uk-zicid.locations-sub.com:6200?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#Khodemoni-131965
 vless://89049f79-320b-48a0-b1cf-110165cae30c@83.228.226.164:2083?encryption=none&type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&sid=4e590fdc&spx=%2F&flow=xtls-rprx-vision#Khodemoni-131964
 trojan://telegram-id-directvpn@51.102.134.204:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-131958
 vless://5c9ca141-62fb-4c9a-8ba2-af48afdeafaa@ch-zicid.locations-sub.com:6200?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#Khodemoni-131963
 vless://87ae6706-e4ff-4431-ae09-87e8fedbbea6@p.hoomankh.info:15451?path=%2Fws&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=p.hoomankh.info&fp=chrome&type=ws&allowInsecure=1&sni=p.hoomankh.info#Khodemoni-131960
 trojan://SoftNetConnect@83.228.226.164:42549?type=tcp&security=tls&sni=www.speedtest.net&alpn=h2%2Chttp%2F1.1%2Ch3&fp=chrome&insecure=1&allowInsecure=1#Khodemoni-131969
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.16.72.70:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&fp=chrome&type=ws&allowInsecure=0&sni=vangoghhh.info#Khodemoni-131940
-trojan://MiTiVPN@151.101.110.219:443?path=%2Fde&security=tls&host=cdn2-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#Khodemoni-131954
 vless://481969d4-60bc-48ab-9e34-82e6922a4aaa@dl.google.ssl-4.aiteamplus.ir:2087?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=dl.google.com&fp=chrome&pbk=4OIOh3Ln3d2q3USqev7GGZcOIIMOhXcxtSg2EiBu6Cs&sid=7bbd0412575b0262#Khodemoni-131784
 vless://be9bf82b-b48b-4b7e-9cba-3b86801058ba@fast.cd-tur4.ir:443?path=%2F&security=tls&encryption=none&host=bazaryabab.global.ssl.fastly.net&type=ws&sni=default.ssl.fastly.net#Khodemoni-129906
 vless://e461afdd-7c8e-473e-815d-88b72960c6b1@fast.cd-tur4.ir:443?path=%2F&security=tls&encryption=none&insecure=1&host=fancii.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#Khodemoni-131930
