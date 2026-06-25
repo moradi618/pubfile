@@ -35,6 +35,7 @@ trojan://MiTiVPN@151.101.169.242:443?path=/?ed=2560&Telegram🇨🇳 @VPNine1&se
 trojan://MiTiVPN@199.232.241.242:80?host=www.f6r.ir&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=none&type=ws#Khodemoni-131655
 trojan://MiTiVPN@151.101.129.242:443/?type=ws&host=www.f6r.ir&path=/?ed=2560&Telegram🇨🇳 @VPNine1&security=tls&sni=www.f6r.ir#Khodemoni-132027
 vless://a927aac7-01fa-4c10-bd30-8f8e17b90844@5.10.215.244:2095?path=%2F&security=none&encryption=none&host=de.carefreemob2.com.&type=httpupgrade#Khodemoni-131288
+trojan://MiTiVPN@199.232.217.242:80?host=www.f6r.ir&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=none&type=ws#Khodemoni-131628
 trojan://MiTiVPN@151.101.9.242:443/?type=ws&host=www.f6r.ir&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=www.f6r.ir#Khodemoni-129852
 vless://ac006062-f051-43c6-bd4c-f409285c8635@45.130.125.6:443?encryption=none&type=xhttp&mode=auto&host=germany4.alibaba1405.org&path=/v2raylink&security=tls&fp=chrome&sni=germany4.alibaba1405.org&alpn=http/1.1,h2#Khodemoni-086552
 trojan://MiTiVPN@199.232.141.242:80?host=www.f6r.ir&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=none&type=ws#Khodemoni-131619
