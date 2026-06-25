@@ -1660,8 +1660,8 @@ trojan://MiTiVPN@151.101.241.241:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn2-
 trojan://MiTiVPN@151.101.233.233:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn2-mitivpn.global.ssl.fastly.net&path=/?ed=2560&https://t.me/WangCai2🇨🇳&security=none&type=ws#Khodemoni-132073
 trojan://MiTiVPN@151.101.217.242:443?path=/?ed=2560&Telegram🇨🇳 @VPNine1&security=tls&insecure=0&host=www.f6r.ir&type=ws&allowInsecure=0&sni=www.f6r.ir#Khodemoni-132068
 trojan://MiTiVPN@151.101.56.56:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn2-mitivpn.global.ssl.fastly.net&path=/?ed=2560&https://t.me/WangCai2🇨🇳&security=none&type=ws#Khodemoni-132097
-trojan://MiTiVPN@151.101.3.3:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn2-mitivpn.global.ssl.fastly.net&path=/?ed=2560&https://t.me/WangCai2🇨🇳&security=none&type=ws#Khodemoni-132087
 trojan://MiTiVPN@151.101.245.242:443/?type=ws&host=www.f6r.ir&path=/?ed=2560&Telegram🇨🇳 @VPNine1&security=tls&sni=www.f6r.ir#Khodemoni-132079
+trojan://MiTiVPN@151.101.3.3:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn2-mitivpn.global.ssl.fastly.net&path=/?ed=2560&https://t.me/WangCai2🇨🇳&security=none&type=ws#Khodemoni-132087
 trojan://MiTiVPN@151.101.243.243:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn2-mitivpn.global.ssl.fastly.net&path=/?ed=2560&https://t.me/WangCai2🇨🇳&security=none&type=ws#Khodemoni-132077
 trojan://MiTiVPN@151.101.24.24:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn2-mitivpn.global.ssl.fastly.net&path=/?ed=2560&https://t.me/WangCai2🇨🇳&security=none&type=ws#Khodemoni-132075
 trojan://MiTiVPN@151.101.64.64:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn2-mitivpn.global.ssl.fastly.net&path=/?ed=2560&https://t.me/WangCai2🇨🇳&security=none&type=ws#Khodemoni-132101
