@@ -1,5 +1,1 @@
-trojan://MiTiVPN@172.66.47.69:443?path=%2Fde%3Dmitivpn&security=tls&insecure=0&host=f6r.ir&fp=chrome&type=ws&allowInsecure=0&sni=f6r.ir#Khodemoni-128648
-vless://6e7ebc40-58a6-c567-4ae8-51b7605a272b@www.ar.plus.mashtinet.shop:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=wwwfffffii.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=global.fastly.com#Khodemoni-106627
-vless://4bf5989f-ab5a-41c4-b43f-99320aa9e800@zeus-panel-yilj6d.zeus-fjo5h1.workers.dev:80?path=%2F&security=none&encryption=none&insecure=0&host=zeus-panel-yilj6d.zeus-fjo5h1.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-yilj6d.zeus-fjo5h1.workers.dev#Khodemoni-115700
-vless://17109048-db2b-350f-b8bd-dcae726bd53a@t1.feiyue706.com:36794?encryption=none&type=grpc&sni=t1.feiyue706.com&security=tls&fp=chrome&serviceName=ljfxz&mode=gun&udp=1#Khodemoni-115314
-vless://2b73cc78-ad9b-4d5b-85bb-a9476aa092fb@123.xn--mesx36n.com:2086?type=ws&encryption=none&host=2112147542.sg.online.video.downloader.ddppp.cyou&path=%2F&headerType=none&quicSecurity=none&serviceName=&security=&fp=ios#Khodemoni-115311
+trojan://BxceQaOe@54.250.183.37:10624?allowInsecure=1&sni=t.me%252Fripaojiedian#Khodemoni-128686
