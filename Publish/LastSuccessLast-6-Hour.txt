@@ -1,3 +1,5 @@
+trojan://humanity@104.18.152.229:443?path=/assignment&security=tls&alpn=http/1.1&host=www.calmloud.com&fp=chrome&type=ws&sni=www.calmloud.com#Khodemoni-131803
+vless://f58a9d78-d4cc-c8bc-03d0-2810846a33d1@104.21.7.43:2053?path=%2Fsync&security=tls&encryption=none&host=hossein.shhrsbzhsyn.workers.dev&fp=chrome&type=ws&sni=hossein.shhrsbzhsyn.workers.dev#Khodemoni-131797
 vless://d8dabd75-ae26-4c27-993e-75a00ff72185@152.70.72.249:80?security=none&type=ws&path=/vless&fp=chrome#Khodemoni-092028
 vless://481969d4-60bc-48ab-9e34-82e6922a4aaa@dl.google.ssl-4.aiteamplus.ir:2087?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=dl.google.com&fp=chrome&pbk=4OIOh3Ln3d2q3USqev7GGZcOIIMOhXcxtSg2EiBu6Cs&sid=7bbd0412575b0262#Khodemoni-131784
 vless://9f74f307-87a7-4487-84e9-4f0a905ec075@46.8.226.145:2053?security=reality&encryption=none&pbk=FjMRSCrenbuLVvxOu2vdc5rqOsSm_hdta-ROgtHn8Rs&headerType=none&fp=chrome&spx=%2FC1tTISeEEslfNSf&type=tcp&sni=www.sony.com&sid=2a60f7f1e0a0dd#Khodemoni-131788
