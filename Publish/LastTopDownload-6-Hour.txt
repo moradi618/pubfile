@@ -73,6 +73,5 @@ trojan://MiTiVPN@151.101.110.219:443?security=tls&sni=global.fastly.com&fp=chrom
 vless://e2d92c0f-2cf9-4b04-8ae1-3b244188cda4@176.109.88.218:443?type=grpc&security=tls&fp=edge&sni=95.85.246.16.speed-storage.ru&serviceName=/sequre/grpc/#Khodemoni-114082
 vless://e2d92c0f-2cf9-4b04-8ae1-3b244188cda4@176.109.88.218:443?encryption=none&type=grpc&security=tls&mode=gun&serviceName=%2Fsequre%2Fgrpc%2F&fp=edge&sni=95.85.246.16.speed-storage.ru&alpn=h2#Khodemoni-114081
 trojan://pemyo67c0yjom5kv@104.21.100.168:443?host=free.codv2.com&type=ws&sni=free.codv2.com&fp=chrome&allowInsecure=0&insecure=0&alpn=http%2F1.1&security=tls&path=%2Fmobotouch#Khodemoni-113904
-vless://00722148-3d6c-403d-854e-581b105ceffd@www.ietf.org:443?path=%2Fapi%2Fv3%2Fws%2Fevents&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=RigW6bZIE7qM3Iqn.geekylinux.com&fp=chrome&type=ws&allowInsecure=0&sni=0iXGgvWA3b.geekylinux.com#Khodemoni-109187
 trojan://MiTiVPN@167.82.101.251:443?path=%2Fnl%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=cdn-mitivpn.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#Khodemoni-109120
 vless://fb35b76f-0319-4382-bb92-2dee3bf85e0d@cof.gametvr.ir:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=cloud.pedramhost.ir#Khodemoni-108908
