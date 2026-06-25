@@ -1,3 +1,4 @@
+trojan://humanity@www.creationlong.org:443?fp=chrome&path=%2Fassignment&type=ws#Khodemoni-108849
 vless://be9bf82b-b48b-4b7e-9cba-3b86801058ba@fast.cd-tur4.ir:443?path=%2F&security=tls&encryption=none&insecure=0&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#Khodemoni-131142
 vless://40bf0425-e1b5-41a0-aad8-b482d2aee498@fastly.videobazi.com:443?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=dutschh.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=default.ssl.fastly.net#Khodemoni-131141
 vless://40bf0425-e1b5-41a0-aad8-b482d2aee498@fastly.videobazi.com:443?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=Maryshuponlinr.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=default.ssl.fastly.net#Khodemoni-131140
@@ -51,9 +52,3 @@ vless://749928d8-11fc-4f96-8127-2bd2d4aa7b17@lms.michka.shop:2020?encryption=non
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@91.200.243.32:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tjsp.hhxaf.cc.cd&fp=chrome&sni=tjsp.hhxaf.cc.cd&path=%2F&encryption=none#Khodemoni-130898
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@91.200.243.32:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=hhcm.hhxaf.cc.cd&fp=chrome&sni=hhcm.hhxaf.cc.cd&path=%2F&encryption=none#Khodemoni-130899
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=v3p.sabermusic.ir#Khodemoni-130908
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.145.151:80?host=max-gb1.global.ssl.fastly.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&type=ws#Khodemoni-128972
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.144.151:80?host=max-gb1.global.ssl.fastly.net&path=%2F&type=ws#Khodemoni-128959
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.102.151:80?host=max-gb1.global.ssl.fastly.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&type=ws#Khodemoni-128969
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.197.151:80?host=max-gb1.global.ssl.fastly.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&type=ws#Khodemoni-128978
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.153.151:80?host=max-gb1.global.ssl.fastly.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&type=ws#Khodemoni-128976
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.61.151:80?host=max-gb1.global.ssl.fastly.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&type=ws#Khodemoni-128944
