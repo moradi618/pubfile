@@ -2019,8 +2019,8 @@ vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.8.211.140:80/?type=ws&encryption
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@195.85.59.140:80?path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40VPNine1&security=&encryption=none&host=s5.868001.xyz&type=ws#Khodemoni-114350
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.149.12.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#Khodemoni-114369
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@88.216.67.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#Khodemoni-114265
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.131.7.140:80?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=&encryption=none&host=s5.868001.xyz&fp=firefox&type=ws#Khodemoni-114365
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.80.108.140:80?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=&encryption=none&host=s5.868001.xyz&type=ws#Khodemoni-114242
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.131.7.140:80?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=&encryption=none&host=s5.868001.xyz&fp=firefox&type=ws#Khodemoni-114365
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.131.7.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#Khodemoni-114364
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.142.120.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram🇨🇳#Khodemoni-114368
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@209.46.30.140:80?path=/Telegram+@VPNine1&security=&encryption=none&host=s5.868001.xyz&type=ws#Khodemoni-114357
