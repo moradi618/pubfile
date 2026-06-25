@@ -18,6 +18,7 @@ trojan://Mitivpn@151.101.110.219:443?type=ws&security=tls&path=%2Fde%3Dmitivpn&h
 vless://00722148-3d6c-403d-854e-581b105ceffd@www.ietf.org:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/api/v3/ws/events&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=RigW6bZIE7qM3Iqn.geekylinux.com&fp=chrome&type=ws&allowInsecure=0&sni=0iXGgvWA3b.geekylinux.com#Khodemoni-110189
 vless://b2b8bd00-2e42-4875-8d7b-bcf97093a1d4@109.236.57.237:443?encryption=none&security=reality&type=tcp&sni=sellflow.org&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#Khodemoni-132894
 vless://903123fd-84fd-45d9-abc8-08c83d704224@euro.cloud-play.ir:80?mode=packet-up&path=%2F&security=none&encryption=none&host=connectingissues.pl&type=xhttp#Khodemoni-132404
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@36.230.9.156:50099#Khodemoni-133176
 vless://903123fd-84fd-45d9-abc8-08c83d704224@mci.cloud-play.ir:80?mode=packet-up&path=%2F&security=none&encryption=none&host=connectingissues.pl&type=xhttp#Khodemoni-132405
 vless://9870d61e-2d08-492f-adc0-7cf547874e6b@www.speedtest.net:443?type=ws&encryption=none&path=%2F&host=general-sins1.mongral.ir&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=general-sins1.mongral.ir#Khodemoni-130767
 vless://d27a232b-de94-4204-9bae-b0c243c6b93c@fast.cd-tur4.ir:443?encryption=none&type=ws&security=tls&path=%2F&host=newip.global.ssl.fastly.neT.&sni=default.ssl.fastly.net&insecure=1&allowInsecure=1#Khodemoni-108878
