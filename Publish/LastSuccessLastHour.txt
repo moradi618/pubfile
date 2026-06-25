@@ -1,3 +1,5 @@
+trojan://humanity@188.114.96.3:443/?type=ws&host=www.multiplydose.com&path=%2Fassignment&security=tls&sni=www.multiplydose.com&fp=chrome#Khodemoni-129995
+trojan://CHhHZoXQCp@45.130.125.2:443/?type=ws&host=se.farxmode.ir&path=%2Fda&security=tls&sni=se.farxmode.ir&fp=chrome#Khodemoni-129998
 vless://39eb6d15-e27a-4f2e-b865-b49a15b2d5f6@www.speedtest.net:8080?path=%2F&security=none&encryption=none&host=cloud.pedramhost.ir&type=httpupgrade#Khodemoni-129595
 trojan://humanity@172.66.47.69:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment&host=www.multiplydose.com#Khodemoni-065708
 trojan://humanity@216.24.57.1:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmloud.com#Khodemoni-059277
