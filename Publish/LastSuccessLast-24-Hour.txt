@@ -1,3 +1,6 @@
+trojan://telegram-id-directvpn@3.67.22.69:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-133953
+vless://2b31d20b-0b8f-4ca8-aa7e-e9a184440ce2@im.storyhost.ir:13517?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=speedtest.net&fp=chrome&type=ws&sni=tr.irhost.top#Khodemoni-133952
+trojan://telegram-id-privatevpns@3.67.22.69:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-133954
 vless://e277ac9b-3225-3381-a9fb-3585419f7142@love.ns.cloudflare.com:443?path=%2Fmedia14&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=media14.ftmsoft.com&fp=chrome&type=ws&allowInsecure=0&sni=media14.ftmsoft.com#Khodemoni-133838
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@147.79.20.227:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=hhcm.hhxaf.cc.cd&fp=chrome&sni=hhcm.hhxaf.cc.cd&path=%2F&encryption=none#Khodemoni-133883
 trojan://humanity@104.16.174.117:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=/assignment#Khodemoni-133868
