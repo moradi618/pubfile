@@ -3,9 +3,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2U2plQWpYY0Ryb3ZFNDVTME55Q0dnUWZJUUxTRlYwNEp
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2U2plQWpYY0Ryb3ZFNDVTME55Q0dnUWZJUUxTRlYwNEp5TWhNdG1aaUdRPQ%3D%3D@e1.cover20.ir:51570#Khodemoni-107673
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2U2plQWpYY0Ryb3ZFNDVTME55Q0dnUWZJUUxTRlYwNEp5TWhNdG1aaUdRPQ==@e1.cover20.ir:51570#Khodemoni-111585
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2U2plQWpYY0Ryb3ZFNDVTME55Q0dnUWZJUUxTRlYwNEp5TWhNdG1aaUdRPQ@e1.cover20.ir:51570#Khodemoni-113642
-vless://b4815b4c-3d41-4dc1-aad3-415c4bd4946d@14.102.229.37:2052?encryption=none&type=xhttp&mode=auto&host=cdn-d1.goofymoofy.com&path=/pabloping&security=none#Khodemoni-133591
 vless://4bf5989f-ab5a-41c4-b43f-99320aa9e800@zeus-panel-yilj6d.zeus-fjo5h1.workers.dev:8080?path=%2F&security=none&encryption=none&insecure=0&host=zeus-panel-yilj6d.zeus-fjo5h1.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-yilj6d.zeus-fjo5h1.workers.dev#Khodemoni-115699
 vmess://eyJhZGQiOiJzYWFzLnNpbi5mYW4iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Imdvb2dsZS53aGF0c2FwcC5zbmFwcC50b3JvYi5iYXNhbGFtLnp1bGEudXBsYW9kLW11c2ljLmlyLiIsImlkIjoiZjg5NzU4NzEtYTdhMC00OTA2LTg4MzUtYTIzYzEyNThjYTFlIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoiS2hvZGVtb25pLTEyNzI3MCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
-vless://b4815b4c-3d41-4dc1-aad3-415c4bd4946d@141.193.213.10:2052?encryption=none&type=xhttp&mode=auto&host=cdn-l2.goofymoofy.com&path=/pabloping&security=none#Khodemoni-133592
 vless://4bf5989f-ab5a-41c4-b43f-99320aa9e800@zeus-panel-yilj6d.zeus-fjo5h1.workers.dev:80?path=%2F&security=none&encryption=none&insecure=0&host=zeus-panel-yilj6d.zeus-fjo5h1.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-yilj6d.zeus-fjo5h1.workers.dev#Khodemoni-115700
 vless://03fcc618-b93d-6796-6aed-8a38c975d581@89.223.95.63:443?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=chrome#Khodemoni-115249
