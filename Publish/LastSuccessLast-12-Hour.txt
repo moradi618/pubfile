@@ -1,3 +1,5 @@
+trojan://humanity@www.host-tracker.com:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#Khodemoni-069184
+trojan://humanity@www.speedtest.org:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=%2Fassignment#Khodemoni-085428
 vless://4a2871f0-33b7-4958-8aa3-f615b472c0ba@aelix-se.mymarzban.com:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#Khodemoni-133958
 trojan://telegram-id-directvpn@3.67.22.69:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-133953
 vless://2b31d20b-0b8f-4ca8-aa7e-e9a184440ce2@im.storyhost.ir:13517?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=speedtest.net&fp=chrome&type=ws&sni=tr.irhost.top#Khodemoni-133952
@@ -578,12 +580,8 @@ vless://39bd10b8-9234-4171-be41-71ce4dda4573@om.yellowsky.ir:2000?path=%2F%3Fed%
 vless://39bd10b8-9234-4171-be41-71ce4dda4573@erosan.appleseraj.ir:443?path=%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=marly.mastermarly.ir&fp=chrome&type=ws&allowInsecure=0&sni=marly.mastermarly.ir#Khodemoni-132432
 vless://9ccb3811-dda2-40fb-a799-ec931dd4fe76@91.108.189.227:443?encryption=none&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#Khodemoni-132520
 vless://c1d05f0a-c18c-4490-906c-42d2a20ce694@185.143.235.200:80?encryption=none&security=none&type=ws&host=taraneh.pointspeed.ir&path=%2Farvancloud.ir#Khodemoni-132427
-vless://0b7882c4-4b3d-4ed8-9d70-e0f57a2b7ac6@172.67.232.62:2087?path=%2Fxnxx&security=tls&encryption=none&insecure=0&host=jojo.blaackgame.ir&fp=chrome&type=ws&allowInsecure=0&sni=jojo.blaackgame.ir#Khodemoni-132414
 vless://481969d4-60bc-48ab-9e34-82e6922a4aaa@dl.google.ssl-5.aiteamplus.ir:2083/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=dl.google.com&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&fp=chrome&security=reality&pbk=4OIOh3Ln3d2q3USqev7GGZcOIIMOhXcxtSg2EiBu6Cs&sid=c005224e81c8ebe3#Khodemoni-132421
-vless://a4b82e5a-acd1-4cbf-accb-40d4bb90ffaf@95.38.38.233:25543?encryption=none&security=none&type=tcp&headerType=none#Khodemoni-132413
-vless://099ca932-b26c-4a85-8ab7-ea171c811554@46.101.239.29:53144?type=tcp&encryption=none&security=none#Khodemoni-132411
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206a0NzOGgweHVTTmZObmdMMVNlRExUR1JBRVdld0RuVGovYXczdU1tRWJTVT06emlIVXFQeXhKL2F0Uk5ra0NmWFZBRS83SCtSbTlocGJkL0gyU1hYRFROND0%3D@65.109.218.60:8880#Khodemoni-132423
-vless://596c35b4-43bc-44e2-8c75-4c7ed5205383@de.justgod.qzz.io:443?security=none&encryption=mlkem768x25519plus.native.0rtt.BMUxibbej8vwea4oIcOWqFm5elDWiZ1-nnrsiWzvQGc&headerType=none&type=tcp#Khodemoni-132410
 trojan://telegram-id-privatevpns@18.197.212.181:22222?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#Khodemoni-132247
 vless://e461afdd-7c8e-473e-815d-88b72960c6b1@fast.cd-tur4.ir:443?type=ws&security=tls&sni=default.ssl.fastly.net&host=fancii.global.ssl.fastly.net&path=%2F#Khodemoni-132363
 trojan://telegram-id-directvpn@51.102.134.204:22223?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#Khodemoni-132246
