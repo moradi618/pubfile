@@ -1,4 +1,5 @@
 vmess://eyJhZGQiOiI4NS4xMzMuMjQwLjE5IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImNmY2FmZTg3LTA4YWEtNDJlMy1iMDNlLTlhMjk4YWU0NTU3NiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTQwNTAiLCJwcyI6Iktob2RlbW9uaS0xMzM3MjIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vless://4a2871f0-33b7-4958-8aa3-f615b472c0ba@aelix-fi.mymarzban.com:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#Khodemoni-133719
+ss://YWVzLTI1Ni1nY206cCtzc2xUdlBSNWpVdUVDWndqYVRMWmlJbUpQVG5jL0J0NG43YytoMXZ5Zz0=@85.198.9.136:443#Khodemoni-133756
 vless://bd1dd9c8-85fe-f31c-4079-58e96ad7ea84@kaliconnect-starpanel-vip6.up.railway.app:443?path=/ws/bd1dd9c8-85fe-f31c-4079-58e96ad7ea84&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=&fp=chrome&type=ws&allowInsecure=0&sni=#Khodemoni-133731
 vless://e44611d3-15c5-4116-82de-d9b591a566c8@38.244.21.213:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=safari&pbk=eDzHbPTBb9OC3sWNjI80smS40Xk-b2NHKm4glKWGxFs&sid=33f5f26343fc8702#Khodemoni-133736
