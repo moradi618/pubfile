@@ -1,8 +1,8 @@
+vless://4a2871f0-33b7-4958-8aa3-f615b472c0ba@aelix-se.mymarzban.com:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#Khodemoni-133958
 trojan://telegram-id-privatevpns@3.67.22.69:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-133954
 vless://d6ef367c-4b0f-44ec-a8c4-8c5947ec747b@46.225.5.177:443?fp=firefox&pbk=XU_UcD815BdmBJPoXIjCo-jBWaWDzz909WbNsxX3ESk&security=reality&sid=171532396a322e32&sni=www.samsung.com&spx=/ulkEwSseOx8vRbS&type=tcp#Khodemoni-133912
 trojan://telegram-id-directvpn@3.67.22.69:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-133953
 vless://b97e287f-a24e-4028-a103-7e7ecef83139@5.253.66.31:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=e1f8a3b6&sni=www.amd.com#Khodemoni-133911
-vless://4a2871f0-33b7-4958-8aa3-f615b472c0ba@aelix-gb.mymarzban.com:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#Khodemoni-133808
 vless://2b31d20b-0b8f-4ca8-aa7e-e9a184440ce2@im.storyhost.ir:13517?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=speedtest.net&fp=chrome&type=ws&sni=tr.irhost.top#Khodemoni-133952
 vless://44b52b3b-5979-4bfc-9d3e-fc8b8369ef91@fr2.janusgate.org:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=517c4ef7fb26746b&sni=fr2.janusgate.org&spx=/#Khodemoni-133907
 vless://44b52b3b-5979-4bfc-9d3e-fc8b8369ef91@bg.janusgate.org:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=13171b0dd8985179&sni=bg.janusgate.org&spx=/#Khodemoni-133899
