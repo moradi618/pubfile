@@ -1561,8 +1561,8 @@ trojan://MiTiVPN@151.101.65.242:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%
 trojan://MiTiVPN@151.101.110.219:443?path=%2Fde&security=tls&alpn=http%2F1.1&host=cdn2-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#Khodemoni-132288
 trojan://MiTiVPN@151.101.113.242:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&host=www.f6r.ir&type=ws&sni=www.f6r.ir#Khodemoni-132289
 trojan://%4d%69%54%69%56%50%4e@151.101.128.128:80?path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=none&host=cdn2-%6d%69%74%69%76%70%6e.global.ssl.fastly.net&type=ws#Khodemoni-132228
-trojan://MiTiVPN@151.101.229.242:443?security=tls&sni=www.f6r.ir&insecure=0&allowInsecure=0&type=ws&host=www.f6r.ir&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#Khodemoni-132223
 trojan://MiTiVPN@151.101.229.242:443/?type=ws&host=www.f6r.ir&path=/?ed=2560&Telegram🇨🇳 @VPNine1&security=tls&sni=www.f6r.ir#Khodemoni-132072
+trojan://MiTiVPN@151.101.229.242:443?security=tls&sni=www.f6r.ir&insecure=0&allowInsecure=0&type=ws&host=www.f6r.ir&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#Khodemoni-132223
 trojan://MiTiVPN@151.101.53.242:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&host=www.f6r.ir&type=ws&sni=www.f6r.ir#Khodemoni-132290
 trojan://%4d%69%54%69%56%50%4e@151.101.128.128:80?path=/?ed=2560&https://t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3&security=none&host=cdn2-mitivpn.global.ssl.fastly.net&type=ws#Khodemoni-132234
 vless://c251b44a-ac2c-4c4a-b194-bb963b222774@7telegram.com.zapas.iran.janebicall.ir:2087?alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&fp=chrome&host=jojo.blaackgame.ir&path=%2Fxnxx&security=tls&sni=jojo.blaackgame.ir&type=ws#Khodemoni-132205
