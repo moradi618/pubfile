@@ -10,13 +10,10 @@ vless://3a40f6b1-8915-4f26-a9d7-a14cff2d497a@94.183.181.7:3803?encryption=none&s
 vless://d9307ab3-1ed0-4b6d-bfd0-e104c7ccc25a@193.176.240.129:8880?path=%2F&security=&encryption=none&host=azsv2.ir5ive.ir&fp=firefox&type=ws#Khodemoni-095757
 vless://d9307ab3-1ed0-4b6d-bfd0-e104c7ccc25a@193.176.240.129:8880?type=ws&security=none&fp=firefox&path=/&host=azsv2.ir5ive.ir#Khodemoni-128597
 vless://636d9ce5-df50-49d0-8ecd-0b687f8838f0@172.104.237.167:50468?type=tcp&encryption=none&security=none#Khodemoni-136090
-vless://04f7e317-d9d5-444a-b563-0e83df862282@k6.capigodserv.ir:42542?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-135773
 vless://0a715ede-593a-4018-8406-66e2c3b1169c@89.106.64.15:7000?mode=stream-one&path=%2F&security=&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=a12.crowsvpn.shop&type=xhttp#Khodemoni-114549
 vless://538d4749-33ba-435f-8fbb-57d7f22f996b@176.34.140.103:31660?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-135939
-vless://04f7e317-d9d5-444a-b563-0e83df862282@o6.lunaboutiqu.ir:42542?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-135776
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.84:443?type=tcp&security=tls&headerType=none&insecure=1&allowInsecure=1#Khodemoni-130790
 vless://SoonTeam@108.162.195.19:8880?mode=auto&path=%2F%40SoonTeam&security=none&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=sudo.domain.direct.Pannel.admin.soon.ab841.com&type=xhttp#Khodemoni-116862
-vless://04f7e317-d9d5-444a-b563-0e83df862282@p4.capigodserv.ir:42542?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-135774
 trojan://telegram-id-privatevpns@35.157.18.183:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-135247
 vless://a6704fb4-4874-4e6b-98f4-571b048e3d90@31.77.161.2:8443?security=reality&encryption=none&pbk=4XxjInQuDp4SqaYF03yQ1VY61exkKi9e0RS5-kgyxAE&host=Telegram-NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP&headerType=none&fp=firefox&type=tcp&sni=prod.de-node-01.security-sbrf.ru&sid=db04ce8bdb8900f1#Khodemoni-136710
 vless://13cd46c5-11ad-4fba-942c-dca81db10e9b@5.231.119.69:43000?type=tcp&headerType=none&security=reality&encryption=none&sni=5.231.119.69&fp=chrome&pbk=qW7T2Al32COoPb231YvOcMdwkrE5ME5qigFs7hOkdEE&sid=54e02b5b&flow=xtls-rprx-vision#Khodemoni-136550
