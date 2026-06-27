@@ -8,15 +8,15 @@ vless://0a715ede-593a-4018-8406-66e2c3b1169c@89.106.64.15:7000?mode=stream-one&p
 vless://d9307ab3-1ed0-4b6d-bfd0-e104c7ccc25a@193.176.240.129:8880?encryption=none&security=none&type=ws&host=azsv2.ir5ive.ir&path=%2F#Khodemoni-079124
 vless://d9307ab3-1ed0-4b6d-bfd0-e104c7ccc25a@193.176.240.129:8880?type=ws&security=none&fp=firefox&path=/&host=azsv2.ir5ive.ir#Khodemoni-128597
 vless://d9307ab3-1ed0-4b6d-bfd0-e104c7ccc25a@193.176.240.129:8880?path=%2F&security=&encryption=none&host=azsv2.ir5ive.ir&fp=firefox&type=ws#Khodemoni-095757
-vless://d9307ab3-1ed0-4b6d-bfd0-e104c7ccc25a@193.176.240.129:8880?path=%2F&security=&encryption=none&host=azsv2.ir5ive.ir&fp=firefox&type=ws#Khodemoni-095760
 vless://3a0e37f7-b83b-4db2-838a-b93bd5ed7a39@80.249.112.235:8081?encryption=mlkem768x25519plus.native.0rtt.BcBXsL1S8mZsNZGovADooXdMgHAi56vwLb6DlCF0phU&security=none&type=tcp#Khodemoni-108047
 vless://d9307ab3-1ed0-4b6d-bfd0-e104c7ccc25a@193.176.240.129:8880?path=%2F&security=&encryption=none&host=azsv2.ir5ive.ir&type=ws#Khodemoni-095671
 vless://3a0e37f7-b83b-4db2-838a-b93bd5ed7a39@80.249.112.235:8081?security=none&encryption=mlkem768x25519plus.native.0rtt.BcBXsL1S8mZsNZGovADooXdMgHAi56vwLb6DlCF0phU&headerType=none&type=tcp#Khodemoni-108105
+vless://d9307ab3-1ed0-4b6d-bfd0-e104c7ccc25a@193.176.240.129:8880?path=%2F&security=&encryption=none&host=azsv2.ir5ive.ir&fp=firefox&type=ws#Khodemoni-095760
+vless://d9307ab3-1ed0-4b6d-bfd0-e104c7ccc25a@193.176.240.129:8880?path=%2F&security=&encryption=none&host=azsv2.ir5ive.ir&type=ws#Khodemoni-095672
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?type=tcp&security=tls&fp=chrome&sni=v3p.sabermusic.ir#Khodemoni-132163
 vless://d9307ab3-1ed0-4b6d-bfd0-e104c7ccc25a@193.176.240.129:8880?path=%2F&security=&encryption=none&host=azsv2.ir5ive.ir&type=ws#Khodemoni-095673
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=v3p.sabermusic.ir#Khodemoni-130908
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.84:443?type=tcp&security=tls&headerType=none&insecure=1&allowInsecure=1#Khodemoni-130790
-vless://d9307ab3-1ed0-4b6d-bfd0-e104c7ccc25a@193.176.240.129:8880?path=%2F&security=&encryption=none&host=azsv2.ir5ive.ir&type=ws#Khodemoni-095672
 vless://6e9893e3-e3db-48d7-b909-e185517c44e9@global.cloud-play.ir:80?mode=packet-up&path=/&security=&encryption=none&extra={"mode":"packet-up","xPaddingBytes":"100-1000"}&host=connectingissues.pl&type=xhttp#Khodemoni-135357
 vless://e7bf11b9-9ec8-4874-9248-ac5f62d02829@203.18.98.154:20818?security=&encryption=none&headerType=&type=tcp#Khodemoni-136846
 trojan://MiTiVPN@45.131.4.118:443?path=%2FMiTiVPN%3DSe&security=tls&alpn=http%2F1.1&insecure=0&host=95r.ir&fp=firefox&type=ws&allowInsecure=0&sni=95r.ir#Khodemoni-136069
