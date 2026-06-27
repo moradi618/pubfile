@@ -235,8 +235,8 @@ trojan://humanity@104.16.62.25:443?path=%2Fassignment&security=tls&insecure=0&fp
 trojan://humanity@172.66.47.69:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#Khodemoni-095583
 trojan://humanity@172.66.47.69:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#Khodemoni-095582
 trojan://humanity@104.16.62.25:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#Khodemoni-095365
-trojan://humanity@104.19.23.163:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#Khodemoni-095061
 trojan://humanity@104.19.23.163:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#Khodemoni-095060
+trojan://humanity@104.19.23.163:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#Khodemoni-095061
 trojan://humanity@162.159.17.189:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#Khodemoni-094982
 trojan://humanity@104.19.23.163:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#Khodemoni-095059
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@172.67.74.2:443?path=%2Frsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&fp=chrome&type=ws&allowInsecure=0&sni=shegeftihaaa.net#Khodemoni-095205
@@ -700,8 +700,8 @@ trojan://Mitivpn@146.75.116.177:80?ed=2560&eh=Sec-WebSocket-Protocol&host=3-miti
 vless://3a40f6b1-8915-4f26-a9d7-a14cff2d497a@94.183.181.7:3803?encryption=none&security=none&type=tcp&headerType=none#Khodemoni-136702
 trojan://Mitivpn@151.101.56.6:443?path=%2Ffast-speed&security=tls&host=4-4-3-mitivpn.global.ssl.fastly.net&type=ws&sni=ssl.fastly.com#Khodemoni-136916
 trojan://MiTiVPN@45.131.4.118:443?path=%2FMiTiVPN%3DSe&security=tls&alpn=http%2F1.1&host=95r.ir&fp=firefox&type=ws&sni=95r.ir#Khodemoni-136913
-vless://a52db7a4-f8eb-4193-8403-48af7d7f1827@176.124.222.137:443?encryption=none&security=reality&sni=www.kaspersky.ru&fp=firefox&pbk=nmdu3rhLXUr8KzGtN_0D4Zc5JS1V8t9S4_iDXvtWk2I&sid=39c7e5a0b286f41d&type=xhttp&path=%2Fapi%2Fv2%2Fstream%2Fevents&mode=auto#Khodemoni-136917
 trojan://M%69t%69vpn@151.101.110.219:443?path=%2Fboost&security=tls&insecure=0&host=3-mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#Khodemoni-136463
+vless://a52db7a4-f8eb-4193-8403-48af7d7f1827@176.124.222.137:443?encryption=none&security=reality&sni=www.kaspersky.ru&fp=firefox&pbk=nmdu3rhLXUr8KzGtN_0D4Zc5JS1V8t9S4_iDXvtWk2I&sid=39c7e5a0b286f41d&type=xhttp&path=%2Fapi%2Fv2%2Fstream%2Fevents&mode=auto#Khodemoni-136917
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?encryption=none&type=ws&security=tls&path=/LiL?ed=2560&sni=kingcloud.biack.ir&alpn=h3&fp=chrome&insecure=0&allowInsecure=Erfwp#Khodemoni-136778
 vless://a6704fb4-4874-4e6b-98f4-571b048e3d90@31.77.161.2:8443?security=reality&encryption=none&pbk=4XxjInQuDp4SqaYF03yQ1VY61exkKi9e0RS5-kgyxAE&host=Telegram-NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP&headerType=none&fp=chrome&type=tcp&sni=prod.de-node-01.security-sbrf.ru&sid=db04ce8bdb8900f1#Khodemoni-136835
 vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.133:8443?type=tcp&security=reality&fp=firefox&sni=storage.yandex.net&flow=xtls-rprx-vision&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&sid=e3d38cee79d4f94c#Khodemoni-136510
