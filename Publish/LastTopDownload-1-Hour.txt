@@ -57,6 +57,7 @@ trojan://Mitivpn@151.101.110.219:443?path=/de=mitivpn&security=tls&alpn=http/1.1
 trojan://MiTiVPN@45.131.4.118:443?path=/MiTiVPN=Se&security=tls&alpn=http/1.1&insecure=0&host=95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=95r.ir#Khodemoni-136300
 trojan://Mitivpn@151.101.56.6:443?path=%2Fboost%2Fmehrosaboran---mehrosaboran&security=tls&insecure=0&host=4-4-3-Mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#Khodemoni-137921
 vless://f6628da4-ae17-49b7-81cf-7de3f43cadd8@www.speedtest.net:2053?security=tls&type=ws&headerType=&path=&host=none3.bingnet.online&sni=none3.bingnet.online&fp=&allowInsecure=1#Khodemoni-138960
+vless://f6628da4-ae17-49b7-81cf-7de3f43cadd8@104.26.6.159:2053?security=tls&type=ws&headerType=&path=&host=noone.bingnet.online&sni=noone.bingnet.online&fp=&allowInsecure=1#Khodemoni-138901
 vless://f6628da4-ae17-49b7-81cf-7de3f43cadd8@104.26.6.159:2053?security=tls&type=ws&headerType=&path=&host=noone2.bingnet.online&sni=noone2.bingnet.online&fp=chrome&allowInsecure=1#Khodemoni-138771
 vless://f6628da4-ae17-49b7-81cf-7de3f43cadd8@www.speedtest.net:2053?security=tls&type=ws&headerType=&path=&host=noone.bingnet.online&sni=noone.bingnet.online&fp=#Khodemoni-138770
 trojan://Mitivpn@151.101.110.219:443?path=/de&security=tls&alpn=http/1.1&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#Khodemoni-138664
