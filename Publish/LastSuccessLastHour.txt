@@ -1,3 +1,4 @@
+vless://6baca32e-878f-487e-a8cd-861108c4035d@45.195.200.24:443?security=reality&encryption=none&pbk=Yqp623aIfpUvxLZLsm-7ZgnMMVvvE2jnhYoyprnhmjs&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=36754b52bf611364#Khodemoni-137935
 vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@141.193.213.21:443?path=%2Fpoiuyws&security=tls&encryption=none&host=amoosamiii.net&type=ws&sni=amoosamiii.net#Khodemoni-116666
 trojan://GavW8e3DN7@45.130.125.2:443?type=ws&security=tls&path=/db&alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&host=sf.farxmode.ir&sni=sf.farxmode.ir&fp=chrome&insecure=0&allowInsecure=0#Khodemoni-116021
 trojan://GavW8e3DN7@45.130.125.2:443?type=ws&security=tls&path=/db&alpn=&host=sf.farxmode.ir&sni=sf.farxmode.ir&fp=chrome&insecure=0&allowInsecure=0#Khodemoni-116020
@@ -30,5 +31,3 @@ trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@157.245.56.32:443?security=tls&typ
 vless://00e94078-bb1e-49aa-8567-e1b3b2843150@104.17.218.135:8443?type=ws&security=tls&sni=&host=late-snowflake-da7a.platovpnx.workers.dev&path=%2F#Khodemoni-115540
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@38.207.169.105:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=hhcm.hhxaf.cc.cd&fp=chrome&sni=hhcm.hhxaf.cc.cd&path=%2F&encryption=none#Khodemoni-115062
 vless://b970f499-b1b2-4a66-89c3-45194db6c0d5@64.49.15.196:80?encryption=none&security=reality&sni=aws.amazon.com&fp=chrome&pbk=dlkerkvPd88_3wGr9X0JoNBa8cNAwT6SaNTn7W53e1s&sid=2cd3b71e70dc77&spx=%2F0yd6yaBj1MgmzJT&type=tcp&headerType=none#Khodemoni-137813
-trojan://telegram-id-directvpn@51.45.15.118:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-136074
-trojan://telegram-id-privatevpns@51.45.15.118:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-136075
