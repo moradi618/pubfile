@@ -1,9 +1,5 @@
-vless://896e8226-4883-48a4-98b3-d539f54385b8@admin.console.support.admin.iranvatanam.com:700?encryption=none&security=none&type=tcp&headerType=http&host=rubika.ir%2Cigap.net%2Csplus.ir%2Cskyroom.online#Khodemoni-137275
-vless://6cdaf496-ccc9-4df8-9187-bf1ffeddf17e@hes.purplrose.ir:8443?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=maze.purplrose.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=maze.purplrose.ir#Khodemoni-136752
-trojan://telegram-id-privatevpns@3.127.10.163:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-137274
-trojan://telegram-id-directvpn@3.127.10.163:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-137273
-vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.100:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&security=reality&sid=e3d38cee79d4f94c&sni=storage.yandex.net&type=tcp#Khodemoni-137287
-vless://6cdaf496-ccc9-4df8-9187-bf1ffeddf17e@hes.purplrose.ir:8443?encryption=none&security=tls&sni=maze.purplrose.ir&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&host=maze.purplrose.ir&path=%2F&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D#Khodemoni-135255
+vless://2fed63a6-b0f2-4a8c-9614-feb12a526dcb@em2bot.amirggg.shop:23845?security=none&encryption=none&host=Telegram-NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP&headerType=none&type=tcp#Khodemoni-135300
+vless://2fed63a6-b0f2-4a8c-9614-feb12a526dcb@em2bot.amirggg.shop:23845?security=&encryption=none&host=Telegram-NetFlowTools&headerType=none&type=tcp#Khodemoni-135298
 vless://494f0626-3832-4898-9f6f-58f2c7e337ba@199.232.78.159:443?path=%2F&security=tls&encryption=none&host=germwoijji.global.ssl.fastly.net.&type=ws&sni=ssl.fastly.com#Khodemoni-137310
 vless://8f1b78ac-b9d8-e302-b11a-ddcef078912d@green-fire-b31f.adrian663.workers.dev:443?path=%2Fsync&security=tls&encryption=none&insecure=0&host=green-fire-b31f.adrian663.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=green-fire-b31f.adrian663.workers.dev#Khodemoni-107947
 trojan://telegram-id-privatevpns@13.36.2.68:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-135841
