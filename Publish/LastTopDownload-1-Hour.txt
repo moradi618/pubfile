@@ -1,7 +1,10 @@
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@eng.speedtrade.top:19668?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-140436
-vmess://eyJhZGQiOiJzYWFzLnNpbi5mYW4iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Imdvb2dsZS53aGF0c2FwcC5zbmFwcC50b3JvYi5iYXNhbGFtLnp1bGEudXBsYW9kLW11c2ljLmlyLiIsImlkIjoiZjg5NzU4NzEtYTdhMC00OTA2LTg4MzUtYTIzYzEyNThjYTFlIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoiS2hvZGVtb25pLTEyNzI3MSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+trojan://telegram-id-directvpn@3.123.202.198:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-140461
+trojan://telegram-id-privatevpns@3.123.202.198:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-140463
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@tr.dtgitar.com:19667?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-140442
+vless://343af4c2-0fc3-471a-bee1-438ffb75eb1f@www.speedtest.net:2083?alpn=http%2F1.1&encryption=none&fp=chrome&host=panel.jarorobo.ir&path=%2Flogin&security=tls&sni=panel.jarorobo.ir&type=ws#Khodemoni-140458
+vless://343af4c2-0fc3-471a-bee1-438ffb75eb1f@173.245.58.84:2083?alpn=http%2F1.1&encryption=none&fp=chrome&host=panel.jarorobo.ir&path=%2Flogin&security=tls&sni=panel.jarorobo.ir&type=ws#Khodemoni-140460
 vless://71a7db14-1b6f-5aec-9e5d-9bd5f8beabab@jc.20120222.xyz:10443?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-140447
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@h1.garletshopino.com:2096?security=tls&type=xhttp&headerType=&path=%2Fclud%3Fed%3D2048&host=usdir.dtgoldservices.com&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=usdir.dtgoldservices.com&fp=firefox&alpn=h2%2Chttp%2F1.1#Khodemoni-140433
+vless://343af4c2-0fc3-471a-bee1-438ffb75eb1f@172.67.220.1:2083?alpn=http%2F1.1&encryption=none&fp=chrome&host=panel.jarorobo.ir&path=%2Flogin&security=tls&sni=panel.jarorobo.ir&type=ws#Khodemoni-140459
+vless://MATiN@45.38.42.238:8880?encryption=none&host=&path=/ws&security=none&type=ws#Khodemoni-140464
 vless://MATiN@45.38.42.238:8880?encryption=none&host=45.38.42.238&path=%2Fws&security=none&type=ws#Khodemoni-140445
 vless://17109048-db2b-350f-b8bd-dcae726bd53a@t1.feiyue706.com:36788?encryption=none&type=grpc&sni=t1.feiyue706.com&security=tls&fp=chrome&serviceName=ljfxz&mode=gun&udp=1#Khodemoni-115250
