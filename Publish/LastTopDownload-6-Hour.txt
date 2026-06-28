@@ -11,7 +11,6 @@ trojan://telegram-id-privatevpns@35.158.199.152:22222?security=tls&alpn=http/1.1
 vless://175c6db9-4a69-4abc-8736-c3f72748b7a0@forallpanel.srtongston.ir:8880?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/?ed=2082&security=none&encryption=none&host=a.postshup.ir&type=httpupgrade#Khodemoni-142256
 trojan://MITIVPN@164.38.155.135:443?path=%2FMiTiVPN%3DDe&security=tls&alpn=http%2F1.1&host=95r.ir&fp=firefox&type=ws&sni=95r.ir#Khodemoni-142953
 trojan://telegram-id-privatevpns@51.102.212.106:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-142608
-trojan://telegram-id-directvpn@51.45.27.231:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-141838
 trojan://telegram-id-privatevpns@13.37.27.225:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-143242
 trojan://telegram-id-privatevpns@3.123.202.198:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-140463
 vless://315e45a6-9745-4213-b59d-546b22f3232a@ip1.sav-savteam.ir:8080?security=none&type=xhttp&headerType=&path=%2Fsav533%3Fed%3D2560&host=super.temas-bor.ir&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D#Khodemoni-142247
