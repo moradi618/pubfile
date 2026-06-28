@@ -754,8 +754,8 @@ vless://4b0fad2a-42ee-4222-a019-ee5a58ee01b0@forallpanel.srtongston.ir:2052/?typ
 vless://3db635e4-f9ec-42d6-8aba-e23df8b0e6da@162.159.36.20:2053?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=balafi7691.pages.dev&path=%2Fjump%2Ftv%2Fcontent&security=tls&sni=balafi7691.pages.dev&type=ws#Khodemoni-140483
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.101:443/?type=ws&encryption=none&flow=&host=shegeftihaaa.net&path=%2Frsedgws&security=tls&sni=shegeftihaaa.net#Khodemoni-139997
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=/LiL?ed=2560&security=tls&alpn=h3&encryption=none&fp=chrome&type=ws&sni=kingcloud.biack.ir#Khodemoni-139702
-trojan://Mitivpn@151.101.110.219:443?path=/de=mitivpn&security=tls&alpn=http/1.1&insecure=1&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=global.fastly.com#Khodemoni-139742
 trojan://M%69T%69VPN@199.181.197.176:443?path=/MiTiVPN=fL&security=tls&alpn=http/1.1&insecure=0&host=95r.ir&fp=firefox&type=ws&allowInsecure=0&sni=95r.ir#Khodemoni-143760
+trojan://Mitivpn@151.101.110.219:443?path=/de=mitivpn&security=tls&alpn=http/1.1&insecure=1&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=global.fastly.com#Khodemoni-139742
 vless://25f20537-3d1c-4d58-9ab5-835613b4a26a@45.130.125.206:2053?encryption=none&security=tls&type=xhttp&headerType=none&path=%2Fdrlimit%3Fed%3D2048&host=GR.Mobailhay.ir&mode=packet-up&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=Mashhad.Mobailhay.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#Khodemoni-143750
 vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?security=tls&encryption=none&insecure=1&host=186.190.211.188&headerType=none&type=tcp&allowInsecure=1&sni=186.190.211.188#Khodemoni-139666
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFN2c1Y05Qd3Vuakk3ZTRp@20.164.200.100:443?outline=1&prefix=POST%20o33edc1r#Khodemoni-143752
