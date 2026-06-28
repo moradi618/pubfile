@@ -38,6 +38,7 @@ vless://1ca2c927-f8ba-4475-94cb-f85e0fb03ff5@static.lotussec.com:443?Telegram=@G
 trojan://Mitivpn@151.101.110.219:443?path=/de=mitivpn&security=tls&alpn=http/1.1&host=3-mitivpn.global.ssl.fastly.net&fp=firefox&type=ws&sni=global.fastly.com#Khodemoni-135516
 trojan://MITIVPN@164.38.155.135:443?type=ws&security=tls&path=%2FMiTiVPN%3DDe&host=95r.ir&sni=95r.ir&alpn=http%2F1.1&fp=firefox&insecure=0&allowInsecure=0#Khodemoni-135873
 trojan://Mitivpn@151.101.110.219:443?path=/de=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com2https://@freev2configs#Khodemoni-136303
+trojan://Mitivpn@151.101.110.219:443?path=%2Fboost%2Fmtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn&security=tls&host=3-Mitivpn.global.ssl.fastly.net&type=ws&sni=ssl.fastly.com#Khodemoni-141589
 trojan://Mitivpn@151.101.110.219:443?path=%2Fde&security=tls&alpn=http%2F1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#Khodemoni-134130
 trojan://Mitivpn@151.101.56.6:443?path=%2Fboost&security=tls&insecure=0&host=4-4-3-mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#Khodemoni-134903
 trojan://Mitivpn@151.101.110.219:443?host=3-mitivpn.global.ssl.fastly.net&path=%2Fboost&sni=ssl.fastly.com&type=ws#Khodemoni-135864
