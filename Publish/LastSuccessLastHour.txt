@@ -1,3 +1,7 @@
+vmess://eyJhZGQiOiJpcmFuZGVzaWduZXIuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ2MnJheTEuZG96YXBwLnh5eiIsImlkIjoiNjA0NDE1NDgtYjY4ZS00M2IyLTgxOTEtZTNiODg0YmU0YjNjIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xNbnNaVU40LyIsInBvcnQiOiI4NDQzIiwicHMiOiJLaG9kZW1vbmktMTI3MjA4Iiwic2N5IjoiYXV0byIsInNuaSI6InYycmF5MS5kb3phcHAueHl6IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+vless://9b7f9174-42f1-4b0f-8a4a-c3fd7636fc5e@node2.vdkvpn.ru:443?security=reality&encryption=none&pbk=u8MN57FhcYnpahcrByDmBNZ9_ruw9C1065QIwpZSZkk&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ya.ru#Khodemoni-138327
+vless://9b7f9174-42f1-4b0f-8a4a-c3fd7636fc5e@node2.vdkvpn.ru:443?security=reality&encryption=none&pbk=u8MN57FhcYnpahcrByDmBNZ9_ruw9C1065QIwpZSZkk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ya.ru#Khodemoni-138485
+trojan://humanity@45.130.125.75:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#Khodemoni-139747
 vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjIyNyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwb3J0Ijo0NDMsInBzIjoiS2hvZGVtb25pLTAyMjAxNiIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIn0=
 trojan://humanity@2.144.21.112:40443?path=/assignment&security=tls&sni=www.creationlong.org&type=ws&sni=www.creationlong.org#Khodemoni-113966
 vless://SoonTeam@108.162.195.19:8880?mode=auto&path=%2F%40SoonTeam&security=none&encryption=none&host=sudo.domain.direct.Pannel.admin.soon.ab841.com&type=xhttp#Khodemoni-089573
@@ -237,8 +241,8 @@ trojan://CHhHZoXQCp@45.130.125.2:443?type=ws&security=tls&path=/da&alpn=&host=se
 trojan://humanity@chat.openai.com:443?path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#Khodemoni-115000
 trojan://humanity@162.159.91.211:443?security=tls&sni=www.calmlunch.com&insecure=0&allowInsecure=0&type=ws&host=www.calmlunch.com&path=%2Fassignment#Khodemoni-114977
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@64.186.240.152:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tjsp.hhxaf.cc.cd&fp=chrome&sni=tjsp.hhxaf.cc.cd&path=%2F&encryption=none#Khodemoni-115156
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.5.231:443?fp=chrome&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#Khodemoni-115451
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.26.14.137:443?encryption=none&security=tls&sni=shegeftihaaa.net&insecure=0&allowInsecure=0&type=ws&host=shegeftihaaa.net&path=/rsedgws#Khodemoni-115227
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.5.231:443?fp=chrome&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#Khodemoni-115451
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.15.39:8443?security=tls&sni=tjsp.hhxaf.cc.cd&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=tjsp.hhxaf.cc.cd&path=%2F#Khodemoni-115164
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.35.13:443?fp=chrome&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#Khodemoni-115603
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.53.65:443?allowInsecure=0&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls#Khodemoni-109841
