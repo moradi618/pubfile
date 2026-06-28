@@ -14,7 +14,6 @@ trojan://telegram-id-directvpn@51.45.27.231:22223?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-privatevpns@13.37.27.225:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-143242
 trojan://telegram-id-privatevpns@3.123.202.198:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-140463
 vless://SoonTeam@108.162.195.19:8080?mode=auto&path=/@SoonTeam&security=none&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=new.new.new.ab841.com&type=xhttp#Khodemoni-131110
-vless://45d220a3-41be-49a0-9ed8-18eac8b4bec1@18.194.240.61:8443?security=reality&encryption=none&pbk=_9DARVAGQ56fDH1HLO4tiw8z7ctmuY-tJtRIK7J1-FQ&headerType=&fp=chrome&spx=%2Fun2i1ZJC8efoicu&type=tcp&sni=www.intel.com&sid=b2e10dcc135d62#Khodemoni-142651
 vless://bc6bb563-7476-42df-932f-ed15cdaf52b0@188.114.97.0:2083?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=ys.dbssl.ir&mode=auto&path=%2F&security=tls&sni=ys.dbssl.ir&type=xhttp&x_padding_bytes=100-1000#Khodemoni-143526
 trojan://telegram-id-privatevpns@3.123.202.198:22222?security=tls&amp%3Balpn=http/1.1&amp%3BheaderType=none&amp%3Btype=tcp&amp%3Bsni=trojan.burgerip.co.uk#Khodemoni-141548
 trojan://MiTiVPN@199.181.197.176:443?type=ws&security=tls&path=%2FMiTiVPN%3DfL&host=95r.ir&sni=95r.ir&alpn=http%2F1.1&fp=firefox&insecure=0&allowInsecure=0#Khodemoni-135875
