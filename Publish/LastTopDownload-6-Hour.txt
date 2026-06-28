@@ -35,9 +35,9 @@ vless://ac006062-f051-43c6-bd4c-f409285c8635@45.130.125.172:443?type=xhttp&secur
 vless://425c742d-112c-4cc6-bd75-234d46adfe9a@ee.janusgate.org:443?security=reality&encryption=none&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ee.janusgate.org&sid=76dc11867a5c907a#Khodemoni-142448
 trojan://Mitivpn@151.101.110.219:443?path=%2Fde&security=tls&alpn=http%2F1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#Khodemoni-134130
 trojan://Mitivpn@151.101.110.219:443?type=ws&security=tls&path=/de=mitivpn&host=3-mitivpn.global.ssl.fastly.net&sni=global.fastly.com&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#Khodemoni-134733
-trojan://telegram-id-privatevpns@3.123.202.198:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-140463
 trojan://Mitivpn@151.101.56.6:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/de&security=tls&alpn=h2&insecure=0&host=4-4-3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#Khodemoni-142322
 vless://8d10b2cc-da89-48df-8e9f-fb7bdfcb5d8d@179.237.75.180:443?mode=gun&security=reality&encryption=none&pbk=uAz7U1Ol10N4rEoPfXuk3aBrl1Zd-oWTSEym67gVBHc&fp=chrome&spx=%2F84wG7FZaxJkyTg1&type=grpc&sni=promotion.yahoo.com&sid=633f51cc1419b0#Khodemoni-142223
+trojan://telegram-id-privatevpns@3.123.202.198:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-140463
 trojan://Mitivpn@151.101.110.219:443?path=/de=mitivpn&security=tls&alpn=http/1.1&insecure=1&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=global.fastly.com#Khodemoni-139742
 trojan://Mitivpn@151.101.110.219:443?type=ws&security=tls&host=3-mitivpn.global.ssl.fastly.net&sni=ssl.fastly.com&path=/&fp=chrome#Khodemoni-139437
 trojan://Mitivpn@151.101.56.6:443?host=4-4-3-mitivpn.global.ssl.fastly.net&path=%2Fboost&sni=ssl.fastly.com&type=ws#Khodemoni-135904
