@@ -1,6 +1,7 @@
 vless://acf3205f-4ea7-4db3-a868-ea99217d3491@185.226.93.227:45103?security=&encryption=none&headerType=&type=tcp#Khodemoni-146219
 vless://afcb9101-feb7-4062-ab3f-27b5852f1ef3@185.226.93.216:5678?encryption=none&security=none&type=tcp#Khodemoni-146628
 vless://d9307ab3-1ed0-4b6d-bfd0-e104c7ccc25a@193.176.240.129:8880?encryption=none&security=none&type=ws&host=azsv2.ir5ive.ir&path=%2F#Khodemoni-079124
+vless://d9307ab3-1ed0-4b6d-bfd0-e104c7ccc25a@193.176.240.129:8880/?type=ws&encryption=none&flow=&host=azsv2.ir5ive.ir&path=%2F#Khodemoni-138891
 vless://3a0e37f7-b83b-4db2-838a-b93bd5ed7a39@80.249.112.235:8081?encryption=mlkem768x25519plus.native.0rtt.BcBXsL1S8mZsNZGovADooXdMgHAi56vwLb6DlCF0phU&type=tcp&headerType=none#Khodemoni-108526
 vless://d9307ab3-1ed0-4b6d-bfd0-e104c7ccc25a@193.176.240.129:8880?path=%2F&security=&encryption=none&host=azsv2.ir5ive.ir&type=ws#Khodemoni-095672
 vless://3a0e37f7-b83b-4db2-838a-b93bd5ed7a39@80.249.112.235:8081?security=none&encryption=mlkem768x25519plus.native.0rtt.BcBXsL1S8mZsNZGovADooXdMgHAi56vwLb6DlCF0phU&headerType=none&type=tcp#Khodemoni-108105
@@ -28,8 +29,8 @@ vless://ac006062-f051-43c6-bd4c-f409285c8635@45.130.125.6:443?encryption=none&ty
 vless://ac006062-f051-43c6-bd4c-f409285c8635@45.130.125.6:443?mode=auto&path=%2Fv2raylink&security=tls&alpn=http%2F1.1%2Ch2&encryption=none&insecure=0&host=germany4.alibaba1405.org&fp=chrome&type=xhttp&allowInsecure=0&sni=germany4.alibaba1405.org#Khodemoni-087190
 vless://1ca2c927-f8ba-4475-94cb-f85e0fb03ff5@static.lotussec.com:443?mode=stream-one&path=%2FJoin-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&fp=firefox&type=xhttp&allowInsecure=0&sni=static.lotussec.com#Khodemoni-138160
 vless://ac006062-f051-43c6-bd4c-f409285c8635@45.130.125.6:443?mode=auto&path=%2Fv2raylink&security=tls&encryption=none&insecure=0&host=germany4.alibaba1405.org&fp=chrome&type=xhttp&allowInsecure=0&sni=germany4.alibaba1405.org#Khodemoni-086693
-vless://GhostNodeConfig@5th.accuratenetworkchecker.ir:443?encryption=mlkem768x25519plus.native.0rtt.BMUxibbej8vwea4oIcOWqFm5elDWiZ1-nnrsiWzvQGc&type=tcp&headerType=none#Khodemoni-146085
 vless://ac006062-f051-43c6-bd4c-f409285c8635@45.130.125.172:443?encryption=none&type=xhttp&mode=auto&host=germany4.alibaba1405.org&path=/v2raylink&security=tls&fp=chrome&sni=germany4.alibaba1405.org&alpn=http/1.1,h2#Khodemoni-091139
+vless://GhostNodeConfig@5th.accuratenetworkchecker.ir:443?encryption=mlkem768x25519plus.native.0rtt.BMUxibbej8vwea4oIcOWqFm5elDWiZ1-nnrsiWzvQGc&type=tcp&headerType=none#Khodemoni-146085
 trojan://telegram-id-privatevpns@18.156.10.205:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-146077
 trojan://telegram-id-privatevpns@13.37.40.117:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-146442
 trojan://telegram-id-privatevpns@3.78.10.220:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-146099
@@ -51,11 +52,11 @@ vless://GhostNodeConfig@2nd.accuratenetworkchecker.ir:443?encryption=mlkem768x25
 vless://f3b28c56-0d56-4fa3-bd91-044b839fa4a5@www.speedtest.net:443?path=%2FeyJqdW5rIjoiajRTSU5PdHdZIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=ez-fa66fd.alamyazid.workers.dev&fp=chrome&type=ws&sni=ez-Fa66Fd.aLAmYAzID.WOrkErs.DEV#Khodemoni-146305
 trojan://M%49TIVPN@164.38.155.135:443?path=%2FMiTiVPN%3DDe&security=tls&alpn=http%2F1.1&insecure=0&host=95r.ir&fp=firefox&type=ws&allowInsecure=0&sni=95r.ir#Khodemoni-142565
 vless://dd5c9fb1-1f28-e209-3014-ee3c15b1a082@167.82.101.210:443?security=tls&type=ws&headerType=none&encryption=none&path=%2F&host=cdnfasts.global.ssl.fastly.net&sni=global.fastly.com&fp=firefox&alpn=http%2F1.1#Khodemoni-146125
-vless://6f630d57-b0ea-40d4-84e2-f416bbdd0889@12telegram.com.zapas.iran.janebicall.ir:2087?alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&fp=chrome&host=sexy.blaackgame.ir&path=%2Fxnxx&security=tls&sni=sexy.blaackgame.ir&type=ws#Khodemoni-146754
-vless://6f630d57-b0ea-40d4-84e2-f416bbdd0889@10telegram.com.zapas.iran.janebicall.ir:2087?alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&fp=chrome&host=sexy.blaackgame.ir&path=%2Fxnxx&security=tls&sni=sexy.blaackgame.ir&type=ws#Khodemoni-146752
 vless://holo@021.argod.dpdns.org:443?path=%2Fws%2Fholo&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=web-production-6ed07b.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=web-production-6ed07b.up.railway.app#Khodemoni-146783
 vless://6f630d57-b0ea-40d4-84e2-f416bbdd0889@7telegram.com.zapas.iran.janebicall.ir:2087?alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&fp=chrome&host=sexy.blaackgame.ir&path=%2Fxnxx&security=tls&sni=sexy.blaackgame.ir&type=ws#Khodemoni-146780
 vless://c7ae13c4-eaf8-4512-b16d-4f79485c8d36@gerr.greewebservices.ir:2053?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=uYVDQmYNVB_yJ-nqn3ZJaRqLvfZnilS8ukZMzDn99D8&sid=e419fa28&type=grpc#Khodemoni-146763
+vless://6f630d57-b0ea-40d4-84e2-f416bbdd0889@12telegram.com.zapas.iran.janebicall.ir:2087?alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&fp=chrome&host=sexy.blaackgame.ir&path=%2Fxnxx&security=tls&sni=sexy.blaackgame.ir&type=ws#Khodemoni-146754
+vless://6f630d57-b0ea-40d4-84e2-f416bbdd0889@10telegram.com.zapas.iran.janebicall.ir:2087?alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&fp=chrome&host=sexy.blaackgame.ir&path=%2Fxnxx&security=tls&sni=sexy.blaackgame.ir&type=ws#Khodemoni-146752
 vless://810b8ba9-3232-42ac-a474-3e921fdc8845@gb7.univesalsrv.com:443?encryption=none&security=tls&sni=gb7.univesalsrv.com&alpn=h2&fp=firefox&type=grpc&authority=&serviceName=mobile.api.Event&mode=gun#Khodemoni-146459
 vless://210b9316-5646-4dc9-9e2e-ca72e5ca7601@t-me.raynettun.musiclib.ir:443?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=grpc&allowInsecure=0#Khodemoni-146115
 vless://00722148-3d6c-403d-854e-581b105ceffd@104.16.45.99:443?encryption=none&type=ws&security=tls&path=%2Fapi%2Fv3%2Fws%2Fevents&host=RigW6bZIE7qM3Iqn.geekylinux.com&sni=0iXGgvWA3b.geekylinux.com&alpn=h2%2Chttp%2F1.1&fp=chrome&insecure=1&allowInsecure=1#Khodemoni-146114
