@@ -1,3 +1,4 @@
+trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.101:443?path=%2Fau-do&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#Khodemoni-137937
 vless://05a01432-0302-439f-a88d-8442cd27b7d5@gt-ch-01.live:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&security=reality&sid=445ab326fc7c90ac&sni=storage.yandex.net&type=tcp#Khodemoni-146428
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.53.65:443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#Khodemoni-146429
 trojan://telegram-id-privatevpns@13.37.40.117:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-146442
@@ -92,6 +93,3 @@ trojan://humanity@45.130.125.75:443?path=%2Fassignment&security=tls&insecure=0&h
 trojan://humanity@188.114.97.4:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmloud.com&fp=ios&type=ws&allowInsecure=0&sni=www.calmloud.com#Khodemoni-114984
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.1.37:443?type=ws&security=tls&sni=&host=t1s1.rittbo.kdns.fr&path=%2F#Khodemoni-115650
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.35.37:8443?fp=chrome&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#Khodemoni-115452
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@108.162.192.75:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/rsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&fp=chrome&type=ws&allowInsecure=0&sni=shegeftihaaa.net#Khodemoni-116457
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@108.162.192.75:443?encryption=none&host=shegeftihaaa.net&path=%2Frsedgws&security=tls&sni=shegeftihaaa.net&type=ws#Khodemoni-115231
-trojan://2458d16f560846a9af04fdc76d355b16@support.aparat.com:2087?type=xhttp&mode=packet-up&host=xn--8mqz30a05hmosugiwmz.natina.ir&path=/xn--q9jybc4&security=tls&fp=chrome&sni=xn--8mqz30a05hmosugiwmz.natina.ir&alpn=h3,h2,http/1.1#Khodemoni-116740
