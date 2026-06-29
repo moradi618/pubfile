@@ -4,6 +4,7 @@ vless://d9307ab3-1ed0-4b6d-bfd0-e104c7ccc25a@193.176.240.129:8880?encryption=non
 vless://d9307ab3-1ed0-4b6d-bfd0-e104c7ccc25a@193.176.240.129:8880?path=%2F&security=&encryption=none&host=azsv2.ir5ive.ir&type=ws#Khodemoni-095673
 vless://3a0e37f7-b83b-4db2-838a-b93bd5ed7a39@80.249.112.235:8081?encryption=mlkem768x25519plus.native.0rtt.BcBXsL1S8mZsNZGovADooXdMgHAi56vwLb6DlCF0phU&security=none&type=tcp#Khodemoni-108047
 vless://d9307ab3-1ed0-4b6d-bfd0-e104c7ccc25a@193.176.240.129:8880?path=%2F&security=&encryption=none&host=azsv2.ir5ive.ir&type=ws#Khodemoni-095671
+vless://d9307ab3-1ed0-4b6d-bfd0-e104c7ccc25a@193.176.240.129:8880/?type=ws&encryption=none&flow=&host=azsv2.ir5ive.ir&path=%2F#Khodemoni-138891
 vless://d9307ab3-1ed0-4b6d-bfd0-e104c7ccc25a@193.176.240.129:8880?path=%2F&security=&encryption=none&host=azsv2.ir5ive.ir&type=ws#Khodemoni-095672
 vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=none&encryption=none&host=azsv1.drpingservice.com&type=ws#Khodemoni-143437
 vless://3a0e37f7-b83b-4db2-838a-b93bd5ed7a39@80.249.112.235:8081?encryption=mlkem768x25519plus.native.0rtt.BcBXsL1S8mZsNZGovADooXdMgHAi56vwLb6DlCF0phU&type=tcp&headerType=none#Khodemoni-108526
