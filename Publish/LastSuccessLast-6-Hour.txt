@@ -1184,8 +1184,8 @@ vless://1ca2c927-f8ba-4475-94cb-f85e0fb03ff5@static.lotussec.com:443?mode=stream
 trojan://Mitivpn@151.101.110.219:443?path=%2Fboost%2Fmtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn&security=tls&host=3-Mitivpn.global.ssl.fastly.net&type=ws&sni=ssl.fastly.com#Khodemoni-141589
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.101:443/?type=ws&encryption=none&flow=&host=shegeftihaaa.net&path=%2Frsedgws&security=tls&sni=shegeftihaaa.net#Khodemoni-139997
 trojan://Mitivpn@151.101.129.242:443?security=tls&sni=cdn.gamingdll.ir&type=ws&host=cdn.gamingdll.ir&path=%2Fde&fp=chrome&alpn=h2&allowInsecure=0#Khodemoni-139484
-trojan://Mitivpn@151.101.1.242:443?path=%2Fde%3Dmitivpn&security=tls&insecure=0&host=cdn.gamingdll.ir&type=ws&allowInsecure=0&sni=cdn.gamingdll.ir#Khodemoni-139479
 vless://a6704fb4-4874-4e6b-98f4-571b048e3d90@31.77.161.2:8443?encryption=none&fp=&pbk=4XxjInQuDp4SqaYF03yQ1VY61exkKi9e0RS5-kgyxAE&security=reality&sid=db04ce8bdb8900f1&sni=prod.de-node-01.security-sbrf.ru&type=tcp#Khodemoni-140487
+trojan://Mitivpn@151.101.1.242:443?path=%2Fde%3Dmitivpn&security=tls&insecure=0&host=cdn.gamingdll.ir&type=ws&allowInsecure=0&sni=cdn.gamingdll.ir#Khodemoni-139479
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=/LiL?ed=2560&security=tls&alpn=h3&encryption=none&fp=chrome&type=ws&sni=kingcloud.biack.ir#Khodemoni-139702
 vless://fb27b0e8-e987-420e-8816-3870017bdbac@clover.spdnet.store:17390?path=/&security=&encryption=mlkem768x25519plus.native.0rtt.JA7r_7iEj0xWLie2zKYoGhIpXd1GEvX6CUgIwIxhzQY&type=httpupgrade#Khodemoni-144131
 vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?security=tls&encryption=none&insecure=1&host=Telegram-NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP&headerType=none&type=tcp&allowInsecure=1&sni=186.190.211.188#Khodemoni-140081
@@ -1220,8 +1220,8 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.117.112.30:8880?encryption=none&
 trojan://MiTiVPN@45.131.4.118:443?type=ws&security=tls&path=%2FMiTiVPN%3DSe&host=95r.ir&sni=95r.ir&alpn=http%2F1.1&fp=firefox&insecure=1&allowInsecure=1#Khodemoni-144310
 trojan://Mitivpn@151.101.110.219:443?path=/de=mitivpn&security=tls&alpn=http/1.1&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&allowinsecure=0&type=ws&sni=global.fastly.com#Khodemoni-144231
 trojan://humanity@45.80.111.7:443?type=ws&security=tls&path=/assignment&sni=www.calmlunch.com&insecure=1&allowInsecure=1#Khodemoni-144235
-trojan://Mitivpn@151.101.110.219:443?security=tls&sni=ssl.fastly.com&alpn=http/1.1&type=ws&host=3-mitivpn.global.ssl.fastly.net&path=/de#Khodemoni-144071
 vless://275e5518-9097-57bf-3241-8b9f369a115b@45.131.6.203:8443?encryption=none&type=xhttp&host=intelligentgatewayplatform.novacorelorna.com&path=/system-health-monitoring-portal-a7e32f91&security=tls&fp=firefox&sni=corecache.novacorelorna.com&alpn=h2,http/1.1,h3#Khodemoni-143765
+trojan://Mitivpn@151.101.110.219:443?security=tls&sni=ssl.fastly.com&alpn=http/1.1&type=ws&host=3-mitivpn.global.ssl.fastly.net&path=/de#Khodemoni-144071
 trojan://MITIVPN@164.38.155.135:443?type=ws&security=tls&path=/MiTiVPN=De&host=95r.ir&sni=95r.ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#Khodemoni-144227
 trojan://MiTiVPN@91.193.58.201:443?type=ws&security=tls&path=/MiTiVPN=NL&host=95r.ir&sni=95r.ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#Khodemoni-144230
 trojan://Mitivpn@151.101.56.6:443?type=ws&security=tls&path=/fastly=mitivpn&host=4-4-3-mitivpn.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#Khodemoni-144232
