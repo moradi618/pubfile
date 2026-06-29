@@ -22,8 +22,8 @@ vless://00722148-3d6c-403d-854e-581b105ceffd@104.16.45.99:443?encryption=none&ty
 vless://dd5c9fb1-1f28-e209-3014-ee3c15b1a082@www.speedtest.net:2052?security=none&type=xhttp&headerType=none&encryption=none&path=&host=pouria.pouriau.com&mode=packet-up#Khodemoni-146119
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4eWxtb3R0YnY5endxeWR6@184.174.96.59:401#Khodemoni-146117
 vless://dd5c9fb1-1f28-e209-3014-ee3c15b1a082@167.82.101.210:443?security=tls&type=ws&headerType=none&encryption=none&path=%2F&host=cdnfasts.global.ssl.fastly.net&sni=global.fastly.com&fp=firefox&alpn=http%2F1.1#Khodemoni-146125
-vless://95d2b722-ed38-402a-b340-8ec52f76a5c3@185.143.235.201:80?path=%2F&security=none&encryption=none&host=t1i6.niropardaz.ir&type=ws#Khodemoni-146084
 vless://a692da68-3bb0-4716-909a-9918acfcef30@shadyvpn-production-afff.up.railway.app:443?mode=auto&path=%2Fapi&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&type=xhttp&sni=shadyvpn-production-afff.up.railway.app#Khodemoni-146082
+vless://95d2b722-ed38-402a-b340-8ec52f76a5c3@185.143.235.201:80?path=%2F&security=none&encryption=none&host=t1i6.niropardaz.ir&type=ws#Khodemoni-146084
 vless://GhostNodeConfig@5th.accuratenetworkchecker.ir:443?encryption=mlkem768x25519plus.native.0rtt.BMUxibbej8vwea4oIcOWqFm5elDWiZ1-nnrsiWzvQGc&type=tcp&headerType=none#Khodemoni-146085
 vless://GhostNodeConfig@7th.accuratenetworkchecker.ir:443?encryption=mlkem768x25519plus.native.0rtt.BMUxibbej8vwea4oIcOWqFm5elDWiZ1-nnrsiWzvQGc&type=tcp&headerType=none#Khodemoni-146086
 vless://GhostNodeConfig@3th.accuratenetworkchecker.ir:443?encryption=mlkem768x25519plus.native.0rtt.BMUxibbej8vwea4oIcOWqFm5elDWiZ1-nnrsiWzvQGc&type=tcp&headerType=none#Khodemoni-146088
