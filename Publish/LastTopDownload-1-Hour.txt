@@ -1,4 +1,3 @@
-vless://acf3205f-4ea7-4db3-a868-ea99217d3491@185.226.93.227:45103?security=&encryption=none&headerType=&type=tcp#Khodemoni-146219
 vless://3a0e37f7-b83b-4db2-838a-b93bd5ed7a39@80.249.112.235:8081?encryption=mlkem768x25519plus.native.0rtt.BcBXsL1S8mZsNZGovADooXdMgHAi56vwLb6DlCF0phU&security=none&type=tcp#Khodemoni-108047
 vless://3a0e37f7-b83b-4db2-838a-b93bd5ed7a39@80.249.112.235:8081?encryption=mlkem768x25519plus.native.0rtt.BcBXsL1S8mZsNZGovADooXdMgHAi56vwLb6DlCF0phU&type=tcp&headerType=none#Khodemoni-108526
 vless://3a0e37f7-b83b-4db2-838a-b93bd5ed7a39@80.249.112.235:8081?security=none&encryption=mlkem768x25519plus.native.0rtt.BcBXsL1S8mZsNZGovADooXdMgHAi56vwLb6DlCF0phU&headerType=none&type=tcp#Khodemoni-108105
@@ -48,9 +47,9 @@ trojan://Mitivpn@151.101.56.6:443?Telegram=@GozargahAzad,@GozargahAzad,@Gozargah
 vless://00722148-3d6c-403d-854e-581b105ceffd@104.16.45.99:443?encryption=none&type=ws&security=tls&path=%2Fapi%2Fv3%2Fws%2Fevents&host=RigW6bZIE7qM3Iqn.geekylinux.com&sni=0iXGgvWA3b.geekylinux.com&alpn=h2%2Chttp%2F1.1&fp=chrome&insecure=1&allowInsecure=1#Khodemoni-146114
 trojan://Mitivpn@167.82.101.251:443?path=/de&security=tls&alpn=http/1.1&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#Khodemoni-138668
 trojan://Mitivpn@151.101.56.6:443?path=%2Fslowdns&security=tls&insecure=0&host=4-4-3-mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#Khodemoni-135949
+trojan://Mitivpn@151.101.110.219:443?path=/de=mitivpn&security=tls&alpn=http/1.1&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&allowinsecure=0&type=ws&sni=global.fastly.com#Khodemoni-144231
 vless://00722148-3d6c-403d-854e-581b105ceffd@www.ietf.org:443?encryption=none&type=ws&security=tls&path=%2Fapi%2Fv3%2Fws%2Fevents&host=RigW6bZIE7qM3Iqn.geekylinux.com&sni=RigW6bZIE7qM3Iqn.geekylinux.com&fp=chrome&insecure=1&allowInsecure=1#Khodemoni-146097
 trojan://Mitivpn@151.101.56.6:443?path=/de&security=tls&alpn=http/1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#Khodemoni-145140
-trojan://Mitivpn@151.101.110.219:443?path=/de=mitivpn&security=tls&alpn=http/1.1&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&allowinsecure=0&type=ws&sni=global.fastly.com#Khodemoni-144231
 trojan://Mitivpn@151.101.56.6:443?security=tls&type=ws&host=4-4-3-mitivpn.global.ssl.fastly.net&path=/stable=mitivpn&sni=ssl.fastly.com#Khodemoni-144088
 trojan://Mitivpn@151.101.56.6:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/de&security=tls&alpn=h2&insecure=0&host=4-4-3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#Khodemoni-142322
 trojan://Mitivpn@151.101.110.219:443?type=ws&security=tls&host=3-mitivpn.global.ssl.fastly.net&sni=ssl.fastly.com&path=/&fp=chrome#Khodemoni-139437
