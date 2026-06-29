@@ -82,8 +82,8 @@ trojan://Mitivpn@iranpoems.ir:443?type=ws&security=tls&path=%2Fde%3Dmitivpn&host
 vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@104.21.74.63:443?path=%2Fjdhfyws&security=tls&encryption=none&insecure=0&host=amooaliii.net&fp=chrome&type=ws&allowInsecure=0&sni=amooaliii.net#Khodemoni-134370
 trojan://humanity@45.130.125.75:443?sni=www.calmlunch.com&host=www.calmlunch.com&type=ws&security=tls&path=%2Fassignment#Khodemoni-137495
 trojan://Mitivpn@iranpoems.ir:443?path=%2Fusa%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=www.gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=www.gamingdll.ir#Khodemoni-132741
-vless://f814efd4-b84c-4ec2-9fc5-9a69d9aac87b@151.101.110.219:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#Khodemoni-143439
 vless://3515fab9-6e91-467f-b30a-7c17f0dafae5@104.17.163.139:2096?encryption=none&security=tls&sni=ez-01eeff.ezaccess19f879f.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ez-01eeff.ezaccess19f879f.workers.dev&path=%2Fproxyip%3D94.131.123.74%3Fu%3D135bd1e8e1#Khodemoni-138394
+vless://f814efd4-b84c-4ec2-9fc5-9a69d9aac87b@151.101.110.219:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#Khodemoni-143439
 trojan://Mitivpn@iranpoems.ir:443?security=tls&sni=cdn.gamingdll.ir&insecure=0&allowInsecure=0&type=ws&host=cdn.gamingdll.ir&path=%2Fde%3Dmitivpn#Khodemoni-137679
 trojan://humanity@2.144.21.112:40443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment#Khodemoni-137610
 trojan://humanity@141.193.213.21:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#Khodemoni-137513
@@ -270,8 +270,8 @@ vless://eeb6823c-b926-4ea2-866a-5542edd26e59@nexusmods.com:443?allowInsecure=1&e
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.144.82:443?path=%2F&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#Khodemoni-093955
 trojan://humanity@104.16.80.73:443?path=%2Fassignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.gossipglove.com#Khodemoni-095333
 trojan://humanity@104.16.80.73:443?path=%2Fassignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.gossipglove.com#Khodemoni-095334
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@nexusmods.com:443/?type=ws&encryption=none&flow=&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&allowInsecure=1&fp=chrome#Khodemoni-106351
 trojan://humanity@172.66.47.69:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#Khodemoni-095425
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@nexusmods.com:443/?type=ws&encryption=none&flow=&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&allowInsecure=1&fp=chrome#Khodemoni-106351
 trojan://humanity@104.18.152.229:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#Khodemoni-094592
 trojan://humanity@172.66.47.45:443?path=%2Fassignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.creationlong.org#Khodemoni-095252
 trojan://humanity@172.66.47.45:443?path=%2Fassignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.creationlong.org#Khodemoni-095251
