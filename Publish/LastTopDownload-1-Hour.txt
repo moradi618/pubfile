@@ -28,3 +28,4 @@ vless://2077061d-1405-4d2e-aba5-4b47ca67e350@rs1.avaaal.ir:8880?security=reality
 vless://98d54794-fff3-4fe3-949e-7afb1021a633@135.125.168.83:719?security=none&type=ws&headerType=&path=%2Fapi%2Fv2%2Fxtrnwqjbkr%3Fed%3D2560&host=play.google.com#Khodemoni-169785
 vless://ddaeb053-b02d-465a-b4f0-0b1e5d2b8e12@simorgh.sorvexa.ir:48134?mode=auto&path=%2Fxhttp&security=reality&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=cIuXOLK-MNLQQVnt2WINCNIObRC9sOVb3vIiAHN0eg8&host=free.sorvexa.ir&fp=chrome&spx=%2F&type=xhttp&sni=cafebazaar.ir&sid=9095a4#Khodemoni-169761
 trojan://humanity@2.144.21.112:40443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment&allowInsecure=1#Khodemoni-144066
+vless://1c405762-61d8-4654-abf0-1ab168a237eb@91.107.253.64:2035?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-169798
