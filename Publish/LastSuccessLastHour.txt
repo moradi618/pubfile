@@ -91,8 +91,8 @@ vless://98d54794-fff3-4fe3-949e-7afb1021a633@135.125.168.83:719?security=none&ty
 vless://98d54794-fff3-4fe3-949e-7afb1021a633@91.193.58.201:8443?security=tls&type=ws&headerType=&path=%2F&host=&sni=www.subster.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#Khodemoni-169786
 vless://98d54794-fff3-4fe3-949e-7afb1021a633@135.125.245.115:719?security=none&type=ws&headerType=&path=%2Fapi%2Fv2%2Fxtrnwqjbkr%3Fed%3D2560&host=play.google.com#Khodemoni-169788
 vless://98d54794-fff3-4fe3-949e-7afb1021a633@57.129.30.123:719?security=none&type=ws&headerType=&path=%2Fapi%2Fv2%2Fxtrnwqjbkr%3Fed%3D2560&host=play.google.com#Khodemoni-169789
-vless://98d54794-fff3-4fe3-949e-7afb1021a633@51.89.4.74:719?security=none&type=ws&headerType=&path=%2Fapi%2Fv2%2Fxtrnwqjbkr%3Fed%3D2560&host=play.google.com#Khodemoni-169790
 vless://98d54794-fff3-4fe3-949e-7afb1021a633@135.125.184.84:719?security=none&type=ws&headerType=&path=%2Fapi%2Fv2%2Fxtrnwqjbkr%3Fed%3D2560&host=play.google.com#Khodemoni-169791
+vless://98d54794-fff3-4fe3-949e-7afb1021a633@51.89.4.74:719?security=none&type=ws&headerType=&path=%2Fapi%2Fv2%2Fxtrnwqjbkr%3Fed%3D2560&host=play.google.com#Khodemoni-169790
 vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@173.245.58.75:443?encryption=none&host=terazhediii.info&path=%2Fhdgrbws&security=tls&sni=terazhediii.info&type=ws#Khodemoni-088810
 vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@betty.ns.cloudflare.com:443?encryption=none&type=ws&security=tls&path=%2Fhdgrbws&host=terazhediii.info&sni=terazhediii.info&insecure=0&allowInsecure=0#Khodemoni-090443
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@172.64.32.75:443?encryption=none&host=octopusss.net&path=%2Fodiyfws&security=tls&sni=octopusss.net&type=ws#Khodemoni-091550
