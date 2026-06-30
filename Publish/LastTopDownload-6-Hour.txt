@@ -39,7 +39,6 @@ trojan://Mitivpn@151.101.110.219:443?alpn=http/1.1&fp=chrome&host=3-mitivpn.glob
 trojan://MITIVPN@164.38.155.135:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&host=95r.ir&fp=chrome&type=ws&sni=95r.ir#Khodemoni-137164
 trojan://Mitivpn@151.101.110.219:443?type=ws&security=tls&host=3-mitivpn.global.ssl.fastly.net&sni=ssl.fastly.com&path=/&fp=chrome#Khodemoni-139437
 vless://367ff772-a8f4-4895-8e99-3702a868f0c6@gbos2.osvp.online:443?type=grpc&security=tls&fp=chrome&sni=gbos2.osvp.online&mode=gun&serviceName=grpc-api#Khodemoni-147814
-trojan://Mitivpn@151.101.110.219:443?path=%2Fde%3Dmitivpn%2F%3FTELEGRAM--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN&security=tls&alpn=http%2F1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=global.fastly.com#Khodemoni-146795
 vless://546bd638-8aeb-0f83-9a31-8be7c5ce814a@ffdownload.dlc-bazigame.ir:8880?encryption=none&security=none&type=httpupgrade&host=cdn-nl1.akssoldier.top&path=/#Khodemoni-145924
 vless://a6704fb4-4874-4e6b-98f4-571b048e3d90@31.77.161.2:8443?security=reality&encryption=none&pbk=4XxjInQuDp4SqaYF03yQ1VY61exkKi9e0RS5-kgyxAE&host=%2F%3FBIA_TELEGRAM%40vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr&headerType=none&fp=firefox&type=tcp&sni=prod.de-node-01.security-sbrf.ru&sid=db04ce8bdb8900f1#Khodemoni-145902
 trojan://Mitivpn@151.101.110.219:443?path=%2Fde%3D%6d%69%74%69%76%70%6e&security=tls&alpn=http/1.1&host=3-%6d%69%74%69%76%70%6e.global.ssl.fastly.net&fp=firefox&allowinsecure=0&type=ws&sni=global.fastly.com#Khodemoni-144560
@@ -48,9 +47,10 @@ trojan://M%69tivpn@151.101.56.6:443?path=%2Ffastly%3Dmitivpn&security=tls&alpn=h
 trojan://Mitivpn@151.101.56.6:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/de&security=tls&alpn=h2&insecure=0&host=4-4-3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#Khodemoni-142322
 vless://0a715ede-593a-4018-8406-66e2c3b1169c@89.106.64.15:7000?encryption=none&type=xhttp&path=%2F&host=a12.crowsvpn.shop&mode=stream-one&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D#Khodemoni-141971
 trojan://Mitivpn@151.101.56.6:443?path=%2Fde%3Dmitivpn&security=tls&insecure=1&host=4-4-3-mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=ssl.fastly.com#Khodemoni-139320
+trojan://M%69t%69vpn@151.101.110.219:443?path=%2Fboost&security=tls&insecure=0&host=3-mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#Khodemoni-136463
+trojan://Mitivpn@151.101.56.6:443?path=/de&security=tls&alpn=http/1.1&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#Khodemoni-138666
 trojan://Mitivpn@151.101.110.219:443?path=%2Fde&security=tls&alpn=http%2F1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#Khodemoni-137911
 trojan://Mitivpn@151.101.56.6:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/de&security=tls&alpn=http/1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#Khodemoni-137796
-trojan://M%69t%69vpn@151.101.110.219:443?path=%2Fboost&security=tls&insecure=0&host=3-mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#Khodemoni-136463
 trojan://Mitivpn@151.101.56.6:443?security=tls&sni=ssl.fastly.com&insecure=0&allowInsecure=0&type=ws&host=4-4-3-mitivpn.global.ssl.fastly.net&path=%2Fde%3Dmitivpn#Khodemoni-137680
 trojan://Mitivpn@151.101.110.219:443?security=tls&sni=ssl.fastly.com&insecure=0&allowInsecure=0&type=ws&host=3-mitivpn.global.ssl.fastly.net&path=%2Fde%3Dmitivpn#Khodemoni-137678
 trojan://MiTiVPN@91.193.58.201:443?path=/MiTiVPN=NL&security=tls&alpn=http/1.1&host=95r.ir&fp=chrome&type=ws&sni=95r.ir#Khodemoni-137169
