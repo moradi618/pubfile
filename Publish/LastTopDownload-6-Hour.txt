@@ -1,4 +1,5 @@
 vless://0a715ede-593a-4018-8406-66e2c3b1169c@89.106.64.15:7000?mode=stream-one&path=%2F&security=&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=a12.crowsvpn.shop&type=xhttp#Khodemoni-114549
+vless://0a715ede-593a-4018-8406-66e2c3b1169c@89.106.64.15:7000?encryption=none&security=none&type=xhttp&host=a12.crowsvpn.shop&path=%2F&mode=stream-one&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D#Khodemoni-090282
 vless://e39491dd-33f2-4544-9890-19f12da7cdd4@93.127.160.203:610/?type=tcp&encryption=none#Khodemoni-169721
 vless://0a715ede-593a-4018-8406-66e2c3b1169c@89.106.64.15:7000?encryption=none&type=xhttp&path=%2F&host=a12.crowsvpn.shop&mode=stream-one&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D#Khodemoni-141971
 vless://7d251cd4-82c6-41a3-8283-eb8a8df46cb2@194.147.33.199:29023?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-158773
@@ -57,7 +58,6 @@ vless://5e6a66e9-a250-465d-adb5-0b7bd692f48a@199.232.142.79:443?Telegram=@Gozarg
 trojan://MiTiVPN@45.131.4.118:443?type=ws&security=tls&path=%2FMiTiVPN%3DSe&host=95r.ir&sni=95r.ir&alpn=http%2F1.1&fp=firefox&insecure=1&allowInsecure=1#Khodemoni-144310
 vless://fedf7ff3-0bd2-45dd-ba36-b25cda318388@31.57.28.197:443?encryption=mlkem768x25519plus.native.0rtt.9NVAPtxIeWBxT57YsITxZZN-jeed3yryEi4DB0waohQ&fp=chrome&pbk=jWNzEE0kjuK_3n0XQHdG_eEime9kSQt-O01XK5C68Fo&security=reality&sid=201f2fa0&sni=google.com&spx=%2Fh8pAQnz5A3iforX&type=tcp#Khodemoni-169632
 vless://eb0730d4-f581-f89f-a1a1-98bbf6ee10d6@role7.ojcenter.com:3468?security=reality&type=tcp&headerType=none&encryption=none&path=&host=&sni=telewebion.ir&fp=firefox&pbk=SvSapHrt3EpoN_JcW195G48r5nJVuioGP7LNABKWxG4&sid=b6eae5ce&spx=/#Khodemoni-169723
-trojan://MITIVPN@164.38.155.135:443?path=%2FMiTiVPN%3DDe&security=tls&alpn=http%2F1.1&host=95r.ir&fp=firefox&type=ws&sni=95r.ir#Khodemoni-142953
 vless://527561c6-bed1-44c5-8404-f322fbf7ced2@fsxhh.fastshop1.com:443?encryption=none&type=xhttp&security=tls&path=/lizzard&host=happily-noted-goblin.global.ssl.fastly.net&mode=packet-up&sni=speedtest.net&fp=chrome&insecure=1&allowInsecure=1#Khodemoni-169554
 vless://4c99f1d5-4cfd-4ef6-9c3a-0bd53d223729@45.130.125.207:2053?security=tls&type=ws&headerType=&path=%2F%3Fed%3D2048&host=digimahdi.khayyam.na.am&sni=digimahdi.khayyam.na.am&fp=#Khodemoni-169021
 vless://bed7e6cc-0509-4f0f-a023-d781b84a34af@cf-mtn.coixconqwe1.ir:443?path=/news&security=tls&encryption=none&insecure=0&host=cdn-gr.hardwarenew.ir.&fp=chrome&type=ws&allowInsecure=0&sni=cdn-gr.hardwarenew.ir.#Khodemoni-169028
