@@ -1,5 +1,7 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJTUhIaVp1Uy9MclZlNkUzdEt5V0NyNy9iQkJOc2g5emNrQVdvZ0pBRWtzPQ@e2.cover20.ir:30874?type=tcp#Khodemoni-147838
 vless://e430c6ff-ed6b-4913-a323-cdd76166785a@132.243.22.253:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=XIVwN3LXiiE1CqX70k-SzjRJmDeQzOiiLJ6E2KpjVWM&sid=efd24771&sni=dl.google.com&spx=/#Khodemoni-147834
 vless://03fcc618-b93d-6796-6aed-8a38c975d581@45.80.215.68:443?allowInsecure=1&insecure=1&type=tcp&security=tls&host=45.80.215.68#Khodemoni-115196
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnVFd1VXpMWkdncWJYTTZLa3BocDlocXhsR29kSHZUQzZlMzRieTk0U2VVPQ@e1.cover20.ir:51570?type=tcp#Khodemoni-147837
 vless://e430c6ff-ed6b-4913-a323-cdd76166785a@31.76.39.41:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=G-wIgtt_HvMLxSPCq_KfRqcjjZwbLladjbLQD2aCFn0&sid=21f36341&sni=cdn.jsdelivr.net&spx=/#Khodemoni-147818
 vless://e430c6ff-ed6b-4913-a323-cdd76166785a@31.76.38.23:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=QDfwP9C0c60Kz5Do_M2UAsAek1cuRTaZxg3Eu3XdTVg&sid=0ee86125d75f294f&sni=www.nvidia.com&spx=/#Khodemoni-147817
 vless://e430c6ff-ed6b-4913-a323-cdd76166785a@31.76.39.41:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=G-wIgtt_HvMLxSPCq_KfRqcjjZwbLladjbLQD2aCFn0&sid=6aa1c5864bc69202&sni=cdn.jsdelivr.net&spx=/#Khodemoni-147819
