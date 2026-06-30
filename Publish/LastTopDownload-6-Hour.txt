@@ -6,6 +6,7 @@ vless://f75566a5-4744-4806-ac2e-ccaefe1b1080@172.65.109.171:25565?security=&encr
 vless://1c405762-61d8-4654-abf0-1ab168a237eb@91.107.253.64:2035?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-169729
 vless://98d54794-fff3-4fe3-949e-7afb1021a633@51.89.4.74:719?security=none&type=ws&headerType=&path=%2Fapi%2Fv2%2Fxtrnwqjbkr%3Fed%3D2560&host=play.google.com#Khodemoni-169790
 vless://5b347c25-4be7-4ee8-aba5-18d60d8d8501@anten.ir:80?encryption=none&host=k1.1414team2.ir&path=/&security=none&type=ws#Khodemoni-169026
+vless://a6704fb4-4874-4e6b-98f4-571b048e3d90@31.77.161.2:8443?security=reality&encryption=none&pbk=4XxjInQuDp4SqaYF03yQ1VY61exkKi9e0RS5-kgyxAE&host=bored_vpn---bored_vpn&headerType=none&fp=chrome&type=tcp&sni=prod.de-node-01.security-sbrf.ru&sid=db04ce8bdb8900f1#Khodemoni-138477
 trojan://telegram-id-directvpn@52.59.13.5:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-157931
 vless://40b5d855-87d4-41a1-8fd4-e3b5761d58fc@209.250.255.14:8443?encryption=none&security=none&type=xhttp&headerType=none&path=%2F&mode=auto#Khodemoni-169367
 trojan://telegram-id-privatevpns@35.156.135.140:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-169773
