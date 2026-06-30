@@ -1,13 +1,9 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4bVA2cFpmVXMyZnZTVDE0eHc1THJB@217.179.5.160:1080#Khodemoni-158094
 vless://e6ec767d-9cd8-464b-b8e8-3ff1f806a983@91.107.154.30:2044?encryption=none&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#Khodemoni-158256
 ss://YWVzLTI1Ni1nY206YjJkazJydjR0cHZheXNwYQ@91.107.154.30:27050?type=tcp#Khodemoni-158254
-vless://SoonTeam@108.162.195.19:8080?mode=auto&path=/@SoonTeam&security=&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=new.new.new.ab841.com&type=xhttp#Khodemoni-110765
-vless://SoonTeam@108.162.195.19:8080?mode=auto&path=/@SoonTeam&security=none&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=new.new.new.ab841.com&type=xhttp#Khodemoni-131110
+vless://3b715892-8610-4fdc-9086-647b36af5443@ip2.iranphlox.ir:2086?mode=auto&path=%2F%3Fed%3D2082&security=none&encryption=none&host=J.cafearen.ir&type=xhttp#Khodemoni-158308
 vless://e6ec767d-9cd8-464b-b8e8-3ff1f806a983@91.107.154.30:44016?authority=&encryption=none&security=none&serviceName=2096vless&type=grpc#Khodemoni-158257
 trojan://rdC7DTr5wK@45.130.125.2:443?type=ws&security=tls&path=/da&host=si.farxmode.ir&sni=si.farxmode.ir&fp=firefox&insecure=0&allowInsecure=0#Khodemoni-158289
 trojan://HHyBuQthOg@45.130.125.2:443?type=ws&security=tls&path=/db&host=sj.farxmode.ir&sni=sj.farxmode.ir&fp=firefox&insecure=0&allowInsecure=0#Khodemoni-158300
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4b1pFZENjdzQwSU5ocW56@40.123.241.50:443?outline=1&prefix=POST%20m33f299w#Khodemoni-158253
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.84:443?type=tcp&security=tls&headerType=none&insecure=1&allowInsecure=1#Khodemoni-130790
-trojan://MiTiVPN@45.131.4.118:443?path=/MiTiVPN=Se&security=tls&insecure=0&host=95r.ir&type=ws&allowInsecure=0&sni=95r.ir#Khodemoni-144228
 vless://3405586a-5c95-4129-bd98-62b04b50fc61@cd.pascalplus.com:8443?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=cdn3.w-ert.org&mode=auto&extra=%7B%22xmux%22%3A%7B%22hKeepAlivePeriod%22%3A5%7D%7D&sni=cdn3.w-ert.org&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#Khodemoni-158261
-vless://4e783787-4de7-51de-ae32-01ce7203b838@185.171.202.76:42652?encryption=none&type=xhttp&security=tls&path=%2Fskkwkqknsjejejwj&host=omm.kotlet.org&mode=stream-one&sni=yahoo.com&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1#Khodemoni-059106
+vless://3b715892-8610-4fdc-9086-647b36af5443@forallpanel.srtongston.ir:8880?path=%2F%3Fed%3D2082&security=none&encryption=none&host=a.postshup.ir&type=httpupgrade#Khodemoni-158307
