@@ -47,7 +47,6 @@ trojan://MITIVPN@164.38.155.135:443?type=ws&security=tls&path=/MiTiVPN=De&host=9
 vmess://eyJhZGQiOiI4MS4zMC4xMDguNjMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMmE0ZmVkYTAtMDUyMi00NjhmLWIxOGYtMmU0NDg3ZjdhNzI0IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMDIwIiwicHMiOiJLaG9kZW1vbmktMTI3MDMzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 trojan://MiTiVPN@91.193.58.201:443?type=ws&security=tls&path=/MiTiVPN=NL&host=95r.ir&sni=95r.ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#Khodemoni-144230
 trojan://MITIVPN@164.38.155.135:443?alpn=http%2F1.1&fp=firefox&host=95r.ir&path=%2FMiTiVPN%3DDe&sni=95r.ir&type=ws#Khodemoni-169039
-vless://46882b9b-ef05-4655-a87d-47ce74d00939@135.125.185.82:2083?security=reality&encryption=none&pbk=oLuqJsj4z6m_kns9ETrsIPA8fDrysonWXEsmn3931kY&headerType=&fp=safari&spx=%2FTzRrW1YBjEiXLv3&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=acff6b3ea1#Khodemoni-158782
 vless://2977ddae-0f86-2501-d6df-d09c91759115@tmesubgift.up.railway.app:443?path=%2Fws%2F2977ddae-0f86-2501-d6df-d09c91759115&security=tls&encryption=none&alpn=http%2F1.1&host=tmesubgift.up.railway.app&fp=chrome&type=ws&sni=tmesubgift.up.railway.app#Khodemoni-168934
 trojan://MITIVPN@164.38.155.135:443?alpn=http%2F1.1&fp=chrome&host=95r.ir&path=%2FMiTiVPN%3DDe&sni=95r.ir&type=ws#Khodemoni-140484
 trojan://MiTiVPN@199.181.197.176:443?path=/MiTiVPN=fL&security=tls&alpn=http/1.1&sni=95r.ir&fp=chrome&type=ws&sni=95r.ir#Khodemoni-144081
