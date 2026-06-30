@@ -37,7 +37,6 @@ trojan://MiTiVPN@91.193.58.201:443?alpn=http%2F1.1&fp=chrome&host=95r.ir&path=%2
 trojan://Mitivpn@151.101.56.6:443?type=ws&security=tls&path=%2Fde%3Dmitivpn&host=4-4-3-mitivpn.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=h2&fp=chrome&insecure=0&allowInsecure=0#Khodemoni-132726
 trojan://Mitivpn@151.101.56.6:443?host=4-4-3-mitivpn.global.ssl.fastly.net&path=%2Fslowdns&sni=ssl.fastly.com&type=ws#Khodemoni-135907
 trojan://Mitivpn@151.101.56.6:443?type=ws&host=4-4-3-mitivpn.global.ssl.fastly.net&path=/boost&security=tls&sni=ssl.fastly.com#Khodemoni-146748
-trojan://Mitivpn@151.101.110.219:443?path=/de=mitivpn&security=tls&alpn=http/1.1&host=3-mitivpn.global.ssl.fastly.net&fp=firefox&type=ws&sni=global.fastly.com#Khodemoni-135516
 vless://367ff772-a8f4-4895-8e99-3702a868f0c6@gbos2.osvp.online:443?type=grpc&security=tls&fp=chrome&sni=gbos2.osvp.online&mode=gun&serviceName=grpc-api#Khodemoni-147814
 trojan://Mitivpn@151.101.110.219:443?path=%2Fde%3Dmitivpn%2F%3FTELEGRAM--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN&security=tls&alpn=http%2F1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=global.fastly.com#Khodemoni-146795
 vless://ad9741e0-56a1-4606-bbb9-94418e893727@www.speedtest.net:443?path=%2FeyJqdW5rIjoic2dxVVoxZjdHS0hVUlREVCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=ez-37e919.keshmesh-f31.workers.dev&fp=chrome&type=ws&sni=Ez-37E919.KEshmesH-f31.woRkERs.DeV#Khodemoni-146275
@@ -56,5 +55,6 @@ trojan://Mitivpn@151.101.56.6:443?security=tls&sni=ssl.fastly.com&insecure=0&all
 trojan://Mitivpn@151.101.110.219:443?security=tls&sni=ssl.fastly.com&insecure=0&allowInsecure=0&type=ws&host=3-mitivpn.global.ssl.fastly.net&path=%2Fde%3Dmitivpn#Khodemoni-137678
 trojan://MiTiVPN@45.131.4.118:443?path=/MiTiVPN=Se&security=tls&alpn=http/1.1&host=95r.ir&fp=chrome&type=ws&sni=95r.ir#Khodemoni-137167
 trojan://Mitivpn@151.101.110.219:443?host=3-mitivpn.global.ssl.fastly.net&path=%2Fboost&sni=ssl.fastly.com&type=ws#Khodemoni-135864
+trojan://Mitivpn@151.101.110.219:443?path=/de=mitivpn&security=tls&alpn=http/1.1&host=3-mitivpn.global.ssl.fastly.net&fp=firefox&type=ws&sni=global.fastly.com#Khodemoni-135516
 trojan://Mitivpn@151.101.56.6:443?path=/de&security=tls&alpn=h2&insecure=0&host=4-4-3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#Khodemoni-135455
 trojan://Mitivpn@151.101.56.6:443?path=%2Fboost&security=tls&insecure=0&host=4-4-3-mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#Khodemoni-134903
