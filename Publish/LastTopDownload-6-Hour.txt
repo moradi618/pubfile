@@ -6,7 +6,6 @@ vless://0a715ede-593a-4018-8406-66e2c3b1169c@89.106.64.15:7000?mode=stream-one&p
 vless://0a715ede-593a-4018-8406-66e2c3b1169c@89.106.64.15:7000?mode=stream-one&path=%2F&security=none&encryption=none&host=a12.crowsvpn.shop&type=xhttp#Khodemoni-108690
 vless://e6ec767d-9cd8-464b-b8e8-3ff1f806a983@91.107.154.30:2044?encryption=none&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#Khodemoni-158256
 vless://0a715ede-593a-4018-8406-66e2c3b1169c@89.106.64.15:7000?encryption=none&type=xhttp&path=%2F&host=a12.crowsvpn.shop&mode=stream-one&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D#Khodemoni-141971
-ss://YWVzLTI1Ni1nY206YjJkazJydjR0cHZheXNwYQ@91.107.154.30:27050?type=tcp#Khodemoni-158254
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJTUhIaVp1Uy9MclZlNkUzdEt5V0NyNy9iQkJOc2g5emNrQVdvZ0pBRWtzPQ@e2.cover20.ir:30874?type=tcp#Khodemoni-147838
 vless://f75566a5-4744-4806-ac2e-ccaefe1b1080@172.65.109.171:25565?security=&encryption=none&headerType=none&type=tcp#Khodemoni-147478
 trojan://MiTiVPN@45.131.4.118:443?host=95r.ir&path=%2FMiTiVPN%3DSe&sni=95r.ir&type=ws#Khodemoni-141937
