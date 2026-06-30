@@ -111,8 +111,8 @@ vmess://eyJ2IjoiMiIsInBzIjoiS2hvZGVtb25pLTEzNzI1NiIsImFkZCI6IjEwNC4xNy43Ny43NyIs
 trojan://MITIVPN@164.38.155.135:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&host=95r.ir&fp=chrome&type=ws&sni=95r.ir#Khodemoni-137164
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&alpn=h3&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#Khodemoni-138197
 trojan://MITIVPN@164.38.155.135:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&sni=95r.ir&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=95r.ir&path=/MiTiVPN=De#Khodemoni-139398
-trojan://MITIVPN@164.38.155.135:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&insecure=0&host=95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=95r.ir#Khodemoni-136294
 trojan://MiTiVPN@199.181.197.176:443?path=%2FMiTiVPN%3DfL&security=tls&alpn=http%2F1.1&host=95r.ir&fp=firefox&type=ws&sni=95r.ir#Khodemoni-136914
+trojan://MITIVPN@164.38.155.135:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&insecure=0&host=95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=95r.ir#Khodemoni-136294
 trojan://MITIVPN@94.140.0.100:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/MiTiVPN=Usa&security=tls&alpn=http/1.1&insecure=0&host=95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=95r.ir#Khodemoni-136295
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?security=tls&allowInsecure=0&encryption=none&type=ws&path=/LiL?ed%3D2560&sni=kingcloud.biack.ir&fp=firefox&alpn=h3#Khodemoni-136119
 trojan://MiTiVPN@45.131.4.118:443?path=%2FMiTiVPN%3DSe&security=tls&alpn=http%2F1.1&host=95r.ir&fp=firefox&type=ws&sni=95r.ir#Khodemoni-136913
