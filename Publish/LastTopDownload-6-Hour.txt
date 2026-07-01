@@ -56,6 +56,7 @@ vless://a8609a02-b76d-4cc8-a8d5-496088b20ff1@185.143.233.235:8443?encryption=non
 vless://e84c124e-b176-409c-a6b6-69844127bdfa@mirror.nothingchange.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=eKyUyIzbzn0TL5ip_00Buvum95qnWy8gTCwjZvv-olc&sid=3f7b1e5a9c2d8f46&sni=mirror.nothingchange.com#Khodemoni-171224
 vless://a1fbffe9-8e5a-5a0e-9333-045d32eccd59@172.65.220.225:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=microsoft.com&fp=chrome&sid=2478b338&pbk=f7IfVwkipbZFQN0MDsBrHiANTcpSebrdIyOwL_0pOGc#Khodemoni-171156
 vless://f3603472-1148-4fb4-b239-f20dbea93d5b@cd18.almas-cloud.ir:2096?host=&path=&security=none&type=ws#Khodemoni-170441
+trojan://MiTiVPN@www.hcaptcha.com:443?type=ws&security=tls&path=%2FMiTiVPN%3DNL&host=PioHosting.ir&sni=PioHosting.ir&alpn=http%2F1.1&fp=firefox&insecure=0&allowInsecure=0#Khodemoni-170205
 trojan://MiTiVPN@assets.fiverr.com:443?type=ws&security=tls&path=%2FMiTiVPN%3DNL&host=PioHosting.ir&sni=PioHosting.ir&alpn=http%2F1.1&fp=firefox&insecure=0&allowInsecure=0#Khodemoni-170204
 trojan://MITIVPN@assets.fiverr.com:443?type=ws&security=tls&path=%2FMiTiVPN%3DDe&host=PioHosting.ir&sni=PioHosting.ir&alpn=http%2F1.1&fp=firefox&insecure=0&allowInsecure=0#Khodemoni-170201
 trojan://MiTiVPN@104.16.72.41:443?path=%2FMiTiVPN%3DSe&security=tls&alpn=http%2F1.1&insecure=0&host=PioHosting.ir&fp=firefox&type=ws&allowInsecure=0&sni=PioHosting.ir#Khodemoni-170129
