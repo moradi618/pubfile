@@ -21,8 +21,8 @@ vless://3b715892-8610-4fdc-9086-647b36af5443@earth.lukelucky.com:2086?type=xhttp
 vless://dc9bb897-bccf-4386-ab0b-54022cf35f24@gostar27.irtour123.com:443?path=%2Fvr1027%3Fed%3D2560&security=tls&encryption=none&fp=firefox&type=ws&sni=gostar27.irtour123.com#Khodemoni-172091
 vless://1e7e0537-c23d-43c2-afd5-4d7753831278@91.193.58.201:80?mode=auto&path=%2F&security=&encryption=none&host=fi-hel-2.chapjavan.ir&type=xhttp#Khodemoni-172765
 vless://3b715892-8610-4fdc-9086-647b36af5443@earth.lukelucky.com:2086?type=xhttp&security=none&host=D.cafearen.ir&path=%2F%3Fed%3D2082&mode=auto&encryption=none#Khodemoni-172658
-vless://8a74796b-56f2-49dc-bce7-07026fe01d3d@104.248.245.60:443?encryption=none&fp=chrome&pbk=H84Sm-xZdZIqNpG3gsRJ7hTXorfdu05O6q2Vg6gO8hI&security=reality&sid=385e80f2b160&sni=yp.amazon.com&spx=/Isdc8PpdihnVe3o&type=tcp#Khodemoni-172447
 trojan://telegram-id-directvpn@15.236.244.3:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-172018
+vless://8a74796b-56f2-49dc-bce7-07026fe01d3d@104.248.245.60:443?encryption=none&fp=chrome&pbk=H84Sm-xZdZIqNpG3gsRJ7hTXorfdu05O6q2Vg6gO8hI&security=reality&sid=385e80f2b160&sni=yp.amazon.com&spx=/Isdc8PpdihnVe3o&type=tcp#Khodemoni-172447
 vless://3b715892-8610-4fdc-9086-647b36af5443@forallpanel.srtongston.ir:8880?path=%2F%3Fed%3D2082&security=&encryption=none&host=b.postshup.ir&type=httpupgrade#Khodemoni-172731
 vless://68f68e9d-e1f2-4904-9971-10983e47ffc4@cdn1.sudonetwork.com:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=stream-one&path=/mahdiisalivedkllksdhlkv6468464@&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=dustream.hediehjavani.com#Khodemoni-173030
 trojan://telegram-id-privatevpns@52.29.134.131:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-172461
