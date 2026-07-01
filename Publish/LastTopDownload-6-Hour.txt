@@ -58,7 +58,6 @@ trojan://MITIVPN@104.16.72.41:443?alpn=http%2F1.1&fp=firefox&host=PioHosting.ir&
 vless://a22050d0-fe48-4f98-b804-ff93e7157fa7@167.233.93.119:44774?security=reality&encryption=none&pbk=gTOO53hp1QEhtKgbTfRKK0vSIyk9WcRAqYIqZG66ajk&fp=chrome&spx=%2FeGJ5PPwsm5F3sIz&type=grpc&sni=www.yahoo.com&sid=60df#Khodemoni-172787
 vless://82a668b4-0b07-43b1-9457-e4e55e0eba64@www.speedtest.net:2095?path=%2F&security=none&encryption=none&host=gb.carefreemob2.com.&type=httpupgrade#Khodemoni-172708
 trojan://MiTiVPN@velocore.co:443?security=tls&sni=PioHosting.ir&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=PioHosting.ir&path=/MiTiVPN=NL#Khodemoni-172640
-vless://6513d545-10e9-436a-a0b8-e94dbc1e4019@95.216.171.143:18284?security=reality&encryption=none&pbk=N945v1oLWgtgnLx5o_h5vKpmHEaE-8sRjShr-68TJgs&fp=chrome&spx=%2FxF5FYvMWSEtq8ji&type=grpc&sni=www.yahoo.com&sid=92104199ad86#Khodemoni-172336
 trojan://MiTiVPN@assets.fiverr.com:443?type=ws&security=tls&path=/MiTiVPN=NL&host=PioHosting.ir&sni=PioHosting.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#Khodemoni-170691
 vless://0a715ede-593a-4018-8406-66e2c3b1169c@89.106.64.15:7000?mode=stream-one&path=%2F&security=&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=a12.crowsvpn.shop&type=xhttp#Khodemoni-114549
 vless://0a715ede-593a-4018-8406-66e2c3b1169c@89.106.64.15:7000?mode=stream-one&path=%2F&security=none&encryption=none&host=a12.crowsvpn.shop&type=xhttp#Khodemoni-108690
