@@ -52,7 +52,6 @@ vless://3b715892-8610-4fdc-9086-647b36af5443@cd3.postshup.ir:2086?encryption=non
 vless://3b715892-8610-4fdc-9086-647b36af5443@earth.lukelucky.com:2086?mode=auto&path=%2F%3F%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2048&security=none&encryption=none&host=D.cafearen.ir&type=xhttp#Khodemoni-173113
 vless://d9307ab3-1ed0-4b6d-bfd0-e104c7ccc25a@193.176.240.129:8880?encryption=none&security=none&type=ws&host=azsv2.ir5ive.ir&path=%2F#Khodemoni-079124
 vless://ad9741e0-56a1-4606-bbb9-94418e893727@www.speedtest.net:443?path=%2FeyJqdW5rIjoic2dxVVoxZjdHS0hVUlREVCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=ez-37e919.keshmesh-f31.workers.dev&fp=chrome&type=ws&sni=Ez-37E919.KEshmesH-f31.woRkERs.DeV#Khodemoni-146275
-vless://3b715892-8610-4fdc-9086-647b36af5443@earth.lukelucky.com:2086?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&type=xhttp&path=/?ed=2082&host=D.cafearen.ir&mode=auto#Khodemoni-173518
 vless://0a715ede-593a-4018-8406-66e2c3b1169c@89.106.64.15:7000?mode=stream-one&path=/&security=&encryption=none&host=a12.crowsvpn.shop&type=xhttp#Khodemoni-172971
 vless://676e2a98-f4d5-445a-b9db-d174d5c2bcef@188.121.118.233:19383?security=&encryption=none&headerType=&type=tcp#Khodemoni-172858
 trojan://MITIVPN@104.16.72.41:443?alpn=http%2F1.1&fp=firefox&host=PioHosting.ir&path=%2FMiTiVPN%3DDe&sni=PioHosting.ir&type=ws#Khodemoni-172795
