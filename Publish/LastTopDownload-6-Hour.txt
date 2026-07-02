@@ -15,7 +15,6 @@ vless://0a715ede-593a-4018-8406-66e2c3b1169c@89.106.64.15:7000?mode=stream-one&p
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYUk9UakNLN0FmcUx1OGRQUCtpYjJWLzBDMEoyYnBSeElEZUlNay9pL0k4PQ==@185.84.158.13:19964?type=tcp#Khodemoni-170836
 vless://d9307ab3-1ed0-4b6d-bfd0-e104c7ccc25a@193.176.240.129:8880?encryption=none&security=none&type=ws&host=azsv2.ir5ive.ir&path=%2F#Khodemoni-079124
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?encryption=none&type=tcp&headerType=http#Khodemoni-138885
-vless://d20cdbc3-668c-49ef-bc55-57e30cb6ff0e@217.144.107.202:28831?encryption=none&type=tcp&headerType=none#Khodemoni-173489
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYUk9UakNLN0FmcUx1OGRQUCtpYjJWLzBDMEoyYnBSeElEZUlNay9pL0k4PQ@185.84.158.13:19964?type=tcp#Khodemoni-173591
 vless://e286cebe-7473-44e9-8c30-273ac36ac83b@niga.mohammadaz2sub.ir:62803?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-172848
 vless://3b715892-8610-4fdc-9086-647b36af5443@forallpanel.srtongston.ir:8880?encryption=none&type=httpupgrade&host=cdn7-pro.postshup.ir&path=/?ed=2082#Khodemoni-172942
