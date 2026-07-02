@@ -57,7 +57,7 @@ trojan://telegram-id-privatevpns@63.184.240.254:22222?security=tls&alpn=http/1.1
 vless://0a715ede-593a-4018-8406-66e2c3b1169c@89.106.64.15:7000?mode=stream-one&path=/&security=&encryption=none&host=a12.crowsvpn.shop&type=xhttp#Khodemoni-172971
 vless://676e2a98-f4d5-445a-b9db-d174d5c2bcef@188.121.118.233:19383?security=&encryption=none&headerType=&type=tcp#Khodemoni-172858
 trojan://MITIVPN@104.16.72.41:443?alpn=http%2F1.1&fp=firefox&host=PioHosting.ir&path=%2FMiTiVPN%3DDe&sni=PioHosting.ir&type=ws#Khodemoni-172795
-trojan://MiTiVPN@velocore.co:443?security=tls&sni=PioHosting.ir&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=PioHosting.ir&path=/MiTiVPN=NL#Khodemoni-172640
+vless://a22050d0-fe48-4f98-b804-ff93e7157fa7@167.233.93.119:44774?security=reality&encryption=none&pbk=gTOO53hp1QEhtKgbTfRKK0vSIyk9WcRAqYIqZG66ajk&fp=chrome&spx=%2FeGJ5PPwsm5F3sIz&type=grpc&sni=www.yahoo.com&sid=60df#Khodemoni-172787
 vless://ad9741e0-56a1-4606-bbb9-94418e893727@www.speedtest.net:443?path=%2FeyJqdW5rIjoic2dxVVoxZjdHS0hVUlREVCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=ez-37e919.keshmesh-f31.workers.dev&fp=chrome&type=ws&sni=Ez-37E919.KEshmesH-f31.woRkERs.DeV#Khodemoni-146275
 vless://a6704fb4-4874-4e6b-98f4-571b048e3d90@31.77.161.2:8443?security=reality&encryption=none&pbk=4XxjInQuDp4SqaYF03yQ1VY61exkKi9e0RS5-kgyxAE&headerType=none&fp=chrome&type=tcp&sni=prod.de-node-01.security-sbrf.ru&sid=db04ce8bdb8900f1#Khodemoni-142384
 vless://a6704fb4-4874-4e6b-98f4-571b048e3d90@31.77.161.2:8443?encryption=none&fp=&pbk=4XxjInQuDp4SqaYF03yQ1VY61exkKi9e0RS5-kgyxAE&security=reality&sid=db04ce8bdb8900f1&sni=prod.de-node-01.security-sbrf.ru&type=tcp#Khodemoni-140487
