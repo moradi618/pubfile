@@ -17,7 +17,6 @@ vless://46aeacfa-0b4a-4e35-9a0f-6db76e92d4c6@html.iranpood.com:2086?encryption=n
 vless://4e9d11d7-8cda-42ff-a583-c4dd9030f4c6@sho1781056.dadashinet10.ir:2044?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-177091
 vless://46aeacfa-0b4a-4e35-9a0f-6db76e92d4c6@forallpanel.srtongston.ir:8880?encryption=none&security=none&type=httpupgrade&headerType=none&path=%2F%3Fed%3D2082&host=Nn.postshup.ir#Khodemoni-177050
 vless://9ee6d296-1682-4be5-b475-ace1da72fe04@91.107.182.97:443?security=reality&encryption=none&pbk=GMZBRR_P7g2BqYr1lAjbKwhAJ_xE4RoDYqUG4y18fCU&headerType=none&fp=chrome&spx=/EQZGwBitsekEVqv&type=tcp&sni=play.google.com&sid=d93c6919#Khodemoni-177011
-trojan://telegram-id-directvpn@63.180.104.222:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-177033
 vless://199436d3-2fa2-4e34-a1de-844419de5a4f@api2.onlinernet.ir:2095?path=%2F%3Fed%3D2048&security=&encryption=none&host=xn-fin1.onlinernet.ir.&type=httpupgrade#Khodemoni-176231
 trojan://MITIVPN@94.140.0.40:443?path=%2FMiTiVPN%3DUsa&security=tls&alpn=http%2F1.1&host=Usa.App-Cloud.ir&fp=chrome&type=ws&sni=Usa.App-Cloud.ir#Khodemoni-175861
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=&encryption=none&host=Telegram-NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP&headerType=http&type=tcp#Khodemoni-140358
@@ -26,6 +25,7 @@ vless://46aeacfa-0b4a-4e35-9a0f-6db76e92d4c6@ns2.zabidat.ir:2086?encryption=none
 vless://359a4318-0bb4-4a75-aa43-8dc5dd1d5e20@bestinclass.soft98ver2.com:2082?mode=auto&path=%2F&security=reality&encryption=none&pbk=4liby0EEuaY4vZCrrn5ps3Clq66aamlleQKK0pL7zy4&fp=firefox&spx=%2F&type=xhttp&sni=google.com&sid=a8bb0ab29218a08a#Khodemoni-177006
 vless://ecd962f4-2785-4cd4-8384-7d71fb857350@fsxhh.fastshop1.com:443?mode=packet-up&path=/lizzard&security=tls&encryption=none&insecure=1&host=lizzardali.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=1&sni=speedtest.net#Khodemoni-174864
 vless://af42f8db-09a9-4eb5-9047-e97b5a072627@199.232.78.143:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=npnl-2-one.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=global.fastly.com#Khodemoni-176713
+trojan://telegram-id-directvpn@63.180.104.222:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-177033
 vless://a0fe6694-919a-4346-9260-da24a197ee0b@51.178.135.38:443?security=reality&encryption=none&pbk=ato7XtTu3WFMLSmhffM_uO2ziYxJ63veJKKRQ28zQ0I&headerType=http&fp=chrome&spx=%2FE3OSJFzczYcejAJ&type=tcp&sni=www.yahoo.com&sid=89#Khodemoni-177055
 trojan://%4D%69%54%69%56%50%4E@104.19.230.21:443?path=/MiTiVPN=NL&security=tls&alpn=http/1.1&insecure=0&host=Nl.App-Cloud.ir&fp=firefox&type=ws&allowInsecure=0&sni=Nl.App-Cloud.ir#Khodemoni-174539
 vless://16227db7-1914-4a97-bb6b-7bf98e6b525b@185.143.232.201:443?path=%2F&security=tls&encryption=none&insecure=0&host=zapzap.mc.filimo.cam&type=ws&allowInsecure=0&sni=zapzap.mc.filimo.cam#Khodemoni-176220
