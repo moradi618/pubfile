@@ -17,7 +17,6 @@ vless://d9307ab3-1ed0-4b6d-bfd0-e104c7ccc25a@193.176.240.129:8880?path=%2F&secur
 vless://0a715ede-593a-4018-8406-66e2c3b1169c@89.106.64.15:7000?mode=stream-one&path=/&security=&encryption=none&host=a12.crowsvpn.shop&type=xhttp#Khodemoni-172971
 vless://0a715ede-593a-4018-8406-66e2c3b1169c@89.106.64.15:7000?encryption=none&security=none&type=xhttp&host=a12.crowsvpn.shop&path=%2F&mode=stream-one&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D#Khodemoni-090282
 vless://0a715ede-593a-4018-8406-66e2c3b1169c@89.106.64.15:7000?mode=stream-one&path=%2F&security=&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=a12.crowsvpn.shop&type=xhttp#Khodemoni-114549
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.47:8080#Khodemoni-175351
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3a3hZVjhmYUxLRnk4cTFT@98.71.81.64:443?outline=1&prefix=POST%20u33ffcaZ#Khodemoni-177071
 vless://46aeacfa-0b4a-4e35-9a0f-6db76e92d4c6@www.speedtest.net:8880?encryption=none&security=none&type=httpupgrade&headerType=none&path=%2F%3Fed%3D2082&host=Ccdn7-pro.postshup.ir#Khodemoni-177053
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6SDVWd0t1WnVhYnI4WjMwcGF0cTEvVjhET3JJeC9iSHNzV0FtazFKNTFjPQ@n4.cover20.ir:19964#Khodemoni-176537
@@ -34,6 +33,7 @@ vless://ac006062-f051-43c6-bd4c-f409285c8635@45.130.125.6:443?mode=auto&path=%2F
 vless://d9307ab3-1ed0-4b6d-bfd0-e104c7ccc25a@193.176.240.129:8880?path=%2F&security=&encryption=none&host=azsv2.ir5ive.ir&type=ws#Khodemoni-095672
 vless://ac006062-f051-43c6-bd4c-f409285c8635@45.130.125.6:443?mode=auto&path=/v2raylink&security=tls&encryption=none&host=germany4.alibaba1405.org&fp=chrome&type=xhttp&sni=germany4.alibaba1405.org#Khodemoni-128508
 trojan://telegram-id-directvpn@52.57.13.95:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-175256
+vless://b2d343bc-75f9-4a2f-b1ac-36fa93b4885c@cd3.videobazi.com:2053?fp=firefox&allowInsecure=0&security=tls&host=nlp.lezzatbase.ir&path=%2F&encryption=none&sni=nlp.lezzatbase.ir&type=xhttp&mode=auto&insecure=0#Khodemoni-177107
 vless://46aeacfa-0b4a-4e35-9a0f-6db76e92d4c6@html.iranpood.com:2086?encryption=none&security=none&type=xhttp&headerType=none&path=%2F%3Fed%3D2082&host=hh.cafearen.ir&mode=auto#Khodemoni-177051
 vless://46aeacfa-0b4a-4e35-9a0f-6db76e92d4c6@forallpanel.srtongston.ir:8880?encryption=none&security=none&type=httpupgrade&host=Nn.postshup.ir&path=%2F%3Fed%3D2082#Khodemoni-177101
 vless://8b04b31b-6435-472e-a598-90705c575afc@212.46.33.32:443?flow=xtls-rprx-vision&fp=firefox&pbk=jIq_COD-tIXTvgDn-TslFGtB_a8HVgUOOIlUByv8fkg&security=reality&sid=8718c58d3d51db59&sni=nl1.promocodiums.com#Khodemoni-176612
