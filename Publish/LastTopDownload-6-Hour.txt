@@ -5,7 +5,6 @@ vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?path=%2F%3FTEL
 vless://d9307ab3-1ed0-4b6d-bfd0-e104c7ccc25a@193.176.240.129:8880?encryption=none&security=none&type=ws&host=azsv2.ir5ive.ir&path=%2F#Khodemoni-079124
 vless://c187de97-b186-44d3-988c-f9bff73add1d@207.154.217.129:440?type=tcp&encryption=none&security=none#Khodemoni-176464
 vless://d9307ab3-1ed0-4b6d-bfd0-e104c7ccc25a@193.176.240.129:8880?path=%2F&security=&encryption=none&host=azsv2.ir5ive.ir&fp=firefox&type=ws#Khodemoni-095759
-vless://0a715ede-593a-4018-8406-66e2c3b1169c@89.106.64.15:7000?mode=stream-one&path=/&security=&encryption=none&host=a12.crowsvpn.shop&type=xhttp#Khodemoni-172971
 vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=none&encryption=none&host=azsv1.drpingservice.com&type=ws#Khodemoni-143437
 vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?encryption=none&security=none&type=ws&host=azsv1.drpingservice.com&path=%2F#Khodemoni-081861
 vless://d9307ab3-1ed0-4b6d-bfd0-e104c7ccc25a@193.176.240.129:8880?path=%2F&security=&encryption=none&host=azsv2.ir5ive.ir&type=ws#Khodemoni-095671
@@ -19,7 +18,6 @@ vless://d9307ab3-1ed0-4b6d-bfd0-e104c7ccc25a@193.176.240.129:8880/?type=ws&encry
 vless://d9307ab3-1ed0-4b6d-bfd0-e104c7ccc25a@193.176.240.129:8880?path=%2F&security=&encryption=none&host=azsv2.ir5ive.ir&type=ws#Khodemoni-095672
 vless://3b715892-8610-4fdc-9086-647b36af5443@forallpanel.srtongston.ir:8880?path=/?ed=2082&security=&encryption=none&host=Nn.postshup.ir&type=httpupgrade#Khodemoni-175010
 vless://a6704fb4-4874-4e6b-98f4-571b048e3d90@31.77.161.2:8443/?type=tcp&encryption=none&flow=&sni=prod.de-node-01.security-sbrf.ru&fp=firefox&security=reality&pbk=4XxjInQuDp4SqaYF03yQ1VY61exkKi9e0RS5-kgyxAE&sid=db04ce8bdb8900f1#Khodemoni-139992
-vless://a6704fb4-4874-4e6b-98f4-571b048e3d90@31.77.161.2:8443?security=reality&encryption=none&pbk=4XxjInQuDp4SqaYF03yQ1VY61exkKi9e0RS5-kgyxAE&host=bored_vpn---bored_vpn&headerType=none&fp=firefox&type=tcp&sni=prod.de-node-01.security-sbrf.ru&sid=db04ce8bdb8900f1#Khodemoni-174962
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6SDVWd0t1WnVhYnI4WjMwcGF0cTEvVjhET3JJeC9iSHNzV0FtazFKNTFjPQ@n4.cover20.ir:19964?type=tcp#Khodemoni-176316
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIZndVZXN1Uk4vT25Kanc4cFNtb0dQek9iRWxwMGllMHJPOHcxME1velo4PQ@e4.cover20.ir:16156?type=tcp#Khodemoni-175061
 vless://3f402fc9-971c-4823-a8ca-300a9fbdc988@209.250.232.197:58653?security=reality&encryption=none&pbk=3HbZNjupb4sV-xKxuq5G0CZar7kDd5bvml3FesRkoHU&headerType=none&fp=chrome&spx=%2FVLcyVgAlgK3tFPL&type=tcp&sni=www.samsung.com&sid=6aabd9f010b848#Khodemoni-176457
@@ -34,6 +32,7 @@ vless://c5ee3bba-f737-42d5-b0bc-cccec1ffe7e2@91.107.241.155:2082?mode=auto&path=
 trojan://telegram-id-privatevpns@52.57.13.95:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-175258
 vless://470e38fd-97c0-4c29-9bd4-31a60e89583f@bamesafa.accountclub.top:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&fp=chrome&host=&path=/wsport1&security=tls&sni=&type=ws#Khodemoni-176249
 vless://fe316090-c6d6-4518-acf4-b7a0cb0e1f03@91.193.58.201:8080?path=%2Fnexus&security=none&encryption=none&host=your.freenexus.top&type=ws#Khodemoni-176322
+vless://21eec266-3a56-4767-b90b-fd62fa0b534f@nl.api.plnt.su:443?security=reality&encryption=none&pbk=1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nl.api.plnt.su&sid=ac31827454d7f693#Khodemoni-174645
 trojan://MiTiVPN@91.193.58.201:443?path=%2FMiTiVPN%3DfL&security=tls&insecure=0&host=Fl.App-Cloud.ir&type=ws&allowInsecure=0#Khodemoni-174314
 vless://21eec266-3a56-4767-b90b-fd62fa0b534f@g.backup.plnt.su:443?security=reality&encryption=none&pbk=1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=&sid=ac31827454d7f693#Khodemoni-174701
 vless://ac006062-f051-43c6-bd4c-f409285c8635@45.130.125.6:443?encryption=none&type=xhttp&mode=auto&host=germany4.alibaba1405.org&path=/v2raylink&security=tls&fp=chrome&sni=germany4.alibaba1405.org&alpn=http/1.1,h2#Khodemoni-086552
