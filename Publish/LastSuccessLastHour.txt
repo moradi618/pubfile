@@ -820,8 +820,8 @@ vless://a5c05c1e-aa68-443f-8598-09800244bd4b@188.114.98.169:443?path=/LiL?ed=256
 trojan://humanity@45.130.125.112:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=ws&security=tls&path=/assignment&sni=www.calmlunch.com&fp=chrome&insecure=0&allowInsecure=0#Khodemoni-173480
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?type=ws&security=tls&host=&path=/LiL?ed=2560&sni=kingcloud.biack.ir&fp=chrome&alpn=h3&allowInsecure=0&encryption=none#Khodemoni-174069
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed%3D512&security=tls&alpn=h3&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#Khodemoni-175249
-trojan://MITIVPN@velocore.co:443?type=ws&security=tls&path=/MiTiVPN=Usa&host=Usa.App-Cloud.ir&sni=Usa.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#Khodemoni-175572
 trojan://humanity@104.18.32.47:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/assignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#Khodemoni-175583
+trojan://MITIVPN@velocore.co:443?type=ws&security=tls&path=/MiTiVPN=Usa&host=Usa.App-Cloud.ir&sni=Usa.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#Khodemoni-175572
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@it.fifapes.monster:29148?security=&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#Khodemoni-175154
 trojan://MiTiVPN@assets.fiverr.com:443?type=ws&security=tls&path=/MiTiVPN=Se&host=sw.App-Cloud.ir&sni=sw.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#Khodemoni-175574
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@37.32.15.26:443?path=%2FLiL%3Fed%3D2560&security=tls&alpn=h3&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#Khodemoni-175530
