@@ -42,6 +42,7 @@ trojan://MiTiVPN@91.193.58.201:443?path=%2FMiTiVPN%3DfL&security=tls&insecure=0&
 vless://3dbec774-ef69-463f-9bec-dfc899e41cb9@45.43.75.124:443?encryption=none&security=reality&type=xhttp&sni=www.google.com&fp=chrome&pbk=C0lyFVn8diL1wNztFDpFtTMjohRbNu-1x6yee6VGdnw#Khodemoni-176430
 vless://3b715892-8610-4fdc-9086-647b36af5443@fastly.videobazi.com:443?encryption=none&security=tls&sni=default.ssl.fastly.net&type=xhttp&host=dutschh.global.ssl.fastly.net&path=%2F&mode=auto#Khodemoni-172664
 trojan://telegram-id-privatevpns@52.57.13.95:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-175258
+vless://af42f8db-09a9-4eb5-9047-e97b5a072627@olds-1.lubbs.de:2086?path=%2F&security=none&encryption=none&host=sound-b-1.sdcards1.ir&type=httpupgrade#Khodemoni-176753
 vless://199436d3-2fa2-4e34-a1de-844419de5a4f@xn-ip.dbsll.ir:2083?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=xn-de.shakhle.ir.&fp=firefox&type=ws&allowInsecure=0&sni=xn-de.shakhle.ir.#Khodemoni-176232
 trojan://MITIVPN@www.speedtest.net:443?path=%2FMiTiVPN%3DDe&security=tls&alpn=http%2F1.1&insecure=0&host=germany.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=germany.App-Cloud.ir#Khodemoni-175806
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIZndVZXN1Uk4vT25Kanc4cFNtb0dQek9iRWxwMGllMHJPOHcxME1velo4PQ@e4.cover20.ir:16156?type=tcp#Khodemoni-175061
