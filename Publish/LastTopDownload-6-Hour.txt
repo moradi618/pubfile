@@ -6,10 +6,10 @@ vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?path=%2F&secur
 trojan://4COPE----AZ--KANAL---JKVPN-----@179.237.74.47:80?security=none&host=promotion.yahoo.com&headerType=http&type=tcp#Khodemoni-177301
 vless://0a715ede-593a-4018-8406-66e2c3b1169c@89.106.64.15:7000?mode=stream-one&path=%2F&security=none&encryption=none&host=a12.crowsvpn.shop&type=xhttp#Khodemoni-108690
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3a3hZVjhmYUxLRnk4cTFT@98.71.81.64:443?outline=1&prefix=POST%20u33ffcaZ#Khodemoni-177071
+vless://0a715ede-593a-4018-8406-66e2c3b1169c@89.106.64.15:7000?mode=stream-one&path=/?@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2048&security=none&encryption=none&host=a12.crowsvpn.shop&type=xhttp#Khodemoni-174440
 vless://9b971077-3061-4560-81b3-bf215bff4d79@ka1781041r.dadashinet10.ir:2044?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-177063
 vless://c0f5eba2-d33f-4809-bce0-c05a0570087f@ka1781041r.dadashinet10.ir:2044?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-177799
 vless://199436d3-2fa2-4e34-a1de-844419de5a4f@api2.onlinernet.ir:2095?path=%2F%3Fed%3D2048&security=none&encryption=none&host=xn-ch.onlinernet.ir.&type=httpupgrade#Khodemoni-176864
-vless://0a715ede-593a-4018-8406-66e2c3b1169c@89.106.64.15:7000?mode=stream-one&path=/?@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2048&security=none&encryption=none&host=a12.crowsvpn.shop&type=xhttp#Khodemoni-174440
 vless://c0f5eba2-d33f-4809-bce0-c05a0570087f@sho1781056.dadashinet10.ir:2044?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-177793
 vless://46aeacfa-0b4a-4e35-9a0f-6db76e92d4c6@forallpanel.srtongston.ir:8880?path=/?ed=2082&security=&encryption=none&host=Nn.postshup.ir&type=httpupgrade#Khodemoni-177494
 vless://b2d343bc-75f9-4a2f-b1ac-36fa93b4885c@cd3.videobazi.com:2053?fp=chrome&allowInsecure=0&security=tls&host=nlp.lezzatbase.ir&path=/&encryption=none&sni=nlp.lezzatbase.ir&type=xhttp&mode=auto&insecure=0#Khodemoni-177562
@@ -25,8 +25,8 @@ trojan://SoftNetConnect@147.45.70.129:42549?security=tls&insecure=1&headerType=n
 vless://4e9d11d7-8cda-42ff-a583-c4dd9030f4c6@sho1781056.dadashinet10.ir:2044?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-177091
 vless://c0f5eba2-d33f-4809-bce0-c05a0570087f@Ppotbfff.dadashinet10.ir:2044?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-177796
 vless://a6704fb4-4874-4e6b-98f4-571b048e3d90@31.77.161.2:8443/?type=tcp&encryption=none&flow=&sni=prod.de-node-01.security-sbrf.ru&fp=firefox&security=reality&pbk=4XxjInQuDp4SqaYF03yQ1VY61exkKi9e0RS5-kgyxAE&sid=db04ce8bdb8900f1#Khodemoni-139992
-trojan://telegram-id-directvpn@51.44.109.224:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-177459
 vless://8f6ccdb2-2b4e-4834-a90b-344bff490402@aleSE.locations-sub.com:6300?security=reality&type=tcp&headerType=&path=&host=&sni=play.google.com&fp=qq&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&sid=#Khodemoni-177288
+trojan://telegram-id-directvpn@51.44.109.224:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-177459
 vless://a5b58c75-01ca-4436-b99f-b46c365a49cc@www.speedtest.net:2086?path=%2F&security=none&encryption=none&host=mail.iranvatanam.com&type=httpupgrade#Khodemoni-177615
 trojan://MiTiVPN@openai.com:443?type=ws&security=tls&path=%2FMiTiVPN%3DNL&host=Nel.App-Cloud.ir&sni=Nel.App-Cloud.ir&alpn=http%2F1.1&fp=firefox&insecure=0&allowInsecure=0#Khodemoni-177803
 vless://af42f8db-09a9-4eb5-9047-e97b5a072627@199.232.78.143:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=npnl-2-one.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=global.fastly.com#Khodemoni-176713
@@ -46,15 +46,13 @@ vless://46aeacfa-0b4a-4e35-9a0f-6db76e92d4c6@45.130.125.207:2086?encryption=none
 vless://46aeacfa-0b4a-4e35-9a0f-6db76e92d4c6@www.speedtest.net:8880?encryption=none&security=none&type=httpupgrade&headerType=none&path=%2F%3Fed%3D2082&host=Ccdn7-pro.postshup.ir#Khodemoni-177053
 trojan://%4D%69%54%69%56%50%4E@104.19.230.21:443?path=/MiTiVPN=NL&security=tls&alpn=http/1.1&insecure=0&host=Nl.App-Cloud.ir&fp=firefox&type=ws&allowInsecure=0&sni=Nl.App-Cloud.ir#Khodemoni-174539
 vless://46aeacfa-0b4a-4e35-9a0f-6db76e92d4c6@45.130.125.207:2086?encryption=none&security=none&type=xhttp&host=jJ.cafearen.ir&path=%2F%3Fed%3D2082&mode=auto#Khodemoni-177102
-trojan://MiTiVPN@104.19.230.21:443?path=/MiTiVPN=NL&security=tls&alpn=http/1.1&host=Nl.App-Cloud.ir&fp=chrome&type=ws&sni=Nl.App-Cloud.ir#Khodemoni-176143
 vless://46aeacfa-0b4a-4e35-9a0f-6db76e92d4c6@earth.lukelucky.com:2086?mode=auto&path=/&security=&encryption=none&host=cC.cafearen.ir&type=xhttp#Khodemoni-177493
-vless://c73227de-71ed-4597-a02d-a58e99fbbcd2@146.75.119.82:80?path=ws/?ed=2048/@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1/?2048&security=none&encryption=none&host=rb24.ir&type=ws#Khodemoni-177079
+trojan://MiTiVPN@104.19.230.21:443?path=/MiTiVPN=NL&security=tls&alpn=http/1.1&host=Nl.App-Cloud.ir&fp=chrome&type=ws&sni=Nl.App-Cloud.ir#Khodemoni-176143
 vless://af42f8db-09a9-4eb5-9047-e97b5a072627@olds-1.lubbs.de:2086?path=%2F&security=none&encryption=none&host=sound-b-1.sdcards1.ir&type=httpupgrade#Khodemoni-176753
 vless://199436d3-2fa2-4e34-a1de-844419de5a4f@xn-ip.dbsll.ir:2083?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=xn-de.shakhle.ir.&fp=firefox&type=ws&allowInsecure=0&sni=xn-de.shakhle.ir.#Khodemoni-176232
 trojan://MiTiVPN@91.193.58.201:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&sni=fl.App-Cloud.ir&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=Fl.App-Cloud.ir&path=/MiTiVPN=fL#Khodemoni-176297
 trojan://gXGF3AROmXwXnGoRQuLEm0OnhOtinOT7@api-gateway.led-iran.ir:8443?security=tls&insecure=0&host=f-watashi-r-jacket-o-people-jan.led-iran.ir&type=ws&allowInsecure=0&sni=f-watashi-r-jacket-o-people-jan.led-iran.ir#Khodemoni-177819
 vless://0137b4ec-4060-4fe4-822f-76b2d85bf571@efeo.jobwebs.ir:52077?encryption=none&security=reality&sni=yahoo.com&fp=firefox&pbk=PHBDzNOQhRFtN4bDJ6pOySCGlIA09CC_Josq13rTIwk&sid=3cbb5d6626985f12&type=grpc#Khodemoni-177818
-vless://199436d3-2fa2-4e34-a1de-844419de5a4f@108.162.192.134:2083?encryption=none&security=tls&sni=xn-de.shakhle.ir.&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=xn-de.shakhle.ir.&path=/#Khodemoni-177817
 trojan://MITIVPN@brezzen.com:443?type=ws&security=tls&path=%2FMiTiVPN%3DDe&host=germany.App-Cloud.ir&sni=germany.App-Cloud.ir&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#Khodemoni-177774
 vless://0137b4ec-4060-4fe4-822f-76b2d85bf571@efeo.jobwebs.ir:52077?mode=gun&security=reality&encryption=none&pbk=PHBDzNOQhRFtN4bDJ6pOySCGlIA09CC_Josq13rTIwk&fp=firefox&type=grpc&sni=yahoo.com&sid=3cbb5d6626985f12#Khodemoni-177616
 trojan://4COPE----AZ--KANAL---RK_VPS-----@179.237.74.47:80?security=none&host=promotion.yahoo.com&headerType=http&type=tcp#Khodemoni-177606
@@ -68,5 +66,4 @@ vless://00722148-3d6c-403d-854e-581b105ceffd@www.quran.com:443?path=/api/v3/ws/e
 trojan://MITIVPN@velocore.co:443?type=ws&security=tls&path=/MiTiVPN=De&host=De.App-Cloud.ir&sni=De.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#Khodemoni-175571
 trojan://MITIVPN@assets.fiverr.com:443?type=ws&security=tls&path=/MiTiVPN=De&host=De.App-Cloud.ir&sni=De.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#Khodemoni-175568
 trojan://MiTiVPN@104.19.230.21:443?path=/MiTiVPN=NL&security=tls&alpn=http/1.1&insecure=0&host=Nl.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Nl.App-Cloud.ir#Khodemoni-174998
-vless://0a715ede-593a-4018-8406-66e2c3b1169c@89.106.64.15:7000?mode=stream-one&path=/&security=&encryption=none&host=a12.crowsvpn.shop&type=xhttp#Khodemoni-172971
 vless://00722148-3d6c-403d-854e-581b105ceffd@www.quran.com:443?path=%2Fapi%2Fv3%2Fws%2Fevents&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=G6za0AIZL1z0Zh.devlad.org&fp=safari&type=ws&allowInsecure=0&sni=7GvDXUTz.devlad.org#Khodemoni-109210
