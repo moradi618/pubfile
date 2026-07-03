@@ -5,6 +5,7 @@ vless://d9307ab3-1ed0-4b6d-bfd0-e104c7ccc25a@193.176.240.129:8880/?type=ws&encry
 vless://0a715ede-593a-4018-8406-66e2c3b1169c@89.106.64.15:7000?encryption=none&type=xhttp&path=%2F&host=a12.crowsvpn.shop&mode=stream-one&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D#Khodemoni-141971
 vless://d9307ab3-1ed0-4b6d-bfd0-e104c7ccc25a@193.176.240.129:8880?path=%2F&security=&encryption=none&host=azsv2.ir5ive.ir&type=ws#Khodemoni-095671
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.47:8080#Khodemoni-175351
+vless://0a715ede-593a-4018-8406-66e2c3b1169c@89.106.64.15:7000?mode=stream-one&path=/&security=&encryption=none&host=a12.crowsvpn.shop&type=xhttp#Khodemoni-172971
 vless://0a715ede-593a-4018-8406-66e2c3b1169c@89.106.64.15:7000?mode=stream-one&path=/?@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2048&security=none&encryption=none&host=a12.crowsvpn.shop&type=xhttp#Khodemoni-174440
 vless://0a715ede-593a-4018-8406-66e2c3b1169c@89.106.64.15:7000?mode=stream-one&path=%2F&security=none&encryption=none&host=a12.crowsvpn.shop&type=xhttp#Khodemoni-108690
 vless://199436d3-2fa2-4e34-a1de-844419de5a4f@api2.onlinernet.ir:2095?path=%2F%3Fed%3D2048&security=&encryption=none&host=xn-ch.onlinernet.ir.&type=httpupgrade#Khodemoni-176340
