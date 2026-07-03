@@ -16,7 +16,6 @@ vless://0a715ede-593a-4018-8406-66e2c3b1169c@89.106.64.15:7000?encryption=none&s
 vless://d9307ab3-1ed0-4b6d-bfd0-e104c7ccc25a@193.176.240.129:8880?path=%2F&security=&encryption=none&host=azsv2.ir5ive.ir&fp=firefox&type=ws#Khodemoni-095760
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6SDVWd0t1WnVhYnI4WjMwcGF0cTEvVjhET3JJeC9iSHNzV0FtazFKNTFjPQ@n4.cover20.ir:19964#Khodemoni-176537
 trojan://telegram-id-directvpn@52.57.13.95:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-175256
-trojan://telegram-id-privatevpns@18.158.177.160:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-176719
 vless://505a1a16-2c67-4cbb-a5db-acde6627660b@103.118.208.134:9010?security=reality&encryption=none&pbk=KN1iC4QtWi2hKbQ1zJerNck6YRGbIpzdLMn1C2hhQjs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=e8b1541e7387ffba#Khodemoni-176306
 vless://78d66dd1-a432-454e-80c0-cb4aa0407375@188.114.96.3:2053?path=%2FeyJqdW5rIjoiVmNMT1VrQngzb2xCeCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=ez-87b829.ashkashk.workers.dev&fp=chrome&type=ws&sni=Ez-87B829.aShkashk.wOrkeRS.dev#Khodemoni-146284
 vless://8b04b31b-6435-472e-a598-90705c575afc@212.46.33.32:443?flow=xtls-rprx-vision&fp=firefox&pbk=jIq_COD-tIXTvgDn-TslFGtB_a8HVgUOOIlUByv8fkg&security=reality&sid=8718c58d3d51db59&sni=nl1.promocodiums.com#Khodemoni-176612
@@ -47,7 +46,6 @@ vless://36644091-0cec-47fe-9955-97c3f424baf7@all112.allenshop66245.ir:443?securi
 trojan://MiTiVPN@88.216.67.230:443?path=%2FMiTiVPN%3DNL&security=tls&alpn=http%2F1.1&insecure=0&host=Nel.App-Cloud.ir&fp=firefox&type=ws&allowInsecure=0&sni=Nel.App-Cloud.ir#Khodemoni-175836
 vless://199436d3-2fa2-4e34-a1de-844419de5a4f@Pl-AllNet.OnlinerNet.Ir:20000?security=reality&encryption=none&pbk=VpCHC5IwaHLMdVkwK5iFplUBNflB-b4Qghyme-8HBl0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=6ba85179e30d4fc4#Khodemoni-176230
 vless://3d7f0163-b186-4f8c-a03e-eea8532f3052@45.43.75.124:443?encryption=none&type=xhttp&security=reality&sni=www.google.com&pbk=C0lyFVn8diL1wNztFDpFtTMjohRbNu-1x6yee6VGdnw&fp=chrome&path=/&host=www.google.com&mode=auto&extra=#Khodemoni-176661
-trojan://MiTiVPN@104.19.230.21:443?path=/MiTiVPN=NL&security=tls&alpn=http/1.1&insecure=0&host=Nl.App-Cloud.ir&fp=firefox&type=ws&allowInsecure=0&sni=Nl.App-Cloud.ir#Khodemoni-174537
 trojan://MiTiVPN@104.19.230.21:443?path=/MiTiVPN=NL&security=tls&alpn=http/1.1&insecure=0&host=Nl.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Nl.App-Cloud.ir#Khodemoni-174998
 trojan://MiTiVPN@91.193.58.201:443?alpn=http%2F1.1&fp=firefox&host=Fl.App-Cloud.ir&path=%2FMiTiVPN%3DfL&sni=fl.App-Cloud.ir&type=ws#Khodemoni-176679
 vless://ecd962f4-2785-4cd4-8384-7d71fb857350@fsxhh.fastshop1.com:443?mode=packet-up&path=/lizzard&security=tls&encryption=none&insecure=1&host=lizzardali.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=1&sni=speedtest.net#Khodemoni-174864
