@@ -1,5 +1,6 @@
 vless://cbadda1c-8018-4823-9411-02b60b275dc0@95.38.177.154:2070?security=&encryption=none&headerType=&type=tcp#Khodemoni-176939
 vless://d9307ab3-1ed0-4b6d-bfd0-e104c7ccc25a@193.176.240.129:8880?path=%2F&security=&encryption=none&host=azsv2.ir5ive.ir&fp=firefox&type=ws#Khodemoni-095760
+vless://cbadda1c-8018-4823-9411-02b60b275dc0@95.38.177.154:2070?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-177002
 vless://d9307ab3-1ed0-4b6d-bfd0-e104c7ccc25a@193.176.240.129:8880/?type=ws&encryption=none&flow=&host=azsv2.ir5ive.ir&path=%2F#Khodemoni-138891
 vless://0a715ede-593a-4018-8406-66e2c3b1169c@89.106.64.15:7000?encryption=none&type=xhttp&path=%2F&host=a12.crowsvpn.shop&mode=stream-one&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D#Khodemoni-141971
 vless://d9307ab3-1ed0-4b6d-bfd0-e104c7ccc25a@193.176.240.129:8880?type=ws&security=none&fp=firefox&path=/&host=azsv2.ir5ive.ir#Khodemoni-128597
@@ -46,7 +47,6 @@ trojan://MiTiVPN@104.19.230.21:443?path=/MiTiVPN=NL&security=tls&alpn=http/1.1&i
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca13.directdnsai.shop:8880?type=grpc#Khodemoni-176468
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@it.fifapes.monster:29148?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=&encryption=none&headerType=http&type=tcp#Khodemoni-138476
 trojan://MiTiVPN@assets.fiverr.com:443?type=ws&security=tls&path=/MiTiVPN=Se&host=sw.App-Cloud.ir&sni=sw.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#Khodemoni-175574
-trojan://MiTiVPN@88.216.67.230:443?type=ws&security=tls&path=/MiTiVPN=NL&host=Nel.App-Cloud.ir&sni=Nel.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#Khodemoni-176296
 trojan://MiTiVPN@104.18.42.98:443?path=/MiTiVPN=Se&security=tls&alpn=http/1.1&insecure=0&host=s-w.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=s-w.App-Cloud.ir#Khodemoni-176865
 vless://f9ae5aed-9f23-4d9b-b4b2-e82a24c2d74a@45.195.111.83:443?flow=xtls-rprx-vision&fp=firefox&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&security=reality&sid=2715592069f36fe7&sni=storage.yandex.net&type=tcp#Khodemoni-176914
 trojan://MiTiVPN@velocore.co:443?type=ws&security=tls&path=/MiTiVPN=NL&host=Nl.App-Cloud.ir&sni=Nl.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#Khodemoni-175579
