@@ -1,3 +1,5 @@
+vless://3e0a91ec-05a3-461f-9367-14b289a5b54b@de.monkeyisland.xyz:443?type=tcp&security=reality&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&fp=firefox&sni=de.monkeyisland.xyz&sid=19e741a804f420a7&flow=xtls-rprx-vision#Khodemoni-189448
+vless://a6704fb4-4874-4e6b-98f4-571b048e3d90@31.77.161.2:8443?security=reality&encryption=none&pbk=4XxjInQuDp4SqaYF03yQ1VY61exkKi9e0RS5-kgyxAE&host=&headerType=none&fp=firefox&type=tcp&sni=prod.de-node-01.security-sbrf.ru&sid=db04ce8bdb8900f1#Khodemoni-143745
 trojan://humanity@216.24.57.1:443/?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmloud.com#Khodemoni-009607
 trojan://humanity@www.multiplydose.com:443/?type=ws&path=%2Fassignment&security=tls&fp=chrome#Khodemoni-138773
 trojan://humanity@2.144.21.112:40443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.creationlong.org#Khodemoni-132159
