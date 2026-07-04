@@ -388,8 +388,8 @@ vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@45.198.108.152:443?security=reality
 vless://3ea0a12e-162e-45b8-b03b-c490d6105091@209.46.30.56:443?encryption=none&type=ws&security=tls&path=%2F&host=wa2.mhrnet.com&sni=wa1.mhrnet.com&fp=chrome&insecure=0&allowInsecure=0#Khodemoni-191968
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJcVBLNW5mZ2dncjNQZmE4@40.112.71.34:443?type=tcp#Khodemoni-191905
 vless://3ea0a12e-162e-45b8-b03b-c490d6105091@23.227.38.91:443?encryption=none&type=ws&security=tls&path=%2F&host=wa2.mhrnet.com&sni=wa1.mhrnet.com&fp=chrome&insecure=0&allowInsecure=0#Khodemoni-191966
-vless://3ea5b9f5-acc5-4721-b865-c9caf02dc83f@188.130.207.135:50420?encryption=none&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#Khodemoni-191971
 vless://3ea0a12e-162e-45b8-b03b-c490d6105091@114.129.43.130:443?encryption=none&type=ws&security=tls&path=%2F&host=wa2.mhrnet.com&sni=wa1.mhrnet.com&fp=chrome&insecure=0&allowInsecure=0#Khodemoni-191967
+vless://3ea5b9f5-acc5-4721-b865-c9caf02dc83f@188.130.207.135:50420?encryption=none&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#Khodemoni-191971
 vless://85d509cd-e641-443a-b227-ddc765adeb2d@217.179.221.82:443?type=tcp&headerType=none&security=reality&encryption=none&sni=ve.cishosts.org&fp=chrome&pbk=W7zjZJiEbAN6b-KkXWtk5dJ513BFDeKMSxgdiCUOWBo&sid=a1ab5a56bcca&flow=xtls-rprx-vision#Khodemoni-191909
 vless://a2415a12-3f92-4636-9823-9828d3ceb818@it-just.dataload-cdn.ru:443?security=reality&encryption=none&pbk=lZf2K14GxiyyUM4zovDM20iuvkYQcGrXbPd18F3Jyzo&host=it-just.dataload-cdn.ru&headerType=none&fp=chrome&type=tcp&sni=www.sony.com&sid=1ab2#Khodemoni-191886
 vless://97b626c6-9b76-4053-8edb-0a18c922b57f@38.79.154.34:8585?mode=gun&security=reality&encryption=none&pbk=a20AW-pKrDkwITkp3eZ6WC809AYkNqoW1rs4AfLs73Y&fp=firefox&spx=%2FDDfcpu7bFLSa00Y&type=grpc&sni=image.led.samsung.com&sid=f880ed2a48#Khodemoni-191858
