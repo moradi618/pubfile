@@ -5,7 +5,6 @@ trojan://telegram-id-privatevpns@63.184.74.254:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@18.195.164.66:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-195377
 trojan://telegram-id-directvpn@63.184.74.254:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-194695
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@it.fifapes.monster:29148?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#Khodemoni-174471
-trojan://telegram-id-directvpn@18.195.164.66:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-195378
 trojan://telegram-id-privatevpns@35.181.216.201:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-192999
 trojan://telegram-id-directvpn@35.181.216.201:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-192998
 trojan://telegram-id-privatevpns@51.44.116.128:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-195430
@@ -33,6 +32,7 @@ trojan://MiTiVPN@104.26.4.60:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F--
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@it.fifapes.monster:29148?security=&encryption=none&headerType=http&type=tcp#Khodemoni-138496
 vless://22bdb7fc-559c-49f7-b480-8b4a97f7dac8@fast.motorbazan.com:443?path=%2FTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%3Fed%3D2053&security=tls&encryption=none&insecure=0&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#Khodemoni-190799
 vless://ee3b94f5-3826-687e-521a-16c00ddb8112@46.62.232.31:5054?mode=packet-up&security=reality&encryption=none&pbk=vmlmn1BcyEMh7vnmqjaxlvJy_bS-4ZWPN4EZAmnMFmY&fp=firefox&spx=%2F&type=xhttp&sni=icloud.com&sid=8afe1688#Khodemoni-196204
+vless://8cc4e5fa-943c-4bd7-93f1-02309c0a6b96@151.101.35.82:443?encryption=none&type=ws&security=tls&path=%2F&host=bazaryabab.global.ssl.fastly.net&sni=ssl.fastly.com&insecure=0&allowInsecure=0#Khodemoni-195424
 vless://03fcc618-b93d-6796-6aed-8a38c975d581@45.80.215.68:443?allowInsecure=1&insecure=1&type=tcp&security=tls&host=45.80.215.68#Khodemoni-115196
 trojan://%4D%69%54%69%56%50%4E@www.speedtest.net:443?path=%2F%4D%69%54%69%56%50%4E%3DSw&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&host=sw-W.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=sw-W.App-Cloud.ir#Khodemoni-191860
 vless://934ad6e9-90a2-4fb9-957a-29905d63ebd0@199.232.237.66:443?mode=auto&path=%2F%40Alfred_Config&security=tls&encryption=none&host=website-alfredo.global.ssl.fastly.net&type=xhttp&sni=global.fastly.com#Khodemoni-191844
