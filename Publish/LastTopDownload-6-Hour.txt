@@ -1,5 +1,4 @@
 vmess://eyJhZGQiOiJ2aXAuY29pbmNoYWluLnNpdGUiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiOTJjMDczMzAtYTM1Ni00YzNiLTkxZmQtYzk4OTAwZjExMDMwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI5MDkyIiwicHMiOiJLaG9kZW1vbmktMTk2MjMwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vless://2910c97b-e883-40c2-98b6-b6b9193af3f1@du.mobileemdad.top:42542?encryption=none&security=none&type=tcp&headerType=http&host=du.mobileemdad.top#Khodemoni-195366
 vless://5b2e446d-2f07-452e-8c47-0a2b4cd547ce@em2bot.amirggg.shop:23845?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-195951
 trojan://telegram-id-directvpn@15.188.201.176:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-195976
 trojan://telegram-id-privatevpns@63.184.74.254:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-194694
@@ -8,14 +7,15 @@ vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@45.196.182.120:443?encryption=none&
 trojan://telegram-id-directvpn@63.184.74.254:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-194695
 trojan://telegram-id-privatevpns@35.181.216.201:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-192999
 trojan://telegram-id-directvpn@35.181.216.201:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-192998
+vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@66.234.150.134:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&security=reality&sid=d020b987f84eb78a&sni=storage.yandex.net&type=tcp#Khodemoni-196079
 trojan://telegram-id-privatevpns@15.188.201.176:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-195975
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@it.fifapes.monster:29148?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr&headerType=http&type=tcp#Khodemoni-177741
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206Yk03b050T1dVNk40Q2dlbmJCK1c3Zz09OmorZGR1ZGV4a2JzdGsyQTN4Nyt0Nnc9PQ@dl242.p31download.info:2095#Khodemoni-196119
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.84:443?type=tcp&security=tls&headerType=none&insecure=1&allowInsecure=1#Khodemoni-130790
 vless://932a9656-d5ec-4ab0-a56e-4755f5420171@sw1.serviceoda.ru:7443?security=reality&encryption=none&pbk=42Mmvn4IUHiADQNh8ZFvY8kXw42nA-nuX7SQwZz0Mm4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sw1.serviceoda.ru&sid=c6e229cbb1220acc#Khodemoni-195761
 vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.135:2085?type=grpc&mode=gun&serviceName=vless#Khodemoni-193577
-trojan://telegram-id-privatevpns@51.44.116.128:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-195430
 vless://6a91c490-2bb7-46e7-846f-403ffbb65cf9@psf-2.zdshop.ir:80?encryption=none&type=xhttp&path=%2F&host=mX-prO-WeB-Nine-Xh-Nl-nEW-wOrLD.gLOBaL.SSl.FAStly.NEt&mode=auto#Khodemoni-195475
+trojan://telegram-id-privatevpns@51.44.116.128:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-195430
 vmess://eyJhZGQiOiJjODdzNS5wb3J0YWJsZXN1Ym1hcmluZXMuY29tIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIzY2Q5MDc3ZC03NmY3LTQxMDQtYmQ4Mi1lYjY5MTZiODlkNDMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjE4MzM5IiwicHMiOiJLaG9kZW1vbmktMTk0OTM2Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://66d512d7-7ddd-4f34-a5bb-72e4f252e15e@v1.vpn1016.ru:8443?encryption=none&security=reality&sni=www.google.com&fp=chrome&pbk=NItg3R8o-yzRz_sByhRa_5ZdEifZOqw3WGB8aLkQiRM&sid=464964de25699022&spx=/&type=xhttp&path=/data&mode=stream-up&extra={"xmux":{"maxConcurrency":"16-32","maxConnections":0,"cMaxReuseTimes":0,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000","hKeepAlivePeriod":0}}#Khodemoni-135354
 vless://dbf216de-9234-4b07-977b-e982be405874@forallpanel.srtongston.ir:8880?path=%2F%3Fed%3D2082&security=none&encryption=none&host=nNn.postshup.ir&type=httpupgrade#Khodemoni-195929
