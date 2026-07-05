@@ -8,7 +8,6 @@ vmess://eyJhZGQiOiJjODdzNS5wb3J0YWJsZXN1Ym1hcmluZXMuY29tIiwiYWlkIjoiMCIsImhvc3Qi
 vless://47e9fa2b-1146-47cb-9623-18a5343ed061@JSHSHSHHDUSHHDHUSJHSJIE.UHSHUSJSHHSHS.naminofree11.ir:8080?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-193721
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&headerType=http&type=tcp#Khodemoni-138170
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=&encryption=none&headerType=http&type=tcp#Khodemoni-138483
-vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@195.63.167.5:8090?type=ws&security=none&encryption=none&path=%2Fws&host=rukr.speedload.ru#Khodemoni-193569
 vless://332b3cc2-21dc-4ffa-9ab7-7d46a665b5fe@193.42.61.231:47664?type=ws#Khodemoni-193548
 vless://25a92544-a6f7-4657-aa06-4205fced2746@162.159.152.2:443?path=%2FeyJqdW5rIjoiMW5yQmtXeWlXQmo3SmR4IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTk0LjE4MC4xODguMjQxIl19%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=amirwebcode.amirpocom6l.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=AmirWeBcodE.amIRpocoM6L.woRkerS.DEV#Khodemoni-193378
 vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.135:2085?type=grpc&mode=gun&serviceName=vless#Khodemoni-193577
