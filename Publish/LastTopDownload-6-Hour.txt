@@ -33,6 +33,7 @@ vless://b43cc996-4436-3779-b9ec-95f300000004@104.19.230.21:443?path=/s1&security
 vless://cb6e6612-1466-43d6-8956-46b68e10ae41@www.relvix.ir:2052?encryption=none&security=none&type=ws&host=api.relvix.ir&path=%2F#Khodemoni-194030
 vless://3f298aca-2412-49ac-9f20-235f0e448d31@www.speedtest.net:2095?path=%2F&security=none&encryption=none&host=fr.carefreemob2.com.&type=httpupgrade#Khodemoni-193370
 vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@87.199.200.144:8090?type=ws&security=none&encryption=none&path=%2Fws&host=rukr.speedload.ru#Khodemoni-193572
+vless://0586eb35-ae9a-4f18-b9ce-93c9e6eb1326@direct.novaano.ir:443?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=gkIjQzxy5EzUpurQgP7yxLuSJve8H4BdRnEwSV5iQFQ&fp=chrome&spx=%2FbhtcnGU0qY7ghLk&type=xhttp&sni=mail-settings.google.com&sid=7a#Khodemoni-194615
 vless://199436d3-2fa2-4e34-a1de-844419de5a4f@108.162.192.134:2083?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=xn-de.shakhle.ir.&fp=chrome&type=ws&sni=xn-de.shakhle.ir.#Khodemoni-193097
 vless://82ba53bd-5eb7-4663-908e-9c2c3ac225f0@www.speedtest.net:443?alpn=h2%2Ch3%2Chttp%2F1.1&encryption=none&fp=firefox&host=line.sugerdood.qzz.io&path=%2Ftake&security=tls&sni=line.sugerdood.qzz.io&type=ws#Khodemoni-194470
 vless://c09f37f2-ccbd-4b12-8268-349ccf260e2f@138.124.98.224:443?mode=gun&security=reality&encryption=none&pbk=kOCKZMtaPfQli7Fc0sEJumZEFjEMHU0OcvOgPi815HY&fp=randomized&spx=%2F&type=grpc&serviceName=Nvidia-OTA-Stream&sni=ota.nvidia.com#Khodemoni-194277
