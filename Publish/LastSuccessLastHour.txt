@@ -415,8 +415,8 @@ vmess://eyJhZGQiOiIxMDcuMTczLjcuMTg2IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiIzODM3Mzdh
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@8.47.69.0:443?security=tls&type=ws&path=%2Frsedgws&host=shegeftihaaa.net&packetEncoding=xudp&sni=shegeftihaaa.net&fp=chrome&encryption=none#Khodemoni-194325
 vless://f1f47653-d57b-5917-fa47-c80823a8b7f3@rvg-production-8249.up.railway.app:443?type=ws&security=tls&path=/ws/f1f47653-d57b-5917-fa47-c80823a8b7f3&sni=rvg-production-8249.up.railway.app&fp=chrome#Khodemoni-194281
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.131.7.215:443?encryption=none&security=tls&sni=vpn47.cc.cd&type=ws&host=vpn47.cc.cd&path=/ #Khodemoni-193856
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.26.15.137:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Frsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&type=ws&allowInsecure=0&sni=shegeftihaaa.net#Khodemoni-194394
 vless://69693208-38c1-4e15-8f93-36ac80d69840@61.221.84.106:10000?encryption=none&security=none&type=tcp&headerType=none #Khodemoni-193961
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.26.15.137:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Frsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&type=ws&allowInsecure=0&sni=shegeftihaaa.net#Khodemoni-194394
 trojan://MiTiVPN@104.21.61.186:443?path=/MiTiVPN=Sw&security=tls&alpn=http/1.1&host=sw-Ws.App-Cloud.ir&fp=chrome&type=ws&sni=sw-Ws.App-Cloud.ir#Khodemoni-193340
 vless://69693208-38c1-4e15-8f93-36ac80d69840@61.221.84.106:10000?type=tcp&security=none#Khodemoni-193568
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFeUd5MTFCTWZlUC02VUhqc2dhald3@193.233.161.92:8390#Khodemoni-194441
