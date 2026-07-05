@@ -7,7 +7,6 @@ vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@45.196.182.120:443?encryption=none&
 trojan://telegram-id-directvpn@63.184.74.254:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-194695
 trojan://telegram-id-privatevpns@35.181.216.201:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-192999
 trojan://telegram-id-directvpn@35.181.216.201:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-192998
-vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@66.234.150.134:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&security=reality&sid=d020b987f84eb78a&sni=storage.yandex.net&type=tcp#Khodemoni-196079
 trojan://telegram-id-privatevpns@15.188.201.176:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-195975
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@it.fifapes.monster:29148?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr&headerType=http&type=tcp#Khodemoni-177741
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206Yk03b050T1dVNk40Q2dlbmJCK1c3Zz09OmorZGR1ZGV4a2JzdGsyQTN4Nyt0Nnc9PQ@dl242.p31download.info:2095#Khodemoni-196119
