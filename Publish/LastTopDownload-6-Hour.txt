@@ -1,9 +1,7 @@
 vless://f3131de4-3488-4434-afe9-8348b100324e@176.123.165.127:57836?encryption=none&security=none&type=tcp#Khodemoni-193127
 vless://f3131de4-3488-4434-afe9-8348b100324e@176.123.165.127:57836?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-193092
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=&encryption=none&headerType=http&type=tcp#Khodemoni-138495
 vless://986907c0-34b9-428f-8810-954e91d926a1@104.16.174.118:443?mode=auto&path=%2Fpl&security=tls&encryption=none&host=rplcdn.ultran.ir&allowinsecure=0&type=xhttp&sni=rplcdn.ultran.ir#Khodemoni-191401
 vmess://eyJhZGQiOiJjODdzNS5wb3J0YWJsZXN1Ym1hcmluZXMuY29tIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjNjZDkwNzdkLTc2ZjctNDEwNC1iZDgyLWViNjkxNmI4OWQ0MyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTgzMzkiLCJwcyI6Iktob2RlbW9uaS0xOTMwODMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?encryption=none&type=tcp&headerType=http#Khodemoni-138885
 vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@195.63.167.5:8090?type=ws&security=none&encryption=none&path=%2Fws&host=rukr.speedload.ru#Khodemoni-193569
 trojan://telegram-id-directvpn@18.195.161.118:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-192334
 vless://47e9fa2b-1146-47cb-9623-18a5343ed061@JSHSHSHHDUSHHDHUSJHSJIE.UHSHUSJSHHSHS.naminofree11.ir:8080?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-193721
@@ -45,6 +43,6 @@ vless://199436d3-2fa2-4e34-a1de-844419de5a4f@108.162.192.134:2083?path=/&securit
 vless://f9931758-e28e-4e60-b37b-e2bfb6bf719a@netherlands.vpnserverhub.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=y8-hfUvs9-MScp_tjMFi5LKuULGmnodHbI5Q_sTk_A0#Khodemoni-194015
 vless://47e9fa2b-1146-47cb-9623-18a5343ed061@HSHSHSJSJJSHSJJSJJEJJSHE.SUUSJSJJWJ.mamli12.ir:8080?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-193722
 vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.134:2085?type=grpc&mode=gun&serviceName=vless#Khodemoni-193576
-vless://adfb87c6-6002-4996-9208-5d86d21597ed@SPEEDtest.Net:80?security=none&type=xhttp&headerType=&path=/&host=farangis.global.ssl.fastly.neT.&mode=auto&extra={"scMaxEachPostBytes":#Khodemoni-193360
+vless://26279ceb-2ab2-447d-8efb-bef2b22470d2@www.speedtest.net:8443?mode=auto&path=/Hi&security=tls&alpn=h2,http/1.1&encryption=mlkem768x25519plus.native.0rtt.KBGWRMDGYrWQgipXfVuTdtfBucHMihlxgZ86wHaASnU&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=vip6.spdnet.online&fp=chrome&type=xhttp&allowInsecure=0&sni=vip6.spdnet.online#Khodemoni-193177
 vless://681314c5-b3ee-41f1-a959-fa42841f5383@askwodf.foot8all.ir:50567?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=play.google.com&fp=firefox&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&sid=c077229044b68285#Khodemoni-189738
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIZndVZXN1Uk4vT25Kanc4cFNtb0dQek9iRWxwMGllMHJPOHcxME1velo4PQ@e4.cover20.ir:16156?type=tcp#Khodemoni-175061
