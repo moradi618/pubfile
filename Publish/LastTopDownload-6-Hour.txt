@@ -1,7 +1,7 @@
 vless://7943183f-5c33-4728-8d57-8f18efe6ce25@pan3.mashkestan.com:2087?encryption=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-199932
 vless://0047a8bc-0025-4d45-899b-c75c669f3ede@154.83.159.144:8443?security=reality&encryption=none&pbk=LT_0j3zQkaqgtJHvyaG24xz0IfmXUswVCTeC75Qsgjo&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=6f15101ff2cc4887#Khodemoni-200672
-trojan://telegram-id-privatevpns@13.37.87.247:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-200573
 vless://d5a24ce7-d3f7-4721-b318-83a5344d3bb7@91.107.188.182:8443?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-202047
+trojan://telegram-id-privatevpns@13.37.87.247:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-200573
 trojan://telegram-id-privatevpns@51.102.218.188:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Khodemoni-200516
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=&encryption=none&host=Telegram-NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP&headerType=http&type=tcp#Khodemoni-140359
 trojan://telegram-id-privatevpns@51.102.218.188:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-200157
