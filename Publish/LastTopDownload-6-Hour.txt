@@ -34,7 +34,6 @@ vless://e0094b44-cf36-f1d4-fee9-f14e00000003@45.130.125.201:443?encryption=none&
 trojan://MITIVPN@151.101.56.7:443?security=tls&sni=ssl.fastly.com&alpn=http/1.1&type=ws&host=miticonfig.global.ssl.fastly.net&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=GE#Khodemoni-201235
 vless://9480871a-3843-441c-9b83-aa8c5c96b209@155.117.137.89:443?flow=xtls-rprx-vision&fp=firefox&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&security=reality&sid=3c9c5d01c6f824dd&sni=cdn6-49.yahoo.com&type=tcp#Khodemoni-197869
 trojan://MiTiVPN@199.232.78.140:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=fl&security=tls&alpn=http/1.1&host=miticonfig.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#Khodemoni-197440
-vless://a5b1d1ec-327c-f1c5-5856-b34600000000@ez-541f9d.ezaccess1d3db24.workers.dev:443?path=%2Fsync&security=tls&encryption=none&insecure=0&host=ez-541f9d.ezaccess1d3db24.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-541f9d.ezaccess1d3db24.workers.dev#Khodemoni-172022
 vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@bc-ua-hn.ray-balance.space:4443?encryption=none&security=none&type=grpc#Khodemoni-201393
 trojan://telegram-id-privatevpns@13.37.87.247:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Khodemoni-200682
 vless://9480871a-3843-441c-9b83-aa8c5c96b209@155.117.137.228:443?flow=xtls-rprx-vision&fp=firefox&packetEncoding=xudp&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&security=reality&sid=3c9c5d01c6f824dd&sni=cdn6-49.yahoo.com&type=tcp#Khodemoni-200436
