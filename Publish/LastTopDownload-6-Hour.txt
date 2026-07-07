@@ -11,7 +11,6 @@ vless://26b35808-f1e1-4b97-8c69-46796f058d8b@172.67.174.249:443?Telegram=@Gozarg
 vless://6538bd46-2ac2-4191-8e2c-2b86c0081f59@212.87.198.185:443?encryption=none&security=reality&sni=lg.netlen.com&fp=chrome&pbk=XhMp3RqcD8_b43iEeO3a2Bgr-XWM5ckds79YOPXk7Vg&sid=b073271f4fb95606&spx=%2FNjCSGM2bXqfV5DA&type=tcp&headerType=none#Khodemoni-202038
 vless://ccb1eaa7-d96e-4c7a-b2c8-88e5a0e0029d@189.74.117.3:443?flow=xtls-rprx-vision&fp=firefox&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&security=reality&sid=122218f4c1f172e4&sni=api.yandex-api.org&type=tcp#Khodemoni-202278
 vless://ad997094-40d4-461c-baf1-759d987351c3@87.242.85.201:13561?encryption=none&security=none&type=tcp&headerType=none#Khodemoni-202296
-vless://5b8d6c9f-20c9-4e8c-8d44-d2382100c2e3@api.yandex-dev.org:443?type=tcp&security=reality&sni=api.yandex-dev.org&fp=qq&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4&flow=xtls-rprx-vision#Khodemoni-201351
 trojan://telegram-id-directvpn@13.37.87.247:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-200556
 trojan://MiTiVPN@104.16.72.50:443?security=tls&type=ws&sni=Fl-u-ueisi.App-Cloud.ir&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=fl&host=fl-ll-i.App-Cloud.ir#Khodemoni-199976
 vless://4af89b09-ce0c-4dab-b798-629d8b900af0@45.195.111.205:443?flow=xtls-rprx-vision&fp=firefox&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&security=reality&sid=f4b4a6365558ea2e&sni=storage.yandex.net&type=tcp#Khodemoni-201293
