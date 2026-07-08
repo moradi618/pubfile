@@ -1,3 +1,5 @@
+vless://50c91104-c1fc-471e-914f-3ad252a0a34c@cf8.466688.xyz:8880?encryption=none&security=none&type=ws&host=quiet-snowflake-e1dd.374-ac3.workers.dev&path=/pyip=ProxyIP.US.CMLiussss.net@https://t.me/QiangLieTuiJian#Khodemoni-188249
+trojan://BxceQaOe@119.246.1.143:443?security=tls&insecure=1&headerType=&type=tcp&allowInsecure=1#Khodemoni-171573
 vless://b521cf5a-91a8-7fad-3702-698a57b8a50e@ansooyefilter-production.up.railway.app:443?encryption=none&security=tls&type=ws&host=ansooyefilter-production.up.railway.app&path=/ws/b521cf5a-91a8-7fad-3702-698a57b8a50e&sni=ansooyefilter-production.up.railway.app&fp=chrome&alpn=http/1.1#Khodemoni-204882
 vless://eece4171-e025-40a3-9027-e395036ff99d@45.198.80.147:443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=28047c78b3f5ee2c#Khodemoni-204884
 trojan://telegram-id-privatevpns@63.176.232.190:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-204893
@@ -47,5 +49,3 @@ vless://e2b46a5d-9346-4085-b174-3f878013cb5b@ns2.zabidat.ir:2086?mode=auto&path=
 vless://19312f0a-9d8f-43db-b691-6b44fa769480@snapp.ir:2086?path=/&security=none&encryption=none&host=tr1.asan-gozar.ir&type=ws#Khodemoni-204615
 trojan://XG59623478@classic-duckling.rooster465.autos:443?allowInsecure=1#Khodemoni-204613
 vless://86fdb625-1a7f-4784-99a6-a96b3a80fc6d@199.232.9.94:443?allowInsecure=1&encryption=none&host=hamshahriesfahan.com&path=%2Fvip1&security=tls&sni=speedtest.net&type=ws#Khodemoni-204619
-vless://401dff96-48b1-e043-ce3f-759256a46b38@x4g-production-1904.up.railway.app:443?path=/ws/401dff96-48b1-e043-ce3f-759256a46b38&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=&fp=chrome&type=ws&allowInsecure=0&sni=#Khodemoni-204018
-vless://401dff96-48b1-e043-ce3f-759256a46b38@x4g-production-1904.up.railway.app:443?path=/ws/401dff96-48b1-e043-ce3f-759256a46b38&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-1904.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-1904.up.railway.app#Khodemoni-204019
