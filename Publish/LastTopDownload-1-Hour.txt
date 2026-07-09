@@ -3,6 +3,7 @@ vless://806158d6-f11e-4523-a032-9f865efb05b9@157.180.72.116:55849?security=none&
 vless://5dec493b-22c2-4def-976e-9c5d4c954ebd@157.180.72.116:55849?security=none&encryption=none&headerType=http&type=tcp#Khodemoni-219197
 vless://8b18e160-9a3d-4f2d-9b56-b9894d3b2743@mtnnet.sanaiehdasti.com:1418?security=none&encryption=none&host=www.icloud.com&headerType=http&type=tcp#Khodemoni-219226
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.3.8:80?encryption=none&security=none&type=ws&host=Fastapi.Org&path=/?ed=1024#Khodemoni-219211
+vless://8b18e160-9a3d-4f2d-9b56-b9894d3b2743@allnet.sanaiehdasti.com:1323?security=none&type=tcp&headerType=http&path=%2F&host=www.icloud.com#Khodemoni-219200
 vmess://eyJ2IjoiMiIsInBzIjoiS2hvZGVtb25pLTIxOTQ1OSIsImFkZCI6InNob3QzLmRpaWdpbmV0LmlyIiwicG9ydCI6MzU0NDQsImlkIjoiOTc1NzdhNmQtZDI4NS00ZGFkLTljODgtYTdjODE4MWY5MTgwIiwiYWlkIjowLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiLyIsInRscyI6Im5vbmUifQ==
 trojan://telegram-id-directvpn@35.181.217.107:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Khodemoni-217991
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyZG8xbzlZUU9yamEvcVNRWmlxcGtrZ2dsV0QzVXA0bENQWHRKNENZcU1rPQ@e3.cover20.ir:56985?type=tcp#Khodemoni-216260
