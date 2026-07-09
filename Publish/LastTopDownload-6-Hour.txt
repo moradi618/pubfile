@@ -1,6 +1,8 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2ZHRhVkRlc2NLdGk0R3J3MERsTTdlMjhyenNDL0dYY3hNYlc1c1Z4Ry8wPQ==@n3.cover20.ir:55129#Khodemoni-219136
+vmess://eyJ2IjoiMiIsInBzIjoiS2hvZGVtb25pLTIxOTQ1OSIsImFkZCI6InNob3QzLmRpaWdpbmV0LmlyIiwicG9ydCI6MzU0NDQsImlkIjoiOTc1NzdhNmQtZDI4NS00ZGFkLTljODgtYTdjODE4MWY5MTgwIiwiYWlkIjowLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiLyIsInRscyI6Im5vbmUifQ==
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.3.8:80?encryption=none&security=none&type=ws&host=Fastapi.Org&path=/?ed=1024#Khodemoni-219211
 vless://806158d6-f11e-4523-a032-9f865efb05b9@157.180.72.116:55849?security=none&encryption=none&headerType=http&type=tcp#Khodemoni-219198
+trojan://telegram-id-privatevpns@3.121.203.159:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Khodemoni-219506
 vless://5dec493b-22c2-4def-976e-9c5d4c954ebd@157.180.72.116:55849?security=none&encryption=none&headerType=http&type=tcp#Khodemoni-219197
 vless://f2c39c53-ffb2-491a-8d4e-346891b377e3@157.180.72.116:55849?security=none&encryption=none&headerType=http&type=tcp#Khodemoni-219196
 vless://f75c10a3-7c46-4542-89be-66f924e8c9df@zwolf.bkneed.ir:80?path=%2Fwp-admin.php%3Fed%3D2048&security=none&encryption=none&host=apc3enet.global.ssl.fastly.net&type=ws#Khodemoni-219192
@@ -19,7 +21,6 @@ trojan://telegram-id-privatevpns@3.77.190.145:22222?security=tls&alpn=http/1.1&h
 vless://c85fa9c8-d3d2-47a4-ae31-ce150e074cdc@157.180.72.116:29591?mode=stream-up&path=%2F&security=none&encryption=none&extra=%7B%22mode%22%3A%22stream-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&type=xhttp#Khodemoni-219195
 vless://366a6580-a002-4069-9c43-4549d5e92994@snapp.ir:8880?path=%2Fapi&security=none&encryption=none&host=mobim.manemiyayim.ir&type=ws#Khodemoni-218293
 vless://340f2b37-572d-408f-b362-17a132d1f701@141.95.74.146:443?security=reality&encryption=none&pbk=oLuqJsj4z6m_kns9ETrsIPA8fDrysonWXEsmn3931kY&headerType=none&fp=safari&spx=%2Fiw----MXGRID----FGY&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=bbfcad86d5e2e0ea#Khodemoni-218203
-vless://1357bb15-4189-d654-d849-969db9e93a4e@95.182.90.187:38389?security=reality&type=tcp&headerType=none&encryption=none&path=&sni=www.speedtest.net&fp=chrome&pbk=6QuxfOrVDGXfdKyAo6Il9d_lHDsQsNeOQ4OAPqFMQXM&sid=763b490397d066f7&spx=%2F#Khodemoni-219203
 vless://08b0f353-c401-468b-8fad-c12ad6110e5e@stdata.aghayradical.space:55974?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=Play.google.com#Khodemoni-218499
 vless://f0a28e92-8de2-4956-91c5-05b1a1796a38@se.rafavpn.ru:8443?security=reality&encryption=none&pbk=iqdZR5Uwz-FttCXsi-c6cb8YqYQYtEh6GMbxHW13hBE&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=fe2e4376#Khodemoni-219363
 trojan://MITIVPN@162.159.8.101:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DUSSA&security=tls&alpn=http%2F1.1&insecure=1&host=my-usa-ol.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=1&sni=UsAa-bUs.App-Cloud.ir#Khodemoni-216789
