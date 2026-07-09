@@ -67,7 +67,6 @@ vless://f0a28e92-8de2-4956-91c5-05b1a1796a38@se.rafavpn.ru:8443?security=reality
 vless://03f4e625-e25e-4beb-93bd-8f275d3717e1@dash.sharkjoy.org:8443?security=reality&encryption=none&pbk=cwv1Dx-yuL6RRl0kLQfJEwH6ZWS2GadbVYPEtNMXxHQ&headerType=none&fp=qq&spx=%2FJdTQds5lWLgo2ib&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=0d#Khodemoni-219064
 vless://c1709670-114d-4c1a-84c6-452db9981c08@135.125.168.129:18169?type=tcp&encryption=none&security=reality&pbk=Bn5ziIYYKffPJjUd3diIvdmfLJgbo76mVSEcrgY0k08&fp=firefox&sni=www.icloud.com&sid=339e6fe3f9&spx=%2Fnaranv2ray#Khodemoni-218531
 trojan://telegram-id-privatevpns@35.181.217.107:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Khodemoni-218180
-vless://86fdb625-1a7f-4784-99a6-a96b3a80fc6d@140.248.180.30:443/?type=ws&encryption=none&flow=&host=hamshahriesfahan.com&path=%2Fvip1&security=tls&sni=speedtest.net&allowInsecure=1#Khodemoni-214796
 vless://86fdb625-1a7f-4784-99a6-a96b3a80fc6d@199.232.9.94:443/?type=ws&encryption=none&flow=&host=hamshahriesfahan.com&path=%2Fvip1&security=tls&sni=speedtest.net&allowInsecure=1#Khodemoni-214793
 vless://86fdb625-1a7f-4784-99a6-a96b3a80fc6d@140.248.180.30:443?allowInsecure=1&encryption=none&host=hamshahriesfahan.com&path=%2Fvip1&security=tls&sni=speedtest.net&type=ws#Khodemoni-204626
 vless://86fdb625-1a7f-4784-99a6-a96b3a80fc6d@199.232.9.94:443?allowInsecure=1&encryption=none&host=hamshahriesfahan.com&path=%2Fvip1&security=tls&sni=speedtest.net&type=ws#Khodemoni-204619
