@@ -66,8 +66,8 @@ vmess://eyJhZGQiOiIxMDQuMTcuNzcuNzciLCJhaWQiOiIwIiwiaG9zdCI6InYycmF5MS5kb3phcHAu
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@62.72.166.30:8880?type=ws&encryption=none&flow=&host=vms.lifetime40.workers.dev#Khodemoni-138241
 vmess://eyJhZGQiOiIxMDQuMTcuNzcuNzciLCJhaWQiOiIwIiwiaG9zdCI6InYycmF5MS5kb3phcHAueHl6IiwiaWQiOiI2MDQ0MTU0OC1iNjhlLTQzYjItODE5MS1lM2I4ODRiZTRiM2MiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbE1uc1pVTjQvIiwicG9ydCI6Ijg0NDMiLCJwcyI6Iktob2RlbW9uaS0xMzg0MTkiLCJzY3kiOiJhdXRvIiwic25pIjoidjJyYXkxLmRvemFwcC54eXoiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 vless://0a7a2588-6457-4ae1-9b7d-8643e2153144@zeus-panel-ehqukv.ewrw34634532.workers.dev:2096?encryption=none&path=/&sni=zeus-panel-ehqukv.ewrw34634532.workers.dev&security=tls&host=zeus-panel-ehqukv.ewrw34634532.workers.dev&allowInsecure=0&type=ws&fp=chrome&insecure=0#Khodemoni-142473
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.85.118.50:8880?encryption=none&security=none&type=ws&host=vms.lifetime55.workers.dev&path=%2F#Khodemoni-143321
 vless://0a7a2588-6457-4ae1-9b7d-8643e2153144@zeus-panel-ehqukv.ewrw34634532.workers.dev:2053?allowInsecure=0&type=ws&encryption=none&path=/&insecure=0&host=zeus-panel-ehqukv.ewrw34634532.workers.dev&sni=zeus-panel-ehqukv.ewrw34634532.workers.dev&security=tls&fp=chrome#Khodemoni-142472
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.85.118.50:8880?encryption=none&security=none&type=ws&host=vms.lifetime55.workers.dev&path=%2F#Khodemoni-143321
 vless://850371e8-bce4-4500-abd7-2a76df3b78da@104.21.5.155:443?encryption=none&type=ws&host=event-buS-C22219-EDG.sTAgING-API-5de174.woRKeRS.deV&path=%2F%3Fproxyip%3D109.122.197.5&security=tls&sni=evENt-buS-c22219-edG.stAGing-APi-5De174.woRkeRS.DEV#Khodemoni-147308
 vless://18a7834f-bf89-4c87-ad57-49927a56deed@104.21.88.129:8880?type=ws&host=holy-violet-858e.471.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#Khodemoni-147176
 vless://84205690-b389-4689-86ad-95cd169ba862@170.114.46.6:80?security=none&type=ws&host=free.sahanwickramasinghevip.shop&path=%2F&fp=firefox#Khodemoni-172266
@@ -180,8 +180,8 @@ vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@173.245.58.75:443?path=%2Frdfgtws&s
 trojan://humanity@2.144.21.112:40443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=/assignment#Khodemoni-106570
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@173.245.58.75:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&fp=chrome&type=ws&allowInsecure=0&sni=vangoghhh.info#Khodemoni-095221
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@173.245.58.75:443?path=%2Frsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&fp=chrome&type=ws&allowInsecure=0&sni=shegeftihaaa.net#Khodemoni-095083
-vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@betty.ns.cloudflare.com:443?path=%2Fhdgrbws&security=tls&encryption=none&insecure=0&host=terazhediii.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhediii.info#Khodemoni-095360
 trojan://humanity@104.19.23.163:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#Khodemoni-095059
+vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@betty.ns.cloudflare.com:443?path=%2Fhdgrbws&security=tls&encryption=none&insecure=0&host=terazhediii.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhediii.info#Khodemoni-095360
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#Khodemoni-095055
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@betty.ns.cloudflare.com:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&fp=chrome&type=ws&allowInsecure=0&sni=vangoghhh.info#Khodemoni-094809
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@betty.ns.cloudflare.com:443?path=%2Frsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&fp=chrome&type=ws&allowInsecure=0&sni=shegeftihaaa.net#Khodemoni-094782
