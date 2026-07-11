@@ -3,8 +3,8 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.233.14:22224?security=none&en
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.153.242.140:22224?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-221961
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.153.242.140:22222?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-221960
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.233.14:22223?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-222826
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.153.242.140:22222?encryption=none&amp;security=none&amp;type=tcp#Khodemoni-222115
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.233.14:22222?#Khodemoni-223346
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.153.242.140:22224?encryption=none&security=none&type=tcp#Khodemoni-221929
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.153.242.140:22222?encryption=none&security=none&type=tcp#Khodemoni-221930
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.29:443#Khodemoni-222634
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.57:443?type=tcp&headerType=none#Khodemoni-222633
@@ -53,7 +53,6 @@ vless://f8cae104-2eaa-4b16-b258-65be28281b70@phone.systemcont.ir:2026?security=r
 vless://f8cae104-2eaa-4b16-b258-65be28281b70@pars.supros.ir:2026?encryption=none&security=reality&type=tcp&headerType=none&sni=yahoo.com&fp=firefox&pbk=484wYbkS2hs2WSdXmk2-bOeKZkdBbzdD7uZ1WmRIEj8&sid=ca930e5d4a603c6a#Khodemoni-222162
 vless://9d66932d-9eec-47de-972a-e98dee7231c1@allnets1.lorqina.ir:4563?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&host=/AhmadV2ray%E2%80%94%E2%80%94AhmadV2ray%E2%80%94%E2%80%94AhmadV2ray%E2%80%94%E2%80%94AhmadV2ray&path=/AhmadV2ray%E2%80%94%E2%80%94AhmadV2ray%E2%80%94%E2%80%94AhmadV2ray%E2%80%94%E2%80%94AhmadV2ray&sni=www.yahoo.com&sid=0b41f63c0ee9&fp=chrome&pbk=GR4Vf2qGFrq56Q1Z1YyxmvUrcpbBtw02fkDKv43KbUo&spx=/30hoQ0ptDhEiGCa&headerType=none#Khodemoni-221949
 vless://8a5514cc-7fb3-4adf-9bad-eba1bd048315@172.67.177.188:443?encryption=none&security=tls&sni=a.kEshtpoR1-2.woRKers.dev&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=a.keshtpor1-2.workers.dev&path=%2FeyJqdW5rIjoiNDFRTGQ1M1g5IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiOTEuMTk5LjExOC4xNTEiXX0%3D%3Fed%3D2560#Khodemoni-221082
-trojan://MiTiVPN@172.67.75.194:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Ds---w&security=tls&alpn=http%2F1.1&insecure=1&host=bw--ivs-b--vvs.MaQRor.Ir&fp=chrome&type=ws&allowInsecure=1&sni=wbjj-bbcs-.MaQRor.Ir#Khodemoni-220920
 trojan://MiTiVPN@104.16.71.48:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DN--l&security=tls&alpn=http%2F1.1&insecure=1&host=n-la-nbad.MaQRor.Ir&fp=chrome&type=ws&allowInsecure=1&sni=nland-o-nl.MaQRor.Ir#Khodemoni-220919
 vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?mode=stream-one&path=%2Fkavir&security=tls&alpn=h2&encryption=none&insecure=0&host=dey.lnmarketplace.net&fp=chrome&type=xhttp&allowInsecure=0&sni=dey.lnmarketplace.net#Khodemoni-220132
 vless://f8cae104-2eaa-4b16-b258-65be28281b70@nl1.appcodes.ir:2026?encryption=none&security=reality&type=tcp&headerType=none&sni=yahoo.com&fp=firefox&pbk=484wYbkS2hs2WSdXmk2-bOeKZkdBbzdD7uZ1WmRIEj8&sid=ca930e5d4a603c6a#Khodemoni-219239
