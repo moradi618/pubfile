@@ -1,10 +1,6 @@
 vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?encryption=none&security=none&type=ws&host=azsv1.drpingservice.com&path=%2F#Khodemoni-081861
 vless://29a88f7d-0940-4389-9745-ae6bb6e01e38@45.38.41.10:27041?encryption=none&security=none&type=tcp#Khodemoni-223928
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.73.181.118:22223?encryption=none&security=none&type=tcp#Khodemoni-223899
-vless://86fdb625-1a7f-4784-99a6-a96b3a80fc6d@140.248.180.30:443?allowInsecure=1&encryption=none&host=hamshahriesfahan.com&path=%2Fvip1&security=tls&sni=speedtest.net&type=ws#Khodemoni-204626
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNeVIyTDUtVndvOXh0d0V0NldBYVNWYjliTkdLblh0dg==@netherlands.vpnserverhub.com:1234#Khodemoni-223896
-vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=v3p.sabermusic.ir#Khodemoni-134826
-vless://86fdb625-1a7f-4784-99a6-a96b3a80fc6d@199.232.9.94:443?allowInsecure=1&encryption=none&host=hamshahriesfahan.com&path=%2Fvip1&security=tls&sni=speedtest.net&type=ws#Khodemoni-204619
 vmess://eyJ2IjoiMiIsInBzIjoiS2hvZGVtb25pLTE5NTU5NSIsImFkZCI6IjE1OC41MS4xMjEuNjMiLCJwb3J0IjoiNDQzIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJzZXJpYnVzLm9yZyIsInBhdGgiOiJsaW5rdndzIiwidGxzIjoidGxzIiwic25pIjoic2VyaWJ1cy5vcmciLCJ0ZXN0X25hbWUiOiIxMTkifQ==
 vless://d237f7b9-9757-4045-9779-0d572b0fc7ca@voidlatency-sp0q52.rezarezaiy1.workers.dev:2096?path=%2F&security=tls&encryption=none&insecure=0&host=voidlatency-sp0q52.rezarezaiy1.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=voidlatency-sp0q52.rezarezaiy1.workers.dev#Khodemoni-223935
 vless://65bed288-9602-d3aa-f7ef-752da3683677@x4g-production-1e7a.up.railway.app:443?path=%2Fws%2F65bed288-9602-d3aa-f7ef-752da3683677&security=tls&encryption=none&alpn=http%2F1.1&host=x4g-production-1e7a.up.railway.app&fp=chrome&type=ws&sni=x4g-production-1e7a.up.railway.app#Khodemoni-223943
