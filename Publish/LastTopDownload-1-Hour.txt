@@ -1,5 +1,4 @@
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.73.181.118:22222?encryption=none&amp;security=none&amp;type=tcp#Khodemoni-223982
-vless://f8cae104-2eaa-4b16-b258-65be28281b70@fan.plytob.ir:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-223968
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzSHh2dTVIVHFCS3Bkc3NJQzRTYnZXQngzb2FnbDlEcA==@vip6.zarins.ir:8088#Khodemoni-223990
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzSHh2dTVIVHFCS3Bkc3NJQzRTYnZXQngzb2FnbDlEcA==@vip.zarins.ir:20700#Khodemoni-223997
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzSHh2dTVIVHFCS3Bkc3NJQzRTYnZXQngzb2FnbDlEcA==@vip7.zarins.ir:20900#Khodemoni-223987
@@ -10,11 +9,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzSHh2dTVIVHFCS3Bkc3NJQzRTYnZXQngzb2FnbDlEcA=
 vless://4b9e8486-148d-4920-a1b7-c72a1576efa7@212.100.171.74:3030?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-223973
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzSHh2dTVIVHFCS3Bkc3NJQzRTYnZXQngzb2FnbDlEcA==@vip3.zarins.ir:80#Khodemoni-223985
 vless://Vpn_m2s@69.46.46.9:443?path=%2Fws%2FVpn_m2s&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=web-production-61ba9.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=web-production-61ba9.up.railway.app#Khodemoni-224005
-trojan://humanity@2.144.21.112:40443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=/assignment#Khodemoni-106570
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzSHh2dTVIVHFCS3Bkc3NJQzRTYnZXQngzb2FnbDlEcA==@vip5.zarins.ir:443#Khodemoni-223998
 vless://5905d91f-c3bc-4e80-bd66-4b17beb166cb@38.244.20.203:443?flow=xtls-rprx-vision&fp=safari&pbk=8BglmwULIVotYAbGXx3Vd1fXiGJbKSsWnZCGvm4Exl0&security=reality&sid=aebdb601b1371778&sni=www.apple.com#Khodemoni-223971
 trojan://b397e981-b635-a787-fb7a-1165f36962b1@trollhastambotrvg-production-162c.up.railway.app:443?security=tls&type=ws&host=trollhastambotrvg-production-162c.up.railway.app&path=/trojan-ws&sni=trollhastambotrvg-production-162c.up.railway.app&fp=chrome&alpn=http/1.1#Khodemoni-224035
-vless://9f96e51b-a1f2-4094-9a19-f7a35557f6d3@wng.legendcr.ir:443?encryption=none&fp=chrome&pbk=iLVvvJXzlbyq94w1V94GHzb_gwWyjKLRZNwbDgat2Fo&security=reality&sid=8cf90532de323c&sni=www.yahoo.com&spx=%2F0zNgBN8mxD1tYVO&type=tcp#Khodemoni-223959
 vless://740db6dd-f0c5-3f1f-155b-4e5465eece17@x4g-production-983f.up.railway.app:443?encryption=none&security=tls&type=ws&host=x4g-production-983f.up.railway.app&path=/ws/740db6dd-f0c5-3f1f-155b-4e5465eece17&sni=x4g-production-983f.up.railway.app&fp=chrome&alpn=http/1.1#Khodemoni-219634
 vless://cd395008-366d-6bb1-5a69-d49cd3f74e8d@x4g-production-983f.up.railway.app:443/?type=ws&encryption=none&flow=&host=x4g-production-983f.up.railway.app&path=%2Fws%2Fcd395008-366d-6bb1-5a69-d49cd3f74e8d&security=tls&sni=x4g-production-983f.up.railway.app&alpn=http%2F1.1&fp=ios#Khodemoni-221492
 vless://Vpn_m2s@69.46.46.15:443?path=%2Fws%2FVpn_m2s&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=web-production-61ba9.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=web-production-61ba9.up.railway.app#Khodemoni-224003
@@ -22,5 +19,3 @@ vless://cd395008-366d-6bb1-5a69-d49cd3f74e8d@x4g-production-983f.up.railway.app:
 vless://740db6dd-f0c5-3f1f-155b-4e5465eece17@x4g-production-983f.up.railway.app:443?encryption=none&security=tls&type=ws&host=x4g-production-983f.up.railway.app&path=/ws/740db6dd-f0c5-3f1f-155b-4e5465eece17&sni=x4g-production-983f.up.railway.app&fp=ios&alpn=http/1.1#Khodemoni-219181
 vless://5b25a339-bf7e-2673-1960-919233576ee0@trollhastambotrvg-production-162c.up.railway.app:443?encryption=none&security=tls&type=ws&host=trollhastambotrvg-production-162c.up.railway.app&path=/ws/5b25a339-bf7e-2673-1960-919233576ee0&sni=trollhastambotrvg-production-162c.up.railway.app&fp=chrome&alpn=http/1.1#Khodemoni-224033
 vless://a5d6acb2-d494-f5c2-f865-7c606b3854b1@x4g-production-7fdc.up.railway.app:443?encryption=none&security=tls&sni=x4g-production-7fdc.up.railway.app&fp=ios&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=x4g-production-7fdc.up.railway.app&path=%2Fws%2Fa5d6acb2-d494-f5c2-f865-7c606b3854b1#Khodemoni-222297
-vless://2797a040-443c-4249-ab49-546b37519642@94.126.204.77:5443?mode=stream-one&path=%2F&security=reality&encryption=none&pbk=GDAE47AZLxgYihOLHNgZdSrRQBSzEEJhrKZx4vm6PgE&fp=firefox&type=xhttp&sni=api-maps.yandex.ru&sid=9c4d6cc74ba8968d#Khodemoni-223967
-vless://11dda7fb-aef6-430f-8dff-6ddffe0a966b@kakoolnewse.up.railway.app:443?path=%2Fkakoolnews&security=tls&encryption=none&host=kakoolnewse.up.railway.app&fp=chrome&type=ws&sni=kakoolnewse.up.railway.app#Khodemoni-220524
