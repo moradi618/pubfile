@@ -13,6 +13,7 @@ vless://c8af99ed-612c-43ef-901f-cae5ec212e30@new1.list.nonpath.ir:42542?encrypti
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.29:443#Khodemoni-222634
 vless://f8cae104-2eaa-4b16-b258-65be28281b70@panels.appcodes.ir:8080?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-216601
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.233.14:22222?encryption=none&amp;security=none&amp;type=tcp#Khodemoni-222770
+vless://29a88f7d-0940-4389-9745-ae6bb6e01e38@45.38.41.10:27041?encryption=none&security=none&type=tcp#Khodemoni-223928
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.73.181.118:22223?encryption=none&security=none&type=tcp#Khodemoni-223899
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&type=tcp&headerType=http&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI#Khodemoni-199943
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.57:443?type=tcp&headerType=none#Khodemoni-222633
