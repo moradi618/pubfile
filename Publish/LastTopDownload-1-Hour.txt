@@ -1,6 +1,7 @@
 vless://f8cae104-2eaa-4b16-b258-65be28281b70@panels.appcodes.ir:8080?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-219238
-vless://0ad65088-3cd9-43f1-b07a-c37304a4d296@que.chapjavan.ir:3445?encryption=none&type=ws&path=/&security=tls&fp=firefox&sni=que.chapjavan.ir&alpn=h3,h2,http/1.1&pcs=47e16fee2860c8eeb8bbb4bb3da99b8a63ea74987429ff0c37722369d9e556b5#Khodemoni-223821
 vless://0ad65088-3cd9-43f1-b07a-c37304a4d296@que.chapjavan.ir:3443?encryption=none&type=ws&path=/&security=tls&fp=firefox&sni=que.chapjavan.ir&alpn=h3,h2,http/1.1&pcs=47e16fee2860c8eeb8bbb4bb3da99b8a63ea74987429ff0c37722369d9e556b5#Khodemoni-223837
-vless://838de912-398a-4c0e-9228-0fd44b0d1f8b@157.173.27.150:443?flow=xtls-rprx-vision&fp=safari&pbk=KP-P4zenuMuYe3UxPCjDEVmgqI4GiRZ95UbsAfmL71g&security=reality&sid=970098f31b96a3e8&sni=travel.yandex.ru&type=tcp#Khodemoni-223650
 vless://0ad65088-3cd9-43f1-b07a-c37304a4d296@91.193.58.201:2096?encryption=none&type=ws&path=/&security=tls&fp=chrome&sni=cdn-p1z.persia.my&alpn=h3,h2,http/1.1#Khodemoni-223834
+trojan://humanity@162.159.38.119:443?type=ws&security=tls&path=/assignment&host=www.calmloud.com&sni=www.calmloud.com&insecure=0&allowInsecure=0#Khodemoni-201926
 vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@162.159.38.119:443?path=%2Fhdgrbws&security=tls&encryption=none&host=terazhediii.info&type=ws&sni=terazhediii.info#Khodemoni-204003
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@162.159.38.119:443?path=%2Frsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&fp=chrome&type=ws&allowInsecure=0&sni=shegeftihaaa.net#Khodemoni-203007
+vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@162.159.38.119:443?path=%2Fsea&security=tls&encryption=none&host=deicl.redstone-vex.sbs&fp=chrome&type=ws&sni=deicl.redstone-vex.sbs#Khodemoni-200916
