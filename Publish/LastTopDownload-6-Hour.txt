@@ -19,7 +19,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJWnJIZ1FYMk1CVmlCLzZjN2xCem1ZQ21Ua2VyTEtjeUZ
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&host=%2F%3F&headerType=http&type=tcp#Khodemoni-203794
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@it.fifapes.monster:29148?security=&encryption=none&host=Telegram-NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP&headerType=http&type=tcp#Khodemoni-140360
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MjJnL2dxaHE3b1ptcjJDdmVBT3lGV3I0SXlpK0hNU3RnNWswN3pJRitnPQ@e3.cover20.ir:56985?type=tcp#Khodemoni-222273
-trojan://MiTiVPN@assets.fiverr.com:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=nLL&host=n-la-nbad.App-Cloud.ir&sni=nland-o-nl.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#Khodemoni-218706
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=&encryption=none&headerType=http&type=tcp#Khodemoni-138495
 trojan://4aFbwy5BHa@151.101.34.144:443?type=xhttp&security=tls&path=/db&alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&host=edgezvx.global.ssl.fastly.net&mode=packet-up&sni=global.fastly.com&alpn=h2,http/1.1&fp=chrome&insecure=0&allowInsecure=0#Khodemoni-223266
 vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@xn-usa.dbsll.ir:20001/?encryption=none&host=play.google.com&type=tcp&headerType=http#Khodemoni-189253
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.153.242.140:22223?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-221943
