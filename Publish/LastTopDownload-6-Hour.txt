@@ -13,7 +13,6 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.212.228:22223?encryption=none
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.137.10:22222?encryption=none&security=none&type=tcp#Khodemoni-229059
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.137.10:22222?encryption=none&amp;security=none&amp;type=tcp#Khodemoni-229261
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.28.107.75:22223?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Khodemoni-229364
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.74.240.8:22222?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-229184
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.212.228:22223?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&headerType=none&type=tcp#Khodemoni-229316
 vless://d40896cb-c5bc-4ae1-8c63-ad2a40ffc861@Snapp.ir:8880?path=/&security=none&encryption=none&host=Appleiranorg.com&type=ws#Khodemoni-229443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTFhYmFlMTU2YjY0N2MxOGY0ZmMxNjlmZWI5NWQ0OA@m-iri.onlinevip1.ir:2095#Khodemoni-229117
