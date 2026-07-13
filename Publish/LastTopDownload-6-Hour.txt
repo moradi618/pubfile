@@ -6,7 +6,6 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.137.10:22223?#Khodemoni-22982
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.137.10:22222?security=&encryption=none&headerType=none&type=tcp#Khodemoni-229815
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.137.10:22222?encryption=none&security=none&type=tcp#Khodemoni-229059
 vless://1972d7cb-00d8-423e-91db-62f01b2289a6@91.98.202.214:1374?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-229796
-vless://Join%2Ctelegram%3AX_RAY_VPN1@91.107.150.246:443?encryption=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-223946
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.137.10:22222?encryption=none&amp;security=none&amp;type=tcp#Khodemoni-229261
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.28.107.75:22222?encryption=none&security=none&type=tcp#Khodemoni-228884
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.74.240.8:22224?encryption=none&security=none&type=tcp#Khodemoni-228855
