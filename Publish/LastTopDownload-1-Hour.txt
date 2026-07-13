@@ -3,12 +3,12 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.183.108.90:22223?encryption=none
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.156.92.136:22223?encryption=none&security=none&type=tcp#Khodemoni-231527
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.183.108.90:22224?encryption=none&security=none&type=tcp&headerType=none#Khodemoni-231624
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.156.92.136:22222?encryption=none&security=none&type=tcp#Khodemoni-231528
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.156.92.136:22222?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-231618
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.156.92.136:22222?encryption=none&type=tcp&headerType=none#Khodemoni-231971
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.156.92.136:22224?encryption=none&security=none&type=tcp&headerType=none#Khodemoni-231638
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.183.108.90:22223?encryption=none&security=none&type=tcp#Khodemoni-231501
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.156.92.136:22222?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-231618
-vless://Tel-HqV2rayNG-HqV2rayNG@hqhq.trmas-qo.ir:80?encryption=none&type=tcp&headerType=http&host=play.google.com#Khodemoni-230198
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.183.108.90:22222?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-231617
+vless://Tel-HqV2rayNG-HqV2rayNG@hqhq.trmas-qo.ir:80?encryption=none&type=tcp&headerType=http&host=play.google.com#Khodemoni-230198
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.156.92.136:22224?encryption=none&security=none&type=tcp#Khodemoni-231529
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.183.108.90:22224?encryption=none&security=none&type=tcp#Khodemoni-231510
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.156.92.136:22223?encryption=none&security=none&type=tcp&headerType=none#Khodemoni-231637
@@ -72,7 +72,6 @@ trojan://MITIVPN@151.101.56.7:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40
 vless://891710f4-45f3-41b1-99a6-6f1510f83c10@167.82.77.173:443?encryption=none&security=tls&sni=ssl.fastly.com&type=ws&host=pan21.global.ssl.fastly.net&path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed #Khodemoni-231377
 trojan://MiTiVPN@89.116.250.135:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DWIN-nl&security=tls&alpn=http%2F1.1&insecure=0&host=Wihn-Nlkl--ol.App-Cloud.Ir&fp=chrome&type=ws&allowInsecure=0&sni=Win-Nll--l.App-Cloud.Ir#Khodemoni-230214
 vless://84d2395c-d364-4763-825b-8724b51b0b9e@69.46.46.102:443?path=%2Fws%2F84d2395c-d364-4763-825b-8724b51b0b9e%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=vpn-m2s.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=vpn-m2s.up.railway.app#Khodemoni-230183
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@162.159.38.119:443?path=%2Frdfgtws%23TELEGRAM-YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy%3Fed%3D512&security=tls&encryption=none&host=vangoghhh.info&type=ws&sni=vangoghhh.info#Khodemoni-229118
 trojan://MITIVPN@162.159.38.119:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=WINde&security=tls&alpn=http/1.1&insecure=1&host=bvck-oizksj-sWin-De-C-o.Maqror.ir&fp=chrome&type=ws&allowInsecure=1&sni=Win-De-C-o.Maqror.ir#Khodemoni-227821
 vless://86fdb625-1a7f-4784-99a6-a96b3a80fc6d@140.248.180.30:443?path=%2Fvip1%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2082&security=tls&encryption=none&insecure=1&host=hamshahriesfahan.com&type=ws&allowInsecure=1&sni=speedtest.net#Khodemoni-216042
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=&encryption=none&headerType=http&type=tcp#Khodemoni-138495
