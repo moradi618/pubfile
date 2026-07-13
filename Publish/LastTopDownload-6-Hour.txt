@@ -8,7 +8,6 @@ vless://Join%2Ctelegram%3AX_RAY_VPN1@91.107.150.246:443?encryption=none&type=tcp
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.137.10:22222?encryption=none&amp;security=none&amp;type=tcp#Khodemoni-229261
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.28.107.75:22222?encryption=none&security=none&type=tcp#Khodemoni-228884
 vless://58556539-5e64-4864-8dba-c1c0f9acd1d2@portal.support.panel.console.admin.developer.iranvatanam.com:800?security=none&encryption=none&host=rubika.ir%2Cigap.net%2Csplus.ir%2Cskyroom.online&headerType=http&type=tcp#Khodemoni-229202
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.137.10:22222?encryption=none&security=none&type=tcp#Khodemoni-229059
 vless://973b0f5b-602b-4ab5-8411-ac7879b0e9d3@www.speedtest.net:8880?path=%2F%3Fed%3D2082&security=none&encryption=none&host=cccccCcdn7-pro.postshup.ir&type=httpupgrade#Khodemoni-229218
 vless://973b0f5b-602b-4ab5-8411-ac7879b0e9d3@cd3.postshup.ir:8880?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=httpupgrade&host=nnnnnnnn.postshup.ir&path=/?ed=2082#Khodemoni-229412
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTFhYmFlMTU2YjY0N2MxOGY0ZmMxNjlmZWI5NWQ0OA@m-iri.onlinevip1.ir:2095#Khodemoni-229117
