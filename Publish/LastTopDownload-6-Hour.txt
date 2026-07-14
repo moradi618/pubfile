@@ -1,6 +1,7 @@
 vless://6871b29e-bb51-4b6b-b2fa-6e2b98ad3859@46.62.240.221:80?security=none&encryption=none&host=khamenei.ir&headerType=http&type=tcp#Khodemoni-232252
 vless://1ad7a46f-0085-4443-9ee9-0c304cccae3f@103.25.85.176:21734?encryption=none&security=none&type=tcp&headerType=none#Khodemoni-233419
 vless://c7afc16a-6269-4821-8277-c0106f08ea72@forallpanel.srtongston.ir:8880?path=%2F%3Fed%3D2082&security=none&encryption=none&host=aaaaaaaaaaabb.postshup.ir&type=httpupgrade#Khodemoni-233665
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLMDJWUjVOVkNMOURUSmdkQWRvdzBqalFSUStSbWhCaHRKMTJneUh6eXhvPQ@e4.cover20.ir:16156?type=tcp#Khodemoni-234127
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&encryption=none&security=none#Khodemoni-145784
 vless://30968ce5-b309-45ed-8f0b-68e48aaf2fc9@latvia.mrapanel.shop:64584?encryption=none&security=none&type=tcp&headerType=none#Khodemoni-232333
 vless://a4140ffb-49da-45c3-91cc-2c97e6021cbf@45.80.111.1:8880?path=%2F%3Fed%3D2082&security=none&encryption=none&host=eitaa.com.postshup.ir&type=httpupgrade#Khodemoni-233667
