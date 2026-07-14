@@ -4,7 +4,6 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.156.92.136:22223?encryption=none
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.156.92.136:22222?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-231618
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.156.92.136:22222?encryption=none&amp;security=none&amp;type=tcp#Khodemoni-232240
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#Khodemoni-214896
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#Khodemoni-195822
 vless://a2292e36-fafb-6634-051d-1d99f45503c7@vajm5bz324c3.vtret.com:8379?mode=packet-up&path=/phpMyAdmin?q=&security=reality&encryption=none&extra={"scMaxBufferedPosts":30,"scMaxEachPostBytes":"10000000","xPaddingBytes":"100-1000"}&pbk=qIRHacDVKAuyQJrOJMSpwYyKhw-5KwvOX0W3d-TiB3w&host=google.com&fp=chrome&type=xhttp&sni=play.google.com&sid=07529200e1fe#Khodemoni-226627
 vless://b97e287f-a24e-4028-a103-7e7ecef83139@5.253.66.31:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.amd.com&fp=firefox&security=reality&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=e1f8a3b6#Khodemoni-147782
 trojan://itX52H4tiA@151.101.34.144:443?type=xhttp&mode=packet-up&host=networkzvx.global.ssl.fastly.net&path=%2Fda&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=global.fastly.com#Khodemoni-225186
