@@ -1,6 +1,5 @@
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.46.17:22223?encryption=none&security=none&type=tcp#Khodemoni-234967
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.143.26:22222?encryption=none&security=none&type=tcp#Khodemoni-235054
-vless://645b66cc-d007-41bd-a01c-83869e395f2b@95.217.16.41:4431?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-234362
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.46.17:22222?encryption=none&security=none&type=tcp#Khodemoni-234971
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.143.26:22224?encryption=none&security=none&type=tcp#Khodemoni-235053
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnVXdKMVpUZktIQlZKblVR@168.63.58.89:443#Khodemoni-234396
@@ -23,8 +22,8 @@ trojan://MiTiVPN@89.116.250.135:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%
 vless://7e07dd97-784e-4d6a-99c6-acaea4708d88@146.75.119.82:80?type=ws&encryption=none&path=ws/?ed=2048/@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz/?2048&host=rb24.ir&security=none#Khodemoni-235258
 trojan://MiTiVPN@104.17.122.62:443?security=tls&type=ws&sni=fl-o--7-fllav.MaQror.IR&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=FL-44&host=f--ls-Fvl.MaQror.IR#Khodemoni-229169
 vless://86fdb625-1a7f-4784-99a6-a96b3a80fc6d@140.248.180.30:443?allowInsecure=1&encryption=none&host=hamshahriesfahan.com&path=%2Fvip1&security=tls&sni=speedtest.net&type=ws#Khodemoni-204626
-vless://03fcc618-b93d-6796-6aed-8a38c975d581@45.80.215.68:443?allowInsecure=1&insecure=1&type=tcp&security=tls&host=45.80.215.68#Khodemoni-115196
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxd1ZjVzVVdXR5VjMxTlgxeHozSXg4Z0N4SWgvc3NyVHpRT2Q1dzFPemhzPQ@e4.cover20.ir:16156?type=tcp#Khodemoni-235083
+vless://03fcc618-b93d-6796-6aed-8a38c975d581@45.80.215.68:443?allowInsecure=1&insecure=1&type=tcp&security=tls&host=45.80.215.68#Khodemoni-115196
 vless://6f6c0ab3-3484-4856-a13c-0a826a30ed53@204.168.220.38:54400?security=reality&type=tcp&headerType=&path=&host=&sni=login.yahoo.com&fp=firefox&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&sid=c6e19c434dc87df7&spx=/#Khodemoni-233719
 vless://6f6c0ab3-3484-4856-a13c-0a826a30ed53@62.238.47.26:54020?security=reality&type=tcp&headerType=&path=&host=&sni=login.yahoo.com&fp=firefox&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&sid=c6e19c434dc87df7&spx=/#Khodemoni-233722
 trojan://MITIVPN@104.17.148.22:8443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=D-E-e&host=jDe1-2v-3.MaQror.IR&sni=de-j7o-doo.MaQror.IR&alpn=h2,http/1.1&fp=chrome&insecure=1&allowInsecure=1#Khodemoni-231188
