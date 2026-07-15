@@ -6,11 +6,11 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.217.132:22223?encryption=non
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.217.132:22222?encryption=none&security=none&type=tcp#Khodemoni-239973
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.217.132:22224?encryption=none&security=none&type=tcp#Khodemoni-239971
 vless://1008a30d-4e23-485a-8981-fd1f103b7d11@104.171.135.184:42672?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-239009
-vless://e5068f2f-e802-4240-a17a-24aad292ea39@panel.podcastico.ir:8529?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-238973
 vless://01bd15c8-835f-4210-a730-770a0fa505f6@90.156.218.64:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.ru&fp=chrome&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&type=tcp&headerType=none#Khodemoni-239335
 vless://01bd15c8-835f-4210-a730-770a0fa505f6@90.156.218.64:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.ru&fp=firefox&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&type=tcp&headerType=none#Khodemoni-239270
 vless://ee31231d-ae7c-4fc1-a21e-35427ce94e7d@90.156.218.64:443?security=reality&encryption=none&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.ru#Khodemoni-239470
 vless://ee31231d-ae7c-4fc1-a21e-35427ce94e7d@90.156.218.132:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=eh.vk.ru&fp=firefox&security=reality&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&sid=#Khodemoni-239478
+vless://e5068f2f-e802-4240-a17a-24aad292ea39@panel.podcastico.ir:8529?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-238973
 vless://4392b776-41a2-4300-b545-a3d2724b605b@51.250.41.199:443?security=reality&encryption=none&pbk=KYNrRy0ElOU9Hg5tmWRwpf-Ff3R8Gjcjdk91jZt2nGg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdn.tracker.yandex.net&sid=bb6c8a1e7c#Khodemoni-238321
 vless://1f897d22-9b1f-0024-93f4-e4bf1cfc0b28@84.38.187.134:443?encryption=none&security=reality&sni=git.xpkg.ru&fp=chrome&pbk=QSAIpsE696lDqkumfo7dyBt92XzrVDPTF6KogbeKhGc&sid=2c9431dc7a306018&type=xhttp&path=/repository#Khodemoni-239129
 vless://522e84a6-2f0b-4109-901d-dbf05b60ce59@90.156.218.132:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=eh.vk.ru&fp=chrome&security=reality&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&sid=#Khodemoni-239344
