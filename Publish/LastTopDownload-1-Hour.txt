@@ -2,7 +2,6 @@ vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=&
 vless://73ae7d45-1046-4cc5-9741-199375b620f1@104.16.100.66:8880?encryption=none&security=none&type=ws&host=round-resonance-a84c.13-531.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net #Khodemoni-173302
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?encryption=none&type=tcp&headerType=http#Khodemoni-138885
 vless://86442a2b-417d-426d-9b42-955573b5c6e4@172.67.215.44:8080?encryption=none&security=none&type=ws&host=ez-bfa272.ezaccess1d90628.workers.dev&path=/eyJqdW5rIjoib3pRN25jT0luN055OEV1QSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjg5LjE2OS4zNC45OSJdfQ==?ed=2560 #Khodemoni-146510
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#Khodemoni-195822
 vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?security=tls&encryption=none&insecure=1&host=%2F%3F&headerType=none&type=tcp&allowInsecure=1&sni=186.190.211.188#Khodemoni-171641
 vless://a2026d00-e63e-46ed-b584-31dfcb34885b@3d5g2.pastilbastani.ir:443?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#Khodemoni-241575
 vless://05e7abc2-46e1-4a23-9cdc-173ce17eb0d4@www.iplocation.net:8880?security=none&type=ws&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&host=round-term-947c.41-332.workers.dev&packetEncoding=xudp#Khodemoni-241058
