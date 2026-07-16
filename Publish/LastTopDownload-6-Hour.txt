@@ -46,6 +46,7 @@ vless://857d4f3b-52e9-4ca9-9838-15dc0b67f51e@104.25.247.6:443?type=xhttp&host=az
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0VlI3c1VTV0kwNmVWN0dzdy1BOXh3@speed.giftcardbazarbot.com:8243?type=tcp#Khodemoni-241770
 vless://86fdb625-1a7f-4784-99a6-a96b3a80fc6d@140.248.180.30:443?path=%2Fvip1%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2082&security=tls&encryption=none&insecure=1&host=hamshahriesfahan.com&type=ws&allowInsecure=1&sni=speedtest.net#Khodemoni-216042
 vless://468ad79f-d66a-47eb-874b-b88cd1bb76e3@81.31.211.109:2085?security=&encryption=none&type=grpc&serviceName=vless#Khodemoni-242514
+vless://aa28b265-baff-42e4-927e-7a8dee0ef623@appforgehub.org:8443?type=grpc&security=tls&fp=chrome&sni=appforgehub.org&mode=gun&serviceName=grpc#Khodemoni-242887
 vless://f3720808-2ea6-438c-a7f1-e75f0c2d8dfb@relay.oneoneok.com:443?type=grpc&headerType=none&security=reality&encryption=none&sni=relay.oneoneok.com&fp=firefox&pbk=Bo6VOZzJ5Z9w328L1F1sQzlzLNbiIpuWbV021xPltxE&sid=cd40e7dbd53a28ce&serviceName=api.v1.StreamService#Khodemoni-242502
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.183.55:22223?encryption=none&security=none&type=tcp&headerType=none#Khodemoni-242493
 vless://d4adb2fd-29ee-4c82-9d16-72224b904358@ger6.fastcodz.ir:52077?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=9TjYilelwbIgUs6du2chsTvUyv_TemHoAJuVbsdYRUY&sid=c1fcab160b4c8bed&type=grpc#Khodemoni-242476
