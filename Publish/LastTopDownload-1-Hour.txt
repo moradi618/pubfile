@@ -1,5 +1,4 @@
 vless://d8b42cd5-a149-4356-9e61-000000000000@85.222.198.181:2550?security=&encryption=none&headerType=none&type=tcp#Khodemoni-240862
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.249.140:22222?encryption=none&amp;security=none&amp;type=tcp#Khodemoni-239958
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.194.133.160:22224?security=&encryption=none&headerType=none&type=tcp#Khodemoni-240864
 vless://ebdf87e8-4f75-4b84-94e0-65ce4894993a@168.222.143.254:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=3_Qy1SAtWfbiQbznyhlXxJtqB-5QQ46VF1Uz2h5A7Q4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=st.avito.ru&sid=2dc17935#Khodemoni-236150
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZzdJeWdWK25uTTE0c2VScUlYVDRsTjd3SitoS2NTTGRxZ0VRcGNPcTRnPQ@e2.cover20.ir:30874#Khodemoni-240824
@@ -15,5 +14,6 @@ vless://cebf31b3-a467-4b84-9dce-62bed1c26719@81.31.211.108:2085?mode=gun&securit
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.csgo.net:2095?encryption=none&type=ws&fp=randomized&path=%252F&host=cnmfangbinxing.cnmfangbinxing-o.workers.dev#Khodemoni-237714
 vless://c8b5f6c9-83ff-4ca1-be9c-f997a5b2f692@5.253.66.203:443?security=reality&encryption=none&pbk=PDBVcDR6o01XUpdNNZ6rutJ_DBqnF7VcDuWceHIpyE8&headerType=&type=tcp&flow=xtls-rprx-vision&sni=cdn-up.perecbass.ru&sid=8c4d9e1f#Khodemoni-240867
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.csgo.net:2095?security=none&type=ws&path=%2F&host=cnm-fangbinxing-nmsl.fangbinxing-wcnm.workers.dev&allowInsecure=1&fp=randomized#Khodemoni-144600
+vless://f19bbfdc-0d46-4b32-8b92-82ecd47da2c9@nova-orbit-spark-b52f.nova-b339f7.workers.dev:443?path=%2F&security=tls&encryption=none&insecure=0&host=nova-orbit-spark-b52f.nova-b339f7.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-orbit-spark-b52f.nova-b339f7.workers.dev#Khodemoni-225384
 vless://6f863118-5880-4356-b3d1-8c6ee5e31e32@45.150.39.81:443?type=grpc&encryption=none&serviceName=intel.com&security=reality&sni=intel.com&fp=chrome&pbk=qsGRVznUjYZIDS8hyMCMS9YCpRFugys-dbpXhR3jVjQ&sid=712d&spx=%2Fru#Khodemoni-237461
 vless://%40V2ConfigPro@love.ns.cloudflare.com:8443?mode=auto&path=%2F&security=tls&encryption=mlkem768x25519plus.native.0rtt.BBBQ6KZyjiYmpp2ErhKd0OwCBOm4J6_McyVQdB5yhBI&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=vamosargentina.dpdns.org&fp=chrome&type=xhttp&allowInsecure=0&sni=vamosargentina.dpdns.org#Khodemoni-240865
