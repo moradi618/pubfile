@@ -8,6 +8,7 @@ vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?encryption
 vless://3f646f4d-b96e-4ba4-b562-0fd4854391a8@a.bazardam.shop:8080?security=none&encryption=none&headerType=http&type=tcp#Khodemoni-241048
 vless://8c56b4af-4762-4299-a1f8-799790dbaac7@104.21.88.129:8880?security=none&type=ws&host=lively-lab-4fd2.150-6f7.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#Khodemoni-218818
 vless://fba6d1fd-0dab-428d-ae71-0e64c73a6060@104.21.12.116:8880?encryption=none&security=none&type=ws&host=morning-wood-0e8a.28-63e.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net #Khodemoni-146587
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=&encryption=none&headerType=http&type=tcp#Khodemoni-138495
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.142.120.40:8880?encryption=none&security=none&type=ws&host=vms.lifetime08.workers.dev&path=%2F#Khodemoni-088991
 vless://3d244afc-60ef-468a-9b19-f4bbad7e8ef1@81.31.211.112:2085?type=grpc&headerType=none&security=none&encryption=none&serviceName=vless#Khodemoni-240968
 ss://YWVzLTI1Ni1nY206Wm1JNE1XWmlNREJtTWpSbVpHRXpZV013TVRVMk16TTBZVGN3TURSbQ@95.38.186.235:9114?prefix=%16%03%01%00%C2%A8%01%01#Khodemoni-241230
