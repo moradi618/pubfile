@@ -8,7 +8,6 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.144.101:22222?security=&encry
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.194.165.203:22224?encryption=none&security=none&type=tcp&headerType=none#Khodemoni-243202
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.183.55:22222?encryption=none&security=none&type=tcp#Khodemoni-241687
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.144.101:22223?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-241794
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.144.101:22223?encryption=none&security=none&type=tcp#Khodemoni-241741
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.183.55:22223?encryption=none&security=none&type=tcp#Khodemoni-241688
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.183.55:22222?encryption=none&amp;security=none&amp;type=tcp#Khodemoni-242545
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.29.73.217:22223?encryption=none&security=none&type=tcp#Khodemoni-241655
