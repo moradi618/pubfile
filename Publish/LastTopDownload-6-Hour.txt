@@ -31,14 +31,11 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZzdJeWdWK25uTTE0c2VScUlYVDRsTjd3SitoS2NTTGR
 vless://1073a3f2-dc7c-46fb-aa7c-4378d4b27785@asl3.feeliran.org:449?type=tcp&security=tls#Khodemoni-239535
 vless://5fbee2a0-7ca4-46a8-aac7-9f26a1f2cb3c@81.31.211.110:2085?encryption=none&security=none&type=grpc&authority=&serviceName=vless&mode=gun#Khodemoni-240205
 vless://3d244afc-60ef-468a-9b19-f4bbad7e8ef1@81.31.211.112:2085?type=grpc&headerType=none&security=none&encryption=none&serviceName=vless#Khodemoni-240968
-ss://YWVzLTI1Ni1nY206Wm1JNE1XWmlNREJtTWpSbVpHRXpZV013TVRVMk16TTBZVGN3TURSbQ@95.38.186.235:9114?prefix=%16%03%01%00%C2%A8%01%01#Khodemoni-241230
 vless://d4d2de4b-2aa0-4a49-8c59-05d83d72af93@81.31.211.108:2085?encryption=none&security=none&serviceName=vless&type=grpc#Khodemoni-241251
+ss://YWVzLTI1Ni1nY206Wm1JNE1XWmlNREJtTWpSbVpHRXpZV013TVRVMk16TTBZVGN3TURSbQ@95.38.186.235:9114?prefix=%16%03%01%00%C2%A8%01%01#Khodemoni-241230
 vless://cebf31b3-a467-4b84-9dce-62bed1c26719@81.31.211.108:2085?mode=gun&security=&encryption=none&type=grpc&serviceName=vless#Khodemoni-240861
-vless://d4d2de4b-2aa0-4a49-8c59-05d83d72af93@45.86.159.141:2085?mode=gun&security=&encryption=none&type=grpc&serviceName=vless#Khodemoni-240859
 vless://3d244afc-60ef-468a-9b19-f4bbad7e8ef1@81.31.211.111:2085?security=&encryption=none&type=grpc&serviceName=vless#Khodemoni-240295
 vless://cebf31b3-a467-4b84-9dce-62bed1c26719@81.31.211.108:2085?encryption=none&security=none&type=grpc&authority=&serviceName=vless&mode=gun#Khodemoni-240204
-vless://3067642d-02fa-47e9-a6a2-fb5dda565969@81.31.211.110:2085?type=grpc&security=none&fp=firefox&serviceName=vless#Khodemoni-239540
 vless://bb5b4296-e7fa-42f9-9f65-64306413e00a@62.60.156.35:8081?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&flow=xtls-rprx-vision&encryption=mlkem768x25519plus.native.0rtt.w0d5QDh2kFXtrCcljpe6uvJfI7FKPavrpo1OLIJEnAE&security=none&type=tcp&headerType=none#Khodemoni-239366
 vless://3d244afc-60ef-468a-9b19-f4bbad7e8ef1@81.31.211.112:2085?type=grpc&security=none&serviceName=vless&mode=gun&encryption=none#Khodemoni-237451
-vless://428e923f-e608-412b-9e51-3b09ffab551f@31.77.111.11:43439?flow=&type=grpc&mode=gun&serviceName=streaming&security=reality&fp=firefox&sni=cdn.higames.ru&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=39ad36226f3abec8#Khodemoni-232838
 vless://3b4529e8-9c14-4541-8388-fe90d737baeb@0b889c24f5229843.mechanicir.ir:56625?encryption=none&security=reality&type=grpc&headerType=none&mode=gun&sni=icloud.com&fp=firefox&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&sid=2716d84d89b5eadc#Khodemoni-230750
