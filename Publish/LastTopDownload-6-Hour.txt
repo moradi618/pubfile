@@ -18,6 +18,7 @@ vless://1008a30d-4e23-485a-8981-fd1f103b7d11@104.171.135.184:42672?security=&enc
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZd01LWHVyNUF1aDgyNmFZU1VEV2l0ZmpPblM1U0tZODNEWXNJb3dCR2xVPQ@e1.cover20.ir:51570?type=tcp#Khodemoni-235498
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.249.140:22223?encryption=none&security=none&type=tcp#Khodemoni-239460
 vless://4392b776-41a2-4300-b545-a3d2724b605b@51.250.41.199:443?encryption=none&type=tcp&security=reality&headerType=none&sni=cdn.tracker.yandex.net&fp=chrome&insecure=1&allowInsecure=1&pbk=KYNrRy0ElOU9Hg5tmWRwpf-Ff3R8Gjcjdk91jZt2nGg&sid=bb6c8a1e7c&flow=xtls-rprx-vision#Khodemoni-240006
+vless://1073a3f2-dc7c-46fb-aa7c-4378d4b27785@asl3.feeliran.org:449?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&type=tcp#Khodemoni-240881
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.217.132:22222?security=&encryption=none&headerType=&type=tcp#Khodemoni-240080
 vless://4392b776-41a2-4300-b545-a3d2724b605b@51.250.41.199:443?security=reality&encryption=none&pbk=KYNrRy0ElOU9Hg5tmWRwpf-Ff3R8Gjcjdk91jZt2nGg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdn.tracker.yandex.net&sid=bb6c8a1e7c#Khodemoni-238321
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZzdJeWdWK25uTTE0c2VScUlYVDRsTjd3SitoS2NTTGRxZ0VRcGNPcTRnPQ@e2.cover20.ir:30874#Khodemoni-240824
@@ -45,6 +46,7 @@ vless://d4d2de4b-2aa0-4a49-8c59-05d83d72af93@45.86.159.141:2085?type=grpc&securi
 vless://d4d2de4b-2aa0-4a49-8c59-05d83d72af93@81.31.211.108:2085?type=grpc&security=none&serviceName=vless&mode=gun&encryption=none#Khodemoni-238693
 vless://cebf31b3-a467-4b84-9dce-62bed1c26719@81.31.211.111:2085?encryption=none&security=none&serviceName=vless&type=grpc#Khodemoni-238360
 vless://cebf31b3-a467-4b84-9dce-62bed1c26719@81.31.211.113:2085?encryption=none&security=none&serviceName=vless&type=grpc#Khodemoni-238352
+trojan://Mehdi1234@172.64.144.251:2083/?type=ws&host=purple-recipe-5e30.cimavo4626.workers.dev&path=%2F%3Fed%3D2560&security=tls&sni=purple-recipe-5e30.cimavo4626.workers.dev&allowInsecure=1&fp=chrome#Khodemoni-199685
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZzdJeWdWK25uTTE0c2VScUlYVDRsTjd3SitoS2NTTGRxZ0VRcGNPcTRnPQ@e2.cover20.ir:30874?type=tcp#Khodemoni-234533
 vless://428e923f-e608-412b-9e51-3b09ffab551f@31.77.111.11:43439?flow=&type=grpc&mode=gun&serviceName=streaming&security=reality&fp=firefox&sni=cdn.higames.ru&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=39ad36226f3abec8#Khodemoni-232838
 vless://3b4529e8-9c14-4541-8388-fe90d737baeb@0b889c24f5229843.mechanicir.ir:56625?mode=gun&security=reality&encryption=none&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&fp=chrome&type=grpc&sni=icloud.com&sid=2716d84d89b5eadc#Khodemoni-230936
