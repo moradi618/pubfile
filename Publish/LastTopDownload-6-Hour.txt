@@ -23,7 +23,6 @@ vless://ecad47b0-249e-4f6f-adff-e3c8f02b1897@185.231.101.88:443?encryption=none&
 vless://2545d92f-290c-4903-b5f5-547896f08b70@cd3.postshup.ir:8880?path=%2F%3Fed%3D2082&security=none&encryption=none&host=nnnnnnnnbbb.postshup.ir&type=httpupgrade#Khodemoni-241763
 vless://ecad47b0-249e-4f6f-adff-e3c8f02b1897@185.231.101.88:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&security=reality&sid=43dcff53849b81e6&sni=se.quattro-tech.ru&type=tcp#Khodemoni-241408
 vless://468ad79f-d66a-47eb-874b-b88cd1bb76e3@81.31.211.109:2085?type=grpc&security=none&serviceName=vless&mode=gun&encryption=none#Khodemoni-240542
-vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@89.124.89.102:8090?type=ws&security=none&encryption=none&path=%2Fws&host=rukr.speedload.ru#Khodemoni-237589
 vless://92f3873f-78a4-4f08-adb2-825ca7f34a9a@151.101.56.7:443?security=tls&type=xhttp&path=%2Fda&host=networkzvx.global.ssl.fastly.net&packetEncoding=xudp&alpn=-%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN&sni=ssl.fastly.com&fp=chrome&mode=packet-up#Khodemoni-242159
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=&alpn=http%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp#Khodemoni-240178
 vless://ecad47b0-249e-4f6f-adff-e3c8f02b1897@89.105.212.138:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nl.quattro-tech.ru&alpn=http/1.1&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&packetEncoding=xudp#Khodemoni-241418
@@ -58,6 +57,7 @@ vless://d2d72499-5ccf-5b7b-a17d-4cbf703112ee@pristytools.com.pristytools.com:888
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.125.5.177:22222?encryption=none&security=none&type=tcp#Khodemoni-241512
 vless://e6b8004d-2b34-487a-9cd2-d080c4eecf5d@45.86.159.140:2085?type=grpc&security=none&serviceName=vless&mode=gun&encryption=none#Khodemoni-241428
 vless://881cbd87-6cc3-41f9-9d4c-303fa2f8deab@est-def.applepie-recipe.ru:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&sni=shopper.applepie-recipe.ru&fp=firefox&allowInsecure=0#Khodemoni-240528
+vless://6fa9f6ae-877b-4858-b128-a8377fd9038b@fin.themesh.site:443?type=tcp&headerType=none&security=reality&encryption=none&sni=fin.themesh.site&fp=qq&pbk=yocysajpuAGT059wla3OHEQZ8yNQt8heojZuYM2MkSY&sid=8ccda4d8bbe0b881&flow=xtls-rprx-vision#Khodemoni-239527
 vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@195.63.137.251:8090?type=ws&security=none&encryption=none&path=%2Fws&host=rukr.speedload.ru#Khodemoni-237586
 trojan://MiTiVPN@104.16.72.2:2083?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=nll-l&security=tls&alpn=h2,http/1.1&insecure=1&host=9282-272-2774-8.MaqRoR.iR&fp=chrome&type=ws&allowInsecure=1&sni=8162-272-282-9.MaqRoR.iR#Khodemoni-236852
 trojan://MiTiVPN@104.16.72.2:2083?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=nll-l&security=tls&alpn=h2,http/1.1&host=9282-272-2774-8.MaqRoR.iR&fp=chrome&type=ws&sni=8162-272-282-9.MaqRoR.iR#Khodemoni-236851
