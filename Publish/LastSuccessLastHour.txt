@@ -182,8 +182,8 @@ vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@173.245.58.75:443?path=%2Frdfgtws&s
 trojan://humanity@172.64.146.163:443?path=%2Fassignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.gossipglove.com#Khodemoni-095407
 trojan://humanity@104.18.32.47:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#Khodemoni-108472
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.wto.org:2095?encryption=none&host=cnmfangbinxing.cnmfangbinxing-f.workers.dev&path=%2F&security=none&type=ws#Khodemoni-108874
-trojan://humanity@104.16.89.120:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#Khodemoni-095485
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@173.245.58.75:443?path=%2Frsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&fp=chrome&type=ws&allowInsecure=0&sni=shegeftihaaa.net#Khodemoni-095084
+trojan://humanity@104.16.89.120:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#Khodemoni-095485
 vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@173.245.58.75:443?path=%2Fjdhfyws&security=tls&encryption=none&insecure=0&host=amooaliii.net&fp=chrome&type=ws&allowInsecure=0&sni=amooaliii.net#Khodemoni-095226
 trojan://humanity@chatgpt.com:443/?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com#Khodemoni-109074
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@173.245.58.75:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&fp=chrome&type=ws&allowInsecure=0&sni=vangoghhh.info#Khodemoni-095219
