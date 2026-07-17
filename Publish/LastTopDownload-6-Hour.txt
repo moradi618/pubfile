@@ -7,7 +7,6 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.124.219.212:22223?encryption=none
 vless://1c799205-5251-4fb2-8167-56d3e895c8c5@45.63.117.27:53776?encryption=none&security=none&type=tcp&headerType=none#Khodemoni-246985
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.56.66:22224?encryption=none&security=none&type=tcp#Khodemoni-247551
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.176.9:22223?encryption=none&security=none&type=tcp&headerType=none#Khodemoni-246581
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.176.9:22223?security=&type=tcp&encryption=none#Khodemoni-246839
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.124.219.212:22222?encryption=none&security=none&type=tcp#Khodemoni-246726
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.124.199.242:22223?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-247209
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.123.79:22224?encryption=none&security=none&type=tcp&headerType=none#Khodemoni-247666
@@ -16,6 +15,7 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.124.199.242:22222?encryption=none
 vless://4d2b9de1-8be0-4434-9900-91eccb8422fa@151.101.56.7:443?encryption=none&type=xhttp&mode=packet-up&host=networkzvx.global.ssl.fastly.net&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=ssl.fastly.com#Khodemoni-248218
 vless://ecad47b0-249e-4f6f-adff-e3c8f02b1897@185.231.101.88:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=se.quattro-tech.ru&alpn=http/1.1&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&packetEncoding=xudp#Khodemoni-241409
 vless://ecad47b0-249e-4f6f-adff-e3c8f02b1897@89.105.204.107:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nl.quattro-tech.ru&alpn=http/1.1&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&packetEncoding=xudp#Khodemoni-245163
+vless://0fccbf30-7e79-455b-a756-548f9ba43ec2@media1.hexogate.net:443?security=reality&encryption=none&pbk=MMe0uBnEJrn2lbaXx92GrNxIbQ7Cv9ICH53k3lRgHzg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=c83a7fdba5f630f8#Khodemoni-248224
 vless://0fccbf30-7e79-455b-a756-548f9ba43ec2@edge12.westorstentor.ir:8880?path=/?ed=2082&security=none&encryption=none&host=3f9b72d0e61a48c5-ch2.darzelo.ir&type=httpupgrade#Khodemoni-247872
 vless://4d2b9de1-8be0-4434-9900-91eccb8422fa@199.232.206.245:443?type=xhttp&alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&security=tls&path=/&host=networkzvx.global.ssl.fastly.net&mode=packet-up&sni=ssl.fastly.com&alpn=h2,http/1.1&fp=firefox&insecure=0&allowInsecure=0#Khodemoni-248087
 vless://9e4e5d64-11a3-48bc-8622-1d39bd1c2573@app.he-happ.com:443?mode=gun&security=reality&encryption=none&pbk=0DJvjVOtuyfSDnioOJJzHKMsYGgUD95Sw153xEJrBgo&fp=firefox&type=grpc&serviceName=cloud.v2.RelayService&sni=app.he-happ.com&sid=db8389179a5852d4#Khodemoni-248089
