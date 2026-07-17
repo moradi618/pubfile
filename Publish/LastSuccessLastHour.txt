@@ -484,8 +484,8 @@ vless://c0f081af-7d91-4c68-84ac-4a36e0034633@chatgpt.com:443?path=/eyJqdW5rIjoiY
 vless://48b1d8af-1720-4462-a0ec-de493331ceb3@www.gov.ua:8880?type=ws&encryption=none&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&host=square-mountain-1d69.356-977.workers.dev&fp=chrome&alpn=http%2F1.1&headerType=none#Khodemoni-238849
 vless://52fb52b1-82de-4c6f-b7d3-599ce5d57f1c@104.18.188.234:8880?type=ws&host=damp-disk-1ae9.138-c4c.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#Khodemoni-235675
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@blog.cloudflare.com:2095?encryption=none&type=ws&path=%2F&host=cnmfangbinxingnmsl.cnmfangbinxing-h.workers.dev#Khodemoni-236224
-vless://11046a7c-fa1b-4653-ab87-400feb465540@172.67.161.104:8880?path=%2F&security=&encryption=none&host=nameless-poetry-12fb.8-0a2.workers.dev&type=ws#Khodemoni-241622
 vless://11e9eea1-b1a9-4f02-a1a1-b24f7664b1cf@188.114.98.0:443?encryption=none&type=ws&host=ancient-heart-60c5.dpccgizieb.workers.dev&path=%2FeyJqdW5rIjoiYW1sczlYWkFHOCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0&security=tls&sni=ancIEnt-HeaRt-60c5.dPccgIzieB.WoRKers.dEV#Khodemoni-235654
+vless://11046a7c-fa1b-4653-ab87-400feb465540@172.67.161.104:8880?path=%2F&security=&encryption=none&host=nameless-poetry-12fb.8-0a2.workers.dev&type=ws#Khodemoni-241622
 vless://aa7461af-3176-42a3-8974-59930189c521@icook.tw:8880?&security=none&type=ws&headerType=&host=round-block-e864.326.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#Khodemoni-241474
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@195.85.59.187:2095?type=ws&security=none&fp=firefox&path=/&host=cnmfangbinxingnmsl.cnm--fangbinxing.workers.dev#Khodemoni-241449
 vless://68d3fcbe-f025-2710-82d6-9455c5e5f6b5@212.233.78.246:8443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=secget.ru&pbk=vV3mxSgZ-8x3Gp373AXdMDM3FAdmLP0v5zIfI486SDI&sid=f8a8ee8381529673#Khodemoni-244477
