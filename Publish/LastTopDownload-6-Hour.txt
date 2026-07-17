@@ -2,7 +2,6 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.123.16:22223?encryption=none
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443#Khodemoni-244500
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.123.16:22223?security=&encryption=none&headerType=&type=tcp#Khodemoni-243309
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.123.16:22224?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-243333
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.123.16:22224?security=&encryption=none&headerType=&type=tcp#Khodemoni-243307
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.228:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#Khodemoni-244290
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.123.16:22224?encryption=none&security=none&type=tcp#Khodemoni-243278
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.228:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&security=reality&sid=c6ef72e4635d15a5&sni=storage.yandex.net&type=tcp#Khodemoni-242914
