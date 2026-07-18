@@ -1,5 +1,6 @@
 vless://3f646f4d-b96e-4ba4-b562-0fd4854391a8@c.bazardam.shop:8080?security=none&encryption=none&headerType=http&type=tcp#Khodemoni-241047
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443#Khodemoni-244500
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.56.66:22224?security=&encryption=none&headerType=none&type=tcp#Khodemoni-249463
 ss://YWVzLTI1Ni1nY206TXpGaU16VTVZek5sWmpRMk9UazBPVE16WTJZeU1UaGtaRFV5TURnMw@37.32.10.251:11104#Khodemoni-248810
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.56.66:22222?encryption=none&amp;security=none&amp;type=tcp#Khodemoni-247780
 vless://14b62416-547e-49c1-818a-510218ab101e@w9kbq.pastilbastani.ir:443?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#Khodemoni-248265
