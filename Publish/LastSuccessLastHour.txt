@@ -1,6 +1,6 @@
 trojan://KV63147582@3.76.41.23:443?fp=chrome&sni=evolving-baboon.rooster465.autos#Khodemoni-249442
-vless://f040b49a-14d3-4b83-af82-1f84ec7317c2@147.45.136.213:40443?security=reality&encryption=none&pbk=1XGOxBopp223HFaTlswL3QE_1KW3WLgEbcHMA5cX9iM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=80ba#Khodemoni-251796
 vless://a38a2076-c2bf-4786-b39d-618e669e12ce@91.107.179.104:20674?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-251791
+vless://f040b49a-14d3-4b83-af82-1f84ec7317c2@147.45.136.213:40443?security=reality&encryption=none&pbk=1XGOxBopp223HFaTlswL3QE_1KW3WLgEbcHMA5cX9iM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=80ba#Khodemoni-251796
 vless://2e8dd587-3540-4066-8e19-b266043e096f@8.208.25.123:10002?security=reality&flow=xtls-rprx-vision&sni=www.apple.com&type=tcp&fp=chrome&pbk=G90QHqX9hS3dcSfGKSZtxfjW_eFiaIeEMzw3BKIzwkg&sid=8a430229#Khodemoni-251797
 vless://5801ba00-9e71-45ea-b188-ddfefa20564e@frs00.pastilbastani.ir:443?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-251799
 vless://f4e91fac-25eb-4d26-a14c-c82c3778a0e4@91.193.59.95:80?type=ws&security=none&encryption=none&fp=chrome&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=s5gydl.936.us.ci#Khodemoni-251794
