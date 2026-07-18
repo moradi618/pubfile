@@ -1,5 +1,4 @@
 vless://03a8e966-a884-4eec-b433-c9c0b91c53a2@media2.hexogate.net:80?security=none&encryption=none&host=account.xiaomi.com&headerType=http&type=tcp#Khodemoni-252764
-vless://7509bdfe-d544-44a6-b576-b7413417840e@46.101.130.5:440?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-251725
 vless://7509bdfe-d544-44a6-b576-b7413417840e@46.101.170.86:440?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-251724
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.95.89:22223?encryption=none&security=none&type=tcp#Khodemoni-250561
 vless://15edff4c-ac2b-41c4-9a73-24c2723d49cd@46.101.146.187:50424?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-251729
