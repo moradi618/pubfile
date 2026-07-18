@@ -1,9 +1,9 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.56.66:22223?encryption=none&security=none&type=tcp#Khodemoni-247552
 vless://3f646f4d-b96e-4ba4-b562-0fd4854391a8@c.bazardam.shop:8080?security=none&encryption=none&headerType=http&type=tcp#Khodemoni-241047
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443#Khodemoni-244500
 ss://YWVzLTI1Ni1nY206TXpGaU16VTVZek5sWmpRMk9UazBPVE16WTJZeU1UaGtaRFV5TURnMw@37.32.10.251:11104#Khodemoni-248810
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.123.79:22222?encryption=none&amp;security=none&amp;type=tcp#Khodemoni-247581
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.56.66:22222?encryption=none&amp;security=none&amp;type=tcp#Khodemoni-247780
+vless://14b62416-547e-49c1-818a-510218ab101e@w9kbq.pastilbastani.ir:443?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#Khodemoni-248265
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.20.208:443#Khodemoni-248352
 vless://4f5a379d-45e5-49e3-9f0e-d1303ddc9628@sv3.nonpath.ir:42542?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#Khodemoni-248794
 vless://4f5a379d-45e5-49e3-9f0e-d1303ddc9628@sv3.nonpath.ir:42542?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-248748
@@ -27,6 +27,7 @@ vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@gateway.onetimeok.com:443?mode=gun&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzYXJiYXphbnNoYWhpZA==@178.128.195.253:10070#Khodemoni-243303
 trojan://MITIVPN@188.114.97.6:8443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=d--ee&security=tls&alpn=h2,http/1.1&insecure=1&host=De1-uv-3.aPp-cLoud.IR&fp=chrome&type=ws&allowInsecure=1&sni=de-o-po.aPp-cLoud.IR#Khodemoni-242314
 trojan://Mehdi1234@172.64.144.251:2083?path=/&security=tls&insecure=0&host=purple-recipe-5e30.cimavo4626.workers.dev&type=ws&allowInsecure=0&sni=purple-recipe-5e30.cimavo4626.workers.dev#Khodemoni-233807
+trojan://Mehdi1234@172.64.144.251:2083?security=tls&sni=purple-recipe-5e30.cimavo4626.workers.dev&type=ws&host=purple-recipe-5e30.cimavo4626.workers.dev&path=%2F%3Fed%3D2560#Khodemoni-228399
 vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@fetch.anotherok.com:443?encryption=none&security=reality&sni=fetch.anotherok.com&fp=chrome&pbk=U7O4wCUNinuk5M-ADV1e4sJ_iA7-JVBEXB8nev6kzzs&sid=335555b164619360&type=grpc&authority=&serviceName=api.v1.StreamService&mode=gun#Khodemoni-246559
 vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@main.oneoker.com:443?encryption=none&security=reality&sni=main.oneoker.com&fp=chrome&pbk=yiX2T6z3GavNIgnnxsoU57vgq2pdfngXAU83vhBDQlA&sid=a9b0c08836bad3c5&type=grpc&authority=&serviceName=api.v1.StreamService&mode=gun#Khodemoni-245984
 vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@eu.oneokgames.com:443?mode=gun&security=reality&encryption=none&pbk=0ffnN7CdnOgEEFJ3AY1lnuTtsOPDL059UaTTxGxDjTA&fp=firefox&type=grpc&serviceName=home.v1.ApiService&sni=eu.oneokgames.com&sid=66ffd800ba2ec7c3#Khodemoni-245882
@@ -40,5 +41,6 @@ vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@dl.onetimeok.com:443?encryption=non
 vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@media.oneokgames.com:443?encryption=none&type=grpc&security=reality&sni=media.oneokgames.com&pbk=aDNsk312UNfOEh0RiyGZdK6opt__mMyKBSglqFKFP38&sid=dbdbeaf4aa6e1a5c&fp=firefox&serviceName=api.v2.ObjectService#Khodemoni-245155
 vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@ingest.oneokgames.com:443?encryption=none&type=grpc&security=reality&sni=ingest.oneokgames.com&pbk=aDNsk312UNfOEh0RiyGZdK6opt__mMyKBSglqFKFP38&sid=dbdbeaf4aa6e1a5c&fp=firefox&serviceName=api.v2.ObjectService#Khodemoni-245154
 vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@api.oneokgames.com:443?mode=gun&security=reality&encryption=none&authority=&pbk=VTO26jBMVVnEnnHQON7k8lB3ED46_JHshPorJHHXSRU&fp=firefox&type=grpc&serviceName=push.v2.FeedService&sni=api.oneokgames.com&sid=a30b344b5214d62f#Khodemoni-245097
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206UzVSQ0k2Z0o2U1VPY2RuTnBjRWdSMVVWemlkKzhPOC8rRGNlVVNIRG5Gcz06aWZmZ2RQU1I4Zzc1dDQ5bjN4Q2I5K09HMldHSlRqVWhvaHBQb0hOVDU5OD0=@94.101.184.47:2052#Khodemoni-244834
+vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@grid.onetimeok.com:443?mode=gun&security=reality&encryption=none&authority=&pbk=28oR3ji9c2CneMNkbvcDL8WfvNWHS3GfA3RdtaF-pSg&fp=firefox&type=grpc&serviceName=gw.v1.MetricsService&sni=grid.onetimeok.com&sid=89e97b6542785ca6#Khodemoni-245094
+vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@add.oneoker.com:443?encryption=none&type=grpc&security=reality&sni=add.oneoker.com&pbk=W329R9_hAiG_wGLcIhfbm0AA8Si7DVhz4es2aASZACY&sid=9c478d3655bfa85d&fp=firefox&serviceName=api.v1.StreamService#Khodemoni-244838
 vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@edge1.onetimeok.com:443?encryption=none&type=grpc&security=reality&sni=edge1.onetimeok.com&pbk=TLAYLGGk8xnADNCg4_7-E3YqlC8L4lVo4m7aauBL7kU&sid=ce7d5b58da528cf1&fp=firefox&serviceName=edge.v2.RelayService#Khodemoni-244582
