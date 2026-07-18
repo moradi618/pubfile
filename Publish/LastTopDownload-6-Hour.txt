@@ -6,7 +6,6 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.56.66:22224?encryption=none&s
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.124.199.242:22223?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-247209
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.124.219.212:22222?security=&encryption=none&headerType=none&type=tcp#Khodemoni-247210
 vless://1c799205-5251-4fb2-8167-56d3e895c8c5@45.63.117.27:53776?encryption=none&security=none&type=tcp&headerType=none#Khodemoni-246985
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.124.199.242:22222?encryption=none&amp;security=none&amp;type=tcp#Khodemoni-247080
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.123.79:22224?encryption=none&security=none&type=tcp&headerType=none#Khodemoni-247666
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.124.219.212:22222?encryption=none&amp;security=none&amp;type=tcp#Khodemoni-246919
 vless://ce7dcd95-2f9a-431f-9c3e-0caaf6428798@85.239.44.8:27700?type=grpc&security=none&encryption=none&serviceName=zuugrpc#Khodemoni-244873
@@ -26,8 +25,9 @@ vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@net.oneoneok.com:443?encryption=non
 vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@api.onetimeok.com:443?mode=gun&security=reality&encryption=none&pbk=CQhnOxCj9UuA67kiDGGOcXB1G_XayWfHyhmlWGeG4Uw&fp=chrome&spx=/&type=grpc&serviceName=api.v2.ApiService&sni=api.onetimeok.com&sid=cfb882e7dcf03ef2#Khodemoni-247920
 vless://1d8916e2-681d-4b6a-959d-af466905e293@drohl.realm-of-ultramar.ru:443?mode=gun&security=reality&encryption=none&pbk=68cAI7YDiXM0IzkpW-dVRAo6Eg31hvf5vfuWbF-62wc&fp=qq&type=grpc&serviceName=grpc&sni=drohl.realm-of-ultramar.ru&sid=cda50d3ed181fcaa#Khodemoni-247586
 vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@api.onetimeok.com:443?encryption=none&security=reality&sni=api.onetimeok.com&fp=chrome&pbk=CQhnOxCj9UuA67kiDGGOcXB1G_XayWfHyhmlWGeG4Uw&sid=cfb882e7dcf03ef2&spx=/&type=grpc&authority=&serviceName=api.v2.ApiService&mode=gun#Khodemoni-247331
-vless://6d6b93ee-10f2-47fa-a0b1-414d14f42a92@46.8.231.216:2053?mode=multi&security=reality&encryption=none&pbk=7Wlx4W876dM9RsBuCoA3tEGkZvTtFv1BsPAda2D3JFQ&fp=chrome&spx=%2FXofe9jOUW81MuQ9&type=grpc&sni=www.cloudflare.com&sid=6e118f00f863#Khodemoni-247048
+vless://60a8bf5d-d434-4a73-8b0d-65555f559e86@farnce.aliyostd.com:2096?mode=gun&security=reality&encryption=none&pbk=r-7MEg2UtIiQrzZP16EXHjIUDqkKzzRqf7XlYxPbHB8&fp=safari&spx=%2F&type=grpc&sni=www.icloud.com&sid=fbb8a1c698a0f918#Khodemoni-247054
 vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@add.oneoker.com:443?encryption=none&type=grpc&security=reality&sni=add.oneoker.com&pbk=W329R9_hAiG_wGLcIhfbm0AA8Si7DVhz4es2aASZACY&sid=9c478d3655bfa85d&fp=firefox&serviceName=api.v1.StreamService#Khodemoni-244838
+vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@eu.oneokgames.com:443?encryption=none&type=grpc&security=reality&sni=eu.oneokgames.com&pbk=0ffnN7CdnOgEEFJ3AY1lnuTtsOPDL059UaTTxGxDjTA&sid=66ffd800ba2ec7c3&fp=firefox&serviceName=home.v1.ApiService#Khodemoni-244837
 vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@us.onetimeok.com:443?encryption=none&type=grpc&security=reality&sni=us.onetimeok.com&pbk=8QJSXd0F3JScfRiyQFh_IXYq8Liwpa9EzhbC1MDRrnc&sid=8e4d75390b1e0547&fp=firefox&serviceName=media.v1.ObjectService#Khodemoni-244587
 vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@grid.onetimeok.com:443?encryption=none&type=grpc&security=reality&sni=grid.onetimeok.com&pbk=28oR3ji9c2CneMNkbvcDL8WfvNWHS3GfA3RdtaF-pSg&sid=89e97b6542785ca6&fp=firefox&serviceName=gw.v1.MetricsService#Khodemoni-244584
 vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@get.oneokgames.com:443?encryption=none&type=grpc&security=reality&sni=get.oneokgames.com&pbk=Lij6_wEY1WQ8p9wjOyErAAmY8ce4oZmEO4QtYXH-WiU&sid=b9707fe704eb1415&fp=firefox&serviceName=node.v1.MetricsService#Khodemoni-244583
