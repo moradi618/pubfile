@@ -1,9 +1,7 @@
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.111.173:22224?encryption=none&;security=none&;type=tcp#Khodemoni-260882
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.75.155.42:22222?encryption=none&security=none&type=tcp#Khodemoni-260718
 vless://358f44f0-2686-46c8-9cc6-ec52abd66df4@65.109.219.124:10485?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-249952
-vless://799eb777-246f-48a0-912b-d37e478d5825@fr.motorbazan.com:2087?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-260711
 vless://3d675570-43d2-443e-93bb-29b9d1fdc563@167.172.173.163:58324?encryption=none&type=tcp&headerType=http&host=play.google.com&path=/@Nap_v2ray,@Nap_v2ray,@Nap_v2ray,@Nap_v2ray,@Nap_v2ray,@Nap_v2ray,@Nap_v2ray,@Nap_v2ray,@Nap_v2ray&security=none#Khodemoni-260887
-vless://776cf715-a0cd-4470-9ac4-29b46231f6af@pristytools.com.pristytools.com:443?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com #Khodemoni-255889
 vless://21e22226-0b96-4b4e-9a91-5c7f9e3f1760@ara.public.lat:58748?security=none&type=tcp&headerType=http&path=%2F&host=e1roj9ul.divarcdn.com&packetEncoding=xudp&encryption=none#Khodemoni-258755
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.75.155.42:22224?encryption=none&security=none&type=tcp#Khodemoni-260717
 vless://e2cbcf20-e57d-44ab-bd8e-8834c83314b8@144.31.113.56:28663?encryption=none&security=reality&sni=ymail.com&fp=chrome&pbk=9KQZrX1kgUPGV-ChDKJLYQarHB1rMX-9fxe7-eG4P1U&sid=91be886b71a6e4&spx=/&allowinsecure=0&type=grpc&mode=gun&authority=&serviceName=#Khodemoni-251007
@@ -16,10 +14,9 @@ vless://3c83a1f6-357e-4d48-a78e-76d637b217e2@146.75.119.82:80?type=ws&encryption
 vless://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@31.12.75.21:2087?alpn=h2%2Chttp%2F1.1&encryption=none&path=%2F%3FTelegram-WangCai2&security=tls&sni=ch-de.sdcards.ir&type=xhttp&fp=firefox#Khodemoni-260499
 vless://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@185.193.31.21:2087?alpn=h2,http/1.1&encryption=none&fp=firefox&host=ch-de.sdcards.ir&mode=auto&path=/?Telegram-WangCai2&security=tls&sni=ch-de.sdcards.ir&type=xhttp#Khodemoni-260492
 vless://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@77.105.163.21:2087?alpn=h2,http/1.1&encryption=none&fp=firefox&host=ch-de.sdcards.ir&mode=auto&path=/?Telegram-WangCai2&security=tls&sni=ch-de.sdcards.ir&type=xhttp#Khodemoni-260518
-vless://f3d05beb-ea6f-46c9-afc8-fe98c191f82e@b95a29ad12426134.nimaghaffarzadeh.ir:56625?encryption=none&security=reality&sni=icloud.com&fp=ios&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&sid=db418071da7fcb7b&allowinsecure=0&type=grpc&mode=gun&authority=&serviceName=#Khodemoni-261054
 vless://f4b463a8-b761-468f-82b1-4ed2c37a9965@de01.clarionvpn.com:443?security=reality&encryption=none&pbk=LuwIorZg6VyFOB4cHtohtqOnaZgyHqhT4gPDFpob6DE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com#Khodemoni-260942
 vless://d63a9365-41a4-4228-91dd-88c25dfc3411@194.110.24.14:3456?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=panel.ecofreenetping.com#Khodemoni-260725
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.125.21.222:22224?encryption=none&security=none&type=tcp#Khodemoni-260644
-vless://a96373c2-6c78-44dc-ac4b-33fd3d32c68b@ru.rush-server.com:443?type=tcp&security=reality&sni=findmypackets.com&fp=firefox&flow=xtls-rprx-vision&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=93ae75024604f796#Khodemoni-260550
 vless://317e36f9-02d2-47aa-a666-ba5ec1302e2f@pnl1.horlutr.ir:28193?mode=gun&security=reality&encryption=none&authority=play.google.com&pbk=XW53yYaevp21yOZsWMV_mVg58iYCNp91sYndl95qnmI&fp=chrome&type=grpc&sni=play.google.com&sid=7de83d0e31eb75ef#Khodemoni-260224
+vless://a96373c2-6c78-44dc-ac4b-33fd3d32c68b@ru.rush-server.com:443?type=tcp&security=reality&sni=findmypackets.com&fp=firefox&flow=xtls-rprx-vision&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=93ae75024604f796#Khodemoni-260550
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.41:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/http&security=&encryption=none&host=de.vpnbase.net&type=ws#Khodemoni-248053
+vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?type=grpc&security=tls&fp=chrome&sni=sca12.afterdomain.shop#Khodemoni-170167
