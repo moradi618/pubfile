@@ -2,6 +2,7 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.112.70:22224?encryption=none&
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.112.70:22223?encryption=none&security=none&type=tcp#Khodemoni-277022
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.112.70:22222?encryption=none&security=none&type=tcp#Khodemoni-277016
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.156.147.82:22224?encryption=none&security=none&headerType=none&type=tcp#Khodemoni-276992
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&type=tcp&packetEncoding=xudp&sni=/&encryption=none#Khodemoni-262464
 vless://e431026f-d605-4a52-8b3b-0912a68dc9d1@anydesk.com:8880?security=none&type=ws&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&host=sparkling-shadow-481d.342-429.workers.dev&packetEncoding=xudp#Khodemoni-232863
 vless://2d4db7ce-1a16-281d-437f-77cea0bac2fa@69.46.46.80:443?path=%2Fws%2F2d4db7ce-1a16-281d-437f-77cea0bac2fa&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=x4g-production-4104.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-4104.up.railway.app#Khodemoni-277027
 vless://2e28cb9e-9bb9-4bfa-ad1e-c636dd816255@ava2.singbox4.ir:38470?security=reality&path=%2F&sni=varzesh3.com&fp=chrome&extra=%7B%0A%20%20%22xPaddingBytes%22%20%3A%20%22100-1000%22%0A%7D&spx=%2FqNdlva5sKWjZXJV&pbk=3vVdetxnMlmbgCAxPWB-ELPprYC9IZ2x4w4t_9VFmyY&sid=8e5abe94d2be&encryption=none&type=xhttp&mode=auto&host=snapp.ir#Khodemoni-277028
