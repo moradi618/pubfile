@@ -1,3 +1,5 @@
+trojan://humanity@198.41.194.243:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.gossipglove.com&ech=54.mk%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.gossipglove.com#Khodemoni-114990
+vless://e4824193-4f54-453b-d037-88368e85ef0e@104.17.239.248:443?type=grpc&headerType=none&security=tls&encryption=none&sni=sca12.afterdomain.shop&fp=chrome&insecure=0#Khodemoni-238448
 trojan://CF68213490@34.217.29.0:443?sni=balanced-puma.rooster465.autos&path=/ #Khodemoni-261495
 trojan://CF68213490@44.251.239.102:443?sni=polite-coyote.rooster465.autos&type=tcp&path=/ #Khodemoni-261503
 trojan://OD90375861@fit-calf.rooster465.autos:443? #Khodemoni-261745
