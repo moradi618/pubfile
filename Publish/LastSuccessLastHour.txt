@@ -1,3 +1,4 @@
+trojan://humanity@104.16.89.120:443?encryption=none&security=tls&sni=www.creationlong.org&insecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#Khodemoni-231855
 vless://2c326e00-d936-42e1-b463-5022c90d4597@168.119.156.101:22019?security=reality&sni=login.yahoo.com&type=tcp&fp=firefox&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&sid=c6e19c434dc87df7#Khodemoni-277202
 vless://ac4bd82d-8edd-6214-51f0-68daa20b01d2@d.tl-fitma.ir:5054?mode=packet-up&security=reality&encryption=none&pbk=vmlmn1BcyEMh7vnmqjaxlvJy_bS-4ZWPN4EZAmnMFmY&fp=firefox&spx=%2F&type=xhttp&sni=icloud.com&sid=8afe1688#Khodemoni-277206
 vless://2c326e00-d936-42e1-b463-5022c90d4597@167.233.213.99:22007?security=reality&sni=login.yahoo.com&type=tcp&fp=firefox&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&sid=c6e19c434dc87df7#Khodemoni-277203
