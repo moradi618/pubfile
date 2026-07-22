@@ -2,7 +2,6 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.120.80:22223?encryption=none
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.156.147.82:22222?security=none&type=tcp&encryption=none&headerType=none#Khodemoni-276920
 vless://a603dae8-40ef-49c4-8d2a-b69807f2c2fe@165.232.38.180:57018?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-276912
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.120.80:22224?encryption=none&security=none&type=tcp#Khodemoni-276877
-vless://84e919d1-efc6-48fc-8248-8c3cbfec9f17@tw04.kinomir.fun:40443?type=tcp&headerType=none&security=reality&pbk=IZn3ibz8K1yot2cj4ssmAQHVB--xrcQEc3RCFQUSRiE&fp=qq&sni=deepl.com&sid=2143&spx=%2F#Khodemoni-262755
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.120.80:22222?encryption=none&security=none&type=tcp#Khodemoni-276878
 vless://84e919d1-efc6-48fc-8248-8c3cbfec9f17@tw04.kinomir.fun:40443?encryption=none&type=tcp&security=reality&headerType=none&sni=deepl.com&fp=qq&insecure=1&allowInsecure=1&pbk=IZn3ibz8K1yot2cj4ssmAQHVB--xrcQEc3RCFQUSRiE&sid=2143&spx=%2F#Khodemoni-276921
 vless://3065a2bc-f2c1-4339-8ef9-7428e0cd988c@199.232.245.94:443?mode=auto&path=%2F&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=Vistitrohamfastvipnexttt.net&fp=chrome&type=xhttp&sni=global.fastly.com#Khodemoni-276909
