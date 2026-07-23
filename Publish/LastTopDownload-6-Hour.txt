@@ -26,6 +26,7 @@ vless://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@103.116.7.21:2087?encryption=none&f
 vless://142c10ed-ddfd-4b89-9b6c-2effbdd48466@199.232.23.6:443?encryption=none&security=tls&sni=global.fastly.com&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&host=rhhcuss.global.ssl.fastly.net&path=%2F&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D#Khodemoni-279006
 vless://1b73f053-2709-4698-bbec-cb20e8a5f288@panel9.nanaweb.ir:1080?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-279375
 vless://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@45.85.119.21:2087?encryption=none&security=tls&sni=ch-de.sdcards.ir&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&host=ch-de.sdcards.ir&path=%2F%3FTelegram-WangCai2&mode=auto#Khodemoni-259608
+vless://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@185.148.107.21:2087?type=xhttp&security=tls&path=/?Telegram-WangCai2&sni=ch-de.sdcards.ir#Khodemoni-260491
 vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?encryption=none&security=tls&alpn=h2&fp=chrome&type=xhttp&host=dey.lnmarketplace.net&path=%2Fkavir&mode=stream-one#Khodemoni-227621
 vless://20ba663e-4b4c-4257-a2f3-3b8c1e99e928@37.32.27.204:80?path=%2F&security=none&encryption=none&type=ws#Khodemoni-279644
 vless://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@103.116.7.21:2087?encryption=none&security=tls&sni=ch-de.sdcards.ir&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&host=ch-de.sdcards.ir&path=%2F%3FTelegram-WangCai2&mode=auto#Khodemoni-259593
@@ -34,7 +35,6 @@ vless://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@103.116.7.21:2087?mode=auto&path=%2
 vless://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@103.116.7.21:2087?type=xhttp&security=tls&sni=ch-de.sdcards.ir&path=/?Telegram-WangCai2&mode=auto#Khodemoni-273377
 vless://7b7de4b7-31fd-4af9-99a0-48a13604fe89@nl1.miyazono-kaori.com:443?security=reality&encryption=none&pbk=AFQAIB5u9Uu6nf9fkP1BdcSHivSuUv97l4FH-LoFYgw&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.philips.com&sid=92dca6#Khodemoni-279366
 vless://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@45.85.119.21:2087?type=xhttp&security=tls&sni=ch-de.sdcards.ir&path=/?Telegram-WangCai2&mode=auto#Khodemoni-261209
-vless://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@185.148.107.21:2087?type=xhttp&security=tls&path=/?Telegram-WangCai2&sni=ch-de.sdcards.ir#Khodemoni-260491
 vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?mode=stream-one&path=%2Fkavir&security=tls&alpn=h2&encryption=none&insecure=0&host=dey.lnmarketplace.net&fp=chrome&type=xhttp&allowInsecure=0&sni=dey.lnmarketplace.net#Khodemoni-220132
 vless://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@45.131.5.21:2087?encryption=none&security=tls&sni=ch-de.sdcards.ir&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&host=ch-de.sdcards.ir&path=%2F%3FTelegram-WangCai2&mode=auto#Khodemoni-278524
 vless://d09e90e1-e954-4a68-8869-c7bc522a07c3@mainnetherofnew12.speed.garqino.ir:8000?security=reality&type=tcp&headerType=&path=&host=&sni=yahoo.com&fp=qq&pbk=0C-oGs4ZcvaXrxR0IfmV9Y3KfhDtmlC3yjgeNSVjykE&sid=#Khodemoni-279171
