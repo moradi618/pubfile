@@ -1,3 +1,6 @@
+trojan://CF68213490@34.217.29.0:443?sni=balanced-puma.rooster465.autos&fp=chrome&type=tcp&path=/ #Khodemoni-261494
+trojan://NQ26071394@certain-prawn.rooster465.autos:443?path=/ #Khodemoni-261664
+trojan://NQ26071394@certain-prawn.rooster465.autos:443?sni=certain-prawn.rooster465.autos&fp=chrome&type=tcp&path=/ #Khodemoni-261665
 vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@147.45.253.97:4100?path=%2Fv1&security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#Khodemoni-279507
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.45.218:443?path=%2Ffp%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#Khodemoni-279508
 vless://2e3431ac-0b98-4471-9822-6b7ae94a9a11@anydesk.com:8880?security=none&type=ws&path=/pyip=ProxyIP.SG.CMLiussss.net&host=polished-hall-7427.463-5d2.workers.dev&packetEncoding=xudp#Khodemoni-279572
@@ -61,7 +64,3 @@ trojan://VPNCUSTOMIZE@188.114.97.6:443?type=xhttp&security=tls&path=/config&host
 trojan://humanity@172.64.147.183:443?encryption=none&security=tls&sni=www.gossipglove.com&type=ws&host=www.gossipglove.com&path=%2Fassignment#Khodemoni-246845
 trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#Khodemoni-250321
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OTJlMGJkYi0wMWRiLTQ1MGMtOTRjNC05MjUxNTFlYjM5NmU@ss.045.node-for-bigairport.win:19000#Khodemoni-249736
-trojan://humanity@104.18.8.83:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment#Khodemoni-256160
-vless://7968c546-02dc-4f8c-b791-934591a94cb2@104.16.72.50:443?type=ws&encryption=none&flow=&host=hhvl.hhapp.kdns.fr&path=%2Fcbasur&security=tls&sni=hhvl.hhapp.kdns.fr#Khodemoni-254740
-vless://7b102311-43fd-4e8f-877e-8090623c101d@162.159.38.42:2053?security=tls&type=ws&path=/fp=chrome&host=vp21.cc.cd&packetEncoding=xudp&sni=vp21.cc.cd&fp=chrome#Khodemoni-258613
-trojan://NQ26071394@35.95.97.145:443?fp=chrome&security=tls&sni=engaging-elephant.rooster465.autos&type=tcp#Khodemoni-258999
