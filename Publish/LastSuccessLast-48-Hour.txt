@@ -1,3 +1,4 @@
+vless://9b91917e-1c0c-40bf-88c0-57c3a05b8f48@185.141.213.180:2095?encryption=none&fp=chrome&pbk=rsYe_ehLW_iwaNDf4bEyw_ZcwqLOJo4SZQy6ugERODY&security=reality&sid=0e520a79b3&sni=www.amd.com&spx=%2FdgcgdplkFjrxpTI&type=tcp#Khodemoni-283644
 vless://b05346a9-4d13-41a4-8d2a-6b7b64e73ffc@31.77.131.97:8444?security=reality&sni=cloudflare.com&type=grpc&serviceName=auragrpc&fp=qq&pbk=DYhUefVTZg0ol7QLdgp6hqcZ_TjIt02uoZk8iQz4WHM&sid=d6b2e9f1a4c8d3f5#Khodemoni-277032
 vless://ed984f53-b003-4940-b6b2-db22362801e7@151.101.193.54:80?security=none&type=ws&headerType=&path=&host=BankMelat.glObal.ssl.faStly.nEt.#Khodemoni-283593
 vless://ed984f53-b003-4940-b6b2-db22362801e7@151.101.56.7:80?security=none&type=ws&headerType=&path=&host=BankMelat.glObal.ssl.faStly.nEt.#Khodemoni-283594
