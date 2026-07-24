@@ -3,7 +3,6 @@ vless://24a5cdbf-d740-445d-8d6f-b3ba9f839421@adgof.mgodping12.xyz:2086?mode=gun&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDVUVZZ0JJdjNVaW5FWWNCL0hhNUpmNzkyQUVqeU53bkd1MGhJS0srbzVRPQ@e1.cover20.ir:51570?type=tcp#Khodemoni-278699
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqVlBqeU5HZ09BZnY0YjRlOGRVSzY5M2V0MjdhS2tMSnAxVHhUUlVJZ0hzPQ@e4.cover20.ir:16156?type=tcp#Khodemoni-257133
 vless://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@154.211.8.21:2087?type=xhttp&security=tls&path=/?Telegram-WangCai2&sni=ch-de.sdcards.ir#Khodemoni-280484
-vless://f8735daf-60ed-443f-bd23-136bcb5319c1@Smdata.softupdl.ir:56792?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-280639
 vless://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@103.116.7.21:2087?type=xhttp&security=tls&path=/?Telegram-WangCai2&sni=ch-de.sdcards.ir#Khodemoni-261182
 vless://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@185.148.107.21:2087?type=xhttp&security=tls&path=/?Telegram-WangCai2&sni=ch-de.sdcards.ir#Khodemoni-260491
 vless://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@141.11.203.21:2087?encryption=none&security=tls&sni=ch-de.sdcards.ir&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=ch-de.sdcards.ir&path=/?mode=auto#Khodemoni-281792
