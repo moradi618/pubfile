@@ -31,6 +31,4 @@ vless://b6749f13-cd63-4bc4-b165-5d120b7a1ff4@oman-naran.fizikade.ir:42268?path=%
 vless://39a8b1b3-9e41-4207-8afc-4f9f4a60f3bc@x4g-production-e845.up.railway.app:443?encryption=none&security=tls&type=ws&host=x4g-production-e845.up.railway.app&path=/ws/39a8b1b3-9e41-4207-8afc-4f9f4a60f3bc&sni=x4g-production-e845.up.railway.app&fp=chrome&alpn=http/1.1#Khodemoni-283278
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.166:443?type=tcp&security=reality&sni=storage.yandex.net&fp=chrome&flow=xtls-rprx-vision&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5#Khodemoni-283327
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.166:443?type=tcp&security=reality&sni=storage.yandex.net&fp=firefox&flow=xtls-rprx-vision&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5#Khodemoni-283241
-trojan://humanity@162.159.38.119:443?encryption=none&security=tls&sni=www.gossipglove.com&type=ws&host=www.gossipglove.com&path=%2Fassignment#Khodemoni-254780
 trojan://humanity@2.144.21.112:40443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=/assignment#Khodemoni-106570
-trojan://humanity@162.159.38.119:443?type=ws&security=tls&path=/assignment&host=www.creationlong.org&sni=www.creationlong.org&insecure=0&allowInsecure=0#Khodemoni-201925
