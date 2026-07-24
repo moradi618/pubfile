@@ -1,3 +1,4 @@
+vmess://eyJ2IjoiMiIsInBzIjoiS2hvZGVtb25pLTI4MzQ4OCIsImFkZCI6IjE4NS4yMDYuMTcxLjc4IiwicG9ydCI6IjgwODEiLCJ0eXBlIjoibm9uZSIsImlkIjoiNDUwMDM3ZTgtZTlmYi00Mjk2LWJkZjctMjEzZjQwYjc1M2MxIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@mfa.gov.ua:2087?&security=tls&fp=chrome&sni=fx3l5i2wdfxln0.fx6hsv0.ccwu.cc&type=ws&headerType=none&host=fx3l5i2wdfxln0.fx6hsv0.ccwu.cc&path=%2F%3Fed%3D2560#Khodemoni-276510
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.241:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#Khodemoni-283468
 vless://66ea0b4c-8c39-4e8b-92f0-0a9065218d37@151.101.56.7:80?security=none&encryption=none&host=BankMelat.glObal.ssl.faStly.nEt.&type=ws#Khodemoni-283469
@@ -42,7 +43,3 @@ vless://b5cd1902-ed11-43b8-b971-332b596d145e@cc.timiuu.cc:12305?&security=realit
 vless://ad790e5f-3e31-43c6-b047-336577a3b3de@deepus.ietotozheproidet.site:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=inkvLvTWXaBAAubrTpivxrJAWPYldv2rBG25zzCd6k0&sni=dowload.max.ru#Khodemoni-283433
 vless://f7cc1898-52f8-4e8e-9a90-320fc7fdadb8@104.17.58.113:8880?security=none&type=ws&path=/pyip=ProxyIP.SG.CMLiussss.net&host=raspy-truth-565b.394-8bb.workers.dev&packetEncoding=xudp#Khodemoni-283435
 vless://7b102311-43fd-4e8f-877e-8090623c101d@57.128.177.198:443?encryption=none&fp=chrome&host=vp58.cc.cd&path=/Telegram+@VPNine1&security=tls&sni=vp58.cc.cd&type=ws#Khodemoni-283369
-vless://64466fd7-00d0-4e7f-ae47-1749932601da@104.18.152.233:8080?mode=auto&path=%2Fdashboard&security=none&encryption=none&host=erfan.mmadvip8563.ir&type=xhttp#Khodemoni-283359
-trojan://humanity@2.144.21.112:40443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=/assignment#Khodemoni-106570
-trojan://humanity@172.64.155.209:443?host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#Khodemoni-115713
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?type=grpc&security=tls&sni=sca38.afterdomain.shop#Khodemoni-170171
