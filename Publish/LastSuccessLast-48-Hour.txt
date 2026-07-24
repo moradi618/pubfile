@@ -1,3 +1,10 @@
+trojan://IQ68037294@81.28.13.159:443?security=tls&sni=giving-bird.rooster465.autos&path=/ #Khodemoni-284280
+trojan://IQ68037294@109.61.127.24:443?security=tls&sni=artistic-pigeon.rooster465.autos&path=/ #Khodemoni-284264
+trojan://IQ68037294@81.28.13.68:443?security=tls&sni=pet-albacore.rooster465.autos&path=/ #Khodemoni-284282
+trojan://IQ68037294@81.28.13.68:443?sni=pet-albacore.rooster465.autos&type=tcp&path=/ #Khodemoni-284283
+trojan://IQ68037294@13.39.89.72:443?security=tls&sni=definite-giraffe.rooster465.autos&path=/ #Khodemoni-284266
+trojan://IQ68037294@13.39.89.72:443?security=tls&sni=definite-giraffe.rooster465.autos&type=tcp&headerType=none&path=/ #Khodemoni-284267
+trojan://IQ68037294@89.39.70.222:443?security=tls&sni=casual-bullfrog.rooster465.autos&path=/ #Khodemoni-284286
 vless://18e20d7b-f475-4e8e-b65a-da8e31931d29@31.57.63.207:2054?mode=auto&path=%2F&security=none&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&type=xhttp#Khodemoni-284102
 trojan://IQ68037294@81.28.13.48:443?security=tls&sni=glowing-deer.rooster465.autos&path=/ #Khodemoni-284281
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#Khodemoni-095200
@@ -1975,8 +1982,8 @@ vless://f989cbf4-40d2-41d2-8a00-1fe4e29b2192@172.64.145.202:8880?security=none&t
 trojan://humanity@172.64.147.15:443/?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&allowInsecure=1#Khodemoni-201618
 vless://7111212b-6bc3-459a-85b4-3b13038a19f8@172.64.146.66:8880?encryption=none&security=none&type=ws&host=shrill-fog-67af.235-e6a.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net@https://t.me/QiangLieTuiJian#Khodemoni-202752
 vless://7111212b-6bc3-459a-85b4-3b13038a19f8@172.64.147.143:8880?encryption=none&security=none&type=ws&host=shrill-fog-67af.235-e6a.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net@https://t.me/QiangLieTuiJian#Khodemoni-215458
-trojan://humanity@162.159.38.119:443?type=ws&security=tls&path=/assignment&host=www.creationlong.org&sni=www.creationlong.org&insecure=0&allowInsecure=0#Khodemoni-201925
 vless://f989cbf4-40d2-41d2-8a00-1fe4e29b2192@172.64.149.209:8880?security=none&type=ws&host=ancient-rice-c180.455-8ad.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net%40https%3A%2F%2Ft.me%2FQiangLieTuiJian#Khodemoni-202712
+trojan://humanity@162.159.38.119:443?type=ws&security=tls&path=/assignment&host=www.creationlong.org&sni=www.creationlong.org&insecure=0&allowInsecure=0#Khodemoni-201925
 vless://a8985e6a-f338-4b44-9a41-f94495603a96@104.21.56.202:8880?path=/pyip=ProxyIP.JP.CMLiussss.net&security=none&encryption=none&host=dawn-cell-346f.238-df6.workers.dev&type=ws#Khodemoni-201607
 vless://690b6997-198a-49d2-8cef-e4c70efc2288@104.21.75.46:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2F&security=tls&encryption=none&insecure=0&host=bold-term-2b48.stary3989.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=bold-term-2b48.stary3989.workers.dev#Khodemoni-202832
 vless://2efeba50-78fe-4729-9821-1fb9819ed9e8@172.66.140.62:8880?path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none&encryption=none&host=dark-dew-c3ed.48-97c.workers.dev&type=ws#Khodemoni-204890
