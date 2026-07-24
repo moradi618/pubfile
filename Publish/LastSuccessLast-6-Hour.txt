@@ -1090,8 +1090,8 @@ vless://b60ec1c9-3d72-407a-a592-682f843b513e@167.82.0.7:80?security=&encryption=
 vless://901fc0c9-ae4c-4d06-9fed-253b25b68a0e@one-for-all.levikogjgfdd.ir:8443?path=%2F&security=tls&encryption=none&insecure=0&host=ad-004.vector9nmb3.info&type=ws&allowInsecure=0&sni=ad-004.vector9nmb3.info#Khodemoni-284099
 vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@one-for-all.levikogjgfdd.ir:443?path=%2Fhdgrbws&security=tls&encryption=none&insecure=0&host=terazhediii.info&type=ws&allowInsecure=0&sni=terazhediii.info#Khodemoni-284101
 vless://b60ec1c9-3d72-407a-a592-682f843b513e@167.82.0.17:80?security=&encryption=none&host=BankMelat.glObal.ssl.faStly.nEt.&type=ws#Khodemoni-284086
-vless://b60ec1c9-3d72-407a-a592-682f843b513e@167.82.0.1:80?security=&encryption=none&host=BankMelat.glObal.ssl.faStly.nEt.&type=ws#Khodemoni-284087
 vless://eb78e1f0-d921-4ca9-a889-261fcc5a0547@leviko696.levikogjgfdd.ir:443?security=reality&encryption=none&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&host=%2F%3FBIA_TELEGRAM%40ShadowProxy66&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=qq.utiltools.ru#Khodemoni-284098
+vless://b60ec1c9-3d72-407a-a592-682f843b513e@167.82.0.1:80?security=&encryption=none&host=BankMelat.glObal.ssl.faStly.nEt.&type=ws#Khodemoni-284087
 trojan://humanity@185.208.79.149:443/?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#Khodemoni-009616
 trojan://humanity@2.144.21.112:40443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.creationlong.org#Khodemoni-132159
 trojan://humanity@2.144.21.112:40443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment#Khodemoni-136963
