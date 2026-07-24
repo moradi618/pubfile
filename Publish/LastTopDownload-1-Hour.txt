@@ -5,7 +5,6 @@ vless://09bbcf46-3896-4385-8bb2-b44284efb2f2@uk.fifapes.monster:21972?security=n
 vless://89e2646a-41c1-44bf-9892-3b80e40da72b@cd3.postshup.ir:8880?path=%2F%3Fed%3D2082&security=&encryption=none&host=ask.postshup.ir&type=httpupgrade#Khodemoni-284071
 vless://72dca41f-d9a6-4c5c-8b86-d47935ea7358@91.206.71.47:80?mode=auto&path=%2F&security=&encryption=none&host=s086.net-plus.ir&type=xhttp#Khodemoni-284081
 vless://18e20d7b-f475-4e8e-b65a-da8e31931d29@31.57.63.207:8443?encryption=none&host=&path=%2F&security=none&type=ws#Khodemoni-284083
-trojan://7e70223b-f331-41d5-9313-02b8d2df2885@45.67.201.210:20031/?type=tcp&security=tls&sni=hk.catxstar.com&allowInsecure=1#Khodemoni-283986
 vless://6d0c2658-9a4b-4c47-9083-4f8a06107eef@de.gilangard.ir:7733?security=reality&encryption=none&pbk=oPjBg1j0z2DzynYF5GDq8eG0Ykt9zTllp1O-3XRW-yQ&headerType=none&fp=qq&type=tcp&sni=blog.api.www.cloudflare.com&sid=2dd3099d068ab699#Khodemoni-284014
 vless://18e20d7b-f475-4e8e-b65a-da8e31931d29@31.57.63.207:2052?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&security=tls&sni=&type=tcp#Khodemoni-284084
 vless://18e20d7b-f475-4e8e-b65a-da8e31931d29@31.57.63.207:2054?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=&mode=auto&path=%2F&security=none&type=xhttp&x_padding_bytes=100-1000#Khodemoni-284085
