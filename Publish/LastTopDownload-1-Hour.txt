@@ -3,14 +3,12 @@ vless://4db3db61-3a03-4c24-a336-e36a9f384f57@185.62.58.150:443?mode=auto&path=%2
 vless://530868e7-d788-4595-b2d6-6a40c098164d@themeforest.net:8880?type=ws&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&host=crimson-sea-a4bb.343-1a7.workers.dev&sni=themeforest.net&fp=chrome#Khodemoni-275242
 ss://YWVzLTI1Ni1nY206RU1JcnVGbDZuTjM3TERReENJd3N0RzA5aGFDQmt5anZaVmpXSU1PUTBKaz0=@94.183.124.95:82#Khodemoni-274941
 vmess://eyJhZGQiOiIxODUuMjA2LjE3MS43OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI0NTAwMzdlOC1lOWZiLTQyOTYtYmRmNy0yMTNmNDBiNzUzYzEiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBjcyI6IiIsInBvcnQiOiI4MDgxIiwicHMiOiJLaG9kZW1vbmktMjgyNTA5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==
-vless://a7da83cf-59a9-1ec1-3253-78e3b24f164d@soskeynets-ijkuhg-poikj.up.railway.app:443?mode=auto&path=/xhttp-siz10/a7da83cf-59a9-1ec1-3253-78e3b24f164d&security=tls&alpn=h2,http/1.1&encryption=none&host=v2rayngselllbot-ijkuhg-poikj.up.railway.app&fp=chrome&type=xhttp&sni=v2rayngselllbot-ijkuhg-poikj.up.railway.app#Khodemoni-282833
 vless://e912f8d6-f59a-48b1-b5ad-bbe548d7ebf3@Animall-Zooke.fardaty.ir:8080?mode=packet-up&path=%2F&security=reality&encryption=none&pbk=bkj8m8COBtgcxZZ0ankB6vbxWRwnnreXjDTZA5CUVB0&fp=chrome&type=xhttp&sni=www.yahoo.com&sid=4da5c8a61cc588e8#Khodemoni-277320
 vless://41bb2307-1ca0-45fd-a272-f88bba02e1b1@167.71.151.198:8080?encryption=none&host=play.google.com&path=%2F&security=none&type=httpupgrade#Khodemoni-282211
-vless://41bb2307-1ca0-45fd-a272-f88bba02e1b1@167.71.151.198:8080?path=%2F&security=&encryption=none&host=play.google.com&type=httpupgrade#Khodemoni-282807
 vmess://eyJhZGQiOiIxNTguNTEuMTIxLjYzIiwiYWlkIjowLCJob3N0Ijoic2VyaWJ1cy5vcmciLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0Ijo0NDMsInBzIjoiS2hvZGVtb25pLTA1NzM0MiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoic2VyaWJ1cy5vcmcifQ==
 vless://6f98a077-004e-4b86-8b78-8d09308d3868@165.231.157.109:443?encryption=none&extra=null&fp=chrome&mode=stream-one&path=%2F&security=tls&sni=app-6a607097.adhil.uk&type=xhttp#Khodemoni-282787
 vmess://eyJ2IjoiMiIsInBzIjoiS2hvZGVtb25pLTIyNzE3OSIsImFkZCI6IjE1OC41MS4xMjEuNjMiLCJwb3J0IjoiNDQzIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJzZXJpYnVzLm9yZyIsInBhdGgiOiJsaW5rdndzIiwidGxzIjoidGxzIiwic25pIjoic2VyaWJ1cy5vcmciLCJ0ZXN0X25hbWUiOiIxMyJ9
-vless://4c8bb81b-2758-424b-912c-b53a2295277e@162.159.38.119:443?encryption=none&host=telegram.mxgrid.xyz&path=/-----MXGRiD-----&security=tls&sni=telegram.mxgrid.xyz&type=ws#Khodemoni-282826
+vless://6f98a077-004e-4b86-8b78-8d09308d3868@one.alpheratzz.org:443?type=xhttp&security=tls&path=/&sni=app-6a607097.adhil.uk&fp=firefox#Khodemoni-282791
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?encryption=none&security=none&type=tcp&headerType=http&path=%2F#Khodemoni-138728
 trojan://humanity@2.144.21.112:40443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment#Khodemoni-137610
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090#Khodemoni-229481
@@ -20,4 +18,5 @@ vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.144:443/?type=tcp&encryp
 vless://52720aa1-a75b-4f72-9af4-d7237c197f3e@77.233.214.31:40443?security=reality&encryption=none&pbk=Sw4tAz5d-rLhaSFsEDDxlgwJbK4NMQUFDHF_oyRwUWE&headerType=none&fp=qq&spx=/&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=cd5c#Khodemoni-275978
 vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@162.159.38.119:443?encryption=none&security=tls&sni=vod.ensf.top&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=vod.ensf.top&path=%2Fapi%2Fv1%2Firc#Khodemoni-253474
 vless://218fd696-e3a2-4c33-b397-a5f13a82969e@194.93.0.28:443?encryption=none&fp=chrome&pbk=vxhkDXfYpz1OLqZ-_9QVoQr3_UJLtJFheb5bD5YH7z8&security=reality&serviceName=grpc&sid=3303c7a5&sni=media2.tcpdoor.net&type=grpc#Khodemoni-281969
+vless://6f98a077-004e-4b86-8b78-8d09308d3868@165.231.157.109:443?&security=tls&fp=chrome&sni=app-6a607097.adhil.uk&type=xhttp#Khodemoni-282786
 vless://6f98a077-004e-4b86-8b78-8d09308d3868@165.231.157.116:443?security=tls&sni=app-6a607097.adhil.uk&type=xhttp&fp=safari#Khodemoni-282910
