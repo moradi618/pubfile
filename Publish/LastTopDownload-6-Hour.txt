@@ -3,6 +3,7 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.73.247.190:22222?security=none&en
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.73.247.190:22223?encryption=none&security=none&type=tcp#Khodemoni-285273
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.73.247.190:22223?security=none&encryption=none&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&type=tcp#Khodemoni-285358
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.73.247.190:22224?security=none&encryption=none&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&type=tcp#Khodemoni-285356
+vless://9aa22854-b213-44c1-b966-14284fce33df@89.110.84.36:31067/?type=tcp&encryption=none&security=none#Khodemoni-285499
 vless://b861875e-2a31-4a86-a4aa-9f16838c3d66@110.34.38.23:847?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-285517
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.73.247.190:22224?encryption=none&security=none&type=tcp#Khodemoni-285277
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.73.247.190:22222?encryption=none&security=none&type=tcp#Khodemoni-285281
