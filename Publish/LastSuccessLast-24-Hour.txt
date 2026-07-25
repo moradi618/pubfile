@@ -1,4 +1,5 @@
 trojan://humanity@172.67.149.60:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.gossipglove.com#Khodemoni-286940
+vless://784974f6-6289-4988-a51d-7d54f9e6915c@31.77.149.177:1997?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2F&pbk=G62WBAi-xUaN8_cArNygz5RQWsljCHOPJlPVMh-Qwm8&security=reality&sid=71607c0fba717d33&sni=www.samsung.com&spx=%2Fyl178Tplf8CQEky&type=xhttp&x_padding_bytes=100-1000#Khodemoni-262419
 vless://fce1e5b0-d154-4278-a291-5c79f5b1bb24@185.5.75.151:8443?type=xhttp&security=tls&fp=firefox&mode=auto#Khodemoni-257181
 vless://5ed7b151-b781-4dba-800d-e3f824f1416f@193.124.204.145:49853?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Khodemoni-260850
 vless://e3c56988-5261-400f-b21b-6af5fa6efae1@130.49.185.196:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=4ndg8TcyXMWmnEvthjh9mIWJ9mc85jzy_G9D4D5xGxM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=site.rumedia-cdn.com&sid=808a7e8a2e32c697#Khodemoni-257608
@@ -264,9 +265,9 @@ vless://25322a43-4ef3-45cc-9e96-db44bcccd7be@skk.moe:8880?security=none&type=ws&
 vless://90f0ae37-5a8f-4649-98ad-ac5323840f93@104.21.15.212:8880?path=/pyip=ProxyIP.SG.CMLiussss.net&security=none&encryption=none&host=silent-king-06b6.297-842.workers.dev&type=ws#Khodemoni-198435
 vless://90f0ae37-5a8f-4649-98ad-ac5323840f93@172.67.207.26:8880?path=/pyip=ProxyIP.SG.CMLiussss.net&security=none&encryption=none&host=silent-king-06b6.297-842.workers.dev&type=ws#Khodemoni-199624
 vless://24c2a873-4584-4c53-8679-61029682d0bb@104.16.107.139:8880?path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=&encryption=none&host=soft-thunder-bc22.111-f59.workers.dev&type=ws#Khodemoni-193160
-vless://1742863c-ce4b-4bb7-b807-80da29cbec86@www.gov.ua:8880?encryption=none&security=none&type=ws&host=icy-fog-9a41.70-a39.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#Khodemoni-193767
-vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@betty.ns.cloudflare.com:443?security=tls&type=ws&path=%2Fhdgrbws&host=terazhediii.info&packetEncoding=xudp&sni=terazhediii.info&fp=chrome&encryption=none#Khodemoni-195451
 vless://d6c595c9-bff4-4510-893a-dfa3c87fa0cd@172.66.140.62:8880?path=/pyip=ProxyIP.US.CMLiussss.net&security=none&encryption=none&host=lucky-cell-d20c.78-107.workers.dev&type=ws#Khodemoni-198413
+vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@betty.ns.cloudflare.com:443?security=tls&type=ws&path=%2Fhdgrbws&host=terazhediii.info&packetEncoding=xudp&sni=terazhediii.info&fp=chrome&encryption=none#Khodemoni-195451
+vless://1742863c-ce4b-4bb7-b807-80da29cbec86@www.gov.ua:8880?encryption=none&security=none&type=ws&host=icy-fog-9a41.70-a39.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#Khodemoni-193767
 vless://bf380279-cbd5-4e55-96d1-f5a652aaf6b3@104.16.107.139:8880?path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none&encryption=none&host=mute-dust-f0c4.456-8ae.workers.dev&type=ws#Khodemoni-194522
 vless://7ed93ccf-6a54-4b19-a9b4-aedfc79bab7d@172.67.152.71:8880?type=ws&host=muddy-sky-4767.344-7a7.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#Khodemoni-198572
 vless://82a3c394-55b7-4780-93a0-5f45c0e89625@172.67.179.98:8880?encryption=none&type=ws&host=square-brook-e650.353-3ac.workers.dev&path=/pyip%3DProxyIP.SG.CMLiussss.net&packetEncoding=xudp#Khodemoni-198425
