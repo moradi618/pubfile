@@ -1,3 +1,6 @@
+trojan://PD07395842@13.39.127.43:443?fp=chrome&sni=united-bedbug.rooster465.autos#Khodemoni-275883
+vmess://eyJ2IjoiMiIsInBzIjoiS2hvZGVtb25pLTI3NTgyMiIsImFkZCI6IjE2MS4zMy4xMzkuMTM4IiwicG9ydCI6IjU4OTA1IiwiaWQiOiIxNjEwZjhkYy0wNjYxLTQwMzItYWM2YS1hNzI1MDYwM2Y2MDgiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiMTYxLjMzLjEzOS4xMzgiLCJwYXRoIjoiLzE2MTBmOGRjLTA2NjEtNDAzMi1hYzZhLWE3MjUwNjAzZjYwOC12bSIsInRscyI6Im5vbmUiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIxMDYifQ==
+trojan://NQ26071394@89.39.70.85:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=grateful-bedbug.rooster465.autos#Khodemoni-275452
 vless://e3c56988-5261-400f-b21b-6af5fa6efae1@130.49.185.196:443?security=reality&encryption=none&pbk=4ndg8TcyXMWmnEvthjh9mIWJ9mc85jzy_G9D4D5xGxM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=site.rumedia-cdn.com&sid=808a7e8a2e32c697#Khodemoni-282596
 vless://b05346a9-4d13-41a4-8d2a-6b7b64e73ffc@31.77.131.97:8444?encryption=none&fp=&pbk=DYhUefVTZg0ol7QLdgp6hqcZ_TjIt02uoZk8iQz4WHM&security=reality&serviceName=auragrpc&sid=d6b2e9f1a4c8d3f5&sni=cloudflare.com&type=grpc#Khodemoni-282430
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.36:8080#Khodemoni-274719
