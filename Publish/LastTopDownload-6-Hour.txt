@@ -19,8 +19,6 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.38.252:22223?encryption=none
 vless://d8bedfa3-230a-46ca-8468-9b0a4f4c0859@167.71.32.24:38340?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-286606
 vless://77718c86-89ed-4275-b867-308b5825b8f4@188.245.114.208:15080?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Khodemoni-283741
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.44.226:22223?&type=tcp&headerType=none&path=%2F#Khodemoni-286275
-vless://e4f851c2-69d6-4a8f-83c9-c1a9f78c0f98@91.107.135.249:47677?security=&encryption=none&headerType=none&type=tcp#Khodemoni-286097
-vless://77718c86-89ed-4275-b867-308b5825b8f4@188.245.114.208:15080?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-286096
 vless://35495e54-3b92-4835-9f51-6cba41bacb5e@18.194.175.234:440?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-286561
 vless://01dc2db8-364e-41be-b38c-d198fb779d8f@167.71.45.210:440?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-286546
 vless://7ca39bce-3794-44bb-8478-02a7b0c3ca2a@46.101.124.6:440?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-286540
