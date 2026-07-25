@@ -1,8 +1,6 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.73.247.190:22222?security=none&encryption=none&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&type=tcp#Khodemoni-285357
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.73.247.190:22223?security=none&encryption=none&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&type=tcp#Khodemoni-285358
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.73.247.190:22224?security=none&encryption=none&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&type=tcp#Khodemoni-285356
 ss://YWVzLTI1Ni1nY206WmpjMlpEQmlORE00TXpkaFpXUmtOVEU0TUdNNE9HRXdNREF5WlRRMg@193.176.242.16:11104?prefix=%16%03%01%00%C2%A8%01%01#Khodemoni-285382
-vless://91851181-1804-4692-b702-a05f1b07c589@ziro.moxic.ir:443?security=reality&encryption=none&pbk=nx2_I0Kp2bT05PZRLnVUww-X3npv-MmriAw54nMscy0&headerType=none&fp=chrome&spx=%2F3ec3f0e561250e6&type=tcp&sni=play.google.com&sid=91a4#Khodemoni-285365
 vless://b6749f13-cd63-4bc4-b165-5d120b7a1ff4@tu1.leviko.levikogjgfdd.ir:5039?security=reality&encryption=none&pbk=fv-InxuZSzLlHc83OANs4U2windIUSwPilOpJkMgtW0&host=Telegram-Leviko_v2ray&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=2e8424a2696cb606#Khodemoni-285375
 ss://YWVzLTI1Ni1nY206WWpBNU1qRXhOMkZoWTJZelpUSmtaRFkwTURVd1kyUTJOalV3WW1Rdw@193.176.242.16:9113?prefix=%16%03%01%00%C2%A8%01%01#Khodemoni-285383
 vless://70f28a55-1e6c-4082-aef4-2dc2cfa78fca@uk.levikogjgfdd.ir:2053?mode=gun&security=reality&encryption=none&pbk=GS0dfvzX-bVKBDl2brVxsrE6T2WyXXkfgP3x-mQC7BY&fp=chrome&spx=%2F&type=grpc&serviceName=api.v1.data&sni=play.google.com&sid=524efc1f88592266#Khodemoni-285394
