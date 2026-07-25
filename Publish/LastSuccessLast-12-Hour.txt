@@ -1,3 +1,6 @@
+vless://a1b1567f-3b9d-4717-86b9-6fd30f84226c@openai.com:2053?encryption=none&security=tls&type=xhttp&headerType=none&path=/&host=cdo.jorgotr.ir&mode=auto&sni=cdo.jorgotr.ir#Khodemoni-286702
+vless://29ca503d-e6b8-4509-b666-48133f450857@108.162.195.58:443?path=%2Ffdip%3Dtw.william.us.ci%21txt&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#Khodemoni-286695
+vless://29ca503d-e6b8-4509-b666-48133f450857@108.162.192.161:443?path=%2Ffdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#Khodemoni-286696
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.65.159:22222?encryption=none&security=none&type=tcp#Khodemoni-286697
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.65.159:22224?encryption=none&security=none&type=tcp#Khodemoni-286705
 vmess://eyJhZGQiOiI3NC4yMTEuMTAyLjE3OSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI3ZjVmMDcwNS0zZGZiLTRmNTYtOTY1Ny1jOTVjYWRlMmJhODMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIwMDAxIiwicHMiOiJLaG9kZW1vbmktMjg2NzA4Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
