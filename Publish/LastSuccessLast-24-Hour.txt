@@ -1,3 +1,5 @@
+vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@93.152.205.216:444?sni=web.max.ru&pbk=X-YL5VNtlMNIaBrwaHt3hJCeF_gMT9gPRDDlK1Qg7Tc&security=reality&serviceName=web.max.ru&sid=8321461729abcdef&type=grpc&fp=chrome&mode=gun&encryption=none#Khodemoni-261882
+vless://f14737df-03af-4781-b2e7-b6b6cf64c0ac@2.26.254.62:443?type=grpc&serviceName=grpc-api-v2&encryption=none&security=reality&sni=www.amd.com&pbk=jgf0wWpgkEJZzu9wu45Ms33SNZpibtx507rpvzfz3mQ&sid=635a76c25a4b1820&fp=firefox#Khodemoni-280542
 vless://50414e45-4c5f-5a45-5553-93fbc66f0be1@172.64.34.157:8443?path=%2Fstream%2FPANEL_ZEUS%2F93fbc66f0be1&security=tls&encryption=none&host=z-e-u-s-panel-7z2urx.mohamad2010mk0.workers.dev&fp=android&type=ws&sni=z-e-u-s-panel-7z2urx.mohamad2010mk0.workers.dev#Khodemoni-286361
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.186.209.33:22223?encryption=none&security=none&type=tcp#Khodemoni-286365
 vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@93.152.205.216:444?encryption=none&fp=&pbk=X-YL5VNtlMNIaBrwaHt3hJCeF_gMT9gPRDDlK1Qg7Tc&security=reality&serviceName=web.max.ru&sid=8321461729abcdef&sni=web.max.ru&type=grpc#Khodemoni-276959
