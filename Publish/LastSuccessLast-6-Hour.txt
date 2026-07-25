@@ -1,3 +1,4 @@
+vless://6697e4f1-1f7e-4d29-a275-cc0c2d7764a2@q.bmi.ir.varzesh3.com.de:443?security=reality&alpn=http/1.1&encryption=none&pbk=JtA0d5K6Jnmg35oWP9SDOsc1ceuqaxOsNg33fiPHJQs&host=yahoo.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=e915#Khodemoni-253624
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.72.41:2095?type=ws&host=fuckfangbinxing.pusytroller.gq&path=/#Khodemoni-286922
 vless://2bc72bec-0c2a-4c6b-aa9f-138bfce7ba0d@43.163.241.110:24477?security=&encryption=none&headerType=&type=tcp#Khodemoni-286916
 trojan://Telegram_healer_config@to6r63-kkchighqm2.vxz0dduq7to7su0cdqf.workers.dev:443?path=%2Ftr%2FxwtrOUcg21SS0Ega%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=to6r63-kkchighqm2.vxz0dduq7to7su0cdqf.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=To6R63-kKChiGHqm2.vxz0Dduq7to7Su0CDQf.worKERs.DEV#Khodemoni-286910
@@ -124,7 +125,6 @@ trojan://humanity@172.64.147.183:443?encryption=none&security=tls&sni=www.gossip
 trojan://humanity@162.159.38.119:443?encryption=none&security=tls&sni=www.gossipglove.com&type=ws&host=www.gossipglove.com&path=%2Fassignment#Khodemoni-254780
 trojan://humanity@104.19.229.21:443?type=ws&sni=www.gossipglove.com&path=/assignment?L=tls#Khodemoni-256176
 trojan://humanity@172.64.146.198:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&path=%2Fassignment#Khodemoni-253141
-trojan://humanity@104.18.185.26:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#Khodemoni-259123
 vless://690b6997-198a-49d2-8cef-e4c70efc2288@104.21.75.46:443?security=tls&type=ws&path=/&host=bold-term-2b48.stary3989.workers.dev&packetEncoding=xudp&sni=bold-term-2b48.stary3989.workers.dev&fp=chrome&encryption=none#Khodemoni-258575
 vless://a09b6dfa-e48a-0d75-bcad-df385fa5b73a@64.188.126.226:3468?encryption=none&fp=chrome&pbk=SvSapHrt3EpoN_JcW195G48r5nJVuioGP7LNABKWxG4&security=reality&sid=b6eae5ce&sni=telewebion.ir&type=tcp#Khodemoni-273557
 trojan://IQ68037294@81.28.13.68:443?sni=pet-albacore.rooster465.autos&path=/ #Khodemoni-281459
