@@ -1,6 +1,7 @@
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.254.140.40:8880?security=none&type=ws&path=/?ed=2560&https://t.me/youtube@ZYFXS&host=vms.lifetime54.workers.dev&packetEncoding=xudp&encryption=none#Khodemoni-258325
 vless://d5598622-46b8-b017-3af3-232500000001@104.16.72.101:80?security=none&type=ws&path=%2Fsync&host=nahan-core.netizo09.workers.dev&sni=nahan-core.netizo09.workers.dev&encryption=none#Khodemoni-242181
 vless://6179ce37-97b2-4ac7-9591-b4b2bfaca09d@109.121.44.81:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&security=reality&sid=0a4b7c3d&sni=www.amd.com&type=tcp#Khodemoni-278818
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.csgo.net:2095?security=none&type=ws&path=%2F&host=cnm-fangbinxing-nmsl.fangbinxing-wcnm.workers.dev&allowInsecure=1&fp=randomized#Khodemoni-144600
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@103.133.1.30:8880?security=none&type=ws&path=/&host=vms.lifetime36.workers.dev&packetEncoding=xudp#Khodemoni-258715
 vless://7c6a566b-4c4a-b8f2-1719-a3096b424141@104.21.5.173:8080?security=none&type=ws&path=%2Fsync&host=peekconfigg.vipserver1-39d.workers.dev&sni=peekconfigg.vipserver1-39d.workers.dev#Khodemoni-254844
 vless://b85c8be2-3109-4b8a-aa82-f0d8fe06f5ae@104.18.13.229:8880?security=none&type=ws&path=/pyip=ProxyIP.JP.CMLiussss.net&host=young-dust-b8d9.31-8ba.workers.dev&packetEncoding=xudp#Khodemoni-258359
