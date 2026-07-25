@@ -32,7 +32,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.26:80
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.65.159:22222?encryption=none&security=none&type=tcp#Khodemoni-286697
 vless://76721725-687e-4c0d-b4bc-c783822c38bb@185.118.15.114:443?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-285415
 vless://9fb7bd98-9d35-c441-2394-41aa925804ad@forallpanel.srtongston.ir:8880?encryption=none&security=none&type=httpupgrade&host=wwwuk.mobilex55.com.&path=%2F%3Fed%3D2082#Khodemoni-286454
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSb0drdk1tUXVvOHZKais5MnVGMmNMUFc5Zm1ORXZsNmFsTDBNeUxnZUkwPQ@e3.cover20.ir:56985?type=tcp#Khodemoni-286085
 vless://0108c657-a9bd-4c99-9179-74050cf78889@91.224.87.181:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sellflow.org#Khodemoni-285212
 vless://76721725-687e-4c0d-b4bc-c783822c38bb@185.118.15.114:443/?type=tcp&encryption=none&security=none#Khodemoni-285381
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?mode=stream-one&path=/Join-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&extra={"noGRPCHeader":true,"xmux":{"maxConcurrency":"6","hKeepAlivePeriod":12},"headers":{"User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/101.0.4951.67Safari/537.36"}}&insecure=0&host=static.lotussec.com&fp=chrome&type=xhttp&allowInsecure=0&sni=static.lotussec.com#Khodemoni-274214
