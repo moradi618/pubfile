@@ -1,3 +1,4 @@
+trojan://IQ68037294@109.61.127.205:443?sni=select-marmoset.rooster465.autos&fp=chrome&type=tcp&path=/ #Khodemoni-281301
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.148.104.30:8880?type=ws&host=vms.lifetime51.workers.dev#Khodemoni-142849
 vless://b59f13d6-5e51-4fc4-864d-c6a942b39c86@146.190.174.67:386?security=tls&type=ws&path=/@Marisa_kristi&host=3tmj2egtm-fno.49bnithzk8vphybv36d1z1xkzfvogt2m6.workers.dev&packetEncoding=xudp&sni=3tmj2egtm-fno.49bnithzk8vphybv36d1z1xkzfvogt2m6.workers.dev&fp=chrome&encryption=none#Khodemoni-258738
 vless://0d543aed-4e30-4553-b5ac-211419bb0961@185.128.139.11:18244?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#Khodemoni-279086
