@@ -7,8 +7,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.162:4
 vless://21e22226-0b96-4b4e-9a91-5c7f9e3f1760@145.239.137.250:58748?security=none&type=tcp&headerType=http&path=/&host=e1roj9ul.divarcdn.com,e1roj9ul.alibaba.io,e1roj9ul.splus.io,e1roj9ul.cafebazaar.io,e1roj9ul.yjc.io&packetEncoding=xudp&encryption=none#Khodemoni-258754
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.44.226:22222?encryption=none&security=none&type=tcp#Khodemoni-285745
 vless://b861875e-2a31-4a86-a4aa-9f16838c3d66@110.34.38.23:847?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-285517
-vless://e4f851c2-69d6-4a8f-83c9-c1a9f78c0f98@91.107.135.249:47677?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-285750
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0S1JMKzNWRXNtbzZ1S05EMXB3UTZtK2JhVmRPZ1MzR1oxMW8vd1dLRGJBPQ@e1.cover20.ir:51570?type=tcp#Khodemoni-285264
+vless://e4f851c2-69d6-4a8f-83c9-c1a9f78c0f98@91.107.135.249:47677?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-285750
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.73.247.190:22224?encryption=none&security=none&type=tcp#Khodemoni-285277
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.73.247.190:22222?encryption=none&security=none&type=tcp#Khodemoni-285281
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.229.237:22222?encryption=none&security=none&type=tcp#Khodemoni-283764
