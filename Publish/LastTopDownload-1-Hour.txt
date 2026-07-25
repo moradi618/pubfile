@@ -30,5 +30,6 @@ vmess://eyJ2IjoiMiIsInBzIjoiS2hvZGVtb25pLTI1MzgzNyIsImFkZCI6IjE2MS4zMy4xMzkuMTM4
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.65.159:22222?encryption=none&security=none&type=tcp&headerType=none#Khodemoni-286924
 vless://c9632efd-87f8-4655-ac59-17f3bc444647@64.49.13.91:443?security=reality&encryption=none&pbk=OCR2Jsxytv_7DXaBAs3JgoL2-na-fBlEXEs4AvWM_Ao&host=play.google.com&headerType=none&fp=edge&type=tcp&sni=play.google.com&sid=719eea5118aa0d04#Khodemoni-286941
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@45.158.169.96:2090?type=tcp&security=none#Khodemoni-273929
+vless://784974f6-6289-4988-a51d-7d54f9e6915c@31.77.149.177:1997?mode=auto&path=%2F&security=reality&encryption=none&extra=&pbk=G62WBAi-xUaN8_cArNygz5RQWsljCHOPJlPVMh-Qwm8&fp=chrome&spx=%2F9By7KrDpFTHy869&type=xhttp&sni=www.samsung.com&sid=fa355d1584#Khodemoni-247115
 vless://0108c657-a9bd-4c99-9179-74050cf78889@193.233.255.5:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sellflow.org#Khodemoni-286967
 vless://4e47cb1f-c04e-435f-afc4-66bdcb6704af@cn1.k44lawm.ir:8080?security=reality&encryption=none&pbk=YiTSRYtl4fSP1SJpLbpJE83TR_bTVfBkh9IUqvrjGXw&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=1ee54e39fc1a78a1#Khodemoni-286944
