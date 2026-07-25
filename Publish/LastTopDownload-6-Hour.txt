@@ -13,9 +13,11 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.38.252:22223?encryption=none
 vless://dfe51b07-140f-4255-b584-d42a62a597b2@5.75.196.236:3035?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-286999
 vless://7ca39bce-3794-44bb-8478-02a7b0c3ca2a@209.38.192.134:440?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-286558
 vless://c65380dc-53d6-4a1b-88c6-f77c321410fc@164.90.169.53:27945?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-286552
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.65.159:22224?encryption=none&security=none&type=tcp#Khodemoni-286705
 vless://d8bedfa3-230a-46ca-8468-9b0a4f4c0859@167.71.32.24:38340?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-286606
 vless://01dc2db8-364e-41be-b38c-d198fb779d8f@167.71.45.210:440?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-286546
 vless://7ca39bce-3794-44bb-8478-02a7b0c3ca2a@46.101.124.6:440?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-286540
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.162:443?type=tcp&headerType=none #Khodemoni-279475
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.26:8080#Khodemoni-247846
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.65.159:22222?encryption=none&security=none&type=tcp#Khodemoni-286697
 vless://456af4a7-c076-4369-b1cf-7aa95c69a482@201.79.3.95:57058?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-286542
@@ -33,7 +35,6 @@ vless://326f45c1-0a69-4150-a3b9-42f282a3c34c@185.204.170.235:2053?&security=real
 trojan://Telegram_healer_config@www.speedtest.net:443?path=%2Ftr%2FmPZ7O1CUbIBPGNPZQ2HeV%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=to6r63-kkchighqm2.vxz0dduq7to7su0cdqf.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=TO6R63-KKChIGHQM2.VxZ0DDUq7tO7su0cDqF.WoRKeRs.DeV#Khodemoni-286936
 vless://4ccf70f9-7632-4b5a-9557-10d2dd347bb2@to6r63-kkchighqm2.vxz0dduq7to7su0cdqf.workers.dev:443?path=%2Fvl%2FzhlUKkHT4SNWHmPFOf4cu6%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=to6r63-kkchighqm2.vxz0dduq7to7su0cdqf.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=To6R63-kKChiGHqm2.vxz0Dduq7to7Su0CDQf.worKERs.DEV#Khodemoni-286933
 vless://4ccf70f9-7632-4b5a-9557-10d2dd347bb2@104.21.89.41:443?path=%2Fvl%2FxdgqAmOIkXyYoldvHgzrFBxltKN%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=to6r63-kkchighqm2.vxz0dduq7to7su0cdqf.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=tO6r63-kkChIGHQM2.VxZ0dDUq7To7su0cdqf.wORKeRS.dEV#Khodemoni-286906
-vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@93.152.205.216:444?encryption=none&fp=&pbk=X-YL5VNtlMNIaBrwaHt3hJCeF_gMT9gPRDDlK1Qg7Tc&security=reality&serviceName=web.max.ru&sid=8321461729abcdef&sni=web.max.ru&type=grpc#Khodemoni-276959
 vless://7b81d175-d180-4ec8-bbc5-dfe80e8d3b68@144.31.129.42:443/?type=grpc&encryption=none&flow=&serviceName=nexusGrpc&sni=morphbinerkkw.ru&security=reality&pbk=CxMPFpwhcR9Ocp-Xy_1J08mo-atdHKUf58WLOy_XlgM&sid=d9662905#Khodemoni-274807
 vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@93.152.205.216:444?security=reality&sni=web.max.ru&fp=chrome&pbk=X-YL5VNtlMNIaBrwaHt3hJCeF_gMT9gPRDDlK1Qg7Tc&sid=8321461729abcdef&type=grpc&serviceName=web.max.ru&packetEncoding=xudp&encryption=none#Khodemoni-272617
 vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@93.152.205.216:444?sni=web.max.ru&pbk=X-YL5VNtlMNIaBrwaHt3hJCeF_gMT9gPRDDlK1Qg7Tc&security=reality&serviceName=web.max.ru&sid=8321461729abcdef&type=grpc&fp=chrome&mode=gun&encryption=none#Khodemoni-261882
