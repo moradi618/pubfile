@@ -1,3 +1,5 @@
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@support.cloudflare.com:2095?encryption=none&host=fuckingfangbinxing.cnmfangbinxing-n.workers.dev&path=%2Ffp%3Drandomized&security=none&type=ws#Khodemoni-282798
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@support.cloudflare.com:2095/?type=ws&encryption=none&flow=&host=fuckingfangbinxing.cnmfangbinxing-n.workers.dev&path=%2Ffp#Khodemoni-282797
 vless://66ea0b4c-8c39-4e8b-92f0-0a9065218d37@151.101.56.7:80?&type=ws&headerType=none&host=BankMelat.glObal.ssl.faStly.nEt.&path=%2F#Khodemoni-284869
 vless://ddef628e-e3a8-43c4-85eb-bd767a5f3b13@104.16.72.101:8880?security=none&type=ws&path=%2Fpyip&host=autumn-forest-3479.121-488.workers.dev&packetEncoding=xudp&encryption=none#Khodemoni-282947
 vless://46445435-11cd-47e8-87dc-1acc159fc360@151.101.56.7:80?&type=ws&headerType=none&host=BankMelat.glObal.ssl.faStly.nEt.&path=%2F#Khodemoni-284904
