@@ -1,3 +1,4 @@
+vless://b4025216-e996-7591-2608-e19e00000001@188.114.98.66:80?path=%2Fsync&security=&encryption=none&host=nahan-core.netizo09.workers.dev&type=ws&sni=nahan-core.netizo09.workers.dev#Khodemoni-282518
 trojan://IQ68037294@109.61.127.205:443?sni=select-marmoset.rooster465.autos&fp=chrome&type=tcp&path=/ #Khodemoni-281301
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.148.104.30:8880?type=ws&host=vms.lifetime51.workers.dev#Khodemoni-142849
 vless://b59f13d6-5e51-4fc4-864d-c6a942b39c86@146.190.174.67:386?security=tls&type=ws&path=/@Marisa_kristi&host=3tmj2egtm-fno.49bnithzk8vphybv36d1z1xkzfvogt2m6.workers.dev&packetEncoding=xudp&sni=3tmj2egtm-fno.49bnithzk8vphybv36d1z1xkzfvogt2m6.workers.dev&fp=chrome&encryption=none#Khodemoni-258738
@@ -516,7 +517,6 @@ vless://55d9ec38-1b8a-454b-981a-6acfe8f56d8c@162.159.44.198:443?security=tls&typ
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.158.133.40:8880?security=none&type=ws&path=/?ed=2560&https://t.me/youtube@ZYFXS&host=vms.lifetime58.workers.dev&packetEncoding=xudp#Khodemoni-258288
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@support.cloudflare.com:2095?security=none&type=ws&path=/fp=randomized&host=cnmfangbinxing.cnmfangbinxing-s.workers.dev&packetEncoding=xudp&sni=cnmfangbinxing.cnmfangbinxing-s.workers.dev#Khodemoni-258305
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@108.162.195.30:8880?security=none&type=ws&path=/&host=vms.lifetime58.workers.dev&packetEncoding=xudp&encryption=none#Khodemoni-258596
-trojan://KV63147582@3.76.41.23:443?fp=chrome&security=tls&sni=evolving-baboon.rooster465.autos&type=tcp#Khodemoni-259061
 vless://b7bda73b-9852-480e-86ff-616789593610@172.67.75.55:8443?encryption=none&security=tls&sni=damp-voice-0cd5.qplm2770.workers.dev&type=ws&host=damp-voice-0cd5.qplm2770.workers.dev&path=/proxyip=31.77.161.247,31.57.190.85,208.85.17.114 #Khodemoni-260623
 trojan://Aimer@167.68.4.199:2053?fp=chrome&path=%2F%3Fed%3D2560&proxyip=ts.hpc.tw&security=tls&sni=epge.muarua.filegear-sg.me&type=ws#Khodemoni-258960
 vless://a79ecb50-00cb-428a-8448-3ccc3d045b01@149.5.53.213:56234?security=tls&type=ws&path=/@Marisa_kristi&host=3tmj2egtm-fno.49bnithzk8vphybv36d1z1xkzfvogt2m6.workers.dev&packetEncoding=xudp&sni=3tmj2egtm-fno.49bnithzk8vphybv36d1z1xkzfvogt2m6.workers.dev&fp=chrome#Khodemoni-258783
@@ -541,7 +541,6 @@ vless://a8c23fe7-d2bb-46ba-a14e-8847f1944642@download.yunzhongzhuan.com:8880?pat
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@itarmy.com.ua:2095?security=none&type=ws&path=/fp=randomized&host=cnmfangbinxing.cnmfangbinxing-k.workers.dev&packetEncoding=xudp&encryption=none#Khodemoni-262482
 vless://3666e25b-a1c2-48ec-b060-075392b1aa6e@chatgpt-async-webps-prod-centralus-0.chatgpt.com:443?type=xhttp&encryption=none&path=%2FMeh%3Fdi%3D443&host=GERMAN.sarzamiiinahang.ir&mode=auto&security=tls&fp=chrome&alpn=h2&sni=GERMAN.sarzamiiinahang.ir&allowInsecure=0&insecure=0#Khodemoni-262102
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.148.104.30:8880?encryption=none&host=vms.lifetime51.workers.dev&path=%2F&security=none&type=ws#Khodemoni-262401
-trojan://ON38567014@35.90.87.253:443?sni=harmless-akita.rooster465.autos&path=/ #Khodemoni-261755
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.whatismyip.net:2095?security=none&type=ws&path=%2Ffp%3Drandomized&host=cnmfangbinxing.fangbinxingnmsl-fuckyou.workers.dev&packetEncoding=xudp&sni=cnmfangbinxing.fangbinxingnmsl-fuckyou.workers.dev#Khodemoni-273147
 vless://3cb4c775-bf08-4158-a0e3-cbae9ac452d7@188.114.97.6:8443?path=/sync&security=tls&encryption=none&insecure=0&host=orange-darkness-749f.phantomnettest1-65d.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=orange-darkness-749f.phantomnettest1-65d.workers.dev#Khodemoni-272547
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.170.166.30:8880?type=ws&host=vms.lifetime04.workers.dev&path=/#Khodemoni-262628
