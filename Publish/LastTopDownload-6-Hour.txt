@@ -1,5 +1,4 @@
 ss://YWVzLTI1Ni1nY206YjI0YTgwZTc5Y2VlMWQxZg@195.133.5.207:10210#Khodemoni-289161
-ss://YWVzLTI1Ni1nY206TnpneE56RXdPREZoTlRjd05qTXdaalJoWVRSa00yRXdNR1V5WVRNMw@95.38.186.235:9130#Khodemoni-288582
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.79.88:22224?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-289068
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.34:8080#Khodemoni-241816
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.65.159:22224?encryption=none&security=none&type=tcp#Khodemoni-286705
@@ -34,6 +33,7 @@ vless://45a390ed-0ddb-4dc3-8b5e-2fee9d044665@151.101.194.120:80?encryption=none&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqVlBqeU5HZ09BZnY0YjRlOGRVSzY5M2V0MjdhS2tMSnAxVHhUUlVJZ0hzPQ==@193.111.236.234:16156#Khodemoni-288809
 vless://45a390ed-0ddb-4dc3-8b5e-2fee9d044665@151.101.128.74:80?mode=auto&type=xhttp&host=lowtechdevelopersltd.co.uk&encryption=none&path=%2Fvideo%3Fed%3D1024&security=none&descriptions=люби_себя1cbaf5#Khodemoni-283996
 vless://476708f2-0025-4493-9216-59b1e251c782@151.101.128.74:80?encryption=none&security=none&type=xhttp&host=lowtechdevelopersltd.co.uk&path=%2Fvideo%3Fed%3D1024&mode=auto#Khodemoni-260473
+trojan://%40V2rayShops@85.234.69.86:710?type=ws&path=%40V2rayShops%2C%40V2rayShops%2C%40V2rayShops%2C%40V2rayShops%2C%40V2rayShops%2C%40V2rayShops%2C%40V2rayShops%2C%40V2rayShops&host=play.google.com&security=none#Khodemoni-288584
 vless://0d14ccf3-1f3f-44c6-86d3-f90ca7983cad@hhhh.naxv.ir:45347?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=xhttp&encryption=none&path=/assets&host=myket.ir&mode=stream-up&x_padding_bytes=100-1000&extra={"xPaddingBytes":"100-1000"}&security=none#Khodemoni-287268
 vless://672e23dd-be41-44fc-b606-e6891fee5e6f@167.82.101.210:443?security=tls&type=xhttp&headerType=&path=/&host=farangis.global.ssl.fastly.neT.&mode=auto&extra=%7B%22scMaxEachPostBytes%22:%201000000,%20%22scMaxConcurrentPosts%22:%20100,%20%22scMinPostsIntervalMs%22:%2030,%20%22xPaddingBytes%22:%20%22100-1000%22,%20%22noGRPCHeader%22:%20false%7D&sni=global.fastly.coM.&fp=firefox&alpn=h2,http/1.1&allowInsecure=1#Khodemoni-288944
 vless://45a390ed-0ddb-4dc3-8b5e-2fee9d044665@104.156.85.44:80?encryption=none&security=none&type=xhttp&host=lowtechdevelopersltd.co.uk&path=%2Fvideo%3Fed%3D1024&mode=auto#Khodemoni-240549
