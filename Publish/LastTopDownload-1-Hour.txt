@@ -1,8 +1,6 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.181.207.25:22224?encryption=none&security=none&type=tcp#Khodemoni-289787
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.157.201.235:22222?encryption=none&security=none&type=tcp#Khodemoni-289809
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.157.201.235:22224?encryption=none&security=none&type=tcp#Khodemoni-289806
 vless://e912f8d6-f59a-48b1-b5ad-bbe548d7ebf3@animall-zooke.fardaty.ir:12001?type=raw#Khodemoni-289895
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.181.207.25:22222?encryption=none&security=none&type=tcp#Khodemoni-289788
 trojan://521314@66.81.247.27:443?host=hhtj.hhllfly.kdns.fr&path=%2Fpyip%3DTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws#Khodemoni-289844
 vless://bece874b-e905-48a4-9620-5ef59b49081a@5.175.249.199:52315?path=%2F&security=&encryption=none&type=ws#Khodemoni-289877
 trojan://521314@195.85.59.27:443?host=hhtj.hhllfly.kdns.fr&path=%2Fpyip%3DTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws#Khodemoni-289853
