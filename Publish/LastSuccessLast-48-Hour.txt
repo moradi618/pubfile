@@ -1,3 +1,4 @@
+trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#Khodemoni-064527
 trojan://humanity@172.64.146.143:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#Khodemoni-068130
 vless://8e7ce77a-d889-4dbf-b095-1d0eca88f6dc@upwork.com:8880?encryption=none&type=ws&host=broad-bread-2a6d.433-b9b.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&security=none#Khodemoni-289804
 vless://1ad37675-b4cf-42fa-9dc5-83fd35cd63cb@ad-020.orbitqgr7v.info:8443?&security=tls&fp=chrome&type=ws&headerType=none&host=ad-020.orbitqgr7v.info&path=%2F#Khodemoni-289869
