@@ -13,7 +13,6 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.38.252:22223?encryption=none
 vless://dfe51b07-140f-4255-b584-d42a62a597b2@5.75.196.236:3035?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-286999
 vless://7ca39bce-3794-44bb-8478-02a7b0c3ca2a@209.38.192.134:440?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-286558
 vless://c65380dc-53d6-4a1b-88c6-f77c321410fc@164.90.169.53:27945?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-286552
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.65.159:22224?encryption=none&security=none&type=tcp#Khodemoni-286705
 vless://d8bedfa3-230a-46ca-8468-9b0a4f4c0859@167.71.32.24:38340?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-286606
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.26:8080#Khodemoni-247846
 vless://01dc2db8-364e-41be-b38c-d198fb779d8f@167.71.45.210:440?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-286546
@@ -23,6 +22,7 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.65.159:22222?encryption=none&
 vless://456af4a7-c076-4369-b1cf-7aa95c69a482@201.79.3.95:57058?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-286542
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.34:8080#Khodemoni-241816
 vless://7ca39bce-3794-44bb-8478-02a7b0c3ca2a@64.226.83.9:440?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-286537
+vless://0d14ccf3-1f3f-44c6-86d3-f90ca7983cad@hhhh.naxv.ir:45347?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=xhttp&encryption=none&path=/assets&host=myket.ir&mode=stream-up&x_padding_bytes=100-1000&extra={"xPaddingBytes":"100-1000"}&security=none#Khodemoni-287268
 vless://476708f2-0025-4493-9216-59b1e251c782@151.101.128.74:80?encryption=none&security=none&type=xhttp&host=lowtechdevelopersltd.co.uk&path=%2Fvideo%3Fed%3D1024&mode=auto#Khodemoni-260473
 vless://45a390ed-0ddb-4dc3-8b5e-2fee9d044665@151.101.194.120:80?encryption=none&security=none&type=xhttp&host=lowtechdevelopersltd.co.uk&path=%2Fvideo%3Fed%3D1024&mode=auto#Khodemoni-287146
 vless://45a390ed-0ddb-4dc3-8b5e-2fee9d044665@151.101.128.74:80?encryption=none&security=none&type=xhttp&host=lowtechdevelopersltd.co.uk&path=%2Fvideo%3Fed%3D1024&mode=auto#Khodemoni-281030
@@ -30,7 +30,6 @@ vless://4ccf70f9-7632-4b5a-9557-10d2dd347bb2@172.67.156.87:443?path=%2Fvl%2FVEyi
 vless://45a390ed-0ddb-4dc3-8b5e-2fee9d044665@151.101.128.74:80?descriptions=люби_себя1cbaf5&host=lowtechdevelopersltd.co.uk&path=%2Fvideo%3Fed%3D1024&security=none&encryption=none&mode=auto&type=xhttp&burmalda=1898a3f7#Khodemoni-287145
 trojan://Telegram_healer_config@104.21.89.41:443?path=%2Ftr%2Fj6tUJYR3oc4EhmK7TiULZCYQO%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=to6r63-kkchighqm2.vxz0dduq7to7su0cdqf.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=tO6r63-kkChIGHQM2.VxZ0dDUq7To7su0cdqf.wORKeRS.dEV#Khodemoni-286937
 trojan://Telegram_healer_config@172.67.156.87:443?path=%2Ftr%2Fyqf0HmXRcvB67eWDKZARhVo4Ts4%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=to6r63-kkchighqm2.vxz0dduq7to7su0cdqf.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=tO6R63-kkCHIgHQM2.vXZ0dDUq7to7SU0cdQF.wOrKERS.Dev#Khodemoni-286935
-vless://70f28a55-1e6c-4082-aef4-2dc2cfa78fca@51.68.166.178:2053?mode=gun&security=reality&encryption=none&authority=BIA_TELEGRAM@NexVexo_NexVexo_NexVexo_NexVexo&pbk=GS0dfvzX-bVKBDl2brVxsrE6T2WyXXkfgP3x-mQC7BY&type=grpc&serviceName=api.v1.data&sni=play.google.com&sid=524efc1f88592266#Khodemoni-287211
 trojan://Telegram_healer_config@www.speedtest.net:443?path=%2Ftr%2FmPZ7O1CUbIBPGNPZQ2HeV%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=to6r63-kkchighqm2.vxz0dduq7to7su0cdqf.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=TO6R63-KKChIGHQM2.VxZ0DDUq7tO7su0cDqF.WoRKeRs.DeV#Khodemoni-286936
 vless://4ccf70f9-7632-4b5a-9557-10d2dd347bb2@to6r63-kkchighqm2.vxz0dduq7to7su0cdqf.workers.dev:443?path=%2Fvl%2FzhlUKkHT4SNWHmPFOf4cu6%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=to6r63-kkchighqm2.vxz0dduq7to7su0cdqf.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=To6R63-kKChiGHqm2.vxz0Dduq7to7Su0CDQf.worKERs.DEV#Khodemoni-286933
 vless://7b81d175-d180-4ec8-bbc5-dfe80e8d3b68@144.31.129.42:443/?type=grpc&encryption=none&flow=&serviceName=nexusGrpc&sni=morphbinerkkw.ru&security=reality&pbk=CxMPFpwhcR9Ocp-Xy_1J08mo-atdHKUf58WLOy_XlgM&sid=d9662905#Khodemoni-274807
