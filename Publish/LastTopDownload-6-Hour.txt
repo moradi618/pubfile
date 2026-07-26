@@ -31,7 +31,6 @@ vless://440c0fed-6aa7-4c5b-8e54-5a198712c4e4@147.45.47.28:443?encryption=none&fl
 vless://e51796bb-3305-ac88-f39d-22fd9dd63b4f@130.49.77.3:443?&security=reality&pbk=hwwiWVqYq5b7S0JaXNSxjWSEv_1OUFMaWJGHzeAGyRM&sni=download.nvidia.com&type=xhttp#Khodemoni-286590
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.36:443#Khodemoni-262463
 vless://89912507-a998-4dbb-84f4-c60f4f121ead@turkey-guard.f1-connect.apruxdomain.xyz:25012?type=raw#Khodemoni-288614
-vless://d3946521-aa8d-44f8-93e3-3072e317933c@172.67.187.186:2052?path=%2Fwss&security=none&encryption=none&host=nexo.zandix.ir&type=httpupgrade#Khodemoni-288562
 vless://4b184bbb-c4d6-42ae-b447-aa85d8294967@46.101.160.244:2083?security=tls&type=ws&path=/?ed=2560&host=qeztrg7u.akscasx.workers.dev&packetEncoding=xudp&sni=qeztrg7u.akscasx.workers.dev&fp=chrome&encryption=none#Khodemoni-288166
 vless://0d14ccf3-1f3f-44c6-86d3-f90ca7983cad@hhhh.naxv.ir:45347?mode=stream-up&path=%2Fassets&security=&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=myket.ir&type=xhttp#Khodemoni-287357
 vless://c5db14f6-2a21-401c-8160-a8093ff4ffd3@188.114.97.3:443?encryption=none&type=ws&security=tls&path=%2Fvl%2F14m2B3TtxW5N85ews%3Fed%3D2560&host=mxp6jvjacystdp-s4f.kjnnv3i410u6mq-itd.workers.dev&sni=MxP6JvJACYStDP-s4f.KJNnV3I410u6MQ-ITd.WorkerS.dev&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#Khodemoni-285975
