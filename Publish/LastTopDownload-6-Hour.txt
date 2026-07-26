@@ -30,7 +30,6 @@ vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?Telegram=
 vless://440c0fed-6aa7-4c5b-8e54-5a198712c4e4@147.45.47.28:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp#Khodemoni-287507
 vless://e51796bb-3305-ac88-f39d-22fd9dd63b4f@130.49.77.3:443?&security=reality&pbk=hwwiWVqYq5b7S0JaXNSxjWSEv_1OUFMaWJGHzeAGyRM&sni=download.nvidia.com&type=xhttp#Khodemoni-286590
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.36:443#Khodemoni-262463
-vless://f625f84b-e84c-440e-c746-1964a6c37e5f@91.244.70.41:37721?security=none&type=tcp&headerType=http&path=/&host=ghatreh.io&packetEncoding=xudp#Khodemoni-288098
 vless://89912507-a998-4dbb-84f4-c60f4f121ead@turkey-guard.f1-connect.apruxdomain.xyz:25012?type=raw#Khodemoni-288614
 vless://d3946521-aa8d-44f8-93e3-3072e317933c@172.67.187.186:2052?path=%2Fwss&security=none&encryption=none&host=nexo.zandix.ir&type=httpupgrade#Khodemoni-288562
 vless://4b184bbb-c4d6-42ae-b447-aa85d8294967@46.101.160.244:2083?security=tls&type=ws&path=/?ed=2560&host=qeztrg7u.akscasx.workers.dev&packetEncoding=xudp&sni=qeztrg7u.akscasx.workers.dev&fp=chrome&encryption=none#Khodemoni-288166
