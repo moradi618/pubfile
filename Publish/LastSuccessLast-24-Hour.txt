@@ -540,8 +540,8 @@ ss://6202b230-417c-4d8e-b624-0f71afa9c75d@77.74.228.30:8880?security=none&encryp
 trojan://humanity@chatgpt.com:443/?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com#Khodemoni-109074
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@108.162.195.30:8880?encryption=none&host=vms.lifetime58.workers.dev&security=none&type=ws#Khodemoni-039187
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.142.120.40:8880?encryption=none&type=ws&host=vms.lifetime08.workers.dev&path=/&early_data_header_name=Sec-WebSocket-Protocol&packetEncoding=xudp#Khodemoni-075780
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.142.120.40:8880?encryption=none&security=none&type=ws&host=vms.lifetime08.workers.dev&path=%2F#Khodemoni-088991
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@108.162.195.30:8880?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&host=vms.lifetime58.workers.dev&security=none&type=ws#Khodemoni-064389
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.142.120.40:8880?encryption=none&security=none&type=ws&host=vms.lifetime08.workers.dev&path=%2F#Khodemoni-088991
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@108.162.195.30:8880?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&host=vms.lifetime58.workers.dev&security=none&type=ws#Khodemoni-064379
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@45.85.118.50:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vms.lifetime55.workers.dev&path=%2F&security=none&type=ws#Khodemoni-076549
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@103.169.142.30:8880?type=ws&host=vms.lifetime38.workers.dev&path=#Khodemoni-115420
