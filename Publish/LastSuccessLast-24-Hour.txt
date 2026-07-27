@@ -1,3 +1,4 @@
+trojan://humanity@chatgpt.com:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com&fp=edge#Khodemoni-237345
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.144.82:2095?type=ws&host=fangbinxingnmsl.pusytroller.gq&path=/#Khodemoni-293195
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.71.143:22222?encryption=none&amp;security=none&amp;type=tcp#Khodemoni-293188
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.48.2:22222?encryption=none&amp;security=none&amp;type=tcp#Khodemoni-293186
@@ -355,7 +356,6 @@ vless://adda46c3-eab1-40bc-b88d-6b92c1e8c558@172.66.140.62:8880?security=none&ty
 vless://25844c02-a1fe-43ec-a6b9-44e3bf375b83@104.21.23.72:8880?encryption=none&security=none&type=ws&host=dark-breeze-a59a.494.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net #Khodemoni-234587
 vless://52fb52b1-82de-4c6f-b7d3-599ce5d57f1c@104.18.188.234:8880?encryption=none&security=none&type=ws&host=damp-disk-1ae9.138-c4c.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net #Khodemoni-234637
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@www.speedtest.org:443?path=%2Frsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&fp=firefox&type=ws&allowInsecure=0&sni=shegeftihaaa.net#Khodemoni-234774
-trojan://humanity@chatgpt.com:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com&fp=edge#Khodemoni-237345
 vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@betty.ns.cloudflare.com:443?&security=tls&fp=chrome&sni=terazhediii.info&type=ws&headerType=none&host=terazhediii.info&path=%2Fhdgrbws#Khodemoni-240666
 trojan://521314@104.248.160.220:443?path=%2F&security=tls&insecure=0&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=0&sni=tjplay.lxdxo.kdns.fr#Khodemoni-292423
 vmess://eyJhZGQiOiIxOTIuMjIwLjMyLjIxOSIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJjYzI0NzUxNi1kMmNkLTRhZDQtYTk4NC1jNGFlOGFkOTA3NGEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvY2MyNDc1MTYtZDJjZC00YWQ0LWE5ODQtYzRhZThhZDkwNzRhLXZtIiwicG9ydCI6IjQwOTEzIiwicHMiOiJLaG9kZW1vbmktMjkzMTc2Iiwic2N5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiIsInRlc3RfbmFtZSI6IlVTMyIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
