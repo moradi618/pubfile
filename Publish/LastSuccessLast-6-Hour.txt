@@ -1,3 +1,4 @@
+vless://11d4ee93-6dfa-42c7-b1bb-32f5ef0e43b3@31.77.149.177:1997?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=G62WBAi-xUaN8_cArNygz5RQWsljCHOPJlPVMh-Qwm8&fp=chrome&spx=%2FvpzkBBRLJBZeciW&type=xhttp&sni=www.samsung.com&sid=c94528#Khodemoni-292775
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.18:8080#Khodemoni-173865
 vless://3820aab5-ffaf-43b7-8741-af720c6690a4@31-76-252-48.sslip.io:443?encryption=none&fp=chrome&host=31-76-252-48.sslip.io&path=%2Fyt&security=tls&sni=31-76-252-48.sslip.io&type=ws#Khodemoni-279773
 trojan://humanity@104.18.152.229:443?path=/assignment&security=tls&host=www.ignitelimit.com&fp=chrome&type=ws&sni=www.ignitelimit.com#Khodemoni-133869
@@ -172,7 +173,6 @@ vless://916e3030-6eac-418b-9402-7508ca7d6280@kaoqy-uk-akile.cf.090227.xyz:8443?&
 trojan://521314@5.10.244.27:443?host=hhtj.hhllfly.kdns.fr&path=%2Fpyip%3DTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws#Khodemoni-289228
 vless://65cb3afe-d397-4d4e-ac47-410d64002a9d@31.56.222.208:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=&path=%2Fws&security=tls&sni=&type=ws#Khodemoni-289740
 trojan://521314@91.193.58.31:443?path=%2Fpyip%3DTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&insecure=0&host=hhtj.hhllfly.kdns.fr&type=ws&allowInsecure=0&sni=hhtj.hhllfly.kdns.fr#Khodemoni-291600
-vless://05e698a1-d24f-4eb0-9c48-cb09f1b32ef6@62.238.56.217:41982?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-292135
 vless://a625ba9c-9bfd-44b0-954e-6e88ed1df2cb@chatgpt.com:2053?security=tls&encryption=none&insecure=1&host=noone.bingnet.online&type=ws&allowInsecure=1&sni=noone.bingnet.online#Khodemoni-292211
 vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@jush.sukario.ir:443?path=/adycon&security=tls&encryption=none&insecure=0&host=cdk191fq.amatortortor.info&fp=chrome&type=xhttp&allowInsecure=0&sni=cdk191fq.amatortortor.info#Khodemoni-286170
 vless://23eb25bc-f233-4762-9759-01157944cc29@fr1.bing-net.com:7037?mode=stream-up&path=%2Fapi%2Fstream&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%2B16777216%2C%2B%22scMaxConcurrentPosts%22%3A%2B1024%2C%2B%22scMinPostsIntervalMs%22%3A%2B1%2C%2B%22xPaddingBytes%22%3A%2B%22200-2000%22%2C%2B%22noGRPCHeader%22%3A%2Btrue%7D&pbk=g23nq_R9TIMbMIGQHB6gjDNewFzrHXPcj72bTS-RtX8&fp=chrome&type=xhttp&sni=mdundo.com&sid=6ba85179e30d4fc2#Khodemoni-292530
