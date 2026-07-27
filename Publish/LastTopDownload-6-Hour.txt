@@ -3,7 +3,6 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.17.132:22222?encryption=none&
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.213.86:22223?encryption=none&security=none&type=tcp#Khodemoni-290483
 vless://21e22226-0b96-4b4e-9a91-5c7f9e3f1760@145.239.137.250:58748?security=none&type=tcp&headerType=http&path=/&host=e1roj9ul.divarcdn.com,e1roj9ul.alibaba.io,e1roj9ul.splus.io,e1roj9ul.cafebazaar.io,e1roj9ul.yjc.io&packetEncoding=xudp&encryption=none#Khodemoni-258754
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.213.86:22222?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=tcp&headerType=none#Khodemoni-290635
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.213.86:22223?&type=tcp&headerType=none&path=%2F#Khodemoni-291081
 vless://b05346a9-4d13-41a4-8d2a-6b7b64e73ffc@31.77.131.97:8444?mode=gun&security=reality&encryption=none&pbk=DYhUefVTZg0ol7QLdgp6hqcZ_TjIt02uoZk8iQz4WHM&fp=qq&type=grpc&serviceName=auragrpc&sni=cloudflare.com&sid=d6b2e9f1a4c8d3f5#Khodemoni-277107
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.216:8080#Khodemoni-108635
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.28:8080#Khodemoni-246815
@@ -12,12 +11,12 @@ vmess://eyJhZGQiOiI5MS4xMDcuMTM5LjE4NiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.213.86:22224?type=tcp&encryption=none&security=none&headerType=none#Khodemoni-290498
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080#Khodemoni-108066
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.49:8080#Khodemoni-262454
-vless://3536e1fa-0850-44d1-b123-925ce12476cf@206.71.158.124:443?mode=stream-one&path=%2Fkavir&security=tls&alpn=h2&encryption=none&insecure=0&host=dey.lnmarketplace.net&fp=chrome&type=xhttp&allowInsecure=0&sni=dey.lnmarketplace.net#Khodemoni-236876
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.126.109.238:22223?encryption=none&security=none&type=tcp#Khodemoni-291408
 vless://3536e1fa-0850-44d1-b123-925ce12476cf@206.71.158.124:443?mode=stream-one&path=/kavir/?@VPNine1?ed=2048&security=tls&alpn=h2&encryption=none&insecure=0&host=dey.lnmarketplace.net&fp=chrome&type=xhttp&allowInsecure=0&sni=dey.lnmarketplace.net#Khodemoni-279408
 vless://c5db14f6-2a21-401c-8160-a8093ff4ffd3@188.114.97.3:443?encryption=none&type=ws&security=tls&path=%2Fvl%2F14m2B3TtxW5N85ews%3Fed%3D2560&host=mxp6jvjacystdp-s4f.kjnnv3i410u6mq-itd.workers.dev&sni=MxP6JvJACYStDP-s4f.KJNnV3I410u6MQ-ITd.WorkerS.dev&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#Khodemoni-285975
 vless://76f6b7fe-5de8-4637-87a0-6ddd33d67b3e@cdn-ru4.alohaapp.uk:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=W4xKbDm9tx3ouoUlyGEz1p3Ix_g6uBKCCmsnlzvPzRA&sid=b9f8f9772217538f&sni=cdn-ru4.alohaapp.uk#Khodemoni-285506
 vless://5e243126-4a2a-84b6-782a-73b14797fb5f@170.168.97.3:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=reality&encryption=none&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com#Khodemoni-290938
+vless://11d4ee93-6dfa-42c7-b1bb-32f5ef0e43b3@31.77.149.177:1997?encryption=none&extra=%7B%22mode%22:%22auto%22,%22xPaddingBytes%22:%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=/&pbk=G62WBAi-xUaN8_cArNygz5RQWsljCHOPJlPVMh-Qwm8&security=reality&sid=71607c0fba717d33&sni=www.samsung.com&spx=/gtUSxRCnqGwsZ09&type=xhttp&x_padding_bytes=100-1000#Khodemoni-283455
 vless://e51796bb-3305-ac88-f39d-22fd9dd63b4f@170.168.99.3:443?encryption=none&type=xhttp&security=reality&path=%2F&mode=auto&sni=cdn.steamstatic.com&fp=chrome&insecure=1&allowInsecure=1&pbk=R8Mogel1wypEIpcUXnGmG1cuzT9POghNhqJcw4-CLx0#Khodemoni-283151
 vless://81ec970c-cf65-442b-a152-aabac5d6fbd3@snapp.ir:2095?encryption=none&security=none&type=ws&host=pNL.paMSam.iR&path=/v3rbuify.yinte.ir.shop.com?ed=2560#Khodemoni-291151
 vless://5e243126-4a2a-84b6-782a-73b14797fb5f@89.47.55.3:8443?encryption=none&security=reality&sni=dl.google.com&fp=chrome&pbk=iVDh09Vm2DqZMNQoUdf-LCZ6TqVGb9mLXnClAK2LRj4&type=grpc&authority=&serviceName=TunService&mode=gun#Khodemoni-291132
