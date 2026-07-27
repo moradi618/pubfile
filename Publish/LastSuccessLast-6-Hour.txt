@@ -1,3 +1,13 @@
+vless://431fe973-a43a-4fac-bf83-2a772e0d0625@14.137.238.17:10000?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=tcp#Khodemoni-290933
+vless://5e243126-4a2a-84b6-782a-73b14797fb5f@170.168.97.3:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=reality&encryption=none&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com#Khodemoni-290938
+vless://Telegramjoin%3ATurboConfigs@104.253.79.163:443?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-290936
+trojan://humanity@172.67.180.92:443?encryption=none&security=tls&sni=www.multiplydose.com&type=ws&host=www.multiplydose.com&path=%2Fassignment#Khodemoni-225123
+vless://875d3876-ab9a-4dd6-8a8d-bf57f03403aa@104.26.13.40:8880?encryption=none&host=square-sea-01d1.339-be3.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&security=none&type=ws#Khodemoni-221059
+trojan://humanity@172.64.147.224:443?security=tls&sni=www.gossipglove.com&insecure=1&allowInsecure=1&type=ws&host=www.gossipglove.com&path=%2Fassignment#Khodemoni-241509
+vless://dd2952d5-2bc6-40c8-8a82-6dc00fe5105c@cloudflare-ech.com:8880?security=none&type=ws&path=/pyip=ProxyIP.SG.CMLiussss.net&host=nameless-shape-271e.321-5f5.workers.dev&packetEncoding=xudp#Khodemoni-258638
+vmess://eyJhZGQiOiJjZ3JvdXAubm9kZTUudi5ub2RlbGlzdC1haXJwb3J0LmNvbSIsImFpZCI6MCwiaG9zdCI6ImNncm91cC5ub2RlNS52Lm5vZGVsaXN0LWFpcnBvcnQuY29tIiwiaWQiOiI2NWJjNjIwNi1lZThlLTQ1OGItODIzYy05MWRlOGE4ZGZmMTAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6MzI3MzUsInBzIjoiS2hvZGVtb25pLTI3Njg3NCIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJhdXRvIn0=
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@docs.cloudflare.com:2095?security=none&type=ws&path=/fp=chrome&host=cnmfangbinxing.fangbinxingnmsl-fuckyou.workers.dev&packetEncoding=xudp&sni=cnmfangbinxing.fangbinxingnmsl-fuckyou.workers.dev#Khodemoni-278880
+trojan://IQ68037294@35.180.10.212:443?sni=firm-warthog.rooster465.autos#Khodemoni-282377
 vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@45.130.125.162:2053?path=%2F&security=tls&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=po.fastbrokencompony.com#Khodemoni-253353
 vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@chatgpt.com:2053?encryption=none&fp=chrome&host=ov.iran-servers.shop&path=%2FJ5aLQOY1R9ONWYCM&security=tls&sni=ov.iran-servers.shop&type=ws#Khodemoni-286481
 trojan://IQ68037294@13.39.89.72:443?sni=definite-giraffe.rooster465.autos&type=tcp&path=/ #Khodemoni-281320
