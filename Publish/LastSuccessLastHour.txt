@@ -1,3 +1,4 @@
+vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@45.130.125.162:2053?path=%2F&security=tls&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=po.fastbrokencompony.com#Khodemoni-253353
 vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@chatgpt.com:2053?encryption=none&fp=chrome&host=ov.iran-servers.shop&path=%2FJ5aLQOY1R9ONWYCM&security=tls&sni=ov.iran-servers.shop&type=ws#Khodemoni-286481
 trojan://IQ68037294@13.39.89.72:443?sni=definite-giraffe.rooster465.autos&type=tcp&path=/ #Khodemoni-281320
 trojan://humanity@104.18.32.47:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#Khodemoni-108472
@@ -68,16 +69,3 @@ vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?fp=chrome#K
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&type=tcp#Khodemoni-250476
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&security=&flow=&fp=chrome&insecure=1#Khodemoni-250357
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&security=none&encryption=none&fp=chrome&sni=fn.fifapes.monster#Khodemoni-248557
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&type=tcp&packetEncoding=xudp&sni=/&encryption=none#Khodemoni-262464
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&security=none&fp=chrome&type=tcp&headerType=none#Khodemoni-275974
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&security=none&sni=%2F%3F&type=tcp&headerType=none#Khodemoni-273931
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#Khodemoni-280817
-vless://0d543aed-4e30-4553-b5ac-211419bb0961@185.128.139.11:18244?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#Khodemoni-279086
-vless://0d543aed-4e30-4553-b5ac-211419bb0961@185.128.139.11:18244?security=none&encryption=none&host=/?BIA_TELEGRAM@VPNine1&headerType=none&type=tcp#Khodemoni-279185
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?sni=%2F%3F#Khodemoni-279531
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#Khodemoni-279628
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&type=tcp&headerType=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI#Khodemoni-279876
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&amp;security=none&amp;type=tcp#Khodemoni-281672
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=&amp;encryption=none&amp;host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&amp;headerType=none&amp;type=tcp#Khodemoni-282234
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&headerType=none&type=tcp#Khodemoni-281125
-vless://0d543aed-4e30-4553-b5ac-211419bb0961@185.128.139.11:18244?security=&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#Khodemoni-285413
