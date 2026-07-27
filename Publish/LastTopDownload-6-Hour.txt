@@ -17,7 +17,6 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.195.2.243:22224?encryption=none&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:8080#Khodemoni-257130
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoN2JXY0N0VFZYdVptZ2RLTGRLSjJ4ZmRVUldDNHc5Tg==@coco2.farajet.net:2020#Khodemoni-292142
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.1.105:22223?encryption=none&security=none&type=tcp&headerType=none#Khodemoni-292225
-vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?encryption=none&security=none&type=ws&host=azsv1.drpingservice.com&path=%2F#Khodemoni-081861
 vless://910c8f86-451c-48ad-96c7-bec1ed779c9e@best.kovira2.ir:443?encryption=none&security=none&type=tcp&headerType=http&host=google.com&path=%2F#Khodemoni-292405
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.71.143:22223?encryption=none&security=none&type=tcp#Khodemoni-292790
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.81.227:22222?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-291956
