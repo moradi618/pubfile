@@ -4,6 +4,7 @@ vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?path=%2F%3FTEL
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.1.105:22223?&type=tcp&headerType=none&path=%2F #Khodemoni-292736
 vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?encryption=none&security=none&type=ws&host=azsv1.drpingservice.com&path=%2F#Khodemoni-081861
 vless://3d1f783b-ef28-4a6b-aee3-3775acf1cf72@sb.mokavosh.ir:443?encryption=none&security=none&type=tcp#Khodemoni-292756
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.18:8080#Khodemoni-173865
 vless://de17a7f2-3071-467e-9e19-c6f9f6891475@xn--dash-4o53c.xn--ir-nz82a.netbazshop.ir:2095?security=none&host=play.google.com&type=tcp&headerType=http&encryption=none#Khodemoni-292750
 vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?encryption=none&type=ws&path=%2F&host=azsv1.drpingservice.com#Khodemoni-082627
 vless://ef340ab7-b1a5-a3de-cdcd-5e5d4f2cf9fd@83.228.251.208:3468?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=reality&sni=www.telewebion.ir&fp=chrome&pbk=SvSapHrt3EpoN_JcW195G48r5nJVuioGP7LNABKWxG4&sid=b6eae5ce&type=tcp&headerType=none#Khodemoni-290628
