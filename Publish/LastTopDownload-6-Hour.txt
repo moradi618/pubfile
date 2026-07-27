@@ -4,6 +4,7 @@ vmess://eyJhZGQiOiI5MS4xMDcuMTM5LjE4NiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 vless://21e22226-0b96-4b4e-9a91-5c7f9e3f1760@145.239.137.250:58748?security=none&type=tcp&headerType=http&path=/&host=e1roj9ul.divarcdn.com,e1roj9ul.alibaba.io,e1roj9ul.splus.io,e1roj9ul.cafebazaar.io,e1roj9ul.yjc.io&packetEncoding=xudp&encryption=none#Khodemoni-258754
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.17.132:22222?security=&encryption=none&headerType=none&type=tcp#Khodemoni-290784
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.213.86:22224?encryption=none&security=none&type=tcp#Khodemoni-290485
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.162:443? #Khodemoni-291229
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.17.132:22222?encryption=none&amp;security=none&amp;type=tcp#Khodemoni-290515
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.213.86:22224?type=tcp&encryption=none&security=none&headerType=none#Khodemoni-290498
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.17.132:22222?encryption=none&security=none&type=tcp#Khodemoni-290363
