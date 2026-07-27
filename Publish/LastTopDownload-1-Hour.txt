@@ -1,4 +1,5 @@
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@support.cloudflare.com:2095?encryption=none&type=ws&fp=randomized&path=%252F&host=cnmfangbinxing.fangbinxing-nmsl-cnm.workers.dev#Khodemoni-260554
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@5.178.96.226:2090?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-283460
 vless://6179ce37-97b2-4ac7-9591-b4b2bfaca09d@109.121.44.81:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&security=reality&sid=0a4b7c3d&sni=www.amd.com&type=tcp#Khodemoni-278818
 vless://f4e63d7d-e6b9-42f9-a1ac-453bae2d9a1c@167.82.101.210:443?security=tls&type=xhttp&headerType=&path=/&host=farangis.global.ssl.fastly.neT.&mode=auto&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&sni=global.fastly.coM.&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#Khodemoni-290898
 vless://Telegramjoin%3ATurboConfigs@104.253.79.163:443?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-290936
