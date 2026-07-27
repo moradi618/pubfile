@@ -1,3 +1,5 @@
+trojan://521314@104.16.97.215:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&host=tjplay.lxdxo.kdns.fr&path=Telegram&sni=tjplay.lxdxo.kdns.fr&type=ws#Khodemoni-293501
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206eHlsdGt1YUxncjMyNnByeDZWOGp1cUgzYldrNmpKSWVQNDViN3NQVDhyUT06Y2dEVUUweUN2QnErL0ZiY1V5OC9lMm5YVHRnVjl1Ym5uRGRWbzFhd0lUVT0@46.226.166.205:45811? #Khodemoni-293562
 vless://0d543aed-4e30-4553-b5ac-211419bb0961@185.128.139.11:18244?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#Khodemoni-279282
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@mfa.gov.ua:2087?security=tls&type=ws&path=/&host=fx3l5i2wdfxln0.fx6hsv0.ccwu.cc&packetEncoding=xudp&sni=fx3l5i2wdfxln0.fx6hsv0.ccwu.cc&fp=chrome#Khodemoni-287907
 vless://85329505-90c2-43d1-9c4a-689b1a0be884@147.45.47.34:443?encryption=none&security=reality&type=tcp&sni=abuse.sellflow.org&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#Khodemoni-288632
