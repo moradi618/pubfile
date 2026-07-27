@@ -1078,8 +1078,8 @@ vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@162.159.38.119:443?path=%2Frdfgtws&
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.5.231:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#Khodemoni-189540
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@yx.cloudflare.182682.xyz:443?path=%2F&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#Khodemoni-187898
 vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?security=tls&encryption=none&insecure=1&host=%2F&headerType=none&type=tcp&allowInsecure=1&sni=186.190.211.188#Khodemoni-187893
-trojan://humanity@141.193.213.10:443?sni=www.calmloud.com&type=ws&path=%2Fassignment&alpn=http%2F1.1&fp=chrome#Khodemoni-194078
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.44.180:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=/#Khodemoni-192661
+trojan://humanity@141.193.213.10:443?sni=www.calmloud.com&type=ws&path=%2Fassignment&alpn=http%2F1.1&fp=chrome#Khodemoni-194078
 vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?type=tcp&security=tls&encryption=none&sni=186.190.211.188&allowInsecure=1#Khodemoni-189620
 trojan://humanity@172.66.44.211:443?sni=www.multiplydose.com&type=ws&path=%2Fassignment&fp=chrome#Khodemoni-194136
 trojan://humanity@172.64.147.166:443?sni=www.multiplydose.com&type=ws&path=%2Fassignment&fp=chrome#Khodemoni-194101
