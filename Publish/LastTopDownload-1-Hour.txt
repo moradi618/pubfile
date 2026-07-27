@@ -1,6 +1,5 @@
 vless://b05346a9-4d13-41a4-8d2a-6b7b64e73ffc@31.77.131.97:8444?mode=gun&security=reality&encryption=none&pbk=DYhUefVTZg0ol7QLdgp6hqcZ_TjIt02uoZk8iQz4WHM&fp=chrome&type=grpc&serviceName=auragrpc&sni=cloudflare.com&sid=d6b2e9f1a4c8d3f5#Khodemoni-277529
 vless://817c009c-bfaa-47b4-b5b8-2930f83568ca@31.76.50.107:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=musicboss.eu&fp=firefox&pbk=QQZQVGy8uV4JSgPJ6a8jA56bptsSifntKDJjhSvOl2I&sid=197e9c7abe&type=tcp&headerType=none#Khodemoni-293244
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@84.247.48.78:1080? #Khodemoni-293168
 vless://817c009c-bfaa-47b4-b5b8-2930f83568ca@153.76.117.97:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=musicboss.eu&fp=firefox&pbk=QQZQVGy8uV4JSgPJ6a8jA56bptsSifntKDJjhSvOl2I&sid=197e9c7abe&type=tcp&headerType=none#Khodemoni-293351
 vless://5c2a674b-bf9d-4461-b56d-a9c2bc299d9a@5.254.121.199:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdn4-81.yahoo.com&fp=firefox&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=42e51b053eec3700&type=tcp&headerType=none#Khodemoni-293367
 vless://5c2a674b-bf9d-4461-b56d-a9c2bc299d9a@5.254.121.177:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=8015c191d21aa452&sni=cdn4-81.yahoo.com#Khodemoni-293366
