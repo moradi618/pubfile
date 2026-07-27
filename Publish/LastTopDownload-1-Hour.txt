@@ -1,7 +1,6 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:8080? #Khodemoni-291230
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.162:443? #Khodemoni-291229
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.216:8080? #Khodemoni-291228
-vless://df301b32-1152-4526-9a63-beedd93d3156@104.17.129.186:80?type=ws&host=vl.dalazhi.cloudns.biz&path=%2F%3Fed%3D2048#Khodemoni-221604
 vless://c20c6ab3-0495-48e3-bf01-77144b2a89c1@113.30.191.181:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/ranking/help/downloads?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=jacbgoff.davdlpck1znnhvqh64hl.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=jacbgoff.davdlpck1znnhvqh64hl.workers.dev#Khodemoni-289775
 vless://56eba3f8-94f8-48f2-920b-d79bb042d0bb@104.16.107.139:8880?path=/pyip=ProxyIP.SG.CMLiussss.net&security=&encryption=none&host=lingering-glade-21ce.61-b6f.workers.dev&type=ws#Khodemoni-195210
 vless://248b7825-58e7-41cc-899f-95e573e0127b@104.17.58.113:8880?security=none&type=ws&path=/pyip=ProxyIP.US.CMLiussss.net&host=dry-violet-d6e0.38-431.workers.dev&packetEncoding=xudp#Khodemoni-258334
