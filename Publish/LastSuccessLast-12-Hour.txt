@@ -1,3 +1,9 @@
+ss://6202b230-417c-4d8e-b624-0f71afa9c75d@chat.openai.com:8880?path=%2F&security=none&encryption=none&host=vms.lifetime29.workers.dev&type=ws#Khodemoni-074142
+ss://6202b230-417c-4d8e-b624-0f71afa9c75d@45.142.120.40:8880?encryption=none&type=ws&host=vms.lifetime08.workers.dev&path=/&early_data_header_name=Sec-WebSocket-Protocol&packetEncoding=xudp#Khodemoni-075795
+vless://530868e7-d788-4595-b2d6-6a40c098164d@themeforest.net:8880?type=ws&host=crimson-sea-a4bb.343-1a7.workers.dev&path=/pyip=ProxyIP.JP.CMLiussss.net#Khodemoni-242156
+trojan://988sR-269PKCKlb&3pMrFTEr@jquery.com:443?alpn=http%2F1.1&fp=chrome&path=%2FeyJqdW5rIjoicGpncHl4eVZoSnZQcFRTIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&security=tls&sni=LetiRanbrEaTh-7RrkEvFu2HJBIs5UHCXWztz24T5Vp6trF1oka8Dkrw0n.HE3fmQ6z0mfSZSK3Xy2E.wOrkers.deV&type=ws#Khodemoni-258969
+vless://530868e7-d788-4595-b2d6-6a40c098164d@themeforest.net:8880?security=none&type=ws&path=/pyip=ProxyIP.JP.CMLiussss.net&host=crimson-sea-a4bb.343-1a7.workers.dev&packetEncoding=xudp#Khodemoni-262773
+vless://530868e7-d788-4595-b2d6-6a40c098164d@themeforest.net:8880?type=ws&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&host=crimson-sea-a4bb.343-1a7.workers.dev&sni=themeforest.net&fp=chrome#Khodemoni-275242
 trojan://humanity@188.114.97.7:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment#Khodemoni-256155
 vless://b97e287f-a24e-4028-a103-7e7ecef83139@br.muzon.to:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=chrome&pbk=Jg7t1GwxpS4fhsYzqgz37zlQRSd8YAHECtgdGFDrnDc&sid=9b0c1d2e&spx=%2F&type=tcp&headerType=none#Khodemoni-287125
 trojan://NQ26071394@89.39.70.85:443?security=tls&sni=grateful-bedbug.rooster465.autos&path=/ #Khodemoni-261656
