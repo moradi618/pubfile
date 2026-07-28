@@ -1,3 +1,4 @@
+vless://b97e287f-a24e-4028-a103-7e7ecef83139@br.muzon.to:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=chrome&pbk=Jg7t1GwxpS4fhsYzqgz37zlQRSd8YAHECtgdGFDrnDc&sid=9b0c1d2e&spx=%2F&type=tcp&headerType=none#Khodemoni-287125
 trojan://NQ26071394@89.39.70.85:443?security=tls&sni=grateful-bedbug.rooster465.autos&path=/ #Khodemoni-261656
 trojan://IQ68037294@193.169.239.162:443?sni=distinct-ibex.rooster465.autos&fp=chrome&type=tcp&path=/ #Khodemoni-281339
 trojan://Telegram_healer_config@to6r63-kkchighqm2.vxz0dduq7to7su0cdqf.workers.dev:443?path=%2Ftr%2FxwtrOUcg21SS0Ega%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=to6r63-kkchighqm2.vxz0dduq7to7su0cdqf.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=To6R63-kKChiGHqm2.vxz0Dduq7to7Su0CDQf.worKERs.DEV#Khodemoni-286910
