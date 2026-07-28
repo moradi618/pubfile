@@ -1,3 +1,4 @@
+trojan://humanity@188.114.97.7:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment#Khodemoni-256155
 vless://b97e287f-a24e-4028-a103-7e7ecef83139@br.muzon.to:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=chrome&pbk=Jg7t1GwxpS4fhsYzqgz37zlQRSd8YAHECtgdGFDrnDc&sid=9b0c1d2e&spx=%2F&type=tcp&headerType=none#Khodemoni-287125
 trojan://NQ26071394@89.39.70.85:443?security=tls&sni=grateful-bedbug.rooster465.autos&path=/ #Khodemoni-261656
 trojan://IQ68037294@193.169.239.162:443?sni=distinct-ibex.rooster465.autos&fp=chrome&type=tcp&path=/ #Khodemoni-281339
@@ -89,7 +90,6 @@ vless://3087ca05-1a7c-45fa-aec9-805adeaedb1b@162.159.252.211:80?security=none&ty
 vless://d028eaf5-c5ef-49a0-85c6-4f4816af8053@104.27.68.164:2086?security=none&type=ws&path=/eyJqdW5rIjoiZUJZR2pXVFByVyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjEwOS4xMjAuMTU4LjE0OSJdfQ==?ed=2560&host=misty-bread-fd96.salehinezhadali.workers.dev&packetEncoding=xudp&encryption=none#Khodemoni-258460
 vless://be2bcd98-0ecc-000a-aa1a-b453a1878393@45.145.6.247:443?security=reality&encryption=none&pbk=sYDQC1RUZKqtJau7wrl-i5yAYy613d9e72FRGAwvYUM&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=s3-fi-1.rucdn777.com#Khodemoni-260350
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@support.cloudflare.com:2095?encryption=none&type=ws&fp=randomized&path=%252F&host=cnmfangbinxing.fangbinxing-nmsl-cnm.workers.dev#Khodemoni-260554
-trojan://IQ68037294@35.180.10.212:443?sni=firm-warthog.rooster465.autos#Khodemoni-282377
 vless://29ca503d-e6b8-4509-b666-48133f450857@developers.cloudflare.com:443?security=tls&type=ws&path=/fdip=tw.william.us.ci!txt&host=learn00.evany.de5.net&packetEncoding=xudp&sni=learn00.evany.de5.net&fp=random#Khodemoni-287988
 vless://85da2b09-1a08-4dac-9ef0-888138b11703@217.149.19.15:23344?&type=tcp&headerType=none&path=%2F#Khodemoni-287365
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@89.116.250.135:443?path=%2Frdfgtws%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D211&security=tls&encryption=none&insecure=1&host=vangoghhh.info&type=ws&allowInsecure=1&sni=vangoghhh.info#Khodemoni-291093
