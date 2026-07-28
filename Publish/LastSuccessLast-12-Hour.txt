@@ -1,3 +1,4 @@
+trojan://humanity@188.114.97.7:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment#Khodemoni-256155
 vless://b97e287f-a24e-4028-a103-7e7ecef83139@br.muzon.to:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=chrome&pbk=Jg7t1GwxpS4fhsYzqgz37zlQRSd8YAHECtgdGFDrnDc&sid=9b0c1d2e&spx=%2F&type=tcp&headerType=none#Khodemoni-287125
 trojan://NQ26071394@89.39.70.85:443?security=tls&sni=grateful-bedbug.rooster465.autos&path=/ #Khodemoni-261656
 trojan://IQ68037294@193.169.239.162:443?sni=distinct-ibex.rooster465.autos&fp=chrome&type=tcp&path=/ #Khodemoni-281339
