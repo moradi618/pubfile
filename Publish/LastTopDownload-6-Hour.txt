@@ -8,6 +8,7 @@ vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.207:443?type=tcp&securit
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.146:443?type=tcp&security=reality&sni=storage.yandex.net&fp=firefox&flow=xtls-rprx-vision&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5#Khodemoni-287436
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.225:443?type=tcp&security=reality&sni=storage.yandex.net&fp=firefox&flow=xtls-rprx-vision&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5#Khodemoni-287464
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.174:443?type=tcp&security=reality&sni=storage.yandex.net&fp=firefox&flow=xtls-rprx-vision&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5#Khodemoni-287446
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.48:8080#Khodemoni-249421
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:443#Khodemoni-260729
 vless://1b73f053-2709-4698-bbec-cb20e8a5f288@gov-eu.viranix.ir:3031?security=&encryption=none&headerType=http&type=tcp#Khodemoni-291565
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.172:443?type=tcp&security=reality&sni=storage.yandex.net&fp=firefox&flow=xtls-rprx-vision&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5#Khodemoni-287445
