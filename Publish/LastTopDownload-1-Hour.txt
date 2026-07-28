@@ -22,6 +22,7 @@ vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@31.43.191.99:443?type=tcp&security=
 vless://500cdc83-b189-4d79-b06b-139c7972a57f@91.107.139.186:50417?&type=tcp&headerType=none&path=%2F#Khodemoni-289163
 vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@45.143.201.8:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M&sni=hasty-dolphin.cdn.cachefleet.com#Khodemoni-294053
 vless://1f29762d-3f23-4207-9e39-f774de5d49ba@64.188.83.94:8443?type=grpc&headerType=none&security=none&encryption=none&serviceName=grpc#Khodemoni-294028
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.csgo.net:2095?security=none&type=ws&path=%2F&host=cnm-fangbinxing-nmsl.fangbinxing-wcnm.workers.dev&allowInsecure=1&fp=randomized#Khodemoni-144600
 vless://5c7a171d-de8a-446d-accc-4d3cf7d473f4@www.zsu.gov.ua:8880?security=none&type=ws&path=/pyip=ProxyIP.SG.CMLiussss.net&host=purple-forest-b185.467.workers.dev&packetEncoding=xudp#Khodemoni-288062
 vless://784974f6-6289-4988-a51d-7d54f9e6915c@31.77.149.177:1997?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=G62WBAi-xUaN8_cArNygz5RQWsljCHOPJlPVMh-Qwm8&fp=chrome&spx=%2Fyl178Tplf8CQEky&type=xhttp&sni=www.samsung.com&sid=71607c0fba717d33#Khodemoni-280696
 vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@45.143.201.8:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=random&pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M&sni=hasty-dolphin.cdn.cachefleet.com#Khodemoni-294055
