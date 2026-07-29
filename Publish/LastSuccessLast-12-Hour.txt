@@ -1,3 +1,4 @@
+trojan://humanity@www.speedtest.org:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=%2Fassignment#Khodemoni-085428
 vless://6bd7815d-9fb0-41c6-87ef-ffc713bf6b8f@151.101.193.54:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=&encryption=none&host=BankMelat.glObal.ssl.faStly.nEt.&type=ws#Khodemoni-306947
 vless://7b102311-43fd-4e8f-877e-8090623c101d@57.128.180.80:443?&security=tls&fp=chrome&packet-encoding=xudp&sni=vp58.cc.cd&type=ws&headerType=none&host=vp58.cc.cd&path=/Telegram#Khodemoni-306981
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.41:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&host=de.vpnbase.net&security=none&path=/http&encryption=none&type=ws#Khodemoni-306970
@@ -83,7 +84,6 @@ vless://deb9c015-1ffe-4e41-9d21-310eb0422a4c@5.180.173.248:25198?encryption=none
 vless://dcc6be8d-1774-4576-afa4-f708f31c213f@176.124.222.180:34393?encryption=none&security=reality&sni=www.oracle.com&fp=chrome&pbk=_oo0qTCCKKT4vF6DVV9Fr2ymLOjbOaOSO_tBqMynnCU&sid=3bf2ed6e&spx=/&type=tcp&headerType=none#Khodemoni-295801
 vless://c576df4e-658d-419c-ac1b-764b0a1f9694@176.124.222.180:34515?encryption=none&security=reality&sni=www.icloud.com&fp=chrome&pbk=bBdEeLwLFD6--2VA_YvHtjAhlgwFGFUldMoujeSeynE&sid=04c2&spx=/&type=tcp&headerType=none#Khodemoni-295802
 trojan://521314@104.16.97.215:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&host=tjplay.lxdxo.kdns.fr&path=Telegram🇨🇳&sni=tjplay.lxdxo.kdns.fr&type=ws#Khodemoni-293502
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.233.228:62145?&type=tcp&headerType=none&path=%2F#Khodemoni-295742
 vless://884d811f-577b-421e-aabb-608660b0ecfa@31.77.169.70:9830?encryption=none&security=reality&sni=dl.google.com&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&type=grpc&authority=&serviceName=grpc-tunnel&mode=gun&fp=firefox#Khodemoni-293226
 vless://714443cb-5216-43ca-8d52-1044e9ad02da@176.124.222.180:46163?encryption=none&security=reality&sni=www.intel.com&fp=chrome&pbk=9wmuhvW_EtLAavWVenCWCefkktqnIriih1uToOp09F0&sid=d6c0&spx=/&type=tcp&headerType=none#Khodemoni-295794
 vless://2ea8103d-a7aa-4e70-b910-e7b124c564d1@176.124.222.180:17817?encryption=none&security=reality&sni=www.icloud.com&fp=chrome&pbk=vc6cljum-VhwR0m_PeuMON2IvTqGOHTYE67wuMFg1nc&sid=f5&spx=/&type=tcp&headerType=none#Khodemoni-295793
@@ -151,7 +151,6 @@ vless://532a9115-aee7-4d39-9638-1e5146de075b@172.67.215.39:443/?type=ws&encrypti
 vless://d028eaf5-c5ef-49a0-85c6-4f4816af8053@188.114.98.215:2086/?path=%2FeyJqdW5rIjoiZUJZR2pXVFByVyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjEwOS4xMjAuMTU4LjE0OSJdfQ%3D%3D%3Fed%3D2560&security=&encryption=none&host=misty-bread-fd96.salehinezhadali.workers.dev&type=ws#Khodemoni-010600
 vless://d028eaf5-c5ef-49a0-85c6-4f4816af8053@104.17.33.116:2086/?encryption=none&type=ws&path=%2FeyJqdW5rIjoiZUJZR2pXVFByVyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjEwOS4xMjAuMTU4LjE0OSJdfQ%3D%3D%3Fed%3D2560&host=misty-bread-fd96.salehinezhadali.workers.dev#Khodemoni-010370
 trojan://humanity@216.24.57.1:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&ech=54.mk%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.creationlong.org#Khodemoni-063879
-trojan://humanity@www.speedtest.org:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=%2Fassignment#Khodemoni-085428
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.53.53.30:8880?type=ws&host=vms.lifetime51.workers.dev&path=/#Khodemoni-087830
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@194.53.53.30:8880?type=ws&host=vms.lifetime51.workers.dev&path=/#Khodemoni-087842
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.30.30:8880/?type=ws&encryption=none&flow=&host=vms.lifetime28.workers.dev&path=%2F#Khodemoni-091063
