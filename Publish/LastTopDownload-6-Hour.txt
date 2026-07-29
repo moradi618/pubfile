@@ -1,11 +1,11 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppek42emdna0lBZFZ0Q3hRUU05K2ZYSlh6aUlDbW9hZkpMWjlNR2NnRTZjPQ@e4.cover20.ir:16156?type=tcp#Khodemoni-306994
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.3:8080?type=tcp&headerType=none#Khodemoni-260432
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTovODJENThINUt3cEVoZFlvcjZwOXRkZU9NL2NHMjBOTmtRd1JmMEk0b3c4PQ@e1.cover20.ir:51570?type=tcp#Khodemoni-307067
 vless://0fc80aca-84f8-d8f4-e0a7-822408002e43@www.ar.plus.mashtinet.shop:80?path=%2F%3Fed%3D2082&host=frwwfffffii.global.ssl.fastly.net&security=none&type=ws&encryption=none#Khodemoni-307231
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.186.197.15:22224?encryption=none&security=none&type=tcp#Khodemoni-307299
 vless://0fc80aca-84f8-d8f4-e0a7-822408002e43@forallpanel.srtongston.ir:8880?path=%2F%3Fed%3D2082&host=Wg2.moBileiomshop.coM.&security=none&type=httpupgrade&encryption=none#Khodemoni-307141
 vless://45a390ed-0ddb-4dc3-8b5e-2fee9d044665@167.82.75.226:80?_t=585015e8&host=lowtechdevelopersltd.co.uk&type=xhttp&security=none&_t=6b3c9992&seq=you_are_beautiful4642&encryption=none&mode=auto&path=%2Fvideo%3Fed%3D1024#Khodemoni-306481
 vless://1641a422-2dff-45a5-846f-75ff8422b1dd@104.16.72.2:2082?mode=auto&path=/&security=&encryption=none&host=erfan6.mmd8563.ir&type=xhttp#Khodemoni-305956
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.216:8080#Khodemoni-108635
 vless://45a390ed-0ddb-4dc3-8b5e-2fee9d044665@151.101.128.74:80?mode=auto&type=xhttp&host=lowtechdevelopersltd.co.uk&encryption=none&path=%2Fvideo%3Fed%3D1024&security=none&descriptions=люби_себя1cbaf5#Khodemoni-283996
 vless://de17a7f2-3071-467e-9e19-c6f9f6891475@xn--dash-4o53c.xn--ir-nz82a.netbazshop.ir:2095?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-307037
 vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=stream-one&path=/kavir&security=tls&alpn=h2&encryption=none&extra={"noGRPCHeader":true,"xmux":{"maxConcurrency":"6","hKeepAlivePeriod":12},"headers":{"User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/101.0.4951.67Safari/537.36"}}&insecure=0&host=&fp=chrome&type=xhttp&allowInsecure=0&sni=#Khodemoni-287577
