@@ -1,3 +1,4 @@
+trojan://humanity@www.speedtest.org:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=%2Fassignment#Khodemoni-085428
 vless://6bd7815d-9fb0-41c6-87ef-ffc713bf6b8f@151.101.193.54:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=&encryption=none&host=BankMelat.glObal.ssl.faStly.nEt.&type=ws#Khodemoni-306947
 vless://7b102311-43fd-4e8f-877e-8090623c101d@57.128.180.80:443?&security=tls&fp=chrome&packet-encoding=xudp&sni=vp58.cc.cd&type=ws&headerType=none&host=vp58.cc.cd&path=/Telegram#Khodemoni-306981
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.41:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&host=de.vpnbase.net&security=none&path=/http&encryption=none&type=ws#Khodemoni-306970
