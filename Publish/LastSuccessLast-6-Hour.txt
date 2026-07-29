@@ -1,3 +1,10 @@
+trojan://humanity@2.144.21.112:40443?path=/assignment&security=tls&sni=www.creationlong.org&type=ws&sni=www.creationlong.org#Khodemoni-113966
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@support.zoom.us:443?path=%2Fsg-melbi&security=tls&encryption=none&host=support.zoom.us.yxls.eu.cc&type=ws&sni=support.zoom.us.yxls.eu.cc#Khodemoni-145091
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@support.zoom.us:443?fp=chrome&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-melbi&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#Khodemoni-158540
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.16.72.2:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&fp=chrome&type=ws&allowInsecure=0&sni=vangoghhh.info#Khodemoni-170508
+vless://af19ce98-b58b-43ef-9f0d-2ae6343e28fe@172.67.133.44:2096?encryption=none&host=blue-disk-1124.sawmansafi.workers.dev&type=ws&security=tls&path=%2FeyJqdW5rIjoic2phSXhvRm5pQmxZIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19%3Fed%3D2560&sni=BLue-diSk-1124.SAwmAnsafI.wOrkeRS.DEV&fp=chrome&alpn=http%2F1.1#Khodemoni-189809
+vless://234c52f2-0d7b-dc4a-0d6b-b0b300000025@104.27.2.172:80?encryption=none&security=none&sni=billowing-surf-d251.netizo06.workers.dev&fp=chrome&type=ws&host=billowing-surf-d251.netizo06.workers.dev&path=%2Fsync#Khodemoni-216821
+vless://e4824193-4f54-453b-d037-88368e85ef0e@172.67.209.126:443?security=tls&sni=gco1.afterdomain.shop&type=grpc#Khodemoni-224997
 vless://4a805850-a2c4-42b3-898a-798f0c19c609@104.17.188.61:2086?security=none&type=ws&path=%2Fsub&host=od1kl638.xn--nxa.nyc.mn#Khodemoni-254545
 vless://7c6a566b-4c4a-b8f2-1719-a3096b424141@172.67.133.170:8080?security=none&type=ws&path=%2Fsync&host=peekconfigg.vipserver1-39d.workers.dev&sni=peekconfigg.vipserver1-39d.workers.dev#Khodemoni-254848
 vless://5aafc2be-9348-4dec-b896-f4a91253bbca@support.zoom.us:443?encryption=none&fp=chrome&host=support.zoom.us.yxls.eu.cc&path=%2Fid-tksi&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#Khodemoni-247853
