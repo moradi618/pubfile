@@ -1,3 +1,14 @@
+vless://5e243126-4a2a-84b6-782a-73b14797fb5f@89.47.55.3:8443?mode=gun&security=reality&encryption=none&authority=BIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&pbk=iVDh09Vm2DqZMNQoUdf-LCZ6TqVGb9mLXnClAK2LRj4&fp=chrome&type=grpc&serviceName=TunService&sni=dl.google.com#Khodemoni-295030
+trojan://521314@192.200.160.27:443?host=hhtj.hhllfly.kdns.fr&path=/pyip=Telegram-WangCai2&security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws#Khodemoni-294745
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.156.38:22223?#Khodemoni-306838
+vless://4ef590f2-5259-4d01-91c7-58603876537f@in-play.montago-shop.ir:42542?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-306826
+vless://cfde0aba-0985-4034-ab92-50b1534b126c@199.232.170.61:80?host=BankMelat.glObal.ssl.faStly.nEt&path=%2F%3FTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&type=ws#Khodemoni-306805
+vless://cfde0aba-0985-4034-ab92-50b1534b126c@199.232.170.43:80?host=BankMelat.glObal.ssl.faStly.nEt&path=%2F%3FTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&type=ws#Khodemoni-306804
+vless://a8a98c3e-0b0d-47c4-b4a0-1402ba3252ca@212.237.217.7:16923?security=reality&sni=api-maps.yandex.ru&fp=firefox&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986&type=grpc&serviceName=neurex&packetEncoding=xudp&encryption=none#Khodemoni-305858
+trojan://Telegram_healer_config@188.114.96.7:443?path=%2Ftr%2FJ6IJuAAWkqyiEt8UkeRnVdLlkLIGukLr%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=bjsa2ygfitzjtho8ucze29xf2m2q9c.g3fiajpf0erm9k3x6ww-yegzl2.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=BjSa2yGFITzjtHo8ucZe29xf2m2q9C.G3FIAJpF0Erm9k3x6WW-YeGzl2.workeRs.dEV#Khodemoni-305823
+trojan://Telegram_healer_config@www.speedtest.net:443?path=/tr/VQ1n6VuZtSQv0vvjjCG?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=bjsa2ygfitzjtho8ucze29xf2m2q9c.g3fiajpf0erm9k3x6ww-yegzl2.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=BjSa2yGfiTzJtho8uCZE29Xf2M2Q9C.g3fIAjPF0erM9k3X6wW-YeGZl2.WORkERS.dev#Khodemoni-305942
+vless://f5576b8c-57b3-40cd-9c09-dba9f3106435@fast.cd-tur4.ir:443?type=ws&security=tls&sni=ssl.fastly.com&host=pan1.global.ssl.fastly.net&path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed=2053#Khodemoni-306153
+vless://a5b1d1ec-327c-f1c5-5856-b34600000000@172.67.219.50:443?security=tls&sni=ez-541f9d.ezaccess1d3db24.workers.dev&type=ws&host=ez-541f9d.ezaccess1d3db24.workers.dev&path=%2Fsync&fp=chrome&allowInsecure=0#Khodemoni-220340
 vless://e72d828e-2d8c-471e-9d4e-2dde00000000@www.speedtest.net:443?path=/&security=tls&encryption=none&insecure=0&host=netlivpn9361.hsjshsh2827.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=netlivpn9361.hsjshsh2827.workers.dev#Khodemoni-306309
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@Hkdcrtc-e.catcat321.com:20129?sni=hk.catxstar.com#Khodemoni-306386
 trojan://521314@154.211.8.27:443?type=ws&security=tls&sni=hhtj.hhllfly.kdns.fr&path=/pyip=Telegram-WangCai2&sni=hhtj.hhllfly.kdns.fr#Khodemoni-306456
@@ -3567,7 +3578,6 @@ vless://09c3a956-075e-43b1-a125-2df71dac7aec@gov.viranix.ir:10091?encryption=non
 vless://fbefb819-d89f-412e-9a95-62c64fd8d123@152.233.41.13:16923?encryption=none&type=grpc&serviceName=neurex&security=reality&sni=api-maps.yandex.ru&fp=firefox&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986#Khodemoni-291494
 vless://eadcacfa-ef1a-4901-a28b-8815fa1962a5@ruded2.onlinestreamself.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=ios&pbk=M9_R2DX7bxoMJpkF4RcyJ0oJ8ZuGsxWrjuREKi6Ol0w&sni=apple.com#Khodemoni-286052
 vless://eadcacfa-ef1a-4901-a28b-8815fa1962a5@ruded2.onlinestreamself.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=M9_R2DX7bxoMJpkF4RcyJ0oJ8ZuGsxWrjuREKi6Ol0w&sni=apple.com#Khodemoni-286053
-vless://Telegramjoin%3ATurboConfigs@104.253.79.163:443?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-290936
 vless://fb5058f5-a9ed-424e-9ed7-33d455438286@92.53.189.2:8880?path=%2Fpyip%3DTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=&encryption=none&host=old-violet-a5ce.29-440.workers.dev&type=ws#Khodemoni-220627
 vless://cbc1b9e7-c393-4053-a338-6ed714daf4eb@59.152.127.76:50863?encryption=none&security=none&type=tcp#Khodemoni-290218
 vless://bfbf29ce-5181-42bd-8565-b8b21c3a3b8a@pasarguard.losthonor.ir:26545?encryption=none&security=none&type=httpupgrade&headerType=none&path=%2F&host=www.aparat.com#Khodemoni-291623
