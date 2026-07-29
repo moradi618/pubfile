@@ -1,3 +1,4 @@
+trojan://humanity@104.16.117.43:443/?type=ws&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org#Khodemoni-215574
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@155.46.213.30:8880?security=none&type=ws&path=%2F&host=vms.lifetime51.workers.dev&packetEncoding=xudp&encryption=none#Khodemoni-194867
 vless://5aafc2be-9348-4dec-b896-f4a91253bbca@support.zoom.us:443?encryption=none&fp=chrome&host=support.zoom.us.yxls.eu.cc&path=%2Fid-tksi&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#Khodemoni-247853
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@150.230.20.164:62145?&type=tcp&headerType=none&path=%2F#Khodemoni-306915
