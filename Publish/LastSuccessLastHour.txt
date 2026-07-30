@@ -1,4 +1,9 @@
+trojan://humanity@chatgpt.com:443/?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com#Khodemoni-109074
+trojan://humanity@216.24.57.1:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/assignment&security=tls&insecure=0&host=www.creationlong.org&ech=54.mk+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.creationlong.org#Khodemoni-116938
+trojan://humanity@172.64.155.209:443/?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com#Khodemoni-114979
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.41:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/http&security=&encryption=none&host=de.vpnbase.net&type=ws#Khodemoni-248053
+trojan://humanity@162.159.152.4:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com#Khodemoni-220279
+trojan://humanity@104.18.1.249:443?type=ws&security=tls&host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&alpn=h2,http/1.1#Khodemoni-228362
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@rr1.tube-cat.com:9450?#Khodemoni-312844
 trojan://humanity@45.80.111.7:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#Khodemoni-247841
 trojan://humanity@172.64.147.223:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#Khodemoni-259178
@@ -50,11 +55,3 @@ vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.251:443?&security=realit
 vless://52745f29-d8da-4cb7-9f95-401b946524e7@159.195.18.58:16923?encryption=none&type=grpc&serviceName=neurex&security=reality&sni=disk.yandex.ru&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986&fp=qq#Khodemoni-313494
 vless://52745f29-d8da-4cb7-9f95-401b946524e7@159.195.18.58:16923?encryption=none&type=grpc&serviceName=neurex&security=reality&sni=disk.yandex.ru&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986&fp=safari#Khodemoni-313495
 vless://831f56ff-d117-4a72-bb2b-a5e44eab6fbf@pro-ru-bridge.emrata.top:443?type=tcp&security=reality&pbk=F8tqvcuJUSVbxv_i9ZsVOef3EPwULzzDqgvmj3vWNlA&fp=firefox&sni=pro-ru-bridge.emrata.top&flow=xtls-rprx-vision#Khodemoni-313497
-vless://29ca503d-e6b8-4509-b666-48133f450857@ip.sb:443?security=tls&type=ws&path=/fdip=tw.william.us.ci!txt&host=learn00.evany.de5.net&packetEncoding=xudp&sni=learn00.evany.de5.net&fp=chrome#Khodemoni-287974
-vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@5.129.194.34:4100?path=%2Fv1%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=&encryption=none&type=ws&sni=live.ok.ru#Khodemoni-313182
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZMlF3WlRRME1EWXpPV0ZoTmpBNVltRTBOVFpoTldGa09Ea3pNV05tT0RVPQ@138.2.75.33:56927#Khodemoni-313407
-vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjIyNyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwb3J0Ijo0NDMsInBzIjoiS2hvZGVtb25pLTA0MTg3NiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
-vless://d61ebf06-b447-4d5f-b8e6-5c483bde3069@217.11.164.92:37194?headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#Khodemoni-313408
-vless://56a182fc-c306-4701-8eef-6f8e08be3d1a@188.114.98.47:443?path=%2F&security=tls&encryption=none&insecure=0&host=icy-dust-3024.shirokhorshid1212.workers.dev&fp=firefox&type=ws&allowInsecure=0&sni=icy-dust-3024.shirokhorshid1212.workers.dev#Khodemoni-313405
-vless://b9767b88-01ca-4775-ad0d-b1e90f880f3e@91.98.113.22:443?security=reality&encryption=none&pbk=ZbLRIfp7JIWgMCIAzn8OYLpTLODdU9kclqDXzQE2c3U&headerType=none&fp=firefox&spx=%2FRwx2MuDWVB7G4db&type=tcp&sni=play.google.com&sid=837366093533865c#Khodemoni-313413
-trojan://MITIVPN@45.130.125.112:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fde&security=tls&alpn=http%2F1.1&insecure=1&host=11-mitivpn---MiTiVPN---MiTiVPN.Maqror.ir&fp=chrome&type=ws&allowInsecure=1&sni=ikk---7-MiTiVPN----o.Maqror.ir#Khodemoni-306683
