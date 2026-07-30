@@ -545,8 +545,8 @@ vless://3e7bb66e-d7c6-4711-aa05-e4ab0ec58c6d@104.16.100.66:8880?encryption=none&
 vless://20f21d96-3700-46d9-9f63-5933403c0c18@download.yunzhongzhuan.com:8880?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&host=restless-math-7bde.299-75c.workers.dev&path=/pyip=ProxyIP.JP.CMLiussss.net&security=none&type=ws#Khodemoni-224235
 vless://424fa201-3f94-479e-b533-d5257cf9a207@89.117.112.4:80?path=/pyip=Telegram+@WangCai2&security=none&encryption=none&host=floral-thunder-10d3.82-67d.workers.dev&type=ws#Khodemoni-223825
 trojan://humanity@172.64.147.236:443?security=tls&type=ws&sni=www.gossipglove.com&path=/assignment&host=www.gossipglove.com#Khodemoni-226191
-vless://984d10dd-4d51-45ac-a781-f0c1357644c2@anydesk.com:8880?type=ws&host=lingering-sun-d7b5.49-56e.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net#Khodemoni-224143
 vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@po.fastbrokencompony.com:2053?encryption=none&security=tls&sni=po.fastbrokencompony.com&alpn=h3%2Ch2&fp=chrome&type=ws&path=%2F#Khodemoni-225204
+vless://984d10dd-4d51-45ac-a781-f0c1357644c2@anydesk.com:8880?type=ws&host=lingering-sun-d7b5.49-56e.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net#Khodemoni-224143
 vless://20f21d96-3700-46d9-9f63-5933403c0c18@download.yunzhongzhuan.com:8880?encryption=none&host=restless-math-7bde.299-75c.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&security=none&type=ws#Khodemoni-224095
 vless://2d212f81-7ea2-4d0b-884c-a6497ab41143@anydesk.com:8880?&security=none&type=ws&headerType=&host=hidden-union-a4b2.436.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#Khodemoni-224149
 vless://942bdcfc-e522-44f1-b899-3bd8db7c5ae2@www.gov.ua:8880?path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none&encryption=none&host=winter-leaf-b4da.122-6c9.workers.dev&type=ws#Khodemoni-224170
