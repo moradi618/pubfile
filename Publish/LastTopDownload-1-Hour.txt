@@ -2,6 +2,7 @@ vmess://eyJhZGQiOiJ0dW4xLndpemFyZHgxLmNvbSIsImFpZCI6IjAiLCJob3N0IjoidHVuMS53aXph
 vless://0f026ffa-077e-46cf-b35a-3425227bd462@195.63.136.235:443?&type=ws&headerType=none&path=%2Frw#Khodemoni-312270
 vless://27a292ee-50aa-4232-93d2-4729a52ce5a2@gotveran.sav-savteam.ir:2005?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#Khodemoni-312307
 vless://7a30eabc-aee8-4cd3-833a-5fc13f0015d2@87.242.85.201:13561?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-294763
+vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=none&type=xhttp&mode=stream-one&host=static.lotussec.com&path=/Join-JavidnamanIran-on-Telegram&security=tls&fp=firefox&sni=static.lotussec.com&alpn=h2#Khodemoni-312304
 vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?path=%2F%3FTELEGRAM-vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr%3Fed%3D512&security=none&encryption=none&host=azsv1.drpingservice.com&type=ws#Khodemoni-145955
 trojan://521314@millionaire.levikogjgfdd.ir:443?path=%2FLeviko_v2ray&security=tls&insecure=0&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=0&sni=tjplay.lxdxo.kdns.fr#Khodemoni-294264
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXSlYvbFlYSUJmZHJFUEt2ampUV3ZvSzhSZjloTzcrTzVmem9JbWR5Vzc0PQ@e1.cover20.ir:51570?type=tcp#Khodemoni-312224
