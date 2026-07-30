@@ -1,6 +1,6 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVTld4byttaWR0d1V1UkVCcjlYblRFYlZrTEhzWWc3blFLWXIwN0pZREIwPQ@e3.cover20.ir:56985#Khodemoni-312087
 trojan://humanity@www.speedtest.org:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=%2Fassignment#Khodemoni-085428
 vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@ad-013.orbitqgr7v.info:8443?security=tls&type=ws&path=/&host=ad-013.orbitqgr7v.info&packetEncoding=xudp&sni=ad-013.orbitqgr7v.info&fp=chrome#Khodemoni-288125
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVTld4byttaWR0d1V1UkVCcjlYblRFYlZrTEhzWWc3blFLWXIwN0pZREIwPQ@e3.cover20.ir:56985#Khodemoni-312087
 vless://4ecdf2bd-3ef1-4356-8323-420ed29e8e89@43.108.23.174:32521?type=tcp#Khodemoni-174218
 vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@18.239.134.69:80?encryption=none&security=none&type=ws&host=d2e1v87ko56lyw.cloudfront.net:assets.opensignal.com&path=/#Khodemoni-312182
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20035?allowInsecure=1&security=tls&sni=hk.catxstar.com#Khodemoni-311952
