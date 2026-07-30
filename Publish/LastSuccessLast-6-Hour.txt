@@ -1,3 +1,10 @@
+vmess://eyJhZGQiOiJ0d2R4Ni5iYWlkdXBpLnRvcCIsImhvc3QiOiJjb3MuYXAtc2hhbmdoYWkubXlxY2xvdWQuY29tIiwiaWQiOiI4NWFkMjFlMS1jMmNkLTM0MDctYWE5MC04MTVmM2YzZWE2MzYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXNzZXRzL2ltYWdlcy8iLCJwb3J0IjoiMjA5NiIsInBzIjoiS2hvZGVtb25pLTMwNzQyNyIsInNjeSI6ImF1dG8iLCJ0bHMiOiJub25lIiwidiI6IjIifQ==
+trojan://humanity@216.24.57.1:443/?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.gossipglove.com#Khodemoni-009615
+trojan://humanity@216.24.57.1:443/?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.creationlong.org#Khodemoni-009632
+trojan://humanity@104.17.25.173:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#Khodemoni-073078
+trojan://humanity@172.64.147.223:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#Khodemoni-073126
+trojan://humanity@chatgpt.com:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#Khodemoni-075107
+vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjIyNyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwb3J0Ijo0NDMsInBzIjoiS2hvZGVtb25pLTA4NDMzNSIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
 trojan://humanity@chatgpt.com:443/?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com#Khodemoni-109074
 trojan://humanity@216.24.57.1:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/assignment&security=tls&insecure=0&host=www.creationlong.org&ech=54.mk+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.creationlong.org#Khodemoni-116938
 trojan://humanity@172.64.155.209:443/?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com#Khodemoni-114979
