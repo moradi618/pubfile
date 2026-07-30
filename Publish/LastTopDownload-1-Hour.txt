@@ -7,6 +7,7 @@ vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?path=%2F%3FTEL
 trojan://521314@millionaire.levikogjgfdd.ir:443?path=%2FLeviko_v2ray&security=tls&insecure=0&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=0&sni=tjplay.lxdxo.kdns.fr#Khodemoni-294264
 vless://b8ae8186-22ed-413b-b0de-dc590bbbc3bc@britain.relvuno.ir:6500?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#Khodemoni-307410
 vless://29ca503d-e6b8-4509-b666-48133f450857@162.159.38.119:443?type=ws&allowInsecure=0&encryption=none&path=/fdip&insecure=0&host=learn00.evany.de5.net&sni=learn00.evany.de5.net&security=tls#Khodemoni-312335
+trojan://521314@millionaire.levikogjgfdd.ir:443?host=tjplay.lxdxo.kdns.fr&path=%2FLeviko_v2ray&sni=tjplay.lxdxo.kdns.fr&type=ws#Khodemoni-312346
 trojan://521314@millionaire.levikogjgfdd.ir:443?path=%2FLeviko_v2ray&security=tls&host=tjplay.lxdxo.kdns.fr&type=ws&sni=tjplay.lxdxo.kdns.fr#Khodemoni-308882
 vless://7968c546-02dc-4f8c-b791-934591a94cb2@millionaire.levikogjgfdd.ir:443?path=%2Fcbasur&security=tls&encryption=none&insecure=0&host=hhvl.hhapp.kdns.fr&type=ws&allowInsecure=0&sni=hhvl.hhapp.kdns.fr#Khodemoni-294254
 trojan://MiTiVPN@104.18.152.229:443?type=ws&security=tls&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fsw&host=swss-mitivpn--MiTiVPN---MiTiVPN--o.Maqror.ir&sni=swsjh--MiTiVPN---MiTiVPN-ao.Maqror.ir&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#Khodemoni-307620
