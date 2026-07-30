@@ -1,5 +1,15 @@
-vless://29ca503d-e6b8-4509-b666-48133f450857@162.159.45.24:8443?security=tls&type=ws&path=/fdip=tw.william.us.ci!txt?ed=2560&host=learn00.evany.de5.net&packetEncoding=xudp&sni=learn00.evany.de5.net&fp=random#Khodemoni-287999
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OTJlMGJkYi0wMWRiLTQ1MGMtOTRjNC05MjUxNTFlYjM5NmU@ss.048.node-for-bigairport.win:19000#Khodemoni-246414
+trojan://humanity@104.18.32.47:443?encryption=none&security=tls&sni=www.creationlong.org&alpn=h3,h2,http/1.1&fp=chrome&type=ws&host=www.creationlong.org&path=/assignment#Khodemoni-254679
+trojan://humanity@104.18.7.147:443?type=ws&sni=www.gossipglove.com&path=/assignment&host=www.gossipglove.com#Khodemoni-256156
+trojan://humanity@104.18.32.47:443?type=ws&sni=www.gossipglove.com&path=/assignment&host=www.gossipglove.com#Khodemoni-256140
+trojan://humanity@104.18.23.63:443?allowInsecure=1&alpn=http%2F1.1&fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#Khodemoni-259069
+trojan://humanity@104.18.7.147:443?allowInsecure=1&fp=chrome&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#Khodemoni-259139
+trojan://humanity@172.64.147.252:443?allowInsecure=1&fp=chrome&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#Khodemoni-259124
+trojan://humanity@172.64.146.28:443?host=www.gossipglove.com&path=%2F%252Fassignment&security=tls&sni=www.gossipglove.com&type=ws#Khodemoni-259099
 vless://41e55ec5-ef82-4787-b9c6-9acb9f680843@92.246.138.69:898?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-312310
+trojan://humanity@172.64.146.28:443?allowInsecure=1&fp=chrome&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#Khodemoni-288516
+vless://29ca503d-e6b8-4509-b666-48133f450857@172.64.52.97:443?security=tls&type=ws&path=/fdip=tw.william.us.ci!txt?ed=2560&host=learn00.evany.de5.net&packetEncoding=xudp&sni=learn00.evany.de5.net&fp=random#Khodemoni-288027
+vless://29ca503d-e6b8-4509-b666-48133f450857@162.159.45.24:8443?security=tls&type=ws&path=/fdip=tw.william.us.ci!txt?ed=2560&host=learn00.evany.de5.net&packetEncoding=xudp&sni=learn00.evany.de5.net&fp=random#Khodemoni-287999
 vless://71a7db14-1b6f-5aec-9e5d-9bd5f8beabab@47.240.80.220:5100?encryption=none&security=none&type=tcp#Khodemoni-312389
 vless://84dc79c7-e443-489d-bf07-b4bb825f57d9@loli-hentai-porn-server.apruxdomain.xyz:80?type=ws#Khodemoni-312385
 vless://84dc79c7-e443-489d-bf07-b4bb825f57d9@ru-de.apruxdomain.xyz:80?type=ws#Khodemoni-312386
@@ -2461,7 +2471,6 @@ vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?path=%2F%3FTEL
 vmess://eyJhZGQiOiJ3d3cubmV4dGt5Yy5jb20iLCJhaWQiOiIwIiwiaG9zdCI6InYycmF5MS5kb3phcHAueHl6IiwiaWQiOiI2MDQ0MTU0OC1iNjhlLTQzYjItODE5MS1lM2I4ODRiZTRiM2MiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbE1uc1pVTjQvIiwicG9ydCI6Ijg0NDMiLCJwcyI6Iktob2RlbW9uaS0yNzQwNTAiLCJzY3kiOiJhdXRvIiwic25pIjoidjJyYXkxLmRvemFwcC54eXoiLCJ0ZXN0X25hbWUiOiJVUzYiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?encryption=none&security=none&type=ws&host=azsv1.drpingservice.com&path=%2F#Khodemoni-081861
 vless://c1380105-ca94-4169-9450-8e10d1d566cd@ok2.geekandtips.com:433?encryption=none&fp=&host=ok2.geekandtips.com&path=%2F&security=tls&sni=ok2.geekandtips.com&type=ws#Khodemoni-308891
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@68.168.116.6:1080?type=tcp&headerType=none #Khodemoni-295848
 vless://444fa3c7-7ca8-4890-a027-aac940ac72e7@roo.paydar.site:1919?encryption=none&type=tcp&headerType=http&path=%2F&host=%40GHOFLSHCAN.%40GHOFLSHCAN.%40GHOFLSHCAN.%40GHOFLSHCAN.%40GHOFLSHCAN.play.google.com#Khodemoni-308890
 vless://bde971d1-97b5-ac76-7a01-66ee352996c3@www.ar.plus.mashtinet.shop:80?host=frwwfffffii.global.ssl.fastly.net&type=ws&path=%2F%3Fed%3D2082&security=none&encryption=none#Khodemoni-309042
 vless://ee512c0a-42e5-4a50-8637-7a3699fe9c7b@gr-2.tiptop-1.top:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=gr-2.tiptop-1.top#Khodemoni-309061
