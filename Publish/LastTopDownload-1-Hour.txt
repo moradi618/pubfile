@@ -8,6 +8,5 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.186.182.129:22222?encryption=non
 vless://33b0ecd0-1c5a-4c6e-90ee-44f7fb045a93@z.pxui.ir:30051?security=reality&encryption=none&pbk=8smLHkjNzf2aWWr5MHrdq3DZRq-w8T9U2ulaeV_bnBc&headerType=none&fp=chrome&spx=/Sl2vwH89a1A2NBk&type=tcp&sni=www.speedtest.net&sid=100645b1#Khodemoni-312148
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVTld4byttaWR0d1V1UkVCcjlYblRFYlZrTEhzWWc3blFLWXIwN0pZREIwPQ@e3.cover20.ir:56985#Khodemoni-312087
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.186.182.129:22223?encryption=none&security=none&type=tcp#Khodemoni-312213
-trojan://humanity@162.159.38.119:443?type=ws&security=tls&path=/assignment&host=www.gossipglove.com&sni=www.gossipglove.com&insecure=0&allowInsecure=0#Khodemoni-201935
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.186.182.129:22224?encryption=none&security=none&type=tcp#Khodemoni-312216
 vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@162.159.38.119:443?encryption=none&type=ws&path=%2Fapi%2Fv1%2Firc&host=vod.ensf.top&security=tls&sni=vod.ensf.top&alpn=http%2F1.1#Khodemoni-310560
