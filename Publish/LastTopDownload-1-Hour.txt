@@ -29,7 +29,6 @@ vless://edae0c5c-6979-44ba-b82b-1575cb5804d6@r.telewebion.ir.varzesh3.com.de:443
 trojan://humanity@2.144.21.112:40443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=/assignment#Khodemoni-106570
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=none&encryption=none&host=gr1.fifapes.monster&headerType=http&type=tcp#Khodemoni-238323
 trojan://humanity@104.21.40.34:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.multiplydose.com#Khodemoni-285354
-vless://bfbaf8a2-b8f0-4b2b-b0f9-4c9725c41c32@77.90.25.94:8443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=io.ozone.ru&fp=chrome&pbk=Mk4Q6KHcDgWm5F_P5qlqtpa7FZM25dO7yYN3t7EHvEI&sid=15aeee31d66e6a34&type=tcp&headerType=none#Khodemoni-310327
 vless://694a3c52-293d-4aca-a3b9-50fde5b498ea@x.shiftegunparvaz.ir:30075?security=reality&encryption=none&pbk=kt_LfyfUpcXV5IP8j0_EWLpMAth8VGlrx3Vj6b0ouxY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=ea0694c3#Khodemoni-311969
 vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@162.159.38.119:443?path=%2Fhdgrbws%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=terazhediii.info&type=ws&allowInsecure=0&sni=terazhediii.info#Khodemoni-238276
 vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@162.159.38.119:443?encryption=none&security=tls&sni=vod.ensf.top&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=vod.ensf.top&path=%2Fapi%2Fv1%2Firc#Khodemoni-253474
