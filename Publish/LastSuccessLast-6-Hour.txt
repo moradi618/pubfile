@@ -1,6 +1,6 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVTld4byttaWR0d1V1UkVCcjlYblRFYlZrTEhzWWc3blFLWXIwN0pZREIwPQ@e3.cover20.ir:56985#Khodemoni-312087
 trojan://humanity@www.speedtest.org:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=%2Fassignment#Khodemoni-085428
 vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@ad-013.orbitqgr7v.info:8443?security=tls&type=ws&path=/&host=ad-013.orbitqgr7v.info&packetEncoding=xudp&sni=ad-013.orbitqgr7v.info&fp=chrome#Khodemoni-288125
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVTld4byttaWR0d1V1UkVCcjlYblRFYlZrTEhzWWc3blFLWXIwN0pZREIwPQ@e3.cover20.ir:56985#Khodemoni-312087
 vless://ad85a1ce-3519-4634-9ea1-66c60d3694ba@172.67.152.71:8880?type=ws&host=little-pond-8731.81-68e.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#Khodemoni-169055
 vless://4ecdf2bd-3ef1-4356-8323-420ed29e8e89@43.108.23.174:32521?type=tcp#Khodemoni-174218
 vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@18.239.134.69:80?encryption=none&security=none&type=ws&host=d2e1v87ko56lyw.cloudfront.net:assets.opensignal.com&path=/#Khodemoni-312182
