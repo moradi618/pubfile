@@ -1,8 +1,12 @@
-vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@ad-013.orbitqgr7v.info:8443?encryption=none&fp=chrome&allowInsecure=0&type=ws&insecure=0&path=/&host=ad-013.orbitqgr7v.info&security=tls&sni=ad-013.orbitqgr7v.info#Khodemoni-313846
 vless://29ca503d-e6b8-4509-b666-48133f450857@icook.hk:443?path=%2Ffdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&fp=random&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#Khodemoni-294832
 vless://29ca503d-e6b8-4509-b666-48133f450857@icook.hk:443?encryption=none&security=tls&sni=learn00.evany.de5.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=learn00.evany.de5.net&path=/#Khodemoni-295068
-trojan://521314@wangcai.yunzhongzhuan.com:443?path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&insecure=0&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=0&sni=tjplay.lxdxo.kdns.fr#Khodemoni-307319
 vless://29ca503d-e6b8-4509-b666-48133f450857@icook.hk:443?encryption=none&security=tls&sni=learn00.evany.de5.net&fp=random&insecure=0&allowInsecure=0&type=ws&host=learn00.evany.de5.net&path=/#Khodemoni-294676
+vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@ad-013.orbitqgr7v.info:8443?encryption=none&fp=chrome&allowInsecure=0&type=ws&insecure=0&path=/&host=ad-013.orbitqgr7v.info&security=tls&sni=ad-013.orbitqgr7v.info#Khodemoni-313846
+vless://d8b42cd5-a149-4356-9e61-000000000000@194.242.129.183:2550?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Khodemoni-317185
+vless://d8b42cd5-a149-4356-9e61-000000000000@194.242.129.183:2550?security=none&amp;encry#Khodemoni-317194
+vless://716353f3-459f-4f1f-8a92-8525d9e517be@46.225.220.111:1234?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-317163
+vless://3ccbad0a-cedc-dd42-1638-559ce522cecd@109.176.202.22:8443?mode=auto&pbk=xXaCtONWKzYdCWya3nzOe3_UYfHplbmdThukm0__smI&fp=firefox&spx=%2F&type=xhttp&security=reality&sid=f49da53c&sni=play.google.com&encryption=none&host=play.google.com#Khodemoni-317175
+trojan://521314@wangcai.yunzhongzhuan.com:443?path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&insecure=0&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=0&sni=tjplay.lxdxo.kdns.fr#Khodemoni-307319
 vless://e6bad6ca-ab7c-4bdd-b07e-5c8ec407decd@172.67.223.190:2086?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=cool-hill-7fe5.thenewata.workers.dev&path=%2FeyJqdW5rIjoidGpkTkY2VHk0bE1pV3AiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0%3D&security=none&type=ws#Khodemoni-080220
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@chat.openai.com:8880?path=%2F&security=none&encryption=none&host=vms.lifetime29.workers.dev&type=ws#Khodemoni-074142
 vless://e6bad6ca-ab7c-4bdd-b07e-5c8ec407decd@172.67.223.190:2086/?path=%2FeyJqdW5rIjoidGpkTkY2VHk0bE1pV3AiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0%3D%3Fed%3D2560&security=none&encryption=none&host=cool-hill-7fe5.thenewata.workers.dev&type=ws#Khodemoni-035162
