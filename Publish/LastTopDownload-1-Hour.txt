@@ -12,4 +12,5 @@ vless://6f93f3eb-8ff2-4da4-837b-8a333c281ff3@138.124.98.77:443?type=tcp&security
 vless://6f93f3eb-8ff2-4da4-837b-8a333c281ff3@138.124.98.77:443?type=tcp&security=reality&encryption=none&pbk=agZZLk3GNH8CME1dobmtO1UwIrXYL-WrEuLREy_EqnA&sid=aefe467c7b22f190&sni=ads.x5.ru&fp=chrome#Khodemoni-313727
 trojan://humanity@2.144.21.150:2000?path=/assignment&security=tls&sni=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com&fp=firefox#Khodemoni-313725
 trojan://humanity@2.144.21.150:2000?path=/assignment&security=tls&sni=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com&fp=edge#Khodemoni-313724
+vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@love.ns.cloudflare.com:443?security=tls&type=ws&path=%2Fsea&host=xqexv.greenwolf-ili.sbs&sni=xqexv.greenwolf-ili.sbs&fp=chrome&encryption=none#Khodemoni-246411
 vless://2b947013-7551-4a8e-bc4f-470e9e987e88@br.muzon.to:443?&security=reality&flow=xtls-rprx-vision&pbk=Jg7t1GwxpS4fhsYzqgz37zlQRSd8YAHECtgdGFDrnDc&sid=9b0c1d2e&fp=chrome&sni=www.amd.com&type=tcp&headerType=none&host=www.amd.com&path=%2F#Khodemoni-310317
