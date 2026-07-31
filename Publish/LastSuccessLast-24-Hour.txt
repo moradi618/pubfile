@@ -1,3 +1,5 @@
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.46.50:8880/?type=ws&encryption=none&flow=&host=vms.lifetime07.workers.dev&path=%2F%3Fed#Khodemoni-282538
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.46.50:8880?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&host=vms.lifetime07.workers.dev&path=/?ed&security=none&type=ws#Khodemoni-282556
 vless://82388539-6c9a-403d-8f89-7cacbee2963e@pt-play.mobileemdad.top:443?encryption=none&security=reality&type=tcp&headerType=none&sni=play.google.com&fp=qq&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=377d#Khodemoni-313936
 vless://82388539-6c9a-403d-8f89-7cacbee2963e@sv5.nonpath.ir:42542?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-313933
 vless://b5df6273-c2aa-4689-aa76-70f822e30495@au-play.mobileemdad.top:42542?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-313934
