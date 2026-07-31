@@ -1,3 +1,7 @@
+vless://7309d92c-cb36-0003-8a29-40beb14f6bf1@89.208.85.165:443?type=grpc&security=reality&pbk=rAopr8hz39QCzy6_HFCjwuO93sA3LwHz1LVHAV7utjw&sid=f5af261c314be426&sni=vbr.fastfive.ru&mode=gun&serviceName=vkbrto&fp=firefox#Khodemoni-313623
+vless://b97e287f-a24e-0021-a103-7e7ecef83139@5.61.91.206:443?flow=xtls-rprx-vision&fp=qq&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&security=reality&sid=e1f8a3b6&sni=www.amd.com&type=tcp#Khodemoni-313622
+vless://b97e287f-a24e-0021-a103-7e7ecef83139@5.61.91.220:443?flow=xtls-rprx-vision&fp=qq&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&security=reality&sid=e1f8a3b6&sni=www.amd.com&type=tcp#Khodemoni-313618
+vless://b97e287f-a24e-0021-a103-7e7ecef83139@5.61.91.207:443?flow=xtls-rprx-vision&fp=qq&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&security=reality&sid=e1f8a3b6&sni=www.amd.com&type=tcp#Khodemoni-313621
 vmess://eyJhZGQiOiJsY3Y4djlsN295YW14eGZ6LnYuM2Rucy52aXAiLCJhaWQiOiIwIiwiaG9zdCI6Imxjdjh2OWw3T3lhbXh4Zloudi4zZG5zLnZpcCIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3Mtdm1lc3MiLCJwb3J0IjoiNDQzIiwicHMiOiJLaG9kZW1vbmktMjkyNDAwIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@8.47.69.0:2095?&type=ws&headerType=none&host=fuckingfangbinxing.pusytroller.cf&path=%2F#Khodemoni-313615
 vless://7b102311-43fd-4e8f-877e-8090623c101d@103.80.86.61:443?&security=tls&fp=chrome&sni=vp21.cc.cd&type=ws&headerType=none&host=vp21.cc.cd&path=%2F#Khodemoni-282350
@@ -74,5 +78,3 @@ trojan://humanity@www.medium.com:443?host=www.calmloud.com&path=%2Fassignment&sn
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20004?allowInsecure=1&sni=hk.catxstar.com#Khodemoni-305820
 vmess://eyJhZGQiOiIyYjlod3k4b2N4N3E3NG5tLnYuM2Rucy52aXAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiMmI5aHdZOG9DeDdRNzROTS52LjNkbnMudmlwIiwiaWQiOiJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsIm5ldCI6IndzIiwicGF0aCI6Ii93cy12bWVzcyIsInBvcnQiOiI0NDMiLCJwcyI6Iktob2RlbW9uaS0zMDY2MDMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidiI6IjIifQ==
 trojan://humanity@104.18.32.47:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#Khodemoni-111550
-trojan://humanity@104.18.7.147:443?allowInsecure=1&fp=chrome&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#Khodemoni-158703
-trojan://humanity@104.18.32.47:443?type=ws&security=tls&path=%2Fassignment&host=www.multiplydose.com&sni=www.multiplydose.com&fp=chrome&insecure=0&allowInsecure=0#Khodemoni-224427
