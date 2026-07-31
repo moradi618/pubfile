@@ -1,5 +1,5 @@
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.129.178:22224?encryption=none&security=none&type=tcp#Khodemoni-316641
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.129.178:22222?encryption=none&security=none&type=tcp#Khodemoni-316642
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.129.178:22223?encryption=none&security=none&type=tcp#Khodemoni-316643
+vless://ba36ca25-5d46-49f2-8f03-fb22932e7607@pi.paydar.site:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-316681
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphQmxxZGZEdjFhVGIya2xy@4.210.66.171:443#Khodemoni-316651
-vless://78f5bccc-4401-7862-9790-3e105faccf3c@dl2dl2dl2.lornavps.ir:8855?security=none&type=tcp&headerType=http&encryption=none&path=%2F&host=play.google.com&fragment=10-100%2C100-200%2Ctlshello&noise=rand%3A10-20%2C100-200#Khodemoni-316617
