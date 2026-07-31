@@ -1,9 +1,13 @@
+vless://de5dcb9e-6a72-45a2-8d3d-de00e5431426@gb.sv.temas-bor.ir:22012?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&type=tcp&sni=login.yahoo.com&fp=chrome&sid=c6e19c434dc87df7&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&encryption=none#Khodemoni-313032
+vless://de5dcb9e-6a72-45a2-8d3d-de00e5431426@gb.sv.temas-bor.ir:22012?security=reality&type=tcp&sni=login.yahoo.com&fp=chrome&sid=c6e19c434dc87df7&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&encryption=none#Khodemoni-313033
 vless://666c7578-0000-4000-8000-000000000000@one-for-all.levikogjgfdd.ir:443?path=%2Fflux&security=tls&encryption=none&insecure=0&host=parsa-panel-alypp.fafaavaf.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=parsa-panel-alypp.fafaavaf.workers.dev#Khodemoni-277316
+vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@ad-013.fluxmxd18.info:8443?security=tls&sni=ad-013.fluxmxd18.info&fp=chrome&type=ws&host=ad-013.fluxmxd18.info&path=/#Khodemoni-312568
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20004?sni=hk.catxstar.com#Khodemoni-306399
 vless://41e55ec5-ef82-4787-b9c6-9acb9f680843@92.246.138.69:445?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-312308
 vless://8107aba3-b2bb-4dba-b965-259663821527@82.40.62.103:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-312347
 vless://d43b45a6-9f69-44d9-8872-862c885e27c9@168.119.169.184:8443?security=none&type=tcp&headerType=http&path=%2F&host=cloudflare.com#Khodemoni-312328
 vless://0f026ffa-077e-46cf-b35a-3425227bd462@195.63.136.235:443?encryption=none&security=none&type=ws&path=%2Frw&host=#Khodemoni-312402
+vless://9a274b1d-788c-4a15-b3fa-7ea525198362@94.130.179.44:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-312471
 vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.228.161:8443?mode=gun&security=&encryption=none&type=grpc&serviceName=grpc#Khodemoni-312355
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?#Khodemoni-312837
 vless://84dc79c7-e443-489d-bf07-b4bb825f57d9@loli-hentai-porn-server.apruxdomain.xyz:80?type=ws#Khodemoni-312385
@@ -2503,8 +2507,6 @@ trojan://521314@soskeynets.yunzhongzhuan.com:443?host=tjplay.lxdxo.kdns.fr&path=
 vless://a708304e-e4ee-42f4-a67a-c86b1c9a592f@pi.paydar.site:443?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-312473
 vless://58e4bd3c-e54c-b961-d9c7-bbf419a4049a@69.46.46.102:443?path=%2Fws%2F58e4bd3c-e54c-b961-d9c7-bbf419a4049a&security=tls&alpn=http%2F1.1&encryption=none&host=rvg-production-41ed.up.railway.app&fp=ios&type=ws&sni=rvg-production-41ed.up.railway.app#Khodemoni-312292
 vless://732515c3-7e84-07b5-c630-d8f9cdd57613@fast1-production.up.railway.app:443?encryption=none&security=tls&type=ws&host=fast1-production.up.railway.app&path=/ws/732515c3-7e84-07b5-c630-d8f9cdd57613&sni=fast1-production.up.railway.app&fp=chrome&alpn=http/1.1#Khodemoni-312506
-vless://a708304e-e4ee-42f4-a67a-c86b1c9a592f@pi.paydar.site:443?security=none&encryption=none&host=%40GHOFLSHCAN.%40GHOFLSHCAN.%40GHOFLSHCAN.%40GHOFLSHCAN.%40GHOFLSHCAN.play.google.com&headerType=http&type=tcp#Khodemoni-312299
-vless://27a292ee-50aa-4232-93d2-4729a52ce5a2@gotveran.sav-savteam.ir:2005?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#Khodemoni-312307
 vless://85457383-b175-8f3f-fb29-4db891cd2127@gb.tarqivo.ir:8443?sni=play.google.com&fp=firefox&pbk=xXaCtONWKzYdCWya3nzOe3_UYfHplbmdThukm0__smI&headerType=http&host=play.google.com&encryption=none&sid=f49da53c&spx=%2F&security=reality&type=tcp#Khodemoni-312863
 vless://a9a8fbe2-879a-4e23-a8d9-87c98995143f@yashar.mexokj.ir:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-312872
 vless://a259227e-aeba-4f8c-bb4b-5bdabdb277cc@nl-fardad.oorluma.ir:6800?pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&sni=play.google.com&encryption=none&headerType=none&type=tcp&security=reality&fp=qq#Khodemoni-312915
@@ -2687,5 +2689,3 @@ vless://ca3206b2-d8c5-4c5c-a932-0b1efc47538a@cos.degeristcs.ir:443?path=%2FSHJHS
 vless://c2472591-871e-4289-a0a3-2a7ca0b2464b@146.75.119.82:80?path=ws/?ed=2048/@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr/?2048&security=none&encryption=none&host=rb24.ir&type=ws#Khodemoni-315057
 vless://41e55ec5-ef82-4787-b9c6-9acb9f680843@92.246.138.69:898?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-312310
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20004?allowInsecure=0&sni=hk.catxstar.com#Khodemoni-313570
-vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@ad-013.fluxmxd18.info:8443?security=tls&sni=ad-013.fluxmxd18.info&fp=chrome&type=ws&host=ad-013.fluxmxd18.info&path=/#Khodemoni-312568
-vless://9a274b1d-788c-4a15-b3fa-7ea525198362@94.130.179.44:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-312471
