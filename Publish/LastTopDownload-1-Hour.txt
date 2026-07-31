@@ -1,6 +1,4 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0WUhyVUNGVW9SZDlzVEljTi9ZSFlDanF0WG9SWjNQalRrYlJVUVpMSmEwPQ@e2.cover20.ir:30874?type=tcp#Khodemoni-313870
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.148.106.30:8880?type=ws&host=vms.lifetime54.workers.dev#Khodemoni-143090
-vless://9ec52cb8-8daa-0021-ac36-d38295a25e5b@5.61.91.207:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&security=reality&sid=a7b2c9d4&sni=www.amd.com&type=tcp#Khodemoni-310323
 vless://7a30eabc-aee8-4cd3-833a-5fc13f0015d2@87.242.85.201:13561?encryption=none&security=none&type=tcp#Khodemoni-294194
 vless://c61a813a-3429-4a20-8b7f-f7a3cd795b24@45.134.21.8:8443?security=tls&type=ws&path=/data/list/out.php?ed=2560&host=ft76mv43.b1gqbrn7f2j6degb6bgs.workers.dev&packetEncoding=xudp&sni=ft76mv43.b1gqbrn7f2j6degb6bgs.workers.dev&fp=chrome&encryption=none#Khodemoni-288136
 trojan://521314@104.16.97.215:443?path=Telegram🇨🇳&security=tls&insecure=0&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=0&sni=tjplay.lxdxo.kdns.fr#Khodemoni-295205
