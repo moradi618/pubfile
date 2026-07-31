@@ -1,5 +1,8 @@
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@Hkdcrtc-e.catcat321.com:20041?sni=de.catxstar.com#Khodemoni-306390
+trojan://humanity@www.speedtest.org:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=%2Fassignment#Khodemoni-085428
+vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@saas.sin.fan:443?security=tls&type=xhttp&path=%2F&host=xhttp1.azadnet5000.dpdns.org&packetEncoding=xudp&alpn=h2%2Chttp%2F1.1&sni=xhttp1.azadnet5000.dpdns.org&fp=chrome&mode=stream-one&encryption=none#Khodemoni-194543
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.159:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#Khodemoni-315207
+vless://4e81922a-1c2e-41ee-bb4c-9095a0a363fe@www.gov.ua:8880?security=none&type=ws&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&host=gentle-cell-501a.273-d6b.workers.dev&packetEncoding=xudp#Khodemoni-242388
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@Hkdcrtc-e.catcat321.com:20041?sni=de.catxstar.com#Khodemoni-306390
 vless://f9cb6a7e-fd46-49f1-b25b-8eeb56aa8871@62.238.56.217:41982?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-315206
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.64.176:22223?encryption=none&security=none&type=tcp#Khodemoni-315180
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.64.176:22224?encryption=none&security=none&type=tcp#Khodemoni-315181
@@ -2653,5 +2656,3 @@ vless://2372f9bc-bb0b-4adc-909f-cf8f0252a880@nl-fardad.oorluma.ir:6800?type=tcp&
 vless://f49bfe10-7fb1-40c5-8e3a-bb30e1647e27@soskeynets.mexokj.ir:443?security=reality&encryption=none&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=login.yahoo.com&sid=c6e19c434dc87df7#Khodemoni-311971
 trojan://humanity@www.ignitelimit.com:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&sni=&fp=chrome&allowinsecure=0&type=ws&path=/assignment#Khodemoni-312043
 vless://8964f20c-1e6b-4f8c-86f7-d1adb9d905c8@45.198.0.73:443?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=nFJCJ2tvxLdLrc9G-O1laW8KDir5SDnaOTmYndVaOGQ&security=reality&sid=7a3f9e2b1c8d4f6a&sni=pl-s3.ru&type=tcp#Khodemoni-311523
-trojan://humanity@www.speedtest.org:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=%2Fassignment#Khodemoni-085428
-vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@saas.sin.fan:443?security=tls&type=xhttp&path=%2F&host=xhttp1.azadnet5000.dpdns.org&packetEncoding=xudp&alpn=h2%2Chttp%2F1.1&sni=xhttp1.azadnet5000.dpdns.org&fp=chrome&mode=stream-one&encryption=none#Khodemoni-194543
