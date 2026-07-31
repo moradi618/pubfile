@@ -1,7 +1,11 @@
 vless://1b74b98a-619f-47ab-bbb9-a7650f6c4d4c@62.238.53.197:1234?encryption=none&type=tcp&headerType=http&path=%2F&host=%40GHOFLSHCAN.%40GHOFLSHCAN.play.google.com#Khodemoni-315515
+vless://1b74b98a-619f-47ab-bbb9-a7650f6c4d4c@62.238.53.197:1234?encryption=none&type=tcp&headerType=http&path=/&host=@VPNine1.@VPNine1.play.google.com#Khodemoni-315649
 vless://bb516522-3937-4647-ad39-793147913a0a@199.232.78.143:443?encryption=none&security=tls&sni=global.fastly.com&fp=firefox&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=art-2.global.ssl.fastly.net&path=%2F%3Fed%3D2048#Khodemoni-315516
+vless://8f0a9c91-ec47-4351-a8e8-93dfd493cd5f@fne1.foot8all.ir:80?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=play.google.com&fp=firefox&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&sid=1bfe954cb07fb70a#Khodemoni-315633
 vless://8f0a9c91-ec47-4351-a8e8-93dfd493cd5f@swe1.foot8all.ir:80?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=play.google.com&fp=firefox&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&sid=6115f6a9eb8467c6#Khodemoni-315622
+vless://05568b55-9f89-43cd-b91e-221a975f54bc@g2.fastping24.com:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=ads1.fastping24.com&insecure=0&allowInsecure=0#Khodemoni-315632
 vless://8f0a9c91-ec47-4351-a8e8-93dfd493cd5f@spe1.foot8all.ir:443?encryption=none&security=reality&type=tcp&headerType=none&sni=msn.com&fp=ios&pbk=9s3yEketDxPnrIxtN-KUdfVJ_p3gfOpcr_0abD4vSFw&sid=278a44a65abeeb40#Khodemoni-315621
-vless://ced3f588-d14f-4363-8171-33d8f0087606@185.126.14.200:11980?type=ws&encryption=none&path=/&host=&security=none#Khodemoni-315493
-vless://1bc7aa95-9100-4e8e-de41-ae62b3419ae9@185.126.14.200:10635?type=tcp&encryption=none&security=none#Khodemoni-315490
+vless://3a3de813-bfaa-4355-bc47-05c7245431d2@94.140.0.1:443?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D2560&host=Australia.havray2025.ir&sni=Australia.havray2025.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&insecure=0&allowInsecure=0#Khodemoni-315639
+vless://17145c98-d741-48db-a021-368ab2c2965d@5xikqmz0.helpower.ir:443?security=reality&encryption=none&pbk=OCR2Jsxytv_7DXaBAs3JgoL2-na-fBlEXEs4AvWM_Ao&host=www.play.google&headerType=none&fp=edge&type=tcp&sni=www.play.google&sid=667e7c5f623ab929#Khodemoni-315628
+vless://f461016e-1008-4e65-aabf-0c9426aba7a5@5xikqmz0.helpower.ir:443?security=reality&encryption=none&pbk=OCR2Jsxytv_7DXaBAs3JgoL2-na-fBlEXEs4AvWM_Ao&host=www.play.google&headerType=none&fp=edge&type=tcp&sni=www.play.google&sid=667e7c5f623ab929#Khodemoni-315627
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.54.70:22224?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-315512
