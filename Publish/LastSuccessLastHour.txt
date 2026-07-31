@@ -1,3 +1,4 @@
+vless://a8f84171-5f96-4547-b621-59758fe668c8@node-tw0.omhvp.co:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=jWVk2Z7eFkyDcu2xgzqX8JsPbZuCVhHUWD463Vfgazw&sid=7a5b89ecdb01f781&sni=www.singaporeair.com#Khodemoni-307173
 vless://6a55cbf2-cd1d-40dc-ab4c-143e18e73b74@185.126.14.200:51033?type=grpc&encryption=none&serviceName=&authority=&security=none#Khodemoni-315491
 vmess://eyJhZGQiOiJmajI2MDIwNS5mcmVlY2hhdHVwLmNvbSIsImFpZCI6IjAiLCJob3N0IjoiZmoyNjAyMDUuZnJlZWNoYXR1cC5jb20iLCJpZCI6Ijk4ZTJiZTNjLThmODQtNGI4NS05OTZiLWI2OGRjYzJmYmNiNiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjI3NzI2IiwicHMiOiJLaG9kZW1vbmktMzE1NTAyIiwic2N5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiIsInRlc3RfbmFtZSI6IjM3IiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vless://ced3f588-d14f-4363-8171-33d8f0087606@185.126.14.200:11980?type=ws&encryption=none&path=/&host=&security=none#Khodemoni-315493
@@ -35,7 +36,3 @@ vmess://eyJ2IjoiMiIsInBzIjoiS2hvZGVtb25pLTMxNTM4NCIsImFkZCI6ImZqMjYwMjA1LmZyZWVj
 vless://2e1eb27b-9b56-40e9-a2f8-b959bc71736e@ad-005.flux3ni5o.info:8443?security=tls&sni=ad-005.flux3ni5o.info&fp=chrome&type=ws&host=ad-005.flux3ni5o.info&path=/#Khodemoni-312658
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.51:443?flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&type=tcp&path=/#Khodemoni-312682
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.51:443?security=reality&type=tcp&packetEncoding=xudp&sni=storage.yandex.net&fp=firefox&flow=xtls-rprx-vision&sid=c6ef72e4635d15a5&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04#Khodemoni-311805
-vless://a490cf6b-ce54-4518-b4f0-60eaebabbe81@www.chatgpt.com:2087?path=%2F&security=tls&encryption=none&insecure=0&host=nl.sinnerrr.fun&fp=chrome&type=ws&allowInsecure=0&sni=nl.sinnerrr.fun#Khodemoni-315258
-vless://a490cf6b-ce54-4518-b4f0-60eaebabbe81@www.chatgpt.com:8443?path=%2F&security=tls&encryption=none&insecure=0&host=pl.sinnerrr.fun&fp=chrome&type=ws&allowInsecure=0&sni=pl.sinnerrr.fun#Khodemoni-315259
-vless://7dfe2f33-54c5-43cf-a654-7c8919a266be@shopcar.rafeaftabsokhtegi.com:9443?security=&encryption=none&headerType=none&type=tcp#Khodemoni-315262
-vless://467bb84e-d527-4fa2-bbe9-d379d0f14dd4@pi.paydar.site:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-315269
