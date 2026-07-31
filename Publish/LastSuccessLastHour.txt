@@ -52,5 +52,3 @@ vless://77e120a9-7ced-44a3-b6da-47c27be42eeb@www.speedtest.net:80?mode=auto&path
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.64.176:22223?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#Khodemoni-315434
 vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@18.239.134.69:80?security=none&type=ws&path=/&host=d2e1v87ko56lyw.cloudfront.net:assets.opensignal.com&packetEncoding=xudp&sni=18.239.134.69#Khodemoni-313479
 vless://8a4b918d-f9d3-af1a-ea77-46f08f7b5cfa@69.46.46.103:443?path=/ws/8a4b918d-f9d3-af1a-ea77-46f08f7b5cfa&security=tls&alpn=http/1.1&encryption=none&host=rvg-production-e741.up.railway.app&fp=chrome&type=ws&sni=rvg-production-e741.up.railway.app#Khodemoni-315566
-vless://50414e45-4c5f-5a45-5553-2f7ff296be7b@catlink.awinet.ir:2096?path=%2Fstream%2FPANEL_ZEUS%2F2f7ff296be7b%3Floc%3D1&security=tls&encryption=none&insecure=0&host=ez-de116f.ezaccess1142c2d.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=ez-de116f.ezaccess1142c2d.workers.dev#Khodemoni-316338
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.64.176:22222?&type=tcp&headerType=none&path=%2F#Khodemoni-316477
