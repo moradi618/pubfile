@@ -1,3 +1,5 @@
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.46.50:8880/?type=ws&encryption=none&flow=&host=vms.lifetime07.workers.dev&path=%2F%3Fed#Khodemoni-282538
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.46.50:8880?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&host=vms.lifetime07.workers.dev&path=/?ed&security=none&type=ws#Khodemoni-282556
 vless://82388539-6c9a-403d-8f89-7cacbee2963e@pt-play.mobileemdad.top:443?encryption=none&security=reality&type=tcp&headerType=none&sni=play.google.com&fp=qq&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=377d#Khodemoni-313936
 vless://82388539-6c9a-403d-8f89-7cacbee2963e@sv5.nonpath.ir:42542?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-313933
 vless://b5df6273-c2aa-4689-aa76-70f822e30495@au-play.mobileemdad.top:42542?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-313934
@@ -759,7 +761,6 @@ vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@93.152.205.216:444?sid=8321461729ab
 vless://e3c56988-5261-400f-b21b-6af5fa6efae1@130.49.185.196:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=4ndg8TcyXMWmnEvthjh9mIWJ9mc85jzy_G9D4D5xGxM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=site.rumedia-cdn.com&sid=808a7e8a2e32c697#Khodemoni-257608
 trojan://humanity@172.66.44.211:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#Khodemoni-259134
 vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@love.ns.cloudflare.com:443?security=tls&type=ws&path=/sea&host=edxkk.goldfieldline-milo.sbs&packetEncoding=xudp&sni=edxkk.goldfieldline-milo.sbs&fp=chrome&encryption=none#Khodemoni-258930
-vless://5f596575-dfce-8cbb-5a58-d43c1698e862@188.114.98.0:80?security=none&type=ws&path=/sixseven&host=wispy-field-43fb.mirar6bad.workers.dev&packetEncoding=xudp&encryption=none#Khodemoni-258865
 vless://f6a2cd4a-b755-4b9f-b854-40101e28e217@144.31.113.56:58427?security=reality&type=raw&packetEncoding=xudp&sni=ymail.com&fp=random&flow=xtls-rprx-vision&sid=6a58&pbk=NCqZzVFlyDITdXB28eEHBgHVqlqpllm1BoJ4wImYHl4&encryption=none#Khodemoni-258883
 vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@93.152.205.216:444?sni=web.max.ru&pbk=X-YL5VNtlMNIaBrwaHt3hJCeF_gMT9gPRDDlK1Qg7Tc&security=reality&serviceName=web.max.ru&sid=8321461729abcdef&type=grpc&fp=chrome&mode=gun&encryption=none#Khodemoni-261882
 vless://8638521a-7d64-4ad0-9112-83aa1fc19867@175.195.149.58:10280?encryption=none&type=ws&host=bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev&path=%2F%40Marisa_kristi&security=tls&fp=chrome&sni=bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev#Khodemoni-262775
@@ -1196,7 +1197,6 @@ vless://cfde0aba-0985-4034-ab92-50b1534b126c@199.232.170.209:80?host=BankMelat.g
 vless://cfde0aba-0985-4034-ab92-50b1534b126c@199.232.170.230:80?host=BankMelat.glObal.ssl.faStly.nEt&path=%2F%3FTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&type=ws#Khodemoni-307220
 vless://cfde0aba-0985-4034-ab92-50b1534b126c@199.232.170.192:80?host=BankMelat.glObal.ssl.faStly.nEt&path=%2F%3FTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&type=ws#Khodemoni-307214
 vless://cfde0aba-0985-4034-ab92-50b1534b126c@199.232.170.252:80?host=BankMelat.glObal.ssl.faStly.nEt&path=%2F%3FTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&type=ws#Khodemoni-307221
-vless://cfde0aba-0985-4034-ab92-50b1534b126c@199.232.170.134:80?host=BankMelat.glObal.ssl.faStly.nEt&path=%2F%3FTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&type=ws#Khodemoni-306525
 vless://cfde0aba-0985-4034-ab92-50b1534b126c@199.232.170.228:80?host=BankMelat.glObal.ssl.faStly.nEt&path=%2F%3FTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&type=ws#Khodemoni-306803
 vless://d0b1d140-2c56-11f1-aa57-8f36e190ad40@hk04.ccdn3.work:791?type=tcp&security=reality&path=/&sni=www.bilibili.com&fp=chrome&flow=xtls-rprx-vision&pbk=3ku3vU3k895RBY1YhNhcG0M-AplU5a6Rbn-RH3S_oh8&sid=c9668c12a1369586#Khodemoni-307162
 vless://cfde0aba-0985-4034-ab92-50b1534b126c@199.232.170.128:80?host=BankMelat.glObal.ssl.faStly.nEt&path=%2F%3FTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&type=ws#Khodemoni-307211
