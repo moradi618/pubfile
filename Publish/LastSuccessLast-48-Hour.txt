@@ -1,3 +1,4 @@
+vless://92a8de02-b311-487b-a4ff-3d790cd28898@5.252.26.190:443?security=reality&encryption=none&pbk=3HQlKcaGPbJcrgPzKvsC0WxHucb7yIZmm_C6sLJKeyk&headerType=none&fp=randomized&type=tcp&sni=yahoo.com&sid=2a616bf021be8169#Khodemoni-316497
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.175:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#Khodemoni-316511
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.218:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#Khodemoni-316507
 vless://e0bb1141-31b2-4215-a201-2113e753cb5c@62.238.56.217:41982?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-316505
@@ -3587,7 +3588,6 @@ vless://957360f2-2ec4-4638-8cf3-fffc6cc57aa1@securitytrails.com:2083?type=xhttp&
 vless://eadcacfa-ef1a-4901-a28b-8815fa1962a5@ruded2.onlinestreamself.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=ios&pbk=M9_R2DX7bxoMJpkF4RcyJ0oJ8ZuGsxWrjuREKi6Ol0w&sni=apple.com#Khodemoni-286052
 vless://c19735a7-ff97-a112-3f07-60e500f7719b@162.159.140.91:443?path=%2F---%40MiTiVPN--windows&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Uu--sS--Aa.maqror.ir&fp=chrome&type=ws&allowInsecure=0&sni=U--s--a.maqror.ir#Khodemoni-292799
 vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@ad-013.limaklhc6.info:8443?encryption=none&security=tls&type=ws#Khodemoni-288146
-vless://3f1b8434-e322-4f10-b852-b89db394d7de@167.82.0.4:80?security=&encryption=none&host=BankMelat.glObal.ssl.faStly.nEt.&type=ws#Khodemoni-288666
 vless://993aa8b6-7160-4202-970b-b3139cbc72a6@167.82.0.1:80?security=&encryption=none&host=BankMelat.glObal.ssl.faStly.nEt.&type=ws#Khodemoni-294765
 vless://39c42b0a-b823-4c93-bb99-74b4183e518d@getsavesafe.net:443?security=reality&flow=xtls-rprx-vision&type=raw&sni=getsavesafe.net&fp=qq&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&sid=82f5d3a1e9c0b661#Khodemoni-290730
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoN2JXY0N0VFZYdVptZ2RLTGRLSjJ4ZmRVUldDNHc5Tg@coco3.farajet.net:3030? #Khodemoni-292741
