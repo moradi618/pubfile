@@ -1,3 +1,6 @@
+vless://f7ed4770-81f4-47a1-9490-8b8cd684c97e@104.16.100.215:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=silent-cloud-aa63.324-7d8.workers.dev&path=/pyip=Telegram+@WangCai2&security=none&type=ws#Khodemoni-308158
+trojan://Telegram_healer_config@104.21.17.125:443?path=%2Ftr%2FhYgAqUlh5GyczDyXP%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=30f67sbq8jjwmt7gytfc14.0m68-qz3hqyfnlar6n3iq.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=30f67sBQ8jJwMt7GYtfc14.0M68-Qz3hqYfnLAR6n3Iq.wORkErs.dEv#Khodemoni-308608
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0WUhyVUNGVW9SZDlzVEljTi9ZSFlDanF0WG9SWjNQalRrYlJVUVpMSmEwPQ@e2.cover20.ir:30874?type=tcp#Khodemoni-313870
 vless://d2d0f796-edb0-427a-af32-ae360679f9e7@1password.com:443?security=tls&sni=rAyAn-007.fOtOn.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=%2F%3Fed%3D2560&host=rayan-007.foton.dpdns.org&encryption=none&dns=https%3A%2F%2Fdns.google%2Fdns-query&direct=https%3A%2F%2Fdns.google%2Fdns-query&domain=rayan-007.foton.dpdns.org#Khodemoni-044320
 trojan://humanity@104.16.174.12:443/?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#Khodemoni-021367
 trojan://humanity@104.16.174.36:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=%2Fassignment#Khodemoni-042551
