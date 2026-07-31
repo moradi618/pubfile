@@ -1,4 +1,3 @@
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.csgo.net:2095?encryption=none&type=ws&fp=randomized&path=%252F&host=cnmfangbinxing.fangbinxing-nmsl-cnm.workers.dev#Khodemoni-237715
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.148.106.30:8880?type=ws&host=vms.lifetime54.workers.dev#Khodemoni-143090
 vless://9ec52cb8-8daa-0021-ac36-d38295a25e5b@5.61.91.207:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&security=reality&sid=a7b2c9d4&sni=www.amd.com&type=tcp#Khodemoni-310323
 vless://428e923f-e608-412b-9e51-3b09ffab551f@62.233.43.34:443?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=Jg7t1GwxpS4fhsYzqgz37zlQRSd8YAHECtgdGFDrnDc&security=reality&sid=9d0e1f2a&sni=5post-gate.x5.ru&type=raw#Khodemoni-310540
