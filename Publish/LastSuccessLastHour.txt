@@ -1,3 +1,5 @@
+vless://8f0a9c91-ec47-4351-a8e8-93dfd493cd5f@spe1.foot8all.ir:443?encryption=none&security=reality&type=tcp&headerType=none&sni=msn.com&fp=ios&pbk=9s3yEketDxPnrIxtN-KUdfVJ_p3gfOpcr_0abD4vSFw&sid=278a44a65abeeb40#Khodemoni-315621
+vless://8f0a9c91-ec47-4351-a8e8-93dfd493cd5f@swe1.foot8all.ir:80?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=play.google.com&fp=firefox&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&sid=6115f6a9eb8467c6#Khodemoni-315622
 vless://db840ee9-a3a3-4f4e-b63a-3779fe25eabe@check09.farsinblog.ir:8443?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=b7b70c104ad267b8#Khodemoni-315520
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.64.176:22224?security=&encryption=none&headerType=none&type=tcp#Khodemoni-315522
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.64.176:22222?security=&encryption=none&headerType=none&type=tcp#Khodemoni-315521
@@ -24,7 +26,3 @@ trojan://521314@soskeynets.yunzhongzhuan.com:443?path=Telegram&security=tls&inse
 vless://64b6f905-94d5-4745-8f92-cafa107b7c16@94.139.250.35:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=apple.com&fp=qq&security=reality&pbk=M9_R2DX7bxoMJpkF4RcyJ0oJ8ZuGsxWrjuREKi6Ol0w&sid=#Khodemoni-315441
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.64.176:22222?encryption=none&security=none&type=tcp&headerType=none#Khodemoni-315481
 vless://db89d081-76c1-4fed-9547-0a4031cb45f2@37.152.186.116:42798?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-315289
-vless://8a4b918d-f9d3-af1a-ea77-46f08f7b5cfa@69.46.46.103:443?path=%2Fws%2F8a4b918d-f9d3-af1a-ea77-46f08f7b5cfa&security=tls&alpn=http%2F1.1&encryption=none&host=rvg-production-e741.up.railway.app&fp=ios&type=ws&sni=rvg-production-e741.up.railway.app#Khodemoni-315478
-vless://b8e74de0-42c6-4b84-8889-bf348f32730c@152.233.41.31:16923?encryption=none&security=reality&sni=mail.yandex.ru&fp=edge&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986&type=grpc&authority=&serviceName=neurex&mode=gun#Khodemoni-315482
-vless://f663d626-ba8b-4748-9f8a-ba92d33e05f5@ownq7915.helpower.ir:443?security=reality&encryption=none&pbk=OCR2Jsxytv_7DXaBAs3JgoL2-na-fBlEXEs4AvWM_Ao&host=www.play.google&headerType=none&fp=edge&type=tcp&sni=www.play.google&sid=667e7c5f623ab929#Khodemoni-315479
-vless://52745f29-d8da-4cb7-9f95-401b946524e7@89.222.123.214:16923?encryption=none&security=reality&sni=disk.yandex.ru&fp=edge&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986&type=grpc&authority=&serviceName=neurex&mode=gun#Khodemoni-315483
