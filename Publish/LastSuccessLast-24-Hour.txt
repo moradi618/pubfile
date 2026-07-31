@@ -1,4 +1,5 @@
 vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@172.67.191.52:2053?encryption=none&security=tls&sni=po.fastbrokencompony.com&fp=chrome&alpn=h3%2Ch2&insecure=0&allowInsecure=0&type=ws&host=po.fastbrokencompony.com&path=%2F#Khodemoni-146172
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNbVU0Tg@45.10.164.157:8388#Khodemoni-317549
 vless://0d543aed-4e30-4553-b5ac-211419bb0961@185.128.139.11:18244?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#Khodemoni-279086
 vless://0d543aed-4e30-4553-b5ac-211419bb0961@185.128.139.11:18244?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#Khodemoni-279282
 vless://957797d5-1710-4e4a-bf41-9f5b641503e3@159.69.192.171:1234?encryption=none&type=tcp&headerType=http&host=play.google.com#Khodemoni-317530
@@ -34,7 +35,6 @@ vless://a387ea59-4d6e-400a-8e75-a4c7a2b79b37@92.113.124.204:18443?security=tls&t
 vless://143b295d-1b75-4b42-8ce1-84ec60d5738a@92.113.124.204:18443?path=%2F%40Marisa_kristi&security=tls&encryption=none&host=bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev&fp=chrome&type=ws&sni=bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query#Khodemoni-238783
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.197.75.30:8880?type=ws&security=none&host=vms.lifetime37.workers.dev&path=%2F#Khodemoni-237690
 vless://fb5058f5-a9ed-424e-9ed7-33d455438286@199.34.228.2:8880?encryption=none&security=none&type=ws&host=old-violet-a5ce.29-440.workers.dev&path=%2Fpyip%3Dtelegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2#Khodemoni-241455
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20004?allowInsecure=1&sni=hk.catxstar.com#Khodemoni-305820
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@rr1.tube-cat.com:9450?#Khodemoni-312844
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.158:443?type=tcp&security=reality&sni=storage.yandex.net&fp=firefox&flow=xtls-rprx-vision&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5#Khodemoni-312410
 vless://6aa028bc-08a9-41d1-a397-d60ce65df081@support.zoom.us:80?security=none&type=ws&path=/shalana&host=shalana.xyz&encryption=none#Khodemoni-310525
