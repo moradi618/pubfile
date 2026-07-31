@@ -1,7 +1,8 @@
+vmess://eyJhZGQiOiJ6dWRzc2d0bXJxZzlscHZpLnYuM2Rucy52aXAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoielVEc3NnVE1ScWc5THB2SS52LjNkbnMudmlwIiwiaWQiOiJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsIm5ldCI6IndzIiwicGF0aCI6Ii93cy12bWVzcyIsInBvcnQiOiI0NDMiLCJwcyI6Iktob2RlbW9uaS0zMDY2MTgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidiI6IjIifQ==
+vless://50414e45-4c5f-5a45-5553-6d24857831b8@ordakbot.ir:80?sni=z-e-u-s-panel-m0yjjp.zeus-12g9x8.workers.dev&type=ws&host=z-e-u-s-panel-m0yjjp.zeus-12g9x8.workers.dev&path=/stream/PANEL_ZEUS/6d24857831b8?loc=0#Khodemoni-313926
 vless://155e8dd4-a559-407a-9ea8-13a5e829f066@31.172.67.215:4100?path=%2Fv1&security=none&encryption=none&host=live.ok.ru&type=ws&sni=tn.tmn141246.ru#Khodemoni-313885
 vmess://eyJhZGQiOiJmajI2MDMwNS5mcmVlY2hhdHVwLmNvbSIsImFpZCI6IjAiLCJob3N0IjoiZmoyNjAzMDUuZnJlZWNoYXR1cC5jb20iLCJpZCI6Ijk4ZTJiZTNjLThmODQtNGI4NS05OTZiLWI2OGRjYzJmYmNiNiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjI3NzI2IiwicHMiOiJLaG9kZW1vbmktMzEzOTA0IiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR1U0WmpWa01HTmhZMlkzWXpNME5tSXhNRGd5TkRRNU9HVmpaalkyWTJZPQ==@129.151.75.220:61312#Khodemoni-313888
-vless://50414e45-4c5f-5a45-5553-6d24857831b8@ordakbot.ir:80?sni=z-e-u-s-panel-m0yjjp.zeus-12g9x8.workers.dev&type=ws&host=z-e-u-s-panel-m0yjjp.zeus-12g9x8.workers.dev&path=/stream/PANEL_ZEUS/6d24857831b8?loc=0#Khodemoni-313926
 trojan://humanity@chatgpt.com:443?allowInsecure=1&host=www.gossipglove.com&path=/assignment&sni=www.gossipglove.com&type=ws#Khodemoni-041903
 trojan://ppmk@104.18.32.47:8443?path=%2F&security=tls&alpn=http%252F1.1&insecure=1&host=flat-firefly-6022.rixewi3168.workers.dev&fp=chrome&type=ws&allowInsecure=1&sni=flat-firefly-6022.rixewi3168.workers.dev#Khodemoni-093846
 vless://5a0028f9-c656-cec9-4b61-54678477a408@104.18.32.47:2087?encryption=none&security=tls&sni=green-credit-7e7b.vpnfreev2rayconfig-sale1.workers.dev&fp=firefox&insecure=0&allowInsecure=0&type=ws&host=green-credit-7e7b.vpnfreev2rayconfig-sale1.workers.dev&path=%2Fgame#Khodemoni-108700
@@ -249,5 +250,3 @@ vless://1563ad16-9ac7-4214-8eb7-303f745efb07@themeforest.net:8880?security=none&
 vless://75e19908-ecd0-4c71-99d2-4f343a52a4d9@172.64.80.1:8880?encryption=none&host=delicate-hall-3f93.239-23c.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none&type=ws#Khodemoni-294725
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@198.177.56.30:8880?type=ws&host=vms.lifetime09.workers.dev#Khodemoni-294063
 trojan://521314@104.16.97.215:443?path=Telegram🇨🇳&security=tls&insecure=0&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=0&sni=tjplay.lxdxo.kdns.fr#Khodemoni-295205
-vless://d2d0f796-edb0-427a-af32-ae360679f9e7@millionaire.levikogjgfdd.ir:443?path=%2F&security=tls&encryption=none&host=rAyAn-007.fOtOn.dPdNs.oRg&fp=chrome&type=ws&sni=rAyAn-007.fOtOn.dPdNs.oRg#Khodemoni-294263
-vless://7a30eabc-aee8-4cd3-833a-5fc13f0015d2@87.242.85.201:13561?encryption=none&security=none&type=tcp#Khodemoni-294194
