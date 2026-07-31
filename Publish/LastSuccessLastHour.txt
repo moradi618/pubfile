@@ -1,3 +1,4 @@
+vless://92a8de02-b311-487b-a4ff-3d790cd28898@5.252.26.190:443?security=reality&encryption=none&pbk=3HQlKcaGPbJcrgPzKvsC0WxHucb7yIZmm_C6sLJKeyk&headerType=none&fp=randomized&type=tcp&sni=yahoo.com&sid=2a616bf021be8169#Khodemoni-316497
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.175:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#Khodemoni-316511
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.218:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#Khodemoni-316507
 vless://e0bb1141-31b2-4215-a201-2113e753cb5c@62.238.56.217:41982?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-316505
@@ -66,6 +67,3 @@ vmess://eyJhZGQiOiIyYjlod3k4b2N4N3E3NG5tLnYuM2Rucy52aXAiLCJhaWQiOjAsImhvc3QiOiIy
 vless://155e8dd4-a559-407a-9ea8-13a5e829f066@77.222.35.36:4100?path=/v1&security=none&encryption=none&fp=chrome&type=ws#Khodemoni-292589
 vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@ad-013.zen2bswa.info:8443?encryption=none&security=tls&type=ws#Khodemoni-311819
 vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@ad-013.flux3ni5o.info:8443?security=tls&sni=ad-013.flux3ni5o.info&fp=chrome&type=ws&path=/#Khodemoni-312879
-vless://f4146152-f622-4466-a233-cc01ca908bcb@b4y7t2p9j6f1m8x3q5kd.th3team.ir:20071?encryption=mlkem768x25519plus.native.0rtt.igWc0m9QOE9vfCe3gmuUJUPeFp-tjXiwQlBm8srQX04&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#Khodemoni-316303
-trojan://humanity@104.16.174.117:443?path=%2Fassignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#Khodemoni-084736
-trojan://humanity@2.144.21.112:40443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment#Khodemoni-137610
