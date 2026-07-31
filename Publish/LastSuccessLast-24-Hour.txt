@@ -1,3 +1,5 @@
+vless://0d543aed-4e30-4553-b5ac-211419bb0961@185.128.139.11:18244?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#Khodemoni-279086
+vless://0d543aed-4e30-4553-b5ac-211419bb0961@185.128.139.11:18244?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#Khodemoni-279282
 vless://957797d5-1710-4e4a-bf41-9f5b641503e3@159.69.192.171:1234?encryption=none&type=tcp&headerType=http&host=play.google.com#Khodemoni-317530
 vless://957797d5-1710-4e4a-bf41-9f5b641503e3@46.225.220.111:1234?encryption=none&type=tcp&headerType=http&host=play.google.com#Khodemoni-317531
 vless://85133294-7f47-4c2f-b3a0-a327b06b5c5a@hcaptcha.com:443?path=%2F%3Fed&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=france.havray2025.ir&fp=chrome&type=ws&allowInsecure=1&sni=france.havray2025.ir#Khodemoni-317532
