@@ -1,3 +1,4 @@
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.51:443?security=reality&type=tcp&packetEncoding=xudp&sni=storage.yandex.net&fp=firefox&flow=xtls-rprx-vision&sid=c6ef72e4635d15a5&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04#Khodemoni-311805
 vless://a490cf6b-ce54-4518-b4f0-60eaebabbe81@www.chatgpt.com:2087?path=%2F&security=tls&encryption=none&insecure=0&host=nl.sinnerrr.fun&fp=chrome&type=ws&allowInsecure=0&sni=nl.sinnerrr.fun#Khodemoni-315258
 vless://a490cf6b-ce54-4518-b4f0-60eaebabbe81@www.chatgpt.com:8443?path=%2F&security=tls&encryption=none&insecure=0&host=pl.sinnerrr.fun&fp=chrome&type=ws&allowInsecure=0&sni=pl.sinnerrr.fun#Khodemoni-315259
 vless://7dfe2f33-54c5-43cf-a654-7c8919a266be@shopcar.rafeaftabsokhtegi.com:9443?security=&encryption=none&headerType=none&type=tcp#Khodemoni-315262
@@ -3193,8 +3194,8 @@ vless://248b7825-58e7-41cc-899f-95e573e0127b@104.17.58.113:8880?host=dry-violet-
 vless://d38fb586-bec2-4892-f774-7789068e32d5@usausa.crackerbinam.com:38001?headerType=http&type=tcp&security=none&host=varzesh3.com&encryption=none#Khodemoni-294195
 vless://f9a32cc6-7dab-4d36-a839-ea276777dc30@188.166.17.69:2087/?type=ws&encryption=none&flow=&host=dsvh58bp.v6d30b.workers.dev&path=/&security=tls&sni=dsvh58bp.v6d30b.workers.dev&fp=chrome#Khodemoni-283575
 vmess://eyJhZGQiOiIxNzIuNjcuMTYxLjE0NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidjJyYXkxLmRvemFwcC54eXoiLCJpZCI6IjYwNDQxNTQ4LWI2OGUtNDNiMi04MTkxLWUzYjg4NGJlNGIzYyIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9sTW5zWlVONC8iLCJwb3J0Ijo4NDQzLCJwcyI6Iktob2RlbW9uaS0yMjA3NjgiLCJzY3kiOiJhdXRvIiwic25pIjoidjJyYXkxLmRvemFwcC54eXoiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
-vless://d5b9a06d-133e-4853-a192-56739f0b0c59@panel.talescast.com:443?security=reality&encryption=none&pbk=0OKEyvgTnmuuaDBg_dkoQtWFwnYBOerT0hxj3S1et04&headerType=none&fp=chrome&spx=/mvgT7p09a90QxIV&type=tcp&sni=www.google.com&sid=78ebd1#Khodemoni-307322
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@217.138.213.38:1080#Khodemoni-291999
+vless://d5b9a06d-133e-4853-a192-56739f0b0c59@panel.talescast.com:443?security=reality&encryption=none&pbk=0OKEyvgTnmuuaDBg_dkoQtWFwnYBOerT0hxj3S1et04&headerType=none&fp=chrome&spx=/mvgT7p09a90QxIV&type=tcp&sni=www.google.com&sid=78ebd1#Khodemoni-307322
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&security=none&encryption=none&sni=/#Khodemoni-232599
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&security=none&type=tcp&headerType=none#Khodemoni-238258
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@31.171.152.222:1080#Khodemoni-294433
