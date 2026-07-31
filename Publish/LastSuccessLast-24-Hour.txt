@@ -168,8 +168,8 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.30.30:8880/?type=ws&encryptio
 vless://4ff70740-8c80-48ae-985f-2afe4924e908@chatgpt.com:8443?path=%2Fsync&security=tls&encryption=none&insecure=0&host=pubb.clnahanpnln.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=pubb.clnahanpnln.workers.dev#Khodemoni-095096
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.whatismyip.net:2095?allowInsecure=0&sni=cnmfangbinxing.cnmfangbinxing-a.workers.dev&type=ws&host=cnmfangbinxing.cnmfangbinxing-a.workers.dev&path=/fp=chrome#Khodemoni-138486
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.80.110.50:8880?type=ws&host=vms.lifetime51.workers.dev&path=/?ed=2560#Khodemoni-142859
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.148.104.30:8880?type=ws&host=vms.lifetime51.workers.dev#Khodemoni-142849
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@openai.com:2095?encryption=none&security=none&type=ws&host=fuckingfangbinxing.cnmfangbinxing-p.workers.dev&path=%2Ffp#Khodemoni-115574
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.148.104.30:8880?type=ws&host=vms.lifetime51.workers.dev#Khodemoni-142849
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.232.140.40:8880?type=ws&host=vms.lifetime61.workers.dev&path=/?ed=2560&https://t.me/youtube@VPNine1=#Khodemoni-143388
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@openai.com:2095?allowInsecure=0&sni=fuckingfangbinxing.cnmfangbinxing-p.workers.dev&type=ws&host=fuckingfangbinxing.cnmfangbinxing-p.workers.dev&path=/fp=randomized#Khodemoni-115624
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.197.75.40:8880?security=none&type=ws&path=/?ed=2560&https://t.me/youtube@ZYFXS&host=vms.lifetime37.workers.dev#Khodemoni-115641
