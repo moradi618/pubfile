@@ -1,3 +1,4 @@
+vless://92a8de02-b311-487b-a4ff-3d790cd28898@5.252.26.190:443?security=reality&encryption=none&pbk=3HQlKcaGPbJcrgPzKvsC0WxHucb7yIZmm_C6sLJKeyk&headerType=none&fp=randomized&type=tcp&sni=yahoo.com&sid=2a616bf021be8169#Khodemoni-316497
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.175:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#Khodemoni-316511
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.218:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#Khodemoni-316507
 vless://e0bb1141-31b2-4215-a201-2113e753cb5c@62.238.56.217:41982?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-316505
@@ -28,7 +29,6 @@ vless://3830ad15-e1e9-4db7-926a-d8e808f139d8@91.107.169.58:6458?security=&encryp
 vless://a3ed7e73-6050-455b-8806-a69b6e1e624d@mamali1.godukh.shop:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=&path=%2F&security=tls&sni=hashem.godukh.shop&type=ws#Khodemoni-312489
 vless://996d411c-2859-4a7c-9b3f-ded11b75a77a@dD19VGvsov.dadashinet10.ir:2044?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-312436
 vless://a03df445-0666-4d61-acde-9705009e409c@rf4.o4ka-internet.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rf4.o4ka-internet.com&fp=firefox&pbk=V2JprbR_aJkS7uX6anyU3nrswGxdvDQT2HpY4WnzuC8&sid=5629431325884ff0&spx=%2F&type=tcp&headerType=none#Khodemoni-312425
-vless://a9bfed3e-03e1-4df4-a28c-2b059ec07cd6@75.119.151.16:80?mode=stream-one&path=%2F%3Fed%3D2048&security=none&encryption=none&host=de.samanehha.io&type=xhttp#Khodemoni-312305
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@43.255.156.59:40118?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.lamer.com.sg&fp=random&pbk=x1nqrSzJzU5Hq7fr36PEmtBfOf98A2XiFuRzIsdcz20&sid=5895914d&type=tcp&headerType=none#Khodemoni-312334
 vless://218fd696-e3a2-4c33-b397-a5f13a82969e@zde96.tcpdoor.net:443?encryption=none&security=reality&sni=media2.tcpdoor.net&fp=firefox&pbk=AFcLwlXQXNEtUjWokaNw6AKTXoWdXjbmTw71Yay3phw&sid=ee6bb65a&type=tcp&headerType=none#Khodemoni-311687
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@www.iplocation.net:443?encryption=none&security=tls&sni=misaka.cndyw.ggff.net&fp=random&type=ws&host=misaka.cndyw.ggff.net&path=%2F%3Fed%3D2560#Khodemoni-313762
