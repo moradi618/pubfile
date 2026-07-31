@@ -5,9 +5,9 @@ vless://c61a813a-3429-4a20-8b7f-f7a3cd795b24@45.134.21.8:8443?security=tls&type=
 vless://d2d0f796-edb0-427a-af32-ae360679f9e7@millionaire.levikogjgfdd.ir:443?path=%2F&security=tls&encryption=none&host=rAyAn-007.fOtOn.dPdNs.oRg&fp=chrome&type=ws&sni=rAyAn-007.fOtOn.dPdNs.oRg#Khodemoni-294263
 trojan://521314@104.16.97.215:443?path=Telegram🇨🇳&security=tls&insecure=0&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=0&sni=tjplay.lxdxo.kdns.fr#Khodemoni-295205
 vless://9ec52cb8-8daa-0021-ac36-d38295a25e5b@5.61.91.207:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&security=reality&sid=a7b2c9d4&sni=www.amd.com&type=tcp#Khodemoni-310323
-vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@love.ns.cloudflare.com:443?security=tls&type=ws&path=%2Fsea&host=xqexv.greenwolf-ili.sbs&sni=xqexv.greenwolf-ili.sbs&fp=chrome&encryption=none#Khodemoni-246411
 vless://7a30eabc-aee8-4cd3-833a-5fc13f0015d2@87.242.85.201:13561?encryption=none&security=none&type=tcp#Khodemoni-294194
 trojan://Telegram_healer_config@www.speedtest.net:443?path=/tr/WBxqItFfodwwd5KkhKtK2o?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=jfw5fii30i7-sc560avfnfnh613.i6jsq7mr66e-e14trd.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=jfw5Fii30i7-sc560AVFNfNH613.i6JSQ7Mr66E-e14trd.wOrkeRs.dev#Khodemoni-310864
+vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@love.ns.cloudflare.com:443?security=tls&type=ws&path=%2Fsea&host=xqexv.greenwolf-ili.sbs&sni=xqexv.greenwolf-ili.sbs&fp=chrome&encryption=none#Khodemoni-246411
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.148.106.30:8880?type=ws&host=vms.lifetime54.workers.dev#Khodemoni-143090
 vless://428e923f-e608-412b-9e51-3b09ffab551f@62.233.43.34:443?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=Jg7t1GwxpS4fhsYzqgz37zlQRSd8YAHECtgdGFDrnDc&security=reality&sid=9d0e1f2a&sni=5post-gate.x5.ru&type=raw#Khodemoni-310540
 trojan://humanity@2.144.21.150:2000?path=/assignment&security=tls&sni=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com&fp=firefox#Khodemoni-313725
