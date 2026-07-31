@@ -8,4 +8,5 @@ vless://0c0b895d-b954-4bec-94e6-5770677e7925@199.232.78.159:443?encryption=none&
 vless://ced3f588-d14f-4363-8171-33d8f0087606@185.126.14.200:11980?type=ws&encryption=none&path=/&host=&security=none#Khodemoni-315493
 vless://b8e74de0-42c6-4b84-8889-bf348f32730c@152.233.41.31:16923?encryption=none&security=reality&sni=mail.yandex.ru&fp=edge&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986&type=grpc&authority=&serviceName=neurex&mode=gun#Khodemoni-315482
 vless://1bc7aa95-9100-4e8e-de41-ae62b3419ae9@185.126.14.200:10635?type=tcp&encryption=none&security=none#Khodemoni-315490
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.54.70:22224?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-315512
 vless://64b6f905-94d5-4745-8f92-cafa107b7c16@94.139.250.35:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=apple.com&fp=qq&security=reality&pbk=M9_R2DX7bxoMJpkF4RcyJ0oJ8ZuGsxWrjuREKi6Ol0w&sid=#Khodemoni-315441
