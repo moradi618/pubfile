@@ -5,4 +5,3 @@ vless://8f0a9c91-ec47-4351-a8e8-93dfd493cd5f@spe1.foot8all.ir:443?encryption=non
 vless://ced3f588-d14f-4363-8171-33d8f0087606@185.126.14.200:11980?type=ws&encryption=none&path=/&host=&security=none#Khodemoni-315493
 vless://1bc7aa95-9100-4e8e-de41-ae62b3419ae9@185.126.14.200:10635?type=tcp&encryption=none&security=none#Khodemoni-315490
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.54.70:22224?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-315512
-vless://64b6f905-94d5-4745-8f92-cafa107b7c16@94.139.250.35:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=apple.com&fp=qq&security=reality&pbk=M9_R2DX7bxoMJpkF4RcyJ0oJ8ZuGsxWrjuREKi6Ol0w&sid=#Khodemoni-315441
