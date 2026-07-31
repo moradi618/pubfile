@@ -1,3 +1,5 @@
+vless://2e1eb27b-9b56-40e9-a2f8-b959bc71736e@104.21.57.111:8443/?type=ws&encryption=none&flow=&host=ad-005.pixel9xdmq.info&path=/&security=tls&sni=ad-005.pixel9xdmq.info&fp=chrome#Khodemoni-315543
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@ldgb.pages.dev:443/?type=ws&encryption=none&flow=&host=ldgb.pages.dev&path=/fp=chrome&security=tls&sni=ldgb.pages.dev#Khodemoni-315563
 vless://8f0a9c91-ec47-4351-a8e8-93dfd493cd5f@spe1.foot8all.ir:443?encryption=none&security=reality&type=tcp&headerType=none&sni=msn.com&fp=ios&pbk=9s3yEketDxPnrIxtN-KUdfVJ_p3gfOpcr_0abD4vSFw&sid=278a44a65abeeb40#Khodemoni-315621
 vless://8f0a9c91-ec47-4351-a8e8-93dfd493cd5f@swe1.foot8all.ir:80?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=play.google.com&fp=firefox&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&sid=6115f6a9eb8467c6#Khodemoni-315622
 vless://db840ee9-a3a3-4f4e-b63a-3779fe25eabe@check09.farsinblog.ir:8443?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=b7b70c104ad267b8#Khodemoni-315520
@@ -150,7 +152,6 @@ vless://019dd0b4-01a4-4832-b8b1-23420ea2e964@62.238.56.217:41982?headerType=http
 vless://4a6e0760-fe2f-4b6a-ac05-0e849c5a672d@159.69.193.221:1234?encryption=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-314578
 vless://4a6e0760-fe2f-4b6a-ac05-0e849c5a672d@159.69.192.171:1234?encryption=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-314576
 vless://4a6e0760-fe2f-4b6a-ac05-0e849c5a672d@94.130.179.44:1234?encryption=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-314581
-vless://4a01a999-22c5-4778-a1e4-82394641bf92@e4arrh6t.helpower.ir:443?security=reality&encryption=none&pbk=OCR2Jsxytv_7DXaBAs3JgoL2-na-fBlEXEs4AvWM_Ao&headerType=none&fp=edge&type=tcp&sni=www.play.google&sid=667e7c5f623ab929#Khodemoni-314546
 vless://9ce2c239-1301-c676-f9e6-d31a48854fa8@forallpanel.srtongston.ir:8880?security=none&encryption=none&host=Wwwusa.Ayar24gold.coM.&type=httpupgrade&path=%2F%3Fed%3D2082#Khodemoni-314804
 vless://298cb204-dadc-567d-e3bc-e092a69a8044@dl2dl2dl2.lornavps.ir:8855?security=none&type=tcp&headerType=http&encryption=none&path=%2F&host=play.google.com&fragment=10-100%2C100-200%2Ctlshello&noise=rand%3A10-20%2C100-200#Khodemoni-314649
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@ldgb.pages.dev:443?encryption=none&host=ldgb.pages.dev&path=%2Ffp%3Dchrome&security=tls&sni=ldgb.pages.dev&type=ws#Khodemoni-313959
