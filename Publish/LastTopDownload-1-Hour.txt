@@ -1,7 +1,6 @@
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.27.66:22223?encryption=none&security=none&type=tcp#Khodemoni-316865
 vless://49438e78-0148-a1d0-ffb5-63db11b86987@dl2dl2dl2.lornavps.ir:8855?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-316874
 vless://78f5bccc-4401-7862-9790-3e105faccf3c@dl2dl2dl2.lornavps.ir:8855?security=none&type=tcp&headerType=http&encryption=none&path=%2F&host=play.google.com&fragment=10-100%2C100-200%2Ctlshello&noise=rand%3A10-20%2C100-200#Khodemoni-316617
-vless://ba36ca25-5d46-49f2-8f03-fb22932e7607@pi.paydar.site:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-316681
 vless://69a74770-7152-4a27-bef0-2615ca16e1b1@images.netraidly.ru:40443?type=tcp&headerType=none&security=reality&flow=xtls-rprx-vision&pbk=D0AQp0cWaQR55Q-zPwp6__AxN9CoT9neZj0UzlNcLCk&fp=qq&sni=deepl.com&sid=bd72&spx=%2F#Khodemoni-311409
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4amZvbGIzSmlzejhpOVZGZGs5ay8xN0JNN21BQTZXSFg4YktYa245TlBVPQ@e2.cover20.ir:30874?type=tcp#Khodemoni-316848
 vless://ba36ca25-5d46-49f2-8f03-fb22932e7607@95.216.190.180:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-316868
