@@ -2525,11 +2525,11 @@ trojan://521314@wangcai.yunzhongzhuan.com:443?host=tjplay.lxdxo.kdns.fr&path=Tel
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?encryption=none&security=none&type=tcp&headerType=http&host=gr1.fifapes.monster&path=%2F#Khodemoni-230794
 trojan://521314@104.16.97.215:443?path=Telegram🇨🇳&security=tls&insecure=0&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=0&sni=tjplay.lxdxo.kdns.fr#Khodemoni-295205
 vmess://eyJhZGQiOiJ0dW4xLndpemFyZHgxLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4YzIwNzY4Mi1lMDA3LTRhMGQtODhhMy02OGI4NjM4YjNkMTAiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjIwNzgiLCJwcyI6Iktob2RlbW9uaS0zMTA4NDUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
-vless://388b972d-299f-4d8e-8025-061d68e1e1d3@pi.paydar.site:80?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-313984
+vless://b5df6273-c2aa-4689-aa76-70f822e30495@au-play.mobileemdad.top:42542?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-313934
 vless://412d7fbe-7474-4f1d-86c6-7eebdc628f72@8.6.112.7:8443?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=ger3.kickfarsi.com#Khodemoni-313976
 vmess://eyJhZGQiOiJ0dW4xLndpemFyZHgxLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4YzIwNzY4Mi1lMDA3LTRhMGQtODhhMy02OGI4NjM4YjNkMTAiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIwNzgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInBzIjoiS2hvZGVtb25pLTMxMzc5MCIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
 trojan://521314@wangcai.yunzhongzhuan.com:443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&host=tjplay.lxdxo.kdns.fr&path=Telegram+@WangCai2&sni=tjplay.lxdxo.kdns.fr&type=ws#Khodemoni-217668
-vless://b5df6273-c2aa-4689-aa76-70f822e30495@au-play.mobileemdad.top:42542?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-313934
+vless://388b972d-299f-4d8e-8025-061d68e1e1d3@pi.paydar.site:80?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-313984
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?encryption=none&type=tcp&headerType=http&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI#Khodemoni-196240
 trojan://humanity@2.144.21.112:40443?path=%2Fassignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#Khodemoni-113965
 vless://45a390ed-0ddb-4dc3-8b5e-2fee9d044665@167.82.75.226:80?encryption=none&security=none&type=xhttp&host=lowtechdevelopersltd.co.uk&path=%2Fvideo%3Fed%3D1024&mode=auto#Khodemoni-239557
