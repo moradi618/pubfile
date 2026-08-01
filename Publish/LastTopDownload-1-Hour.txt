@@ -1,5 +1,3 @@
-vless://ce977d82-824b-4209-87f1-0719f78d6a2e@104.18.42.163:8880?security=none&type=ws&host=royal-mode-cf74.210-62d.workers.dev#Khodemoni-240771
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.csgo.net:2095?encryption=none&type=ws&fp=randomized&path=%252F&host=cnmfangbinxing.fangbinxing-nmsl-cnm.workers.dev#Khodemoni-237715
 vless://06823dfb-4ced-425d-a905-3774ee9d5026@www.speedtest.net:80?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=b22ntzajtafvkew6em2th68a6030-ogu.hirad228.workers.dev&path=%2Fvl%2FSjBu4OsqQDFKOlfK2lI9TXXrPWfi&security=none&type=ws#Khodemoni-291434
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.129.178:22223?security=&amp;encryption=none&amp;host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&amp;headerType=none&amp;type=tcp#Khodemoni-317847
 vless://29498268-55f3-4b51-ba1a-1eba23f4ab63@45.131.215.61:52315?&type=ws&headerType=none&path=%2F#Khodemoni-317779
