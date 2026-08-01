@@ -1,11 +1,11 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.194.199:22222?encryption=none&security=none&type=tcp#Khodemoni-318847
+vless://4cce4586-4850-4286-8698-6bd60958e66a@s8.mtn-cnavippanel.xyz:8090?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-318956
+vless://4ef9367b-06e5-4f05-b0a6-e45ab785ff42@s8.mtn-cnavippanel.xyz:8090?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-318967
+vless://71f2d337-8720-4cc8-8b0f-a9ab9ce8906d@s8.mtn-cnavippanel.xyz:8090?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-318958
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?mode=stream-one&path=%2FJoin-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&fp=firefox&type=xhttp&allowInsecure=0&sni=static.lotussec.com#Khodemoni-307738
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?mode=stream-one&path=%2FJoin-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&extra=%7B%22noGRPCHeader%22%3Atrue%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%226%22%2C%22hKeepAlivePeriod%22%3A12%7D%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%28WindowsNT10.0%3BWin64%3Bx64%29AppleWebKit%2F537.36%28KHTML%2ClikeGecko%29Chrome%2F101.0.4951.67Safari%2F537.36%22%7D%7D&insecure=0&host=static.lotussec.com&type=xhttp&allowInsecure=0&sni=static.lotussec.com#Khodemoni-286013
+vless://99f8d05e-902d-4f34-85d1-127bc32aa9b8@s8.mtn-cnavippanel.xyz:8090?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-318975
 trojan://humanity@2.144.21.112:40443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment#Khodemoni-137610
 vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@0w7ymj.spectrum.vu:443?security=none&type=tcp&packetEncoding=xudp#Khodemoni-311668
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.194.199:22224?encryption=none&security=none&type=tcp#Khodemoni-318850
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.194.199:22223?encryption=none&security=none&type=tcp#Khodemoni-318848
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=none&type=xhttp&security=tls&path=%2FJoin-JavidnamanIran-on-Telegram&host=static.lotussec.com&mode=stream-one&sni=static.lotussec.com&alpn=h2&fp=firefox&insecure=0&allowInsecure=#Khodemoni-317576
 vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@one-for-all.levikogjgfdd.ir:2053?path=/&security=tls&alpn=h3,h2&encryption=none&host=po.fastbrokencompony.com&fp=chrome&type=ws&sni=po.fastbrokencompony.com#Khodemoni-318478
-vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@one-for-all.levikogjgfdd.ir:2053?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&host=po.fastbrokencompony.com&fp=chrome&type=ws&allowInsecure=0&sni=po.fastbrokencompony.com#Khodemoni-277317
 vless://6f436a44-f703-93da-7e45-615824a39d3b@sw1.levikogjgfdd.ir:1000?security=reality&encryption=none&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&host=Telegram-Leviko_v2ray&headerType=none&fp=ios&type=tcp&sni=knox.cdn-apple.com&sid=a62d513cd709744a#Khodemoni-318882
