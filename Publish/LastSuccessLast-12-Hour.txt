@@ -1,7 +1,10 @@
+vless://99f8d05e-902d-4f34-85d1-127bc32aa9b8@s2.dbpq-cnavippanel.xyz:4568?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-318990
+vless://71f2d337-8720-4cc8-8b0f-a9ab9ce8906d@s2.dbpq-cnavippanel.xyz:4568?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-318970
 vless://4cce4586-4850-4286-8698-6bd60958e66a@s1.pro-vip-cnavippanel.xyz:4568?security=none&type=tcp&headerType=http&path=%2F&host=www.icloud.com#Khodemoni-318949
 vless://5ebd890f-cdf7-4eec-ac48-2576fc745110@s1.pro-vip-cnavippanel.xyz:4568?security=none&type=tcp&headerType=http&path=%2F&host=www.icloud.com#Khodemoni-318960
 vless://71f2d337-8720-4cc8-8b0f-a9ab9ce8906d@s7.cnavippanel-tech-ips.xyz:8090?security=none&type=tcp&headerType=http&path=%2F&host=icloud.com#Khodemoni-318957
 vless://4cce4586-4850-4286-8698-6bd60958e66a@s3.vip-canepanel.shop:4568?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-318951
+vless://4cce4586-4850-4286-8698-6bd60958e66a@s7.cnavippanel-tech-ips.xyz:8090?security=none&type=tcp&headerType=http&path=%2F&host=icloud.com#Khodemoni-318955
 vless://5ebd890f-cdf7-4eec-ac48-2576fc745110@s2.dbpq-cnavippanel.xyz:4568?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-318961
 vless://5ebd890f-cdf7-4eec-ac48-2576fc745110@s3.vip-canepanel.shop:4568?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-318962
 vless://4ef9367b-06e5-4f05-b0a6-e45ab785ff42@s7.cnavippanel-tech-ips.xyz:8090?security=none&type=tcp&headerType=http&path=%2F&host=icloud.com#Khodemoni-318966
@@ -12,7 +15,6 @@ vless://4ef9367b-06e5-4f05-b0a6-e45ab785ff42@s2.dbpq-cnavippanel.xyz:4568?securi
 vless://99f8d05e-902d-4f34-85d1-127bc32aa9b8@s7.cnavippanel-tech-ips.xyz:8090?security=none&type=tcp&headerType=http&path=%2F&host=icloud.com#Khodemoni-318987
 vless://4ef9367b-06e5-4f05-b0a6-e45ab785ff42@s3.vip-canepanel.shop:4568?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-318980
 vless://99f8d05e-902d-4f34-85d1-127bc32aa9b8@s1.pro-vip-cnavippanel.xyz:4568?security=none&type=tcp&headerType=http&path=%2F&host=www.icloud.com#Khodemoni-318989
-vless://4cce4586-4850-4286-8698-6bd60958e66a@s7.cnavippanel-tech-ips.xyz:8090?security=none&type=tcp&headerType=http&path=%2F&host=icloud.com#Khodemoni-318955
 vless://4cce4586-4850-4286-8698-6bd60958e66a@s8.mtn-cnavippanel.xyz:8090?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-318956
 vless://71f2d337-8720-4cc8-8b0f-a9ab9ce8906d@s8.mtn-cnavippanel.xyz:8090?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-318958
 vless://4ef9367b-06e5-4f05-b0a6-e45ab785ff42@s8.mtn-cnavippanel.xyz:8090?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-318967
