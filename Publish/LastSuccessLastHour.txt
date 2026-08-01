@@ -1,3 +1,4 @@
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@code-sandbox.blog:443?type=tcp&headerType=none&security=reality&encryption=none&sni=code-sandbox.blog&fp=qq&pbk=84d_aHtsBvclx_Y6FnTmhhTqsZyQdfCGWtmFvefTrUI&sid=ee57ea513371ce89&flow=xtls-rprx-vision#Khodemoni-317687
 vless://ee6950b1-5a5a-4bb6-ae54-814070840281@77.91.92.203:8443?encryption=none&security=reality&sni=ru.tradingview.com&fp=firefox&pbk=H-e-yE-hA1-95RFi79ybIp-Zuovemea03YQHk5o7fRI&sid=23a2dca5aa18c5a0&spx=%2F&type=grpc&authority=&serviceName=Gun&mode=gun#Khodemoni-317686
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.228.255:62145?#Khodemoni-317586
 vless://957797d5-1710-4e4a-bf41-9f5b641503e3@159.69.192.171:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-317614
@@ -27,7 +28,4 @@ vless://7c0ae486-6e09-465c-9232-67a50f329eb9@45.195.2.114:443?encryption=none&ty
 vless://32c0cedd-6d9c-4668-bb2e-d379f380037c@203.159.90.65:443?encryption=none&type=xhttp&path=/&host=www.google.com&mode=auto&security=reality&sni=www.google.com&fp=qq&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE#Khodemoni-317680
 vless://d54df3dd-4fdd-0006-89ce-3c9bfe761ee5@ru79.overseashost.ru:443?security=reality&flow=xtls-rprx-vision&type=raw&sni=ru39.overseashost.ru&fp=qq&pbk=5daY68T2-jYVVQ__Raq1a4ggV2d1kAdrR53YkRutZF0#Khodemoni-317678
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=none&type=xhttp&security=tls&path=%2FJoin-JavidnamanIran-on-Telegram&host=static.lotussec.com&mode=stream-one&sni=static.lotussec.com&alpn=h2&fp=firefox&insecure=0&allowInsecure=#Khodemoni-317576
-vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@172.67.191.52:2053?encryption=none&security=tls&sni=po.fastbrokencompony.com&fp=chrome&alpn=h3%2Ch2&insecure=0&allowInsecure=0&type=ws&host=po.fastbrokencompony.com&path=%2F#Khodemoni-146172
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNbVU0Tg@45.10.164.157:8388#Khodemoni-317549
-vless://0d543aed-4e30-4553-b5ac-211419bb0961@185.128.139.11:18244?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#Khodemoni-279086
-vless://0d543aed-4e30-4553-b5ac-211419bb0961@185.128.139.11:18244?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#Khodemoni-279282
