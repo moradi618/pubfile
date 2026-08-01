@@ -1,3 +1,7 @@
+vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?path=%2F&security=&encryption=none&host=azsv1.drpingservice.com&type=ws#Khodemoni-094469
+vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?path=%2F%3FTELEGRAM-vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr%3Fed%3D512&security=none&encryption=none&host=azsv1.drpingservice.com&type=ws#Khodemoni-145955
+vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?encryption=none&type=ws&path=%2F&host=azsv1.drpingservice.com#Khodemoni-082627
+vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=none&encryption=none&host=azsv1.drpingservice.com&type=ws#Khodemoni-143437
 vless://28cb2674-f643-320e-3316-93049bd12ada@dl2dl2dl2.lornavps.ir:8855?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-318548
 vless://64b6f905-94d5-4745-8f92-cafa107b7c16@94.139.250.35:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=apple.com&fp=qq&security=reality&pbk=M9_R2DX7bxoMJpkF4RcyJ0oJ8ZuGsxWrjuREKi6Ol0w&sid=#Khodemoni-314712
 vless://eadcacfa-ef1a-4901-a28b-8815fa1962a5@ruded2.onlinestreamself.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=M9_R2DX7bxoMJpkF4RcyJ0oJ8ZuGsxWrjuREKi6Ol0w&sni=apple.com#Khodemoni-286053
