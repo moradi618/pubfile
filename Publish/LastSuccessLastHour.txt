@@ -1,3 +1,5 @@
+vless://3ad1d277-5715-4ca1-84db-5baea72f822d@it1-akn.astralweb.tech:443?type=tcp&headerType=none&security=tls&encryption=none&sni=it1-akn.astralweb.tech&fp=firefox&alpn=h2&insecure=0#Khodemoni-311401
+vless://2e1eb27b-9b56-40e9-a2f8-b959bc71736e@104.21.51.196:8443?path=%2F&security=tls&encryption=none&insecure=0&host=ad-005.zen2bswa.info&fp=chrome&type=ws&allowInsecure=0&sni=ad-005.zen2bswa.info#Khodemoni-312297
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000/?type=tcp&encryption=none&flow=#Khodemoni-312461
 trojan://humanity@104.18.152.77:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#Khodemoni-311954
 vless://1b73f053-2709-4698-bbec-cb20e8a5f288@panel3.nanaweb.ir:3031?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-261119
