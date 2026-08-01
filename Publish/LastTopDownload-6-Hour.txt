@@ -10,8 +10,8 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.64.110:22222?encryption=none
 vless://70e74891-aece-4a72-a027-65e691c0c0fc@5.252.26.106:3030?encryption=none&security=none&type=tcp&headerType=http&host=icloud.com#Khodemoni-319830
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.193.252.106:22223?encryption=none&security=none&type=tcp#Khodemoni-319821
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.194.199:22222?security=&encryption=none&headerType=none&type=tcp#Khodemoni-319921
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.194.199:22223?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-319614
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.194.199:22222?encryption=none&amp;security=none&amp;type=tcp#Khodemoni-318904
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.194.199:22223?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-319614
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.195.139.42:22224?encryption=none&security=none&type=tcp#Khodemoni-319992
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.193.252.106:22222?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-319865
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.194.199:22224?allowInsecure=0#Khodemoni-320319
@@ -21,12 +21,12 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.118.170:22222?encryption=non
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.118.170:22223?encryption=none&security=none&type=tcp#Khodemoni-320411
 vless://4cce4586-4850-4286-8698-6bd60958e66a@s2.dbpq-cnavippanel.xyz:4568?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-318950
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.118.170:22224?encryption=none&security=none&type=tcp#Khodemoni-320424
+vless://7187fb79-8503-40bc-b83d-3548c4462cd8@p7k3v9x2m8q1r5c6n4zh.th3team.ir:24243?encryption=none&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#Khodemoni-319428
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.64.110:22224?encryption=none&security=none&type=tcp#Khodemoni-320520
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.194.199:22222?encryption=none&security=none&type=tcp#Khodemoni-318847
 vless://8b0c48db-c228-47d9-b634-6ea6edf81e22@62.238.51.180:1234?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-320418
 vless://8b0c48db-c228-47d9-b634-6ea6edf81e22@62.238.53.197:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-320439
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206MzlDNHQxVUhMTGtHY0xPVDVwMldGY2c2Ykg2RnJmTzFVRHBlYVlNVi9JOD06K0IxMDhUOEp1QVhIT3hISmpoRDZSREpBejBoY1draVRCOUpBR252anN3ST0@185.126.64.86:10536?#Khodemoni-319710
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjQ1VyT0owRzY5bkZMWTl5RnpROE1Ub0F5TDl5ZHI2blg1QnB3Mk4wM0RzPQ@e2.cover20.ir:30874?type=tcp#Khodemoni-319534
 vless://99f8d05e-902d-4f34-85d1-127bc32aa9b8@s2.dbpq-cnavippanel.xyz:4568?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-319603
 vless://8b0c48db-c228-47d9-b634-6ea6edf81e22@62.238.53.197:1234?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-320185
 vless://99f8d05e-902d-4f34-85d1-127bc32aa9b8@s4.vip-canepanel.xyz:8090?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-318984
@@ -50,6 +50,7 @@ vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.142.142:8880?path=%2F&secur
 vless://71f2d337-8720-4cc8-8b0f-a9ab9ce8906d@s4.vip-canepanel.xyz:8090?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-318972
 vless://904a9a3e-1d23-4b33-9830-cab1a34d0b41@0in.pin.spaidan.ir:43293?authority=&encryption=none&security=none&serviceName=&type=grpc#Khodemoni-320061
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.193.252.106:22224?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-319864
+vless://de5dcb9e-6a72-45a2-8d3d-de00e5431426@gb.sv.temas-bor.ir:22012?security=reality&type=tcp&sni=login.yahoo.com&fp=firefox&sid=c6e19c434dc87df7&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&encryption=none#Khodemoni-312632
 vless://0103cdc9-3927-44f0-88aa-e1162b7fedaf@learngerman.torexa.ir:2090?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#Khodemoni-320440
 vless://78d66dd1-a432-454e-80c0-cb4aa0407375@188.114.96.3:2053?path=%2FeyJqdW5rIjoiVmNMT1VrQngzb2xCeCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=ez-87b829.ashkashk.workers.dev&fp=chrome&type=ws&sni=Ez-87B829.aShkashk.wOrkeRS.dev#Khodemoni-146284
 vless://0c0b895d-b954-4bec-94e6-5770677e7925@199.232.78.159:443?type=ws&security=tls&sni=ssl.fastly.com&host=pan1.global.ssl.fastly.neT&path=%2FTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%3Fed%3D2053#Khodemoni-312085
@@ -59,16 +60,15 @@ vless://fec5602d-53bc-41a6-a30d-08d2d9d539cd@185.143.233.122:80?security=none&ty
 vless://5ebd890f-cdf7-4eec-ac48-2576fc745110@s2.dbpq-cnavippanel.xyz:4568?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-318961
 vless://%40%F0%9D%90%95%F0%9D%9F%90%F0%9D%90%97%F0%9D%90%8D%F0%9D%90%84%F0%9D%90%93@162.159.38.119:8443?mode=auto&path=%2F&security=tls&encryption=mlkem768x25519plus.native.0rtt.BBBQ6KZyjiYmpp2ErhKd0OwCBOm4J6_McyVQdB5yhBI&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=argentinavsspain.dpdns.org&fp=chrome&type=xhttp&allowInsecure=0&sni=argentinavsspain.dpdns.org#Khodemoni-317076
 vless://30a6ad20-2d4c-4c4d-a301-66b74d15f000@199.232.78.159:443?path=%2F&security=tls&encryption=none&host=lsjaoijji.global.ssl.fastly.neT&type=ws&sni=ssl.fastly.com#Khodemoni-320194
-vless://32e4f6aa-4c8a-45ba-9f73-75e58980a37f@r1yps.pastilbastani.ir:443?encryption=none&type=tcp&headerType=http&host=play.google.com&path=/&security=none#Khodemoni-319437
 vless://245bb424-b186-4738-8f42-bdbde719d4c9@104.21.40.208:443?path=/nova-geo-psiphon-dk&security=tls&alpn=h2&encryption=none&insecure=0&host=pinalo13.zenvorix.ir&fp=chrome&type=ws&allowInsecure=0&sni=pinalo13.zenvorix.ir#Khodemoni-318483
 vless://412d7fbe-7474-4f1d-86c6-7eebdc628f72@8.6.112.7:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=auto&path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=ger3.kickfarsi.com#Khodemoni-315103
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@api-endpoint.rest:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=&pbk=XW9rKSbrkI0ehSHTieUsCpvhJ1_Wib9MDPZG8JafD0s&sid=19fbc4c7dd3d3d5a&type=tcp&headerType=none#Khodemoni-319838
+vless://de5dcb9e-6a72-45a2-8d3d-de00e5431426@gb.sv.temas-bor.ir:22012?encryption=none&sni=login.yahoo.com&sid=c6e19c434dc87df7&security=reality&fp=firefox&type=tcp&headerType=none&spx=/&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg#Khodemoni-310352
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.194.199:22222?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-319810
-vless://7187fb79-8503-40bc-b83d-3548c4462cd8@p7k3v9x2m8q1r5c6n4zh.th3team.ir:24243?encryption=none&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#Khodemoni-319428
-vless://d43c5749-0c4d-4c93-a684-cb72c2469ee3@www.canva.com:2087?path=%2F&security=tls&encryption=none&insecure=0&host=hikologoly.dearhossein-taktaz.ir&fp=chrome&type=ws&allowInsecure=0&sni=hikologoly.dearhossein-taktaz.ir#Khodemoni-319521
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.118.170:22224?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-320445
 vless://8a88edf2-235a-4e74-a012-315e8b0f000c@172.66.146.2:2087?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&host=oknoloy.dearhossein-taktaz.ir&fp=chrome&type=ws&sni=oknoloy.dearhossein-taktaz.ir#Khodemoni-319848
 vless://69349dcd-c710-41a8-9b2d-dd4556480341@3x-ui-upgrade-production-1d75.up.railway.app:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=3x-ui-upgrade-production-1d75.up.railway.app&fp=firefox&type=ws&allowInsecure=0&sni=3x-ui-upgrade-production-1d75.up.railway.app#Khodemoni-319835
+vless://32e4f6aa-4c8a-45ba-9f73-75e58980a37f@r1yps.pastilbastani.ir:443?encryption=none&type=tcp&headerType=http&host=play.google.com&path=/&security=none#Khodemoni-319437
 vless://8a88edf2-235a-4e74-a012-315e8b0f000c@www.speedtest.net:8443?path=/?TELEGRAM-TGRVPN?ed=512&security=tls&encryption=none&insecure=0&host=oknoloy.dearhossein-taktaz.ir&fp=chrome&type=ws&allowInsecure=0&sni=oknoloy.dearhossein-taktaz.ir#Khodemoni-319095
 vless://49e76398-5127-4005-90cb-c2a971f745f1@162.159.38.119:443?security=tls&type=ws&path=/carbon&host=xyjuo.skypixelway-fla.sbs&sni=xyjuo.skypixelway-fla.sbs&fp=chrome&encryption=none#Khodemoni-312565
 trojan://humanity@2.144.21.112:40443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&type=ws#Khodemoni-311355
@@ -76,3 +76,4 @@ vless://412d7fbe-7474-4f1d-86c6-7eebdc628f72@8.6.112.7:8443?Telegram=@GozargahAz
 vless://412d7fbe-7474-4f1d-86c6-7eebdc628f72@8.6.112.7:8443?encryption=none&security=tls&sni=ger3.kickfarsi.com&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F#Khodemoni-309465
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?mode=stream-one&path=%2FJoin-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&extra=%7B%22noGRPCHeader%22%3Atrue%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%226%22%2C%22hKeepAlivePeriod%22%3A12%7D%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%28WindowsNT10.0%3BWin64%3Bx64%29AppleWebKit%2F537.36%28KHTML%2ClikeGecko%29Chrome%2F101.0.4951.67Safari%2F537.36%22%7D%7D&host=static.lotussec.com&fp=firefox&type=xhttp&sni=static.lotussec.com#Khodemoni-284690
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?mode=stream-one&path=/Join-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&extra={"noGRPCHeader":true,"xmux":{"maxConcurrency":"6","hKeepAlivePeriod":12},"headers":{"User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/101.0.4951.67Safari/537.36"}}&insecure=0&host=static.lotussec.com&fp=chrome&type=xhttp&allowInsecure=0&sni=static.lotussec.com#Khodemoni-274214
+trojan://humanity@2.144.21.112:40443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=/assignment#Khodemoni-106570
