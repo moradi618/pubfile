@@ -1,6 +1,6 @@
-ss://YWVzLTI1Ni1nY206NzI1NTMzMjBhZTZiY2M4Zg@212.192.13.25:10910#Khodemoni-317981
 vless://aa259670-7dbd-44d2-be2b-f8bdbf202c82@176.124.221.208:58500?encryption=none&path=%2Ffree&security=none&type=ws#Khodemoni-317969
 vless://dfc75d09-b66c-4aa2-971f-8dab06d9214a@Mmd-riga.gorqino.ir:9145?security=reality&encryption=none&pbk=Fw1tpKBQ_bT_eSTbaCSYBthpXAQ76kujwfywvjgpUA0&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=5e06032a9c448538#Khodemoni-317974
+ss://YWVzLTI1Ni1nY206NzI1NTMzMjBhZTZiY2M4Zg@212.192.13.25:10910#Khodemoni-317981
 vless://d5598622-46b8-b017-3af3-232500000001@104.16.72.101:80?security=none&type=ws&path=%2Fsync&host=nahan-core.netizo09.workers.dev&sni=nahan-core.netizo09.workers.dev&encryption=none#Khodemoni-242181
 vless://957797d5-1710-4e4a-bf41-9f5b641503e3@167.233.47.127:1234?security=&encryption=none&host=play.google.com%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#Khodemoni-317997
 vless://d8b42cd5-a149-4356-9e61-000000000000@194.242.129.183:2550?encryption=none&security=none&type=tcp#Khodemoni-317982
@@ -61,4 +61,3 @@ vless://4e2efa26-2969-486b-ae60-390ba54af31b@116.204.164.17:7443?path=%2F%40Mari
 vless://ea89bb52-cd5e-4b4a-981a-5dbe66c9adcd@31.133.0.240:2053?security=tls&type=ws&path=/lib/tag/mfp=chrome&host=nrfiqiut.vmimv9k58ynejo2errhz.workers.dev&packetEncoding=xudp&sni=nrfiqiut.vmimv9k58ynejo2errhz.workers.dev&fp=chrome#Khodemoni-288230
 vless://e2c5f1a9-b3d4-4e78-9f2a-1c3d4e5f6a7b@104.16.92.229:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/&security=none&encryption=none&host=new-scale64-cdn.sabzi.name.ng.&type=ws#Khodemoni-294524
 vless://f58422ff-bb2e-4cce-a772-eff7db3ed343@144.31.107.111:8443?type=grpc&mode=gun&serviceName=api&security=reality&fp=firefox&sni=sp.node.ghostsyvpn.org&pbk=SrzKeUPL-1mBEZp-YZWX3NpyLrO-xF5XqUUkyk2WEEU#Khodemoni-317882
-vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@chatgpt.com:443?encryption=none&security=tls&sni=powered-by-surena.user68f797c2f3e1b.workers.dev&fp=chrome&type=ws&host=powered-by-surena.user68f797c2f3e1b.workers.dev&path=/?ed#Khodemoni-309713
