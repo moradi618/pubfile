@@ -12,6 +12,7 @@ vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?encryption=non
 vless://957797d5-1710-4e4a-bf41-9f5b641503e3@46.225.220.111:1234?encryption=none&type=tcp&headerType=http&host=play.google.com#Khodemoni-317531
 vless://716353f3-459f-4f1f-8a92-8525d9e517be@46.225.220.111:1234?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-317994
 vless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.233.238:2086?security=none&type=ws&host=parsi.parsi.sbs&path=/#Khodemoni-318260
+vless://ba36ca25-5d46-49f2-8f03-fb22932e7607@pi.paydar.site:80?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-317219
 vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=none&encryption=none&host=azsv1.drpingservice.com&type=ws#Khodemoni-143437
 vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@0w7ymj.spectrum.vu:443?security=none&type=tcp&packetEncoding=xudp#Khodemoni-311668
 vless://42713553-c2e5-408a-8a1b-651b2facf01e@72.56.249.226:8443?encryption=none&type=ws&path=%2Fsubscribe%2Fws&security=none#Khodemoni-317880
@@ -46,7 +47,6 @@ vless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.234.238:2086?security=none&
 vless://da0f3291-c93e-4a19-b3f2-d150aad828ed@77.90.61.47:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=api.led.samsung.com&fp=chrome&pbk=x8AqgiU2yHx67Yv2opPUV17wRjAz1ftFtVi2CcVup10&sid=e132826d#Khodemoni-313451
 vless://eadcacfa-ef1a-4901-a28b-8815fa1962a5@ruded2.onlinestreamself.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=M9_R2DX7bxoMJpkF4RcyJ0oJ8ZuGsxWrjuREKi6Ol0w&sni=apple.com#Khodemoni-309923
 vless://0977bddb-a758-4033-96dd-57468e02ea81@95.85.15.135:443?security=tls&type=ws&path=/u?ed=2560&host=4qrnyf6s.5e6pmte8uw52n5ymvwx8.workers.dev&packetEncoding=xudp&sni=4qrnyf6s.5e6pmte8uw52n5ymvwx8.workers.dev&fp=chrome&encryption=none#Khodemoni-288105
-vless://29498268-55f3-4b51-ba1a-1eba23f4ab63@45.131.215.61:52315?&type=ws&headerType=none&path=%2F#Khodemoni-317779
 vless://44a6901d-6675-41b1-9a80-ee3308699e1d@45.192.2.51:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&security=reality&sid=f34818a561dfd1fe&sni=yandex.net&type=tcp#Khodemoni-317970
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?mode=stream-one&path=%2FJoin-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&extra=%7B%22noGRPCHeader%22%3Atrue%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%226%22%2C%22hKeepAlivePeriod%22%3A12%7D%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%28WindowsNT10.0%3BWin64%3Bx64%29AppleWebKit%2F537.36%28KHTML%2ClikeGecko%29Chrome%2F101.0.4951.67Safari%2F537.36%22%7D%7D&insecure=0&host=static.lotussec.com&fp=firefox&type=xhttp&allowInsecure=0&sni=static.lotussec.com#Khodemoni-284534
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=&encryption=none&host=gr1.fifapes.monster&headerType=http&type=tcp#Khodemoni-227773
