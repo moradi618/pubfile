@@ -1,6 +1,8 @@
+vless://cf39cbf2-8926-43b5-ba3e-45b975019094@skk.moe:8880?path=/pyip=ProxyIP.US.CMLiussss.net&security=none&encryption=none&host=snowy-feather-39d3.428.workers.dev&type=ws#Khodemoni-312183
+vless://f769b7ea-9cd1-4d61-b578-7644b7c8eb3d@104.21.56.202:8880?security=none&type=ws&path=/pyip=ProxyIP.US.CMLiussss.net&host=quiet-waterfall-e914.180-ac4.workers.dev&packetEncoding=xudp#Khodemoni-311611
+vless://42713553-c2e5-408a-8a1b-651b2facf01e@72.56.249.226:8443?encryption=none&type=ws&path=%2Fsubscribe%2Fws&security=none#Khodemoni-317880
 vless://d33cc776-9c57-4ea3-8c5a-6d85043029d7@104.26.13.23:8880?path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=&encryption=none&host=shiny-flower-c72d.105-161.workers.dev&type=ws#Khodemoni-310823
 vless://28926c34-865c-447e-8d42-a17240af743b@cdn-cloudflare91.korvexe.ir:8880?encryption=none&security=none&type=ws&host=cdn-cloudflare91.korvexe.ir&path=/#Khodemoni-310917
-vless://42713553-c2e5-408a-8a1b-651b2facf01e@72.56.249.226:8443?encryption=none&type=ws&path=%2Fsubscribe%2Fws&security=none#Khodemoni-317880
 vless://c49a0981-6d37-4ec0-9a01-1b63ccc07e4f@soskeynets.hamrahfree1.workers.dev:2096?path=/eyJqdW5rIjoiZHlCcVpqeEYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iLCJbMjYwMjpmYzU5OjExOjY0OjpdIiwiWzI2MDI6ZmM1OTpiMDo2NDo6XSJdfQ&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=peekconfig.hamrahfree1.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=pEeKcOnFig.haMRaHfREe1.wOrKerS.DEv#Khodemoni-311279
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.154.211:2095?encryption=none&security=none&type=ws&host=cnmfangbinxing.cnmfangbinxing-q.workers.dev&path=/#Khodemoni-232108
 vless://42713553-c2e5-408a-8a1b-651b2facf01e@72.56.91.165:8443?encryption=none&type=ws&path=%2Fsubscribe%2Fws&security=none#Khodemoni-317878
@@ -150,7 +152,6 @@ vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=&e
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&alpn=http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp#Khodemoni-240041
 vless://52fb52b1-82de-4c6f-b7d3-599ce5d57f1c@104.18.188.234:8880?type=ws&host=damp-disk-1ae9.138-c4c.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#Khodemoni-235675
 vless://4a805850-a2c4-42b3-898a-798f0c19c609@172.64.144.52:2052?security=none&type=ws&host=3o3ed92e.xn--nxa.nyc.mn&path=/sub#Khodemoni-240755
-trojan://humanity@188.114.98.0:443?encryption=none&security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=%2Fassignment#Khodemoni-240183
 vless://4ce7cb8a-f9b1-4bfa-a80d-9e168c61a633@172.67.137.223:443?security=tls&type=ws&path=%2Fsync&host=curly-night-6928.ggdhchjk.workers.dev&sni=curly-night-6928.ggdhchjk.workers.dev&fp=chrome&encryption=none#Khodemoni-242361
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=&alpn=http%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp#Khodemoni-240178
 vless://4a805850-a2c4-42b3-898a-798f0c19c609@cs3iiova.cf.3666888.xyz:2086?type=ws&host=od1kl638.xn--nxa.nyc.mn&path=/sub#Khodemoni-242048
