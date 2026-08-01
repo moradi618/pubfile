@@ -310,9 +310,9 @@ trojan://humanity@162.159.38.119:443?path=/assignment&security=tls&host=www.goss
 vless://7968c546-02dc-4f8c-b791-934591a94cb2@45.130.125.207:443?path=%2Fcbasur%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=hhvl.hhapp.kdns.fr&type=ws&allowInsecure=0&sni=hhvl.hhapp.kdns.fr#Khodemoni-243547
 vless://7968c546-02dc-4f8c-b791-934591a94cb2@45.130.125.207:443?path=%2Fcbasur&security=tls&encryption=none&host=hhvl.hhapp.kdns.fr&type=ws&sni=hhvl.hhapp.kdns.fr#Khodemoni-243552
 vless://67c187e4-2f9f-b2bf-4c52-f7b20000000b@www.speedtest.net:2086?security=none&type=ws&path=%2Fsync&host=ez-645eee.ezaccess13e2b2a.workers.dev&packetEncoding=none#Khodemoni-244495
-vless://7968c546-02dc-4f8c-b791-934591a94cb2@104.16.72.41:443?path=%2Fcbasur&security=tls&encryption=none&insecure=0&host=hhvl.hhapp.kdns.fr&type=ws&allowInsecure=0&sni=hhvl.hhapp.kdns.fr#Khodemoni-250341
-vless://aebe5a70-0ca3-46ce-8208-8b5bab1346ce@mybb.com:443?path=/&security=tls&encryption=none&host=rayan-007.nastaran.dpdns.org&fp=chrome&type=ws&sni=rAyAn-007.nAsTaRaN.DpDnS.OrG#Khodemoni-248454
 vless://7968c546-02dc-4f8c-b791-934591a94cb2@104.16.72.41:443?encryption=none&type=ws&security=tls&path=%2Fcbasur&host=hhvl.hhapp.kdns.fr&sni=hhvl.hhapp.kdns.fr&insecure=1&allowInsecure=1#Khodemoni-259870
+vless://aebe5a70-0ca3-46ce-8208-8b5bab1346ce@mybb.com:443?path=/&security=tls&encryption=none&host=rayan-007.nastaran.dpdns.org&fp=chrome&type=ws&sni=rAyAn-007.nAsTaRaN.DpDnS.OrG#Khodemoni-248454
+vless://7968c546-02dc-4f8c-b791-934591a94cb2@104.16.72.41:443?path=%2Fcbasur&security=tls&encryption=none&insecure=0&host=hhvl.hhapp.kdns.fr&type=ws&allowInsecure=0&sni=hhvl.hhapp.kdns.fr#Khodemoni-250341
 trojan://humanity@104.21.40.34:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&path=%2Fassignment#Khodemoni-243708
 vless://7c6a566b-4c4a-b8f2-1719-a3096b424141@104.21.5.173:8080?security=none&type=ws&path=%2Fsync&host=peekconfigg.vipserver1-39d.workers.dev&sni=peekconfigg.vipserver1-39d.workers.dev#Khodemoni-254844
 vless://667a035b-6656-4a4f-a74c-8cd6a679f8d4@www.zsu.gov.ua:8880?security=none&type=ws&path=/pyip=ProxyIP.SG.CMLiussss.net&host=winter-mode-7f4e.89-136.workers.dev&packetEncoding=xudp#Khodemoni-258716
