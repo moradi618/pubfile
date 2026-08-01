@@ -5,6 +5,7 @@ vless://8b0c48db-c228-47d9-b634-6ea6edf81e22@62.238.53.197:1234?security=none&en
 vless://8b0c48db-c228-47d9-b634-6ea6edf81e22@62.238.51.180:1234?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-320418
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.118.170:22224?encryption=none&security=none&type=tcp#Khodemoni-320424
 vless://99f8d05e-902d-4f34-85d1-127bc32aa9b8@s4.vip-canepanel.xyz:8090?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-318984
+vless://6f98a077-004e-4b86-8b78-8d09308d3868@196.240.57.50:443?mode=auto&security=reality&encryption=none&pbk=XBBVeMURFu7jmYJ9MZwjEWgfQlGTnRs0B5So5Fy7jWs&fp=chrome&type=xhttp&sni=stats.vk-portal.net&sid=992f3294e2336744#Khodemoni-320470
 vless://245bb424-b186-4738-8f42-bdbde719d4c9@104.18.16.56:443?path=/nova-geo-psiphon-gb&security=tls&alpn=h2&encryption=none&insecure=0&host=pinalo11.zenvorix.ir&fp=chrome&type=ws&allowInsecure=0&sni=pinalo11.zenvorix.ir#Khodemoni-318466
 vless://71f2d337-8720-4cc8-8b0f-a9ab9ce8906d@s4.vip-canepanel.xyz:8090?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-318972
 vless://0103cdc9-3927-44f0-88aa-e1162b7fedaf@learngerman.torexa.ir:2090?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#Khodemoni-320440
@@ -25,4 +26,3 @@ vless://71f2d337-8720-4cc8-8b0f-a9ab9ce8906d@s6-t.canepanel.shop:8090?security=n
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.118.170:22224?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-320445
 vless://4ef9367b-06e5-4f05-b0a6-e45ab785ff42@s6-t.canepanel.shop:8090?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-318983
 vless://b8ae8186-22ed-413b-b0de-dc590bbbc3bc@178.104.253.73:6500?encryption=none&security=reality&sni=play.google.com&fp=qq&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&type=tcp&headerType=none#Khodemoni-318329
-vless://7153fb3d-f357-42ac-b6db-ece1732f7f01@multi.fresedvpn.site:11443?&type=ws&headerType=none&host=rebus.rustore.ru&path=%2Fapi%2Fv3%2Fws#Khodemoni-320324
