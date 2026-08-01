@@ -70,7 +70,6 @@ trojan://humanity@2.144.21.150:2000?path=%2Fassignment&security=tls&insecure=1&h
 vless://69349dcd-c710-41a8-9b2d-dd4556480341@3x-ui-upgrade-production-1d75.up.railway.app:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=3x-ui-upgrade-production-1d75.up.railway.app&fp=firefox&type=ws&allowInsecure=0&sni=3x-ui-upgrade-production-1d75.up.railway.app#Khodemoni-319835
 vless://99f8d05e-902d-4f34-85d1-127bc32aa9b8@s2.dbpq-cnavippanel.xyz:4568?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-319603
 vless://8a88edf2-235a-4e74-a012-315e8b0f000c@www.speedtest.net:8443?path=/?TELEGRAM-TGRVPN?ed=512&security=tls&encryption=none&insecure=0&host=oknoloy.dearhossein-taktaz.ir&fp=chrome&type=ws&allowInsecure=0&sni=oknoloy.dearhossein-taktaz.ir#Khodemoni-319095
-vless://4ca31b44-9188-4cc7-adc6-f940888e5282@s4.vip-canepanel.xyz:8090?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-319010
 vless://5ebd890f-cdf7-4eec-ac48-2576fc745110@s4.vip-canepanel.xyz:8090?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-318963
 vless://4ef9367b-06e5-4f05-b0a6-e45ab785ff42@s6-t.canepanel.shop:8090?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-318983
 vless://4ef9367b-06e5-4f05-b0a6-e45ab785ff42@s4.vip-canepanel.xyz:8090?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-318981
