@@ -22,6 +22,7 @@ vless://71f2d337-8720-4cc8-8b0f-a9ab9ce8906d@s8.mtn-cnavippanel.xyz:8090?securit
 vless://99f8d05e-902d-4f34-85d1-127bc32aa9b8@s6-t.canepanel.shop:8090?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-318986
 vless://5ebd890f-cdf7-4eec-ac48-2576fc745110@s6-t.canepanel.shop:8090?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-318965
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.194.199:22222?encryption=none&security=none&type=tcp#Khodemoni-318847
+vless://4ca31b44-9188-4cc7-adc6-f940888e5282@s6-t.canepanel.shop:8090?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-318997
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206MzlDNHQxVUhMTGtHY0xPVDVwMldGY2c2Ykg2RnJmTzFVRHBlYVlNVi9JOD06K0IxMDhUOEp1QVhIT3hISmpoRDZSREpBejBoY1draVRCOUpBR252anN3ST0@185.126.64.86:10536?#Khodemoni-319710
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjQ1VyT0owRzY5bkZMWTl5RnpROE1Ub0F5TDl5ZHI2blg1QnB3Mk4wM0RzPQ@e2.cover20.ir:30874?type=tcp#Khodemoni-319534
 vmess://eyJ2IjoiMiIsInBzIjoiS2hvZGVtb25pLTMxOTI0OSIsImFkZCI6ImZqMjYwMzA2LmZyZWVjaGF0dXAuY29tIiwicG9ydCI6IjI3NzI2IiwiaWQiOiI5OGUyYmUzYy04Zjg0LTRiODUtOTk2Yi1iNjhkY2MyZmJjYjYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIxNyJ9
@@ -43,7 +44,6 @@ vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=&
 vless://23e5a6a4-bad4-4be6-873b-fce27c9ca8be@64.225.106.70:2083?security=tls&type=ws&host=srb6j666.65p5drnb2vxb7rkbzwlx.workers.dev&fp=chrome&sni=srb6j666.65p5drnb2vxb7rkbzwlx.workers.dev&path=%2F%3Fed%3D2560&encryption=none#Khodemoni-084178
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206MzlDNHQxVUhMTGtHY0xPVDVwMldGY2c2Ykg2RnJmTzFVRHBlYVlNVi9JOD06K0IxMDhUOEp1QVhIT3hISmpoRDZSREpBejBoY1draVRCOUpBR252anN3ST0@185.126.64.86:10536? #Khodemoni-320016
 vless://b46d67ed-3ed1-47c7-b8ec-ec645afc39f8@chsrv.21ayar.ir:7911?security=reality&encryption=none&pbk=3WnHdv9A0tNParChTLxPnDteRD841h8thOGR7MBgAhY&headerType=none&fp=chrome&type=tcp&sni=play.google.com#Khodemoni-319907
-trojan://521314@millionaire.levikogjgfdd.ir:443?path=%2FLeviko_v2ray&security=tls&host=tjplay.lxdxo.kdns.fr&type=ws&sni=tjplay.lxdxo.kdns.fr#Khodemoni-308882
 vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.142.142:8880?path=%2F&security=none&encryption=none&host=azsv1.drpingservice.com&type=ws#Khodemoni-108018
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.193.252.106:22224?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-319864
 vless://0c0b895d-b954-4bec-94e6-5770677e7925@199.232.78.159:443?allowInsecure=1&sni=ssl.fastly.com&type=ws&host=pan1.global.ssl.fastly.neT&path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed=2053fp=chrome&security=tls#Khodemoni-317049
@@ -72,7 +72,6 @@ vless://f0e8acae-d510-4b28-acca-4cd7e85a3ad0@wwwzil6k.helpower.ir:443?security=r
 vless://99f8d05e-902d-4f34-85d1-127bc32aa9b8@s2.dbpq-cnavippanel.xyz:4568?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-319603
 vless://69349dcd-c710-41a8-9b2d-dd4556480341@3x-ui-upgrade-production-1d75.up.railway.app:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=3x-ui-upgrade-production-1d75.up.railway.app&fp=firefox&type=ws&allowInsecure=0&sni=3x-ui-upgrade-production-1d75.up.railway.app#Khodemoni-319835
 vless://e338fc24-d7d5-de46-6814-b6e712ce2ff3@69.46.46.100:443?encryption=none&type=ws&security=tls&path=%2Fws%2Fe338fc24-d7d5-de46-6814-b6e712ce2ff3&host=rvg-production-984a.up.railway.app&sni=rvg-production-984a.up.railway.app&alpn=http%2F1.1&fp=ios&insecure=0&allowInsecure=0#Khodemoni-318992
-vless://412d7fbe-7474-4f1d-86c6-7eebdc628f72@8.6.112.7:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=auto&path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=ger3.kickfarsi.com#Khodemoni-315103
 vless://99f8d05e-902d-4f34-85d1-127bc32aa9b8@s4.vip-canepanel.xyz:8090?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-319604
 vless://444f3779-cc79-4289-b22b-f75bc84be25e@d7e209882c98f0ecd7e209882c98f0ec.ssdhdd.org:443?security=reality&encryption=none&pbk=pvY1bX3eh_RHA2foDr82nB-0UgXu1uO7xjtYKRSFuCs&headerType=&fp=chrome&type=tcp&sni=tasnimnews.ir&sid=3b225391611b29e5#Khodemoni-319575
 vless://8a88edf2-235a-4e74-a012-315e8b0f000c@www.speedtest.net:8443?path=/?TELEGRAM-TGRVPN?ed=512&security=tls&encryption=none&insecure=0&host=oknoloy.dearhossein-taktaz.ir&fp=chrome&type=ws&allowInsecure=0&sni=oknoloy.dearhossein-taktaz.ir#Khodemoni-319095
