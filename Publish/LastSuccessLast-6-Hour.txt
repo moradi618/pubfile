@@ -1,5 +1,15 @@
+vless://1ad37675-b4cf-42fa-9dc5-83fd35cd63cb@ad-020.pixel9xdmq.info:8443?encryption=none&type=ws&security=tls&path=%2F&host=ad-020.pixel9xdmq.info&sni=ad-020.pixel9xdmq.info&fp=chrome&insecure=0&allowInsecure=0#Khodemoni-308189
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?security=tls&sni=hkdcrtc-e.catcat321.com&fp=firefox&insecure=1&allowInsecure=1&type=tcp&headerType=none#Khodemoni-315799
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?security=tls&sni=de.catxstar.com#Khodemoni-317783
+vless://3ad1d277-5715-4ca1-84db-5baea72f822d@ddc-chr.astralweb.tech:443?alpn=h2&encryption=none&fp=firefox&security=tls&sni=ddc-chr.astralweb.tech&type=tcp#Khodemoni-318803
+vmess://eyJ2IjoiMiIsInBzIjoiS2hvZGVtb25pLTMyMDI4MiIsImFkZCI6ImNnMWMxMi53YWltYW9qZC5jb20iLCJwb3J0IjoiNDQzIiwiaWQiOiIwNjMyYmZhOS1iMTVjLTQyNTctOGM3NS0zMmY3YzBjNTNiMjciLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJjZzFjMTIud2FpbWFvamQuY29tIiwicGF0aCI6Ii9hcGkvdjEvZ3JhcGhxbCIsInRscyI6InRscyIsInNuaSI6ImNnMWMxMi53YWltYW9qZC5jb20iLCJ0ZXN0X25hbWUiOiI0NiJ9
+vless://XpnTeam-165@140.248.186.45:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com&fp=safari#Khodemoni-320347
+vmess://eyJ2IjoiMiIsInBzIjoiS2hvZGVtb25pLTMyMDI1NSIsImFkZCI6InR1bjEud2l6YXJkeDEuY29tIiwicG9ydCI6IjIwNzgiLCJpZCI6IjhjMjA3NjgyLWUwMDctNGEwZC04OGEzLTY4Yjg2MzhiM2QxMCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjEyIn0=
+vless://d81a73a0-1173-452c-b64f-22497b44f96f@0in.pin.spaidan.ir:27594?encryption=none&security=none&type=tcp#Khodemoni-320170
 vless://99f8d05e-902d-4f34-85d1-127bc32aa9b8@s4.vip-canepanel.xyz:8090?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-318984
+vless://71f2d337-8720-4cc8-8b0f-a9ab9ce8906d@s6-t.canepanel.shop:8090?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-318974
 vless://71f2d337-8720-4cc8-8b0f-a9ab9ce8906d@s4.vip-canepanel.xyz:8090?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-318972
+vless://4ef9367b-06e5-4f05-b0a6-e45ab785ff42@s6-t.canepanel.shop:8090?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-318983
 vless://4ef9367b-06e5-4f05-b0a6-e45ab785ff42@s4.vip-canepanel.xyz:8090?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-318981
 vless://8a88edf2-235a-4e74-a012-315e8b0f000c@www.speedtest.net:8443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=oknoloy.dearhossein-taktaz.ir&fp=chrome&type=ws&allowInsecure=0&sni=oknoloy.dearhossein-taktaz.ir#Khodemoni-318865
 trojan://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@jumao91.shop:2096?allowInsecure=1&host=jumao91.shop&path=%2Fproxyip%3D45.207.156.255&type=ws#Khodemoni-318824
@@ -8,7 +18,6 @@ vless://a8f84171-5f96-4547-b621-59758fe668c8@node-tw0.omhvp.co:443?flow=xtls-rpr
 vless://ee6950b1-5a5a-4bb6-ae54-814070840281@italia.lodkirmm.ru:443?security=reality&encryption=mlkem768x25519plus.native.0rtt.kWnW-tjj-zEEe_L1AbGe3eHKtpezdUIsqHZ8e9gJKgs&pbk=6fwpt8WW46VND7VgVV5lQSteCUgJsZbRR092VDZ2nFs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=italia.lodkirmm.ru#Khodemoni-318729
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.147.218:22224?&type=tcp&headerType=none&path=%2F#Khodemoni-320322
 vless://7153fb3d-f357-42ac-b6db-ece1732f7f01@multi.fresedvpn.site:11443?&type=ws&headerType=none&host=rebus.rustore.ru&path=%2Fapi%2Fv3%2Fws#Khodemoni-320324
-vless://d81a73a0-1173-452c-b64f-22497b44f96f@0in.pin.spaidan.ir:27594?encryption=none&security=none&type=tcp#Khodemoni-320170
 vless://a8f84171-5f96-4547-b621-59758fe668c8@node-tw0.omhvp.co:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.singaporeair.com&fp=firefox&pbk=jWVk2Z7eFkyDcu2xgzqX8JsPbZuCVhHUWD463Vfgazw&sid=7a5b89ecdb01f781&type=tcp&headerType=none#Khodemoni-313477
 vless://d81a73a0-1173-452c-b64f-22497b44f96f@0in.pin.spaidan.ir:31618?encryption=none&host=&path=%2F&security=none&type=ws#Khodemoni-320172
 vless://d81a73a0-1173-452c-b64f-22497b44f96f@0in.pin.spaidan.ir:32073?encryption=none&host=&path=%2F&security=none&type=httpupgrade#Khodemoni-320187
