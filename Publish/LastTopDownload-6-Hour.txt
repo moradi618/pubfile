@@ -22,7 +22,6 @@ vless://71f2d337-8720-4cc8-8b0f-a9ab9ce8906d@s8.mtn-cnavippanel.xyz:8090?securit
 vless://99f8d05e-902d-4f34-85d1-127bc32aa9b8@s6-t.canepanel.shop:8090?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-318986
 vless://5ebd890f-cdf7-4eec-ac48-2576fc745110@s6-t.canepanel.shop:8090?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-318965
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.194.199:22222?encryption=none&security=none&type=tcp#Khodemoni-318847
-vless://4ca31b44-9188-4cc7-adc6-f940888e5282@s6-t.canepanel.shop:8090?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-318997
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206MzlDNHQxVUhMTGtHY0xPVDVwMldGY2c2Ykg2RnJmTzFVRHBlYVlNVi9JOD06K0IxMDhUOEp1QVhIT3hISmpoRDZSREpBejBoY1draVRCOUpBR252anN3ST0@185.126.64.86:10536?#Khodemoni-319710
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjQ1VyT0owRzY5bkZMWTl5RnpROE1Ub0F5TDl5ZHI2blg1QnB3Mk4wM0RzPQ@e2.cover20.ir:30874?type=tcp#Khodemoni-319534
 vmess://eyJ2IjoiMiIsInBzIjoiS2hvZGVtb25pLTMxOTI0OSIsImFkZCI6ImZqMjYwMzA2LmZyZWVjaGF0dXAuY29tIiwicG9ydCI6IjI3NzI2IiwiaWQiOiI5OGUyYmUzYy04Zjg0LTRiODUtOTk2Yi1iNjhkY2MyZmJjYjYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIxNyJ9
