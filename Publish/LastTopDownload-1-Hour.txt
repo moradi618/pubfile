@@ -46,6 +46,7 @@ vless://8b0c48db-c228-47d9-b634-6ea6edf81e22@62.238.63.51:1234?security=&encrypt
 vless://245bb424-b186-4738-8f42-bdbde719d4c9@104.18.16.56:443?path=/nova-geo-psiphon-us&security=tls&alpn=h2&encryption=none&insecure=0&host=pinalo12.zenvorix.ir&fp=chrome&type=ws&allowInsecure=0&sni=pinalo12.zenvorix.ir#Khodemoni-318449
 vless://245bb424-b186-4738-8f42-bdbde719d4c9@104.18.16.56:443?path=/nova-geo-psiphon-se&security=tls&alpn=h2&encryption=none&insecure=0&host=pinalo10.zenvorix.ir&fp=chrome&type=ws&allowInsecure=0&sni=pinalo10.zenvorix.ir#Khodemoni-318442
 vless://c46e2605-be24-4555-b7db-0fc6773ad004@kaz01.routexvpn.space:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=yahoo.com&fp=firefox&pbk=CC8vVe5trg8COtHkcR-cC3rl7hJh-Tr0RI5KmzzBNWo#Khodemoni-323269
+vless://412d7fbe-7474-4f1d-86c6-7eebdc628f72@ip.kickfarsi.com:8443?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=ger3.kickfarsi.com#Khodemoni-285283
 vless://412d7fbe-7474-4f1d-86c6-7eebdc628f72@ip.kickfarsi.com:8443?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=ger3.kickfarsi.com&fp=chrome&type=xhttp&allowInsecure=0&sni=ger3.kickfarsi.com#Khodemoni-314679
 vless://245bb424-b186-4738-8f42-bdbde719d4c9@172.66.174.41:443?path=%2Fnova-geo-psiphon-fr&security=tls&alpn=h2&encryption=none&insecure=0&host=pinalo4.zenvorix.ir&fp=chrome&type=ws&allowInsecure=0&sni=pinalo4.zenvorix.ir#Khodemoni-322448
 vless://c60388ae-0113-440c-a3c5-ab443924de94@94.140.0.1:443?path=%2F%3Fed%3D2560&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=Australia.havray2025.ir&fp=chrome&type=ws&allowInsecure=0&sni=Australia.havray2025.ir#Khodemoni-323044
@@ -57,7 +58,6 @@ vless://c60388ae-0113-440c-a3c5-ab443924de94@8.47.69.0:443?security=tls&alpn=h3%
 vless://c46e2605-be24-4555-b7db-0fc6773ad004@91.217.10.163:443?&security=reality&flow=xtls-rprx-vision&pbk=CC8vVe5trg8COtHkcR-cC3rl7hJh-Tr0RI5KmzzBNWo&fp=firefox&sni=yahoo.com&type=tcp&headerType=none&host=yahoo.com&path=%2F#Khodemoni-323816
 vless://8b0c48db-c228-47d9-b634-6ea6edf81e22@62.238.55.96:1234?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-320419
 vless://d7863880-7130-49fc-9202-a2fd5b5620b2@art-nl.igatel.com:8527?encryption=none&security=reality&type=tcp&headerType=none&sni=www.yahoo.com&fp=chrome&alpn=h2,http/1.1&pbk=-zNDEqKkScKvMWB7spEper78GE_u-nR4jDHZ3DpOoxM&sid=62ad184af31fc8cf#Khodemoni-323730
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=none&encryption=none&host=/?JOIN_TELEGRAM-TGRVPN&headerType=http&type=tcp#Khodemoni-319126
 vless://63bd9429-578a-46c0-b99f-c81814041c31@3x-ui-production-0061.up.railway.app:443?path=/in&security=tls&encryption=none&insecure=0&host=&type=ws&allowInsecure=0#Khodemoni-323322
 vless://8b0c48db-c228-47d9-b634-6ea6edf81e22@159.69.193.221:1234?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-320184
 vless://5de3f60c-7cc2-4f66-9177-706a2693dc19@62.238.55.96:1234?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-321070
