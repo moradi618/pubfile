@@ -1,5 +1,6 @@
-vless://c7e9c591-2764-423a-afca-efbd010fd396@31.133.0.49:2053?host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws&fp=chrome#Khodemoni-314890
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.162.229.40:8880?security=none&type=ws&host=vms.lifetime61.workers.dev#Khodemoni-241442
+vless://db0857e9-7f60-4f27-a7c8-3622957e9938@69.46.46.191:443?alpn=h3&ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=ezaccess1-luffy-ezaccess1-154b.up.railway.app&path=%2Fws%2Fvless%2Fdb0857e9-7f60-4f27-a7c8-3622957e9938&security=tls&sni=ezaccess1-luffy-ezaccess1-154b.up.railway.app&type=ws#Khodemoni-315280
+vless://c7e9c591-2764-423a-afca-efbd010fd396@31.133.0.49:2053?host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws&fp=chrome#Khodemoni-314890
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@support.cloudflare.com:2095?encryption=none&security=none&type=ws&host=fuckingfangbinxing.cnmfangbinxing-n.workers.dev&path=%2Ffp&domain=fuckingfangbinxing.cnmfangbinxing-n.workers.dev&sni=fuckingfangbinxing.cnmfangbinxing-n.workers.dev#Khodemoni-043262
 vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@cf.090227.xyz:443?encryption=none&security=tls&sni=xhttp3.azadnet5000.dpdns.org&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&host=xhttp3.azadnet5000.dpdns.org&path=%2F&mode=stream-one#Khodemoni-116242
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.148.106.30:8880?type=ws&host=vms.lifetime54.workers.dev#Khodemoni-143090
