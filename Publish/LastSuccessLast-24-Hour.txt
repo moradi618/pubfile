@@ -1,9 +1,11 @@
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.162.229.40:8880?security=none&type=ws&host=vms.lifetime61.workers.dev#Khodemoni-241442
+trojan://Telegram_healer_config@188.114.96.3:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/tr/N61UxT346epoPVmA9xFM6H00?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=6m1rgyieclmrx9hef1.z6-0hlnubjibwzpa85.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=6M1RGYiecLMrX9HEf1.z6-0hLNuBjIBWzPa85.wOrkers.DEv#Khodemoni-317490
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@154.64.226.149:9450?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=hk.catxstar.com#Khodemoni-317504
 trojan://Telegram_healer_config@188.114.96.3:443?path=%2Ftr%2FN61UxT346epoPVmA9xFM6H00%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=6m1rgyieclmrx9hef1.z6-0hlnubjibwzpa85.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=6M1RGYiecLMrX9HEf1.z6-0hLNuBjIBWzPa85.wOrkers.DEv#Khodemoni-317322
 trojan://Telegram_healer_config@6m1rgyieclmrx9hef1.z6-0hlnubjibwzpa85.workers.dev:443?path=%2Ftr%2FGaQvfFwT5sWgVxHig8YaXjtiuQPZNI%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=6m1rgyieclmrx9hef1.z6-0hlnubjibwzpa85.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=6m1rGyIEclMRx9HeF1.Z6-0hlNUbJIBwZPa85.wOrKerS.DEV#Khodemoni-317321
 vless://25844c02-a1fe-43ec-a6b9-44e3bf375b83@www.gov.ua:8880?security=none&type=ws&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&host=dark-breeze-a59a.494.workers.dev&packetEncoding=xudp#Khodemoni-194154
 vless://812b1aeb-c6f7-43cb-8d8b-981711fea21a@www.zsu.gov.ua:8880?security=none&type=ws&path=/pyip=ProxyIP.JP.CMLiussss.net&host=dark-cake-4743.198-46c.workers.dev&packetEncoding=xudp#Khodemoni-311649
 vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@ad-013.milo1fmyz.info:8443?encryption=none&security=tls&type=ws#Khodemoni-311869
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.162.229.40:8880?security=none&type=ws&host=vms.lifetime61.workers.dev#Khodemoni-241442
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.185.1:62145?&type=tcp&headerType=none&path=%2F#Khodemoni-321282
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2T21uQzl1SjZ0WGRMeUlhUkd3YzJz@creativeboxde.zanity.net:5223#Khodemoni-321281
 vless://49e76398-5127-4005-90cb-c2a971f745f1@love.ns.cloudflare.com:443?path=%2Fall&security=tls&alpn=h2&encryption=none&insecure=0&host=ncrem.sunrocketbox-fla.sbs&type=ws&allowInsecure=0&sni=ncrem.sunrocketbox-fla.sbs#Khodemoni-313986
@@ -165,9 +167,6 @@ vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.154.211:2095?encryption=none
 vless://f6e14309-5cff-4f5d-bce1-06a260159bbe@104.17.64.70:8880?encryption=none&security=none&type=ws&host=steep-bread-32f0.92-d12.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net#Khodemoni-228386
 vless://5659b42c-636f-4563-ac41-87d565d0dd1e@172.64.146.66:8880?security=none&type=ws&host=autumn-base-0eb9.116-d25.workers.dev#Khodemoni-231237
 vless://caa0f615-2598-4b78-b339-2824658a602b@172.67.179.98:8880?encryption=none&host=soft-dream-429a.319.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&security=none&type=ws#Khodemoni-229880
-vless://4ff70740-8c80-48ae-985f-2afe4924e908@104.18.32.47:8443?security=tls&sni=pubb.clnahanpnln.workers.dev&type=ws&host=pubb.clnahanpnln.workers.dev&path=/sync&fp=chrome#Khodemoni-229916
-vless://e3c56988-5261-400f-b21b-6af5fa6efae1@130.49.185.196:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=site.rumedia-cdn.com&fp=qq&pbk=4ndg8TcyXMWmnEvthjh9mIWJ9mc85jzy_G9D4D5xGxM&sid=808a7e8a2e32c697&type=tcp&headerType=none#Khodemoni-229517
-vless://35e8826f-0873-492d-8b8a-d495c9947480@download.yunzhongzhuan.com:8880?encryption=none&security=none&type=ws&host=super-sunset-010c.24-43d.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net #Khodemoni-229571
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.66.1.242:2095?type=ws&host=cnmfangbinxing.cnmfangbinxing-q.workers.dev&path=#Khodemoni-231238
 vless://3193066d-6f38-4466-80b6-40ce3bcd4b54@198.41.192.42:2053?encryption=none&security=tls&sni=late-leaf-f4d0.java00code.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=late-leaf-f4d0.java00code.workers.dev&path=%2F#Khodemoni-229885
 vless://35e8826f-0873-492d-8b8a-d495c9947480@104.16.99.215:8880?encryption=none&security=none&type=ws&host=super-sunset-010c.24-43d.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net#Khodemoni-231223
