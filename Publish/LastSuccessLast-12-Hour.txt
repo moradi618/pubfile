@@ -1,3 +1,4 @@
+vless://62bbc720-05ce-4d34-845b-89d87bcd1fb4@smart.rozaneh.xyz:443?path=%2Fws&security=tls&encryption=none&insecure=0&host=smart.rozaneh.xyz&type=ws&allowInsecure=0&sni=smart.rozaneh.xyz#Khodemoni-322419
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.41:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/http&security=&encryption=none&host=de.vpnbase.net&type=ws#Khodemoni-248053
 vless://60111042-2b80-4e11-9d02-82696ae4cabd@62.238.55.96:1234?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-322413
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041/?type=tcp&security=tls#Khodemoni-312198
