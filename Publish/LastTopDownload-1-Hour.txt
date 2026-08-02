@@ -44,7 +44,6 @@ vless://efe18f67-927b-d4b3-9113-079007af6013@199.232.78.159:80?security=none&typ
 trojan://521314@millionaire.levikogjgfdd.ir:443?host=tjplay.lxdxo.kdns.fr&sni=tjplay.lxdxo.kdns.fr&type=ws#Khodemoni-318804
 vless://8b0c48db-c228-47d9-b634-6ea6edf81e22@62.238.63.51:1234?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-323180
 vless://245bb424-b186-4738-8f42-bdbde719d4c9@104.18.16.56:443?path=/nova-geo-psiphon-us&security=tls&alpn=h2&encryption=none&insecure=0&host=pinalo12.zenvorix.ir&fp=chrome&type=ws&allowInsecure=0&sni=pinalo12.zenvorix.ir#Khodemoni-318449
-vless://99c88bfb-13b8-2ac3-98dc-0594d75c0085@69.46.46.110:443?path=%2Fws%2F99c88bfb-13b8-2ac3-98dc-0594d75c0085&security=tls&alpn=http%2F1.1&encryption=none&host=rvg-production-940e.up.railway.app&fp=ios&type=ws&sni=rvg-production-940e.up.railway.app#Khodemoni-323675
 vless://245bb424-b186-4738-8f42-bdbde719d4c9@104.18.16.56:443?path=/nova-geo-psiphon-se&security=tls&alpn=h2&encryption=none&insecure=0&host=pinalo10.zenvorix.ir&fp=chrome&type=ws&allowInsecure=0&sni=pinalo10.zenvorix.ir#Khodemoni-318442
 vless://c46e2605-be24-4555-b7db-0fc6773ad004@kaz01.routexvpn.space:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=yahoo.com&fp=firefox&pbk=CC8vVe5trg8COtHkcR-cC3rl7hJh-Tr0RI5KmzzBNWo#Khodemoni-323269
 vless://412d7fbe-7474-4f1d-86c6-7eebdc628f72@ip.kickfarsi.com:8443?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=ger3.kickfarsi.com&fp=chrome&type=xhttp&allowInsecure=0&sni=ger3.kickfarsi.com#Khodemoni-314679
