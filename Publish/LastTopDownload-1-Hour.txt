@@ -1,6 +1,7 @@
 vless://5bccc822-ac5c-459a-9d3e-1b6e9b864f39@89.34.230.135:59843?encryption=none&security=none&type=ws&headerType=none&path=%2Fa881bnya4l#Khodemoni-321252
 vless://b97e287f-a24e-0021-a103-7e7ecef83139@2.26.147.118:443?security=reality&flow=xtls-rprx-vision&sni=www.amd.com&type=tcp&fp=qq&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=e1f8a3b6#Khodemoni-294010
 vless://f4e6476f-40d0-40cb-841f-cc2f6909ff20@www.gov.ua:8880?path=/pyip&security=&encryption=none&host=calm-haze-d105.21-7cd.workers.dev&type=ws#Khodemoni-315084
+trojan://B1S_3TTW3eNe8cyP4BbRye4n@89.34.230.135:57831?security=none&type=ws&headerType=none&path=%2F7w6d00nm47#Khodemoni-321298
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2T21uQzl1SjZ0WGRMeUlhUkd3YzJz@creativeboxde.zanity.net:5223#Khodemoni-321281
 vless://80cead8e-0d28-4b0a-bacd-8005471a5c39@104.20.28.74:8880?security=none&type=ws&path=/pyip=ProxyIP.KR.CMLiussss.net&host=flat-fire-40ed.96-042.workers.dev&packetEncoding=xudp&encryption=none#Khodemoni-287925
 vless://b97e287f-a24e-0021-a103-7e7ecef83139@185.218.194.73:443?security=reality&flow=xtls-rprx-vision&sni=www.amd.com&type=tcp&fp=qq&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=e1f8a3b6#Khodemoni-294017
