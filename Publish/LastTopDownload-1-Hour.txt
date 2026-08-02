@@ -9,6 +9,7 @@ vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=
 vless://caec7e57-ca9e-4738-a2c3-4ed513d83451@62.238.55.96:1234?encryption=none&type=tcp&headerType=http&host=play.google.com#Khodemoni-324279
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.234.170:22224?encryption=none&security=none&type=tcp#Khodemoni-324320
 vless://48830385-d494-4248-999a-3ab38aa42101@64.226.124.8:25128?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-324265
+vless://2224fdc2-31ae-479b-8546-caa513aa6bf4@104.17.180.165:2083?path=%2F&security=tls&encryption=none&insecure=0&host=nova-falcon-panel-6363.nova-bfb430.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-falcon-panel-6363.nova-bfb430.workers.dev#Khodemoni-324309
 vless://f78dac42-c4e5-47e6-b3ce-50c4997661d3@188.121.105.108:15657?security=reality&encryption=none&pbk=4erSoBjjNllyViB1lGGtWmygMWohvSfvyoqSDXg7yBM&headerType=none&fp=chrome&type=tcp&sni=skyroom.online&sid=ccb1160f59ef407a#Khodemoni-323315
 vless://6f98a077-004e-4b86-8b78-8d09308d3868@196.240.57.35:443?security=reality&encryption=none&pbk=XBBVeMURFu7jmYJ9MZwjEWgfQlGTnRs0B5So5Fy7jWs&fp=chrome&type=xhttp&sni=stats.vk-portal.net&sid=992f3294e2336744#Khodemoni-323406
 vless://8a88edf2-235a-4e74-a012-315e8b0f000c@www.canva.com:2087?path=%2F&security=tls&encryption=none&host=oknoloy.dearhossein-taktaz.ir&fp=chrome&type=ws&sni=oknoloy.dearhossein-taktaz.ir#Khodemoni-320539
