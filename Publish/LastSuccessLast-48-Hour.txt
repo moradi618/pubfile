@@ -1,3 +1,9 @@
+trojan://humanity@104.18.10.110:443?encryption=none&security=tls&sni=www.multiplydose.com&type=ws&host=www.multiplydose.com&path=//assignment#Khodemoni-225725
+ss://YWVzLTI1Ni1nY206YjI0YTgwZTc5Y2VlMWQxZg@195.133.5.207:50111#Khodemoni-314661
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.64.176:22222?encryption=none&security=none&type=tcp&headerType=none#Khodemoni-315481
+vless://4a01a999-22c5-4778-a1e4-82394641bf92@e4arrh6t.helpower.ir:443?security=reality&encryption=none&pbk=OCR2Jsxytv_7DXaBAs3JgoL2-na-fBlEXEs4AvWM_Ao&headerType=none&fp=edge&type=tcp&sni=www.play.google&sid=667e7c5f623ab929#Khodemoni-314546
+vless://019dd0b4-01a4-4832-b8b1-23420ea2e964@62.238.56.217:41982?headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#Khodemoni-314563
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZMlF3WlRRME1EWXpPV0ZoTmpBNVltRTBOVFpoTldGa09Ea3pNV05tT0RVPQ@138.2.75.33:56927#Khodemoni-313407
 vless://50414e45-4c5f-5a45-5553-2fe983642fcb@104.27.97.174:2096?path=/stream/PANEL_ZEUS/2fe983642fcb&security=tls&fragment=200-3000,1-2&encryption=none&insecure=0&host=z-e-u-s-panel-05oqwn.szar56756.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=z-e-u-s-panel-05oqwn.szar56756.workers.dev#Khodemoni-321981
 vless://9da6747c-ea27-836f-48dd-00745676b04d@x4g-production-8fac4.up.railway.app:443?path=%2Fws%2F9da6747c-ea27-836f-48dd-00745676b04d&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=x4g-production-8fac4.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=x4g-production-8fac4.up.railway.app#Khodemoni-321962
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.184.27.73:22224?encryption=none&security=none&type=tcp#Khodemoni-321964
@@ -3706,10 +3712,4 @@ vmess://eyJhZGQiOiJjaW5keTUyLmNlb2lpaS5jb20iLCJhaWQiOiIwIiwiaG9zdCI6ImFqYXgubWlj
 trojan://B1S_3TTW3eNe8cyP4BbRye4n@89.34.230.135:57831?security=none&type=ws&headerType=none&path=%2F7w6d00nm47#Khodemoni-321298
 vless://8b0c48db-c228-47d9-b634-6ea6edf81e22@yashar.mexokj.ir:443?encryption=none&security=reality&type=tcp&sni=login.yahoo.com&fp=chrome&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&sid=c6e19c434dc87df7&spx=/#Khodemoni-320715
 vless://5bccc822-ac5c-459a-9d3e-1b6e9b864f39@89.34.230.135:59843?encryption=none&security=none&type=ws&headerType=none&path=%2Fa881bnya4l#Khodemoni-321252
-trojan://humanity@104.18.10.110:443?encryption=none&security=tls&sni=www.multiplydose.com&type=ws&host=www.multiplydose.com&path=//assignment#Khodemoni-225725
 vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@ad-013.orbitqgr7v.info:8443?security=tls&type=ws&path=/&host=ad-013.orbitqgr7v.info&packetEncoding=xudp&sni=ad-013.orbitqgr7v.info&fp=chrome#Khodemoni-288125
-ss://YWVzLTI1Ni1nY206YjI0YTgwZTc5Y2VlMWQxZg@195.133.5.207:50111#Khodemoni-314661
-vless://019dd0b4-01a4-4832-b8b1-23420ea2e964@62.238.56.217:41982?headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#Khodemoni-314563
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.64.176:22222?encryption=none&security=none&type=tcp&headerType=none#Khodemoni-315481
-vless://4a01a999-22c5-4778-a1e4-82394641bf92@e4arrh6t.helpower.ir:443?security=reality&encryption=none&pbk=OCR2Jsxytv_7DXaBAs3JgoL2-na-fBlEXEs4AvWM_Ao&headerType=none&fp=edge&type=tcp&sni=www.play.google&sid=667e7c5f623ab929#Khodemoni-314546
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZMlF3WlRRME1EWXpPV0ZoTmpBNVltRTBOVFpoTldGa09Ea3pNV05tT0RVPQ@138.2.75.33:56927#Khodemoni-313407
