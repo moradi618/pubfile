@@ -7,6 +7,7 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.234.170:22224?encryption=non
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.234.170:22223?encryption=none&security=none&type=tcp#Khodemoni-324321
 vless://309c4bd0-7430-b8aa-2238-1075e9e29370@16.16.170.253:27775?security=&encryption=none&headerType=none&type=tcp#Khodemoni-324905
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.234.170:22223?security=&encryption=none&headerType=&type=tcp#Khodemoni-324840
+vless://d028eaf5-c5ef-49a0-85c6-4f4816af8053@173.245.59.67:2086/?encryption=none&type=ws&path=%2FeyJqdW5rIjoiZUJZR2pXVFByVyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjEwOS4xMjAuMTU4LjE0OSJdfQ%3D%3D%3Fed%3D2560&host=misty-bread-fd96.salehinezhadali.workers.dev#Khodemoni-010371
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.234.170:22223?#Khodemoni-324976
 vless://5de3f60c-7cc2-4f66-9177-706a2693dc19@62.238.63.51:1234?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-322105
 vless://8b0c48db-c228-47d9-b634-6ea6edf81e22@62.238.55.96:1234?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-320419
