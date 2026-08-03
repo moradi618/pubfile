@@ -1,4 +1,6 @@
 vless://35a6946a-2003-448f-9c1b-911efaa8c9a7@nl-bl-nl.karmatel.ir:20828?type=ws&host=nl-bl-nl.karmatel.ir&path=/#Khodemoni-325099
+vless://412d7fbe-7474-4f1d-86c6-7eebdc628f72@turkey.alfather.ir:2087?path=%2F&security=&encryption=none&type=xhttp#Khodemoni-319411
+vmess://eyJhZGQiOiJ2YWg0dXJkemwzamR4NXIyLnYuM2Rucy52aXAiLCJhaWQiOiIwIiwiaG9zdCI6InZhaDR1cmR6bDNqZHg1cjIudi4zZG5zLnZpcCIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3Mtdm1lc3MiLCJwb3J0IjoiNDQzIiwicHMiOiJLaG9kZW1vbmktMzE5NzM2Iiwic2N5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6InZhaDR1cmR6bDNqZHg1cjIudi4zZG5zLnZpcCIsInRlc3RfbmFtZSI6IkhLMTMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 vless://dd53235d-06c2-4120-9278-b93ddc969d0d@198.41.214.104:80?security=none&type=ws&path=%2Fsecure-vpn%2F&host=ppp.19bot.ir#Khodemoni-325084
 vless://8c7752f1-c2fc-47ff-8357-3ed5150d0338@hentai.colorbox.space:80?type=ws&host=&path=#Khodemoni-325098
 vless://dd53235d-06c2-4120-9278-b93ddc969d0d@162.159.147.159:80?security=none&type=ws&path=%2Fsecure-vpn%2F&host=ppp.19bot.ir#Khodemoni-325085
@@ -1097,7 +1099,6 @@ vless://b8cd08fd-a19a-4ad0-b8ae-b664b89791da@themeforest.net:8880?host=sweet-sce
 vless://caa0f615-2598-4b78-b339-2824658a602b@172.67.179.98:8880?encryption=none&host=soft-dream-429a.319.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&security=none&type=ws#Khodemoni-229880
 vless://580af126-448f-407b-a4c2-785e702cd8ea@www.gov.ua:8880?encryption=none&security=none&type=ws&host=misty-wood-62b4.263-93e.workers.dev&path=%2Fpyip%3Dproxyip.jp.cmliussss.net#Khodemoni-254787
 vless://da5ff974-c135-4b57-a0ff-53dd2502e71e@www.gov.ua:8880?path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none&encryption=none&host=long-smoke-b6cb.290-cd1.workers.dev&type=ws#Khodemoni-262236
-vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@172.64.34.119:443?security=tls&type=ws&path=/sea&host=gvqhw.sunrocketbase-ilo.sbs&sni=gvqhw.sunrocketbase-ilo.sbs&fp=chrome&encryption=none#Khodemoni-312889
 vless://80f083d3-8348-4514-b075-62f303b7fd86@themeforest.net:8880?type=ws&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&host=young-term-5783.284.workers.dev&sni=themeforest.net&fp=chrome&alpn=http/1.1#Khodemoni-287491
 vless://8b0c48db-c228-47d9-b634-6ea6edf81e22@yashar.mexokj.ir:443?encryption=none&security=reality&type=tcp&sni=login.yahoo.com&fp=firefox&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&sid=c6e19c434dc87df7&spx=%2F#Khodemoni-320420
 vless://e06b6255-1c90-4db0-bd8c-7704df82b27c@www.ipget.net:8880?security=none&type=ws&path=/pyip=ProxyIP.SG.CMLiussss.net&host=silent-cherry-7112.257.workers.dev&packetEncoding=xudp#Khodemoni-311598
