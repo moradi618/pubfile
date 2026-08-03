@@ -7,6 +7,7 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.234.170:22222?security=&encr
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.234.170:22223?security=&encryption=none&headerType=&type=tcp#Khodemoni-324840
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.234.170:22223?#Khodemoni-324976
 vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@89.127.217.210:2200?encryption=none&type=ws&security=none&path=%2Fv1&host=rzd.ru#Khodemoni-290769
+vless://35c13bb9-9d22-4d89-bfd2-76fe7abf04ff@194.77.220.41:28?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-325675
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.234.170:22222?encryption=none&amp;security=none&amp;type=tcp#Khodemoni-324656
 vless://36977f29-b4e3-4a61-9501-d4777822023a@iGr.webnix.ir:2020?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-325915
 vless://f3a21b24-5963-495a-a82f-1f62cb459335@62.238.63.51:1234?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-325739
