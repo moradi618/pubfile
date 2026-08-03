@@ -1,5 +1,3 @@
-vless://dc780e62-11b3-4360-9401-56d3326acc2f@deplay.montago-shop.ir:42542?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=deplay.montago-shop.ir#Khodemoni-325048
-vless://309c4bd0-7430-b8aa-2238-1075e9e29370@16.16.170.253:27775?&type=tcp&headerType=none&path=%2F#Khodemoni-325050
 vless://c61a813a-3429-4a20-8b7f-f7a3cd795b24@45.134.21.8:8443?security=tls&type=ws&path=/data/list/out.php?ed=2560&host=ft76mv43.b1gqbrn7f2j6degb6bgs.workers.dev&packetEncoding=xudp&sni=ft76mv43.b1gqbrn7f2j6degb6bgs.workers.dev&fp=chrome&encryption=none#Khodemoni-288136
 vless://a68a61ce-84fb-44d0-a486-51023f228ac7@153.80.249.28:8443?&security=tls&flow=xtls-rprx-vision&fp=firefox&alpn=h3%2Ch2&sni=n1.plus-abc.ru&type=tcp&headerType=none&path=%2F#Khodemoni-325232
 vless://d2d0f796-edb0-427a-af32-ae360679f9e7@one-for-all.levikogjgfdd.ir:443?path=%2F&security=tls&encryption=none&host=rAyAn-007.fOtOn.dPdNs.oRg&fp=chrome&type=ws&sni=rAyAn-007.fOtOn.dPdNs.oRg#Khodemoni-291554
