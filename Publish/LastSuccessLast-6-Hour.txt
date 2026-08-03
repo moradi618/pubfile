@@ -37,7 +37,6 @@ trojan://521314@soskeynets.yunzhongzhuan.com:443?path=Telegram&security=tls&inse
 vless://766f6c65-0000-4000-8000-787000000002@volexproxy.karjadidd.workers.dev:2083?encryption=none&security=tls&type=ws#Khodemoni-311677
 vless://29ca503d-e6b8-4509-b666-48133f450857@cmcc.877774.xyz:443?path=%2Ffdip&security=tls&encryption=none&host=learn00.evany.de5.net&type=ws&sni=learn00.evany.de5.net#Khodemoni-320658
 vless://71cada65-d23e-418c-88e4-a06188d14689@92.246.138.78:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nl-one.quiet-rogue.site&alpn=http/1.1&fp=firefox&pbk=UvJqmTGvadeK94_38ncycxTRqU4lmsjhDjJBuL0CQSA&sid=c71af684feb2fef4&packetEncoding=xudp#Khodemoni-325895
-vless://2ef04be6-7afc-454d-8723-8719942a842e@185.226.92.185:443?encryption=none&security=none&type=ws&host=play.google.com&path=%2F#Khodemoni-326006
 vless://90d39719-816d-4c7b-9947-62a039163518@p2real1.greewebservices.ir:1310?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=ios&type=tcp&sni=play.googleapis.com&sid=9b60d3#Khodemoni-326116
 vless://e9ec2c07-1365-4d7e-964c-b51c937a0511@91.224.74.47:80?path=%2F&security=&encryption=none&host=play.google.com&type=ws#Khodemoni-326162
 vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@162.159.38.119:443?encryption=none&security=tls&sni=fosae.starriverway-milo.sbs&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=fosae.starriverway-milo.sbs&path=%2Fsea#Khodemoni-326600
