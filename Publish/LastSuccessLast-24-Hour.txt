@@ -1,3 +1,4 @@
+vless://245bb424-b186-4738-8f42-bdbde719d4c9@104.19.229.21:443?path=%2Fnova-geo-psiphon-ch&security=tls&alpn=h2&encryption=none&insecure=0&host=pinalo1.zenvorix.ir&fp=chrome&type=ws&allowInsecure=0&sni=pinalo1.zenvorix.ir#Khodemoni-325306
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.42:8080#Khodemoni-326888
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU56WmxOamhrWkdVPQ@163.176.222.201:59319#Khodemoni-326893
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.214.172:62145?&type=tcp&headerType=none&path=%2F#Khodemoni-326891
@@ -2700,4 +2701,3 @@ vless://e3a8a93f-e7bd-46dd-9654-c52fe16ce6b4@marzban-node-production-1769.up.rai
 vless://36362beb-7f9c-4794-8c46-bc065b8320b9@199.232.78.159:443?security=tls&encryption=none&insecure=0&host=BankMelat.glObal.ssl.faStly.nEt.&type=ws&allowInsecure=0&sni=ssl.fastly.com&fp=chrome#Khodemoni-326390
 vless://5de3f60c-7cc2-4f66-9177-706a2693dc19@199.232.78.159:443?security=tls&sni=ssl.fastly.com&type=ws&headerType=none&host=BankMelat.glObal.ssl.faStly.nEt.&path=%2F&fp=edge#Khodemoni-326392
 vmess://eyJhZGQiOiIxNzIuNjYuNDQuOTciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IlBvbDEubE9vbE9vbG9PbE9vLkNPTS4iLCJpZCI6ImU5NjBmMmQ5LTQ2MDAtNDQ0Mi1iZmFlLWRiODk2ZmQyNmQwMCIsImluc2VjdXJlIjoiMCIsIm5ldCI6Imh0dHB1cGdyYWRlIiwicGF0aCI6Ii9lZD0/MjA0OCIsInBvcnQiOiI4MDgwIiwicHMiOiJLaG9kZW1vbmktMzI2MTkwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
-vless://245bb424-b186-4738-8f42-bdbde719d4c9@104.19.229.21:443?path=%2Fnova-geo-psiphon-ch&security=tls&alpn=h2&encryption=none&insecure=0&host=pinalo1.zenvorix.ir&fp=chrome&type=ws&allowInsecure=0&sni=pinalo1.zenvorix.ir#Khodemoni-325306
