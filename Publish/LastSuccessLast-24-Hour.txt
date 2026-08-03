@@ -1,3 +1,5 @@
+vless://412d7fbe-7474-4f1d-86c6-7eebdc628f72@turkey.alfather.ir:2087?path=%2F&security=&encryption=none&type=xhttp#Khodemoni-319411
+vmess://eyJhZGQiOiJ2YWg0dXJkemwzamR4NXIyLnYuM2Rucy52aXAiLCJhaWQiOiIwIiwiaG9zdCI6InZhaDR1cmR6bDNqZHg1cjIudi4zZG5zLnZpcCIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3Mtdm1lc3MiLCJwb3J0IjoiNDQzIiwicHMiOiJLaG9kZW1vbmktMzE5NzM2Iiwic2N5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6InZhaDR1cmR6bDNqZHg1cjIudi4zZG5zLnZpcCIsInRlc3RfbmFtZSI6IkhLMTMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 vless://35a6946a-2003-448f-9c1b-911efaa8c9a7@nl-bl-nl.karmatel.ir:20828?type=ws&host=nl-bl-nl.karmatel.ir&path=/#Khodemoni-325099
 vless://dd53235d-06c2-4120-9278-b93ddc969d0d@198.41.214.104:80?security=none&type=ws&path=%2Fsecure-vpn%2F&host=ppp.19bot.ir#Khodemoni-325084
 vless://8c7752f1-c2fc-47ff-8357-3ed5150d0338@hentai.colorbox.space:80?type=ws&host=&path=#Khodemoni-325098
