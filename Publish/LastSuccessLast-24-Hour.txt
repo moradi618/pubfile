@@ -1,3 +1,4 @@
+vless://50414e45-4c5f-5a45-5553-6d24857831b8@ordakbot.ir:80?sni=z-e-u-s-panel-m0yjjp.zeus-12g9x8.workers.dev&type=ws&host=z-e-u-s-panel-m0yjjp.zeus-12g9x8.workers.dev&path=/stream/PANEL_ZEUS/6d24857831b8?loc=0#Khodemoni-313926
 vless://29ca503d-e6b8-4509-b666-48133f450857@cmcc.877774.xyz:443?path=%2Ffdip&security=tls&encryption=none&host=learn00.evany.de5.net&type=ws&sni=learn00.evany.de5.net#Khodemoni-320658
 vless://a481265c-a4d8-4d1a-9ae1-48eb3f7fccb4@82.40.62.103:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-326075
 vless://766f6c65-0000-4000-8000-787000000002@volexproxy.karjadidd.workers.dev:2083?security=tls&type=ws&path=%2Fvolexprosy&host=volexproxy.karjadidd.workers.dev&packetEncoding=xudp&sni=volexproxy.karjadidd.workers.dev&fp=chrome&encryption=none#Khodemoni-194773
