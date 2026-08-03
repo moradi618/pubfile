@@ -1,3 +1,6 @@
+vless://d6dc1358-1bb5-4a9d-92fd-3e255567e3fc@ruded3.onlinestreamself.com:443?security=reality&flow=xtls-rprx-vision&pbk=6ycuxfrEPsqE9eXZ5_Osbnx4g6hXWmkc8pFuAJkJ4jY&sni=apple.com&type=tcp&headerType=none&host=apple.com&path=%2F&fp=ios#Khodemoni-309872
+vless://d6dc1358-1bb5-4a9d-92fd-3e255567e3fc@ruded3.onlinestreamself.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=6ycuxfrEPsqE9eXZ5_Osbnx4g6hXWmkc8pFuAJkJ4jY&sni=apple.com#Khodemoni-309873
+vless://d6dc1358-1bb5-4a9d-92fd-3e255567e3fc@ruded3.onlinestreamself.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=ios&pbk=6ycuxfrEPsqE9eXZ5_Osbnx4g6hXWmkc8pFuAJkJ4jY&sni=apple.com#Khodemoni-309876
 vless://d4aad26f-70b6-4411-8517-17f7b4281886@89.127.217.127:2200?encryption=none&type=ws&security=none&path=/v1#Khodemoni-250293
 vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@182.16.61.2:45647?security=none&allowInsecure=1&flow=&type=tcp&fp=&pbk=&sid=&sni=&serviceName=&path=&host=#Khodemoni-228549
 vless://de5dcb9e-6a72-45a2-8d3d-de00e5431426@gb.sv.temas-bor.ir:22012?encryption=none&sni=login.yahoo.com&sid=c6e19c434dc87df7&security=reality&fp=firefox&type=tcp&headerType=none&spx=/&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg#Khodemoni-310352
@@ -92,9 +95,7 @@ vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.wto.org:2095?encryption=none&ho
 vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@tn2.tmn141246.ru:2200?encryption=none&type=ws&path=%2Fv1&host=rzd.ru&security=none#Khodemoni-245216
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.145.158:2095?security=none&type=ws&path=%2F&host=fuckingfangbinxing.pusytroller.cf&encryption=none#Khodemoni-281856
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.wto.org:2095/?type=ws&encryption=none&flow=&host=fuckingfangbinxing.pusytroller.cf&path=/#Khodemoni-310978
-vless://c998b565-38c7-4bee-a833-d8b479bf5180@u.cafeplusserver.ir:25239?encryption=none&headerType=http&host=telewebion.ir&path=%2F&security=none&type=tcp#Khodemoni-327311
 trojan://UO36402987@many-cricket.rooster465.autos:443?mux=1#Khodemoni-327587
-vless://1efb9322-cb87-4e8e-abc2-7c923894104e@5.129.193.179:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nrt.sunrocket.org&fp=chrome&pbk=7VDaTbO6QMT8ZkkYSqFTiKLdu7RQGADy0u8pecwLF3A&type=tcp&headerType=none#Khodemoni-327351
 vless://28863986-75fb-4b2f-b006-65e62194358d@chb.kosmosapp.ru:16923?encryption=none&type=grpc&serviceName=neurex&security=reality&sni=images.yandex.ru&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986&fp=firefox#Khodemoni-327768
 vless://28863986-75fb-4b2f-b006-65e62194358d@chb.kosmosapp.ru:16923?encryption=none&type=grpc&serviceName=neurex&security=reality&sni=images.yandex.ru&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986&fp=edge#Khodemoni-327767
 vless://28863986-75fb-4b2f-b006-65e62194358d@rue.kosmosapp.ru:16923?encryption=none&type=grpc&serviceName=neurex&security=reality&sni=yandex.ru&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986&fp=edge#Khodemoni-327789
