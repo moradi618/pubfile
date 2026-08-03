@@ -1,5 +1,5 @@
-trojan://ND91608427@picked-guinea.rooster465.autos:443?allowInsecure=1&sni=picked-guinea.rooster465.autos#Khodemoni-327870
 vmess://eyJ2IjoiMiIsInBzIjoiS2hvZGVtb25pLTMxODEyNyIsImFkZCI6InZhaDR1cmR6bDNqZHg1cjIudi4zZG5zLnZpcCIsInBvcnQiOiI0NDMiLCJpZCI6ImYyM2JiNDI3YzFmOTQzNzM4NzZjMmY0M2U5Zjc5MGYzIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoidmFoNHVyZHpsM2pkeDVyMi52LjNkbnMudmlwIiwicGF0aCI6Ii93cy12bWVzcyIsInRscyI6InRscyIsInNuaSI6InZhaDR1cmR6bDNqZHg1cjIudi4zZG5zLnZpcCIsInRlc3RfbmFtZSI6IkhLMTMifQ==
+trojan://ND91608427@picked-guinea.rooster465.autos:443?allowInsecure=1&sni=picked-guinea.rooster465.autos#Khodemoni-327870
 trojan://ND91608427@clear-snail.rooster465.autos:443?allowInsecure=1&sni=clear-snail.rooster465.autos#Khodemoni-327849
 vless://a04d41c6-fcad-466d-81f3-36aa82994408@162.159.38.119:443?alpn=h2,http/1.1,h3&encryption=none&fp=chrome&host=ad.shadowsinner.fun&path=/&security=tls&sni=ad.shadowsinner.fun&type=ws#Khodemoni-328266
 ss://YWVzLTI1Ni1nY206TnpjMk4yWXhNVFZqWXpJNFltWmpNalEyTmpnMFpHSTBORE5pT0dSaw@37.32.25.222:11104?prefix=%16%03%01%00%C2%A8%01%01#Khodemoni-328272
