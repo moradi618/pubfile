@@ -1,5 +1,5 @@
-trojan://ND91608427@picked-guinea.rooster465.autos:443?allowInsecure=1&sni=picked-guinea.rooster465.autos#Khodemoni-327870
 vmess://eyJ2IjoiMiIsInBzIjoiS2hvZGVtb25pLTMxODEyNyIsImFkZCI6InZhaDR1cmR6bDNqZHg1cjIudi4zZG5zLnZpcCIsInBvcnQiOiI0NDMiLCJpZCI6ImYyM2JiNDI3YzFmOTQzNzM4NzZjMmY0M2U5Zjc5MGYzIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoidmFoNHVyZHpsM2pkeDVyMi52LjNkbnMudmlwIiwicGF0aCI6Ii93cy12bWVzcyIsInRscyI6InRscyIsInNuaSI6InZhaDR1cmR6bDNqZHg1cjIudi4zZG5zLnZpcCIsInRlc3RfbmFtZSI6IkhLMTMifQ==
+trojan://ND91608427@picked-guinea.rooster465.autos:443?allowInsecure=1&sni=picked-guinea.rooster465.autos#Khodemoni-327870
 vless://deee4a60-e8c3-456f-846f-aa2c2b7fae24@104.18.13.229:8880?encryption=none&security=none&type=ws&host=broad-bush-c2c8.37-9a0.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net#Khodemoni-233517
 vless://392ed37c-c0cd-472e-8765-a94677005b0b@172.67.179.98:8880?encryption=none&security=none&type=ws&host=frosty-bread-788f.398.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net #Khodemoni-234623
 vless://a8985e6a-f338-4b44-9a41-f94495603a96@skk.moe:8880?path=/pyip=ProxyIP.JP.CMLiussss.net&security=&encryption=none&host=dawn-cell-346f.238-df6.workers.dev&type=ws#Khodemoni-233917
