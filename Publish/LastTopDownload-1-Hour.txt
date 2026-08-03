@@ -1,6 +1,5 @@
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.127.219:22222?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-327392
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.127.219:22224?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-327393
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.127.219:22222?encryption=none&amp;security=none&amp;type=tcp#Khodemoni-326786
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJT2hjOVVGTmtmWlFrcGltVGg2cDNVZGdGN2hJTHRBMi85OXJoYklnQTdvPQ@e3.cover20.ir:56985?type=tcp#Khodemoni-327301
 vless://@MAconnectt@acela.proxy.rlwy.net:44757?encryption=none&type=xhttp&security=reality&path=/&mode=auto&extra={"mode":"auto","xPaddingBytes":"100-1000"}&sni=is1-ssl.mzstatic.com&fp=chrome&insecure=1&allowInsecure=1&pbk=VsqEPh4LiAtNGkZe5rKPQlEH6Ywx1WHPobr0KCIpDC0&sid=5e1fc17ee3&spx=/#Khodemoni-327376
 vless://779e9985-dcbe-4813-824f-60fbb8030748@104.19.105.29:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=ami.dearhossein-taktaz.ir&fp=chrome&type=xhttp&sni=ami.dearhossein-taktaz.ir#Khodemoni-327305
