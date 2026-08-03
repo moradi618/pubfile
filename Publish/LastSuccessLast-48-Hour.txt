@@ -1,3 +1,4 @@
+vless://d9aa9ea3-9388-483f-a58d-a754f33ec505@gr005.bamajobin.ir:2053?mode=gun&security=reality&encryption=none&pbk=GS0dfvzX-bVKBDl2brVxsrE6T2WyXXkfgP3x-mQC7BY&fp=firefox&type=grpc&serviceName=api.v1.data&sni=play.google.com&sid=524efc1f88592266#Khodemoni-322798
 trojan://humanity@45.130.125.112:443/?type=ws&path=%2Fassignment&security=tls&sni=www.calmlunch.com&fp=chrome#Khodemoni-130944
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.188.30:8880?type=ws&host=vms.lifetime18.workers.dev&path=/#Khodemoni-143343
 vless://d682c8f4-e719-577e-cbe9-2e5b00000003@172.67.185.65:8080?security=none&sni=0406.infinityconfig7.workers.dev&type=ws&host=0406.infinityconfig7.workers.dev&path=%2Fsync&fp=chrome#Khodemoni-143126
@@ -3282,7 +3283,6 @@ vless://08590927-afe6-0064-a4d0-5396b9f3910d@199.127.61.190:443?security=reality
 vless://5ebd890f-cdf7-4eec-ac48-2576fc745110@s1.pro-vip-cnavippanel.xyz:4568?security=none&type=tcp&headerType=http&path=%2F&host=www.icloud.com#Khodemoni-318960
 vless://5ebd890f-cdf7-4eec-ac48-2576fc745110@s3.vip-canepanel.shop:4568?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-318962
 vless://3ad1d277-5715-4ca1-84db-5baea72f822d@ddc-chr.astralweb.tech:443?security=tls&type=tcp&packetEncoding=xudp&sni=ddc-chr.astralweb.tech&fp=firefox#Khodemoni-317578
-vless://4cce4586-4850-4286-8698-6bd60958e66a@s1.pro-vip-cnavippanel.xyz:4568?security=none&type=tcp&headerType=http&path=%2F&host=www.icloud.com#Khodemoni-318949
 vless://3199211a-ffc2-4227-a594-2eccbfeaf619@77.42.44.74:41291?encryption=none&type=tcp&headerType=http&host=play.google.com&security=none#Khodemoni-320191
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.147.218:22224?security=&encryption=none&headerType=&type=tcp#Khodemoni-319924
 vless://3ad1d277-5715-4ca1-84db-5baea72f822d@ddc-chr.astralweb.tech:443?encryption=none&fp=firefox&security=tls&sni=ddc-chr.astralweb.tech&type=tcp#Khodemoni-320174
