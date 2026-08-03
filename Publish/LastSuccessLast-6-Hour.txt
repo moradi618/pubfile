@@ -1,3 +1,4 @@
+vless://4d7d1add-0a51-4887-b10a-07c68df24f7e@sosk.sorix-home.ir:60231?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=tcp&headerType=http#Khodemoni-327606
 trojan://UO36402987@many-cricket.rooster465.autos:443?mux=1#Khodemoni-327587
 vless://f30a9043-6685-4cb3-aff7-04df89a857b9@perplexity.ai:2052?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=ws&host=gerdooai.cafebario.ir&path=/#Khodemoni-327633
 vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@62.238.53.197:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-327585
