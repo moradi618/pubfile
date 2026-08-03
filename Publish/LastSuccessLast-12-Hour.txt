@@ -1,7 +1,7 @@
 trojan://UO36402987@many-cricket.rooster465.autos:443?mux=1#Khodemoni-327587
+vless://aa9dfeec-9933-4b41-9154-daae02003c3d@159.69.193.221:1234?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-327674
 vless://aa9dfeec-9933-4b41-9154-daae02003c3d@82.40.62.103:1234?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-327669
 vless://aa9dfeec-9933-4b41-9154-daae02003c3d@199.232.78.159:443?encryption=none&security=tls&type=ws&host=BankMelat.glObal.ssl.faStly.nEt&sni=ssl.fastly.com#Khodemoni-327668
-vless://aa9dfeec-9933-4b41-9154-daae02003c3d@159.69.193.221:1234?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-327674
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041/?type=tcp&security=tls&sni=de.catxstar.com&allowInsecure=1&fp=firefox#Khodemoni-316960
 vless://4d7d1add-0a51-4887-b10a-07c68df24f7e@sosk.sorix-home.ir:60231?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=tcp&headerType=http#Khodemoni-327606
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.188.30:8880?path=/&security=&encryption=none&host=vms.lifetime18.workers.dev&type=ws#Khodemoni-195750
