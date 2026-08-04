@@ -1,4 +1,5 @@
 trojan://ND91608427@sure-humpback.rooster465.autos:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&allowInsecure=1&sni=#Khodemoni-328009
+vless://90ea2329-d77b-4d8a-a6fc-d86e1c13bf16@soskeynets.ecv-winapp.ir:8880?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-327145
 vless://04b3ed78-61b5-42bb-9143-eeb70e64b5aa@media-ru7.lbdnetwork.com:443?type=xhttp&security=tls&path=%2Fapi%2F&sni=media-ru3.lbdnetwork.com&fp=qq#Khodemoni-320363
 vless://fba7da11-1d4e-4c74-9a90-fe290eb9539d@new.frizan.ir:2019?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-330287
 vless://0c67faba-281b-4f37-ba2d-abc4ac3b3414@1f6bc4bd413bc7ac.MuSIcVPs.Ir:1310?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-330291
