@@ -1,4 +1,5 @@
 vless://d516ffe9-f519-3c47-872b-666249bdc7b7@family.bucket.9.kfc-520.com:10049?&security=reality&flow=xtls-rprx-vision&pbk=5mklCKyNnRZwmN9sTwrR81latb570OKWykB0x_LL3zA&sid=a6b2be44&fp=firefox&sni=www.intel.com&type=tcp&headerType=none&host=www.intel.com&path=%2F#Khodemoni-329016
+vless://d516ffe9-f519-3c47-872b-666249bdc7b7@family.bucket.2.kfc-520.com:10003?&security=reality&flow=xtls-rprx-vision&pbk=BLxr2zh1eI34_v_CCzROgLIfUW6-ki5ZpbQiZ7LS80g&sid=98&fp=firefox&sni=www.amd.com&type=tcp&headerType=none&host=www.amd.com&path=%2F#Khodemoni-329020
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@blog.cloudflare.com:2095?&fp=randomized&sni=cnmfangbinxing.cnmfangbinxing-i.workers.dev&type=ws&headerType=none&host=cnmfangbinxing.cnmfangbinxing-i.workers.dev&path=%2F#Khodemoni-329029
 vless://00ff7e5f-9b6f-4401-aab9-4d044660411f@cf4.466688.xyz:8880?security=none&type=ws&path=/pyip=ProxyIP.KR.CMLiussss.net@https://t.me/QiangLieTuiJian&host=summer-bonus-aa63.52-c03.workers.dev&packetEncoding=xudp&encryption=none#Khodemoni-329028
 vless://eaf76557-2219-4799-8171-d7020adfefd0@103.133.1.160:80?allowInsecure=1&sni=soft-shadow-1e33.xicav73335.workers.dev&type=ws&host=soft-shadow-1e33.xicav73335.workers.dev&path=/ws#Khodemoni-329015
@@ -29,7 +30,6 @@ vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@blog.cloudflare.com:2095?&sni=cnmfa
 vless://0d543aed-4e30-4553-b5ac-211419bb0961@185.128.139.11:18244?security=&amp;encryption=none&amp;host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&amp;headerType=none&amp;type=tcp#Khodemoni-284881
 vless://a9fb0f8c-89e9-44ee-9574-a310c5bd259c@www.gov.ua:8880?path=/pyip=ProxyIP.US.CMLiussss.net&security=&encryption=none&host=autumn-leaf-eefd.119-38e.workers.dev&type=ws#Khodemoni-313011
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?security=tls&allowInsecure=1&type=tcp&headerType=none&fp=ios#Khodemoni-316961
-vless://2cca8201-c93e-40eb-bd8a-fea4170c169e@deu683.lackerdeu.org:443?type=xhttp&security=tls&path=/api/v1/&sni=deu683.lackerdeu.org&fp=ios#Khodemoni-320918
 trojan://eb2b32c4-8844-4e79-8ec8-133a8a3aca3c@yuzhenb886.dpdns.org:443/?type=ws&host=yuzhenb886.dpdns.org&path=/&security=tls&sni=yuzhenb886.dpdns.org#Khodemoni-325364
 vless://b91abe1a-80ca-417b-998b-2b542661c16f@ip.feywebsite.ir:2083?path=%2Fapi%2Fv1%2Fstream&security=tls&alpn=h2&encryption=none&insecure=0&type=xhttp&allowInsecure=0&sni=tr.feyland.ir&fp=safari#Khodemoni-326380
 vless://b91abe1a-80ca-417b-998b-2b542661c16f@ip.feywebsite.ir:2083?type=xhttp&security=tls&path=%2Fapi%2Fv1%2Fstream&sni=tr.feyland.ir&fp=qq#Khodemoni-326418
@@ -2220,8 +2220,6 @@ trojan://ND91608427@uncommon-feline.rooster465.autos:443?allowInsecure=1&sni=unc
 trojan://ND91608427@nearby-egret.rooster465.autos:443?allowInsecure=1&sni=nearby-egret.rooster465.autos#Khodemoni-327847
 vmess://eyJhZGQiOiIxOTUuMTMzLjE5My4xOCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiI5OGUyYmUzYy04Zjg0LTRiODUtOTk2Yi1iNjhkY2MyZmJjYjYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI3NzI2IiwicHMiOiJLaG9kZW1vbmktMzI4MTA4Iiwic2N5IjoiY2hhY2hhMjAtcG9seTEzMDUiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIxMjciLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 trojan://521314@wangcai.yunzhongzhuan.com:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&host=tjplay.lxdxo.kdns.fr&path=Telegram🇨🇳 @WangCai2 #Khodemoni-220099
-vless://c78a7368-3832-4aa1-bcd9-10f5af9b713e@hskjxlwpi.goodpiko.com:8080?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-325673
-vless://c78a7368-3832-4aa1-bcd9-10f5af9b713e@terfsh.goodpiko.com:443?security=reality&encryption=none&pbk=OrupjJSw14ZPSrumlNSSZSPtFVltjKyWGezqhRLmmRM&headerType=none&fp=random&type=tcp&sni=www.aparat.com&sid=1fbeb80e7bbecc2d#Khodemoni-325672
 vless://e2c5f1a9-b3d4-4e78-9f2a-1c3d4e5f6a7b@104.16.72.162:80?path=%2F&security=&encryption=none&host=new-scale42-cdn.sabzi.name.ng.&type=ws#Khodemoni-291240
 vless://43fb54a1-33cf-4cbd-85c9-a7d72b7b4879@VIP.mexokj.iR:1234?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-324442
 vless://43fb54a1-33cf-4cbd-85c9-a7d72b7b4879@62.238.55.96:1234?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-324448
