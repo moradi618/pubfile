@@ -1,4 +1,5 @@
 trojan://ND91608427@sure-humpback.rooster465.autos:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&allowInsecure=1&sni=#Khodemoni-328009
+vless://90ea2329-d77b-4d8a-a6fc-d86e1c13bf16@soskeynets.ecv-winapp.ir:8880?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-327145
 vless://04b3ed78-61b5-42bb-9143-eeb70e64b5aa@media-ru7.lbdnetwork.com:443?type=xhttp&security=tls&path=%2Fapi%2F&sni=media-ru3.lbdnetwork.com&fp=qq#Khodemoni-320363
 vless://fba7da11-1d4e-4c74-9a90-fe290eb9539d@new.frizan.ir:2019?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-330287
 vless://0c67faba-281b-4f37-ba2d-abc4ac3b3414@1f6bc4bd413bc7ac.MuSIcVPs.Ir:1310?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-330291
@@ -104,8 +105,3 @@ trojan://521314@millionaire.levikogjgfdd.ir:443?security=tls&sni=tjplay.lxdxo.kd
 vless://_Config@emamjavad99-production.up.railway.app:443?encryption=none&security=tls&type=ws&host=emamjavad99-production.up.railway.app&path=/ws/_Config&sni=emamjavad99-production.up.railway.app&fp=chrome&alpn=http/1.1#Khodemoni-330131
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMUo5SGYvMzd4N0ZuMmIvRklRUjJFWS90a2xnMFV4Q1dWYTV6WEFjN3E0PQ@e3.cover20.ir:56985?type=tcp#Khodemoni-330119
 vless://chanal@node-1043081832-ba69fb-production.up.railway.app:443?encryption=none&security=tls&type=ws&host=node-1043081832-ba69fb-production.up.railway.app&path=/ws/chanal&sni=node-1043081832-ba69fb-production.up.railway.app&fp=chrome&alpn=http/1.1#Khodemoni-330132
-trojan://ND91608427@sure-humpback.rooster465.autos:443?allowInsecure=1&security=tls&sni=sure-humpback.rooster465.autos#Khodemoni-329842
-trojan://ND91608427@stunning-mite.rooster465.autos:443?allowInsecure=1&security=tls&sni=stunning-mite.rooster465.autos#Khodemoni-329841
-trojan://ND91608427@clear-snail.rooster465.autos:443?allowInsecure=1&security=tls&sni=clear-snail.rooster465.autos#Khodemoni-329847
-trojan://ND91608427@wise-bengal.rooster465.autos:443?allowInsecure=1&security=tls&sni=wise-bengal.rooster465.autos#Khodemoni-329874
-trojan://ND91608427@striking-maggot.rooster465.autos:443?allowInsecure=1&security=tls&sni=striking-maggot.rooster465.autos#Khodemoni-329891
