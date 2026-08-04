@@ -1,3 +1,6 @@
+trojan://eb2b32c4-8844-4e79-8ec8-133a8a3aca3c@yuzhenb886.dpdns.org:443/?type=ws&host=yuzhenb886.dpdns.org&path=/&security=tls&sni=yuzhenb886.dpdns.org#Khodemoni-325364
+vless://b91abe1a-80ca-417b-998b-2b542661c16f@ip.feywebsite.ir:2083?path=%2Fapi%2Fv1%2Fstream&security=tls&alpn=h2&encryption=none&insecure=0&type=xhttp&allowInsecure=0&sni=tr.feyland.ir&fp=safari#Khodemoni-326380
+vless://b91abe1a-80ca-417b-998b-2b542661c16f@ip.feywebsite.ir:2083?type=xhttp&security=tls&path=%2Fapi%2Fv1%2Fstream&sni=tr.feyland.ir&fp=qq#Khodemoni-326418
 trojan://ND91608427@upright-impala.rooster465.autos:443?security=tls&sni=upright-impala.rooster465.autos#Khodemoni-328967
 vmess://eyJ2IjoiMiIsInBzIjoiS2hvZGVtb25pLTMyODc5MSIsImFkZCI6ImNlMGdlZHB4d291NmNxb24udi4zZG5zLnZpcCIsInBvcnQiOiI0NDMiLCJpZCI6ImYyM2JiNDI3YzFmOTQzNzM4NzZjMmY0M2U5Zjc5MGYzIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImNFMGdlZFBYd09VNmNxb04udi4zZG5zLnZpcCIsInBhdGgiOiIvd3Mtdm1lc3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJjRTBnZWRQWHdPVTZjcW9OLnYuM2Rucy52aXAiLCJ0ZXN0X25hbWUiOiJISzE2In0=
 vmess://eyJ2IjoiMiIsInBzIjoiS2hvZGVtb25pLTMyODc5NyIsImFkZCI6ImZqMjYwMjAzLmZyZWVjaGF0dXAuY29tIiwicG9ydCI6IjI3NzI2IiwiaWQiOiI5OGUyYmUzYy04Zjg0LTRiODUtOTk2Yi1iNjhkY2MyZmJjYjYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI5MyJ9
