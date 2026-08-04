@@ -1,3 +1,5 @@
+trojan://ND91608427@definite-sturgeon.rooster465.autos:443?allowInsecure=1&sni=definite-sturgeon.rooster465.autos#Khodemoni-327834
+vmess://eyJ2IjoiMiIsInBzIjoiS2hvZGVtb25pLTMyMDg3NSIsImFkZCI6Imx0LmJhZG5zLmhlbHAiLCJwb3J0IjoiNTEzNjAiLCJpZCI6Ijg1YWQyMWUxLWMyY2QtMzQwNy1hYTkwLTgxNWYzZjNlYTYzNiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJpbnNlY3VyZSI6IjAiLCJ2Y24iOiIiLCJwY3MiOiIiLCJob3N0IjoiIiwicGF0aCI6IiJ9
 vless://3a55aed6-4756-4b41-9dfa-116d32aeb8e5@bonus.ahora-65.ir:23590?path=%2F&security=none&encryption=none&host=play.google.com&type=httpupgrade#Khodemoni-331479
 vless://1b92d620-add7-42bd-ac1b-93ee4dfacee0@api.univesalsrv.com:443?encryption=none&type=grpc&security=reality&serviceName=rpc.v2.FeedService&mode=gun&sni=api.univesalsrv.com&fp=chrome&insecure=1&allowInsecure=1&pbk=eU2IqYoHVYNfFqNlTNEAGooWqL2WqKbbQwxAPRu_7wc&sid=93762a4ddf178703#Khodemoni-332152
 trojan://41c406e2-12b5-41f2-a329-d0621052d675@hkdcrtc-e.catcat321.com:20066?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=hk.catxstar.com#Khodemoni-332240
@@ -39,7 +41,6 @@ trojan://87961f9d-bee1-4377-826b-e169e7891c4f@cdn.tzpro.xyz:443?fp=chrome&path=%
 vmess://eyJhZGQiOiI2amR2YXJhemd1M3FxcjZxLnYuM2Rucy52aXAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IjZKRHZBcmF6Z1UzcVFSNlEudi4zZG5zLnZpcCIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3Mtdm1lc3MiLCJwb3J0IjoiNDQzIiwicHMiOiJLaG9kZW1vbmktMzI5Mjk0Iiwic2N5IjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 trojan://ND91608427@classic-gator.rooster465.autos:443#Khodemoni-329246
 vless://e7299042-7d8f-440f-8368-2516b0e69341@130.17.2.137:2200?security=none&type=ws&host=rzd.ru&path=%2Fv1#Khodemoni-290726
-trojan://ND91608427@sure-humpback.rooster465.autos:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&allowInsecure=1&sni=#Khodemoni-328009
 vmess://eyJhZGQiOiJ1MmZyeGowZzEzdmRpMHdvLnYuM2Rucy52aXAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IlUyRlJ4ajBHMTN2REkwV28udi4zZG5zLnZpcCIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3Mtdm1lc3MiLCJwb3J0IjoiNDQzIiwicHMiOiJLaG9kZW1vbmktMzMyMDQ2Iiwic2N5IjoiYXV0byIsInNuaSI6IlUyRlJ4ajBHMTN2REkwV28udi4zZG5zLnZpcCIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.146.153:2095?encryption=none&security=none&type=ws&host=fangbinxingnmsl.pusytroller.gq&path=%2F#Khodemoni-332041
 vless://060a5db6-7ff9-4a64-87c1-8a27be4f11ab@93.119.168.215:60771?encryption=none&security=none&type=tcp&headerType=none#Khodemoni-332040
@@ -49,8 +50,6 @@ vless://49e76398-5127-4005-90cb-c2a971f745f1@162.159.38.119:443?path=/all&securi
 vmess://eyJ2IjoiMiIsInBzIjoiS2hvZGVtb25pLTMzMDUzMCIsImFkZCI6Ind3dy5uZXh0a3ljLmNvbSIsInBvcnQiOiI4NDQzIiwiaWQiOiI2MDQ0MTU0OC1iNjhlLTQzYjItODE5MS1lM2I4ODRiZTRiM2MiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJ2MnJheTEuZG96YXBwLnh5eiIsInBhdGgiOiIvbE1uc1pVTjQvIiwidGxzIjoidGxzIiwic25pIjoidjJyYXkxLmRvemFwcC54eXoiLCJ0ZXN0X25hbWUiOiI2OSJ9
 vless://1cefdbfd-6032-43d5-ac13-f58b4498e2f7@log.bpminecraft.com:8880?path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none&encryption=none&host=royal-salad-175d.306.workers.dev&type=ws#Khodemoni-240093
 trojan://UO36402987@many-cricket.rooster465.autos:443?mux=1#Khodemoni-327587
-trojan://ND91608427@immense-gnu.rooster465.autos:443?allowInsecure=1&sni=immense-gnu.rooster465.autos#Khodemoni-327850
-trojan://ND91608427@happy-mutt.rooster465.autos:443?allowInsecure=1&sni=happy-mutt.rooster465.autos#Khodemoni-327864
 vless://fba7da11-1d4e-4c74-9a90-fe290eb9539d@new.frizan.ir:2019?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-330287
 vless://1a04f56a-91e4-4dbd-8905-712579f774d9@104.17.255.131:443?security=tls&sni=saow-child-11334.saow7705.workers.dev&alpn=http/1.1&fp=chrome&type=ws&path=/?u%3Duf920np1z&host=saow-child-11334.saow7705.workers.dev&encryption=none#Khodemoni-330297
 vless://2bda81e2-2c0a-4f79-83bb-1f4ff80c817e@GoTVeraN.Sav-savteAm.iR:2016?security=reality&type=tcp&headerType=&path=&host=&sni=yahoo.com&fp=chrome&pbk=VdwsPg5C6MsjRbHmldPA8Nrl91LIoD27ImEmB7pHNFI&sid=5842ef74513887b4#Khodemoni-330371
@@ -1083,7 +1082,6 @@ vless://17db72e0-63cd-43c9-81f0-06e1221cca99@jingji.hj444hk.top:52315?security=r
 vless://chanal@node-1043081832-ba69fb-production.up.railway.app:443?encryption=none&type=ws&security=tls&path=%2Fws%2Fchanal&host=node-1043081832-ba69fb-production.up.railway.app&sni=node-1043081832-ba69fb-production.up.railway.app&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#Khodemoni-330304
 vless://a104a6c1-f725-467c-9701-6fe5d16b4ce8@pro.polnejat.ir:2053?security=reality&encryption=none&pbk=DaN-Oyl858Ok1XvkHIzYsbBeKstn0OpHf5a98etuFC4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=4eab4c26#Khodemoni-330289
 trojan://521314@millionaire.levikogjgfdd.ir:443?security=tls&sni=tjplay.lxdxo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=tjplay.lxdxo.kdns.fr&path=%2FLeviko_v2ray#Khodemoni-330129
-vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@yashar.mexokj.ir:443?encryption=none&security=reality&type=tcp&sni=login.yahoo.com&fp=firefox&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&sid=c6e19c434dc87df7&spx=%2F#Khodemoni-327550
 vless://17db72e0-63cd-43c9-81f0-06e1221cca99@jingji2.hj3hk.top:52317?security=reality&flow=xtls-rprx-vision&pbk=RLdadndvFi3-cNcbIoGg_MPiUHPohEY9Fh02ZaBofxw&sid=fb4583c1&sni=www.ibm.com&type=tcp&headerType=none&host=www.ibm.com&path=%2F&fp=qq#Khodemoni-330091
 vless://6bd8fc10-12d8-45e5-9ce3-60c22feb47a7@213.155.22.202:448?type=tcp&security=reality&pbk=UrUJGxbyymed7qdfg2VUtmVE0LVTcWiCOukQs1nD9gw&fp=chrome&sni=www.samsung.com&sid=2d48e185e22043c0#Khodemoni-328483
 vless://17db72e0-63cd-43c9-81f0-06e1221cca99@jingji.hj444hk.top:52315?security=reality&type=tcp&sni=www.ibm.com&fp=chrome&flow=xtls-rprx-vision&sid=aad492b8&pbk=rVMSja4fpsftJaCyNrqHW0Bl5-WhGzjkNq16AOWdo3M#Khodemoni-330056
