@@ -1,7 +1,6 @@
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206b09ZTGgvdzBibVVZczVzcHd6NjVRMk9TdTRSaVljaWRwWmZZaGxMK1M5QT06UDQ1SUI3dVBKZFpLMDJCSDEzSXd0RTJ1Qnh6RFRVNkd5d3dGQ0h3b2x5cz0@46.226.166.119:29878? #Khodemoni-329223
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206b09ZTGgvdzBibVVZczVzcHd6NjVRMk9TdTRSaVljaWRwWmZZaGxMK1M5QT06UDQ1SUI3dVBKZFpLMDJCSDEzSXd0RTJ1Qnh6RFRVNkd5d3dGQ0h3b2x5cz0@46.226.166.119:29878?#Khodemoni-328605
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Q0t3dkF5MW81Sjd2ek9jY3BOYkNBcngrTzNYZW9PQ0I5Y1hVdG1FWVdGVT06czlVTlFvN0cyeHdTcUJuWjNjQ2Q5cFV4Mm9majlRRTlYN3BQd2hWZXduVT0@46.226.166.119:44596?#Khodemoni-328602
-trojan://SiNAVM@198.202.211.2:443?type=xhttp&security=tls&path=%2Fconfig&host=sinavm4.soft10.ir&mode=stream-one&extra=%7B%22mode%22%3A%22stream-one%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=sinavm4.soft10.ir&insecure=1&allowInsecure=1&fp=qq#Khodemoni-319674
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bEsxRWNLQThRSmZXT2VjNTJxOWhOVGF6WWFjMTIwbjJ6Y0l2TUZ3QVBRVT06NW5Sb0tLbDdmYnZsTlhkbGxOa01tK1d3Tytodng5UkhYV1NlM2ZoWkZnVT0@46.226.166.119:26764? #Khodemoni-329224
 vless://9233c2c7-7ec1-431b-ab0a-3193428be99f@46.226.166.119:54117?encryption=none&security=reality&sni=www.amazon.com&fp=chrome&pbk=wVaCCat47FVyJXlX7MSTjCl6LTgvoFlcYrbHaz1OBg8&sid=a152&spx=%2F&type=tcp&headerType=none#Khodemoni-328617
 vless://deea2a77-5457-48fc-99fd-6bef113b4406@46.226.166.119:51229?encryption=none&security=reality&sni=www.intel.com&fp=chrome&pbk=_wwA5FPFeNaKXjpr_h_vGTqB6dl497jBs2RHo8k-zDA&sid=e4cf52&spx=%2F&type=xhttp&path=%2F&mode=auto&extra=%7B%2#Khodemoni-330760
