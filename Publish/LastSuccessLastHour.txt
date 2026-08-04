@@ -1,3 +1,4 @@
+vless://1b92d620-add7-42bd-ac1b-93ee4dfacee0@api.univesalsrv.com:443?encryption=none&type=grpc&security=reality&serviceName=rpc.v2.FeedService&mode=gun&sni=api.univesalsrv.com&fp=chrome&insecure=1&allowInsecure=1&pbk=eU2IqYoHVYNfFqNlTNEAGooWqL2WqKbbQwxAPRu_7wc&sid=93762a4ddf178703#Khodemoni-332152
 trojan://41c406e2-12b5-41f2-a329-d0621052d675@hkdcrtc-e.catcat321.com:20066?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=hk.catxstar.com#Khodemoni-332240
 vmess://eyJhZGQiOiI4OS4zNC4yMzAuMjI2IiwiYWlkIjoiMCIsImlkIjoiYTFjODM1MDMtNjQyOS00ZTE3LWIzOTgtNTA4NDk5NzgyOWMyIiwibmV0IjoidGNwIiwicG9ydCI6MzUwMzMsInBzIjoiS2hvZGVtb25pLTMzMjE5OCIsInNjeSI6ImF1dG8iLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vless://2e4101cd-40b4-4d1a-8df6-cc949c136e5a@pro-de.emrata.top:443?type=tcp&security=reality&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&fp=firefox&sni=pro-de.emrata.top#Khodemoni-332250
@@ -67,7 +68,3 @@ vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?mode=stream
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.42.163:2095/?type=ws&encryption=none&flow=&host=download.pusytroller.gq&path=%2F#Khodemoni-218546
 vmess://eyJ2IjoiMiIsInBzIjoiS2hvZGVtb25pLTMzMTU5NCIsImFkZCI6InUyZnJ4ajBnMTN2ZGkwd28udi4zZG5zLnZpcCIsInBvcnQiOiI0NDMiLCJpZCI6ImYyM2JiNDI3YzFmOTQzNzM4NzZjMmY0M2U5Zjc5MGYzIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiVTJGUnhqMEcxM3ZESTBXby52LjNkbnMudmlwIiwicGF0aCI6Ii93cy12bWVzcyIsInRscyI6InRscyIsInNuaSI6IlUyRlJ4ajBHMTN2REkwV28udi4zZG5zLnZpcCIsInRlc3RfbmFtZSI6IkhLOSJ9
 vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@ad-013.flux3ni5o.info:8443?security=tls&type=ws&path=/&packetEncoding=xudp&sni=ad-013.flux3ni5o.info&fp=chrome#Khodemoni-329809
-trojan://ersi13mjahoao8e6@hyperon.site:443?path=%2Fdksk&security=tls&alpn=http%2F1.1&insecure=0&host=ramz.xuithree.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=ramz.xuithree.dpdns.org#Khodemoni-331460
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.42.98:2095?security=none&type=ws&path=%2F&host=fuckingfangbinxing.pusytroller.cf&encryption=none#Khodemoni-280082
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.42.163:2095?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=none&encryption=none&host=download.pusytroller.gq&type=ws#Khodemoni-240022
-vless://d4aad26f-70b6-4411-8517-17f7b4281886@168.222.140.233:2200?path=/v1&encryption=none&host=rzd.ru&type=ws&sni=tn.tmn141246.ru#Khodemoni-257026
