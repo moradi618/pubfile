@@ -1,3 +1,11 @@
+trojan://ND91608427@next-turkey.rooster465.autos:443#Khodemoni-329248
+vless://vpn_kurdnet@144.225.65.214:963?encryption=none&security=none&type=tcp#Khodemoni-329263
+vless://vpn_kurdnet@144.225.65.214:666?encryption=none&host=play.google.com&path=/&security=none&type=ws#Khodemoni-329259
+vless://vpn_kurdnet@144.225.65.214:369?encryption=none&host=play.google.com&path=/&security=none&type=ws#Khodemoni-329264
+trojan://ND91608427@informed-alpaca.rooster465.autos:443#Khodemoni-329247
+trojan://ND91608427@gentle-raptor.rooster465.autos:443#Khodemoni-329249
+vless://b1d2a517-3ff2-4eb7-a9cd-2a42a2eb1c29@vl1.salar4040.ir:4040?type=tcp&encryption=none&security=reality&pbk=H9OGLRos1CxS7C197U2G6vmAINTN6GMasevL3gX9uEI&fp=chrome&sni=www.nvidia.com&sid=c57bcc26&spx=%2F#Khodemoni-329255
+vless://b334d1aa-aa87-4802-ac8a-d739378e658d@146.75.119.82:80?type=ws&encryption=none&path=ws/?ed=2048/@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1/?2048&host=rb24.ir&security=none#Khodemoni-329260
 vless://7111212b-6bc3-459a-85b4-3b13038a19f8@172.64.146.198:8880?encryption=none&security=none&type=ws&host=shrill-fog-67af.235-e6a.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net@https://t.me/QiangLieTuiJian#Khodemoni-201589
 trojan://ND91608427@chief-bluegill.rooster465.autos:443?allowInsecure=1&sni=chief-bluegill.rooster465.autos#Khodemoni-327877
 vless://c6ba83a7-c4b5-481f-8f71-0f17deff0bf2@104.21.44.253:8080?&type=ws&headerType=none&host=billowing-sunset-e340.qaraatayi.workers.dev&path=%2FeyJqdW5rIjoiOUhPbnRlV0xaekI1cjciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0%3D #Khodemoni-329211
