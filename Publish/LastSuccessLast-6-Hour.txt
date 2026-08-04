@@ -1,6 +1,10 @@
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.41:80?path=%2Fhttp&security=&encryption=none&host=de.vpnbase.net&type=ws#Khodemoni-248005
+trojan://ND91608427@chief-bluegill.rooster465.autos:443?allowInsecure=1&sni=chief-bluegill.rooster465.autos#Khodemoni-327877
+vless://aa9dfeec-9933-4b41-9154-daae02003c3d@t.vevluma.ir:2081?encryption=none&security=reality&type=tcp&sni=login.yahoo.com&fp=chrome&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&sid=c6e19c434dc87df7&spx=/#Khodemoni-327930
+trojan://ND91608427@prompt-duckling.rooster465.autos:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&allowInsecure=1&sni=#Khodemoni-327963
+trojan://ND91608427@learning-leopard.rooster465.autos:443?allowInsecure=1&sni=learning-leopard.rooster465.autos#Khodemoni-327872
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@154.64.226.149:9450?security=tls&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0&amp;sni=hk.catxstar.com#Khodemoni-317872
 vless://1a6d2f60-6c75-470b-891a-457b13d70a8e@helsinki.zestmarket.ir:6500?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#Khodemoni-324978
-trojan://ND91608427@chief-bluegill.rooster465.autos:443?allowInsecure=1&sni=chief-bluegill.rooster465.autos#Khodemoni-327877
 vless://1a6d2f60-6c75-470b-891a-457b13d70a8e@helsinki.zestmarket.ir:6500?security=reality&type=tcp&headerType=&path=&host=&sni=play.google.com&fp=qq&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&sid=#Khodemoni-324609
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.226.24:62145?&type=tcp&headerType=none&path=%2F#Khodemoni-329203
 vless://bc2c8b83-07b7-47bd-841f-9d5d1270917f@162.159.38.119:443?path=%2F&security=tls&encryption=none&insecure=0&host=ad.shadowsinner.fun&fp=chrome&type=ws&allowInsecure=0&sni=ad.shadowsinner.fun#Khodemoni-329197
@@ -21,9 +25,7 @@ vless://69d38faa-21a1-4d18-82cb-796a942c181b@104.17.46.112:80?encryption=none&ty
 vless://6b504c50-8535-44cf-8e4e-f8ee674a922e@cf10.466688.xyz:8880?encryption=none&security=none&type=ws&host=old-moon-16d0.156-a25.workers.dev&path=/pyip=ProxyIP.JP.CMLiussss.net@https://t.me/QiangLieTuiJian#Khodemoni-188284
 trojan://41c406e2-12b5-41f2-a329-d0621052d675@hkdcrtc-e.catcat321.com:20129?security=tls&sni=hk.catxstar.com&insecure=1&allowInsecure=1&type=tcp&headerType=none&fp=android#Khodemoni-327717
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@154.64.226.149:9450?sni=hk.catxstar.com&allowInsecure=1&type=tcp#Khodemoni-312661
-vless://69d38faa-21a1-4d18-82cb-796a942c181b@104.17.46.112:80?type=ws&host=sfsl.ardomains1.dpdns.org#Khodemoni-232100
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?security=tls&sni=de.catxstar.com&allowInsecure=1&type=tcp&headerType=none&fp=safari#Khodemoni-308413
-vless://69d38faa-21a1-4d18-82cb-796a942c181b@104.27.30.20:80?type=ws&host=sfsl.ardomains1.dpdns.org&path=#Khodemoni-228432
 vless://e74e8806-06b5-4fb0-a89e-cf79d88cfd02@one-for-all.levikogjgfdd.ir:8880?path=%2Fpyip&security=none&encryption=none&host=wild-frog-54a9.170-dcc.workers.dev&type=ws#Khodemoni-277318
 vmess://eyJhZGQiOiJ2YWg0dXJkemwzamR4NXIyLnYuM2Rucy52aXAiLCJhaWQiOiIwIiwiaG9zdCI6InZhaDR1cmR6bDNqZHg1cjIudi4zZG5zLnZpcCIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3Mtdm1lc3MiLCJwb3J0IjoiNDQzIiwicHMiOiJLaG9kZW1vbmktMzE5NzM2Iiwic2N5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6InZhaDR1cmR6bDNqZHg1cjIudi4zZG5zLnZpcCIsInRlc3RfbmFtZSI6IkhLMTMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=de.catxstar.com&fp=safari#Khodemoni-318714
