@@ -1,3 +1,8 @@
+trojan://ND91608427@smart-pup.rooster465.autos:443?allowInsecure=1&security=tls&sni=smart-pup.rooster465.autos#Khodemoni-329853
+trojan://ND91608427@upright-impala.rooster465.autos:443?security=tls&sni=upright-impala.rooster465.autos&type=tcp#Khodemoni-329833
+trojan://87961f9d-bee1-4377-826b-e169e7891c4f@cdn.tzpro.xyz:443?fp=chrome&path=%2F%3Fed%3D2048&security=tls&sni=yks-dd9.pages.dev&type=ws#Khodemoni-329855
+vmess://eyJhZGQiOiI2amR2YXJhemd1M3FxcjZxLnYuM2Rucy52aXAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IjZKRHZBcmF6Z1UzcVFSNlEudi4zZG5zLnZpcCIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3Mtdm1lc3MiLCJwb3J0IjoiNDQzIiwicHMiOiJLaG9kZW1vbmktMzI5Mjk0Iiwic2N5IjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+trojan://ND91608427@classic-gator.rooster465.autos:443#Khodemoni-329246
 vless://e7299042-7d8f-440f-8368-2516b0e69341@130.17.2.137:2200?security=none&type=ws&host=rzd.ru&path=%2Fv1#Khodemoni-290726
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.190.126:62145?security=none&type=tcp&packetEncoding=xudp#Khodemoni-329508
 trojan://ND91608427@sure-humpback.rooster465.autos:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&allowInsecure=1&sni=#Khodemoni-328009
@@ -14,7 +19,6 @@ trojan://UO36402987@many-cricket.rooster465.autos:443?mux=1#Khodemoni-327587
 trojan://ND91608427@immense-gnu.rooster465.autos:443?allowInsecure=1&sni=immense-gnu.rooster465.autos#Khodemoni-327850
 trojan://ND91608427@happy-mutt.rooster465.autos:443?allowInsecure=1&sni=happy-mutt.rooster465.autos#Khodemoni-327864
 vless://2400345d-6878-48c3-9f82-debf6c4021dd@201.34.128.57:443?security=&encryption=none&headerType=&type=tcp#Khodemoni-330266
-vless://afbe9207-eb8f-4e39-898a-d78fb3eddd0a@141.193.213.21:2096?security=tls&type=ws&path=/xprolk-primeline&host=primelinelk.me&packetEncoding=xudp&sni=primelinelk.me&fp=chrome#Khodemoni-329473
 vless://b5cb7846-f3bd-446f-bcfc-ff24410a157c@217.11.164.186:1656?encryption=none&security=none&type=tcp#Khodemoni-330272
 vless://2400345d-6878-48c3-9f82-debf6c4021dd@201.34.128.57:445?security=&encryption=none&headerType=&type=tcp#Khodemoni-330270
 vless://fba7da11-1d4e-4c74-9a90-fe290eb9539d@new.frizan.ir:2019?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-330287
@@ -23,7 +27,6 @@ vless://2400345d-6878-48c3-9f82-debf6c4021dd@201.34.128.57:420?security=&encrypt
 vless://7d32ce42-6bb8-429f-9315-d46b31032f17@201.34.128.57:445?security=&encryption=none&headerType=&type=tcp#Khodemoni-330269
 trojan://UO36402987@definite-ladybird.rooster465.autos:443?mux=1#Khodemoni-329090
 vless://ab7d5ea9-6eca-47c3-b14b-67378fc2d7c2@77.239.112.123:443?type=xhttp&security=tls&fp=chrome&sni=ne1.tunnelx.space&path=/assets&mode=auto#Khodemoni-330168
-trojan://ND91608427@pure-ram.rooster465.autos:443?allowInsecure=1&security=tls&sni=pure-ram.rooster465.autos#Khodemoni-329890
 vless://d516ffe9-f519-3c47-872b-666249bdc7b7@family.bucket.9.kfc-520.com:10033?security=reality&type=tcp&packetEncoding=none&sni=www.hp.com&flow=xtls-rprx-vision&sid=667925235980&pbk=mQvQHrpr_4068cLt-AOl44mQN6YccQv7yLfCP5Kp9HU&fp=qq#Khodemoni-330084
 trojan://87961f9d-bee1-4377-826b-e169e7891c4f@xn--b6gac.eu.org:443?fp=chrome&path=%2F%3Fed%3D2048&security=tls&sni=yks-dd9.pages.dev&type=ws#Khodemoni-329854
 vless://c7e9c591-2764-423a-afca-efbd010fd396@31.59.170.251:2053?security=tls&type=ws&path=/&host=forfreeuse.sub-flow.online&packetEncoding=xudp&sni=forfreeuse.sub-flow.online&fp=chrome#Khodemoni-329792
@@ -1052,12 +1055,10 @@ trojan://BxceQaOe@119.246.1.143:443?allowInsecure=1&insecure=1&type=tcp&security
 vless://8787dd0a-095a-414e-804f-a7d16a1ae166@178.215.239.93:8443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=po1.hys.braidx.tech&fp=firefox#Khodemoni-327766
 vmess://eyJhZGQiOiJ3d3cubmV4dGt5Yy5jb20iLCJhaWQiOiIwIiwiaG9zdCI6InYycmF5MS5kb3phcHAueHl6IiwiaWQiOiI2MDQ0MTU0OC1iNjhlLTQzYjItODE5MS1lM2I4ODRiZTRiM2MiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbE1uc1pVTjQvIiwicG9ydCI6Ijg0NDMiLCJwcyI6Iktob2RlbW9uaS0yMDI4NzUiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiS2hvZGVtb25pLTIyMjYwMyIsImFkZCI6Ind3dy5uZXh0a3ljLmNvbSIsInBvcnQiOiI4NDQzIiwiaWQiOiI2MDQ0MTU0OC1iNjhlLTQzYjItODE5MS1lM2I4ODRiZTRiM2MiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJ2MnJheTEuZG96YXBwLnh5eiIsInBhdGgiOiIvbE1uc1pVTjQvIiwidGxzIjoidGxzIiwic25pIjoidjJyYXkxLmRvemFwcC54eXoiLCJ0ZXN0X25hbWUiOiIyIn0=
-vless://6d60d9a8-401a-4f99-968e-ccae68a6c2f4@45.59.125.165:443?encryption=none&extra=%7B%22scMaxEachPostBytes%22:%221000000%22,%22xPaddingBytes%22:%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=/&pbk=uNqVJoSzKABN2X_NwGNcP1rGfMAqja7xuFlF3admKWQ&security=reality&sid=e98da6&sni=www.intel.com&spx=/ykMRjCIHyO7jd2B&type=xhttp&x_padding_bytes=100-1000#Khodemoni-329975
 vless://6d60d9a8-401a-4f99-968e-ccae68a6c2f4@162.159.38.119:2083?path=%2F&security=tls&encryption=none&insecure=0&host=sw.shadowsinner.fun&fp=chrome&type=ws&allowInsecure=0&sni=sw.shadowsinner.fun#Khodemoni-330288
 vless://17db72e0-63cd-43c9-81f0-06e1221cca99@jingji2.hj3hk.top:52317?security=reality&type=tcp&sni=www.ibm.com&fp=chrome&flow=xtls-rprx-vision&sid=fb4583c1&pbk=RLdadndvFi3-cNcbIoGg_MPiUHPohEY9Fh02ZaBofxw#Khodemoni-330054
 vless://17db72e0-63cd-43c9-81f0-06e1221cca99@jingji.hj444hk.top:52315?security=reality&type=tcp&sni=www.ibm.com&flow=xtls-rprx-vision&sid=aad492b8&pbk=rVMSja4fpsftJaCyNrqHW0Bl5-WhGzjkNq16AOWdo3M&fp=qq#Khodemoni-330094
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@182.16.61.3:45647?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-310374
-vless://999c9769-28db-425a-84d8-ccd7a3321406@log.bpminecraft.com:8880?host=jolly-glitter-123c.196-2b3.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&type=ws#Khodemoni-144475
 vless://chanal@node-1043081832-ba69fb-production.up.railway.app:443?encryption=none&type=ws&security=tls&path=%2Fws%2Fchanal&host=node-1043081832-ba69fb-production.up.railway.app&sni=node-1043081832-ba69fb-production.up.railway.app&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#Khodemoni-330304
 vless://ded5ee4f-9f6c-426d-971d-d817b1c2a618@172.66.213.38:2052?path=%2F&security=&encryption=none&host=nl2.plasdomain.ir&type=httpupgrade#Khodemoni-330274
 vless://a104a6c1-f725-467c-9701-6fe5d16b4ce8@pro.polnejat.ir:2053?security=reality&encryption=none&pbk=DaN-Oyl858Ok1XvkHIzYsbBeKstn0OpHf5a98etuFC4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=4eab4c26#Khodemoni-330289
