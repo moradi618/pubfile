@@ -1,4 +1,5 @@
 trojan://Telegram_healer_config@188.114.96.3:443?path=%2Ftr%2FFPR2laikdYLiah29Tqdujf%3Fed%3D2560&security=tls&alpn=http%2F1.1&host=7kdylxxsikw5rjlkhpdrhtx8.6nvgyhkobjke10qsu1s09hhyd4iz4pv.workers.dev&fp=chrome&type=ws&sni=7kDYlxxSIkw5RjLKHpdRHtX8.6nVgyHkobjke10qsu1s09HhYd4Iz4pv.WOrKERS.deV#Khodemoni-291709
+vless://ccd1c444-4812-4e11-aed1-99d3678b0b63@62.238.49.122:41982?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-328554
 vless://c61a813a-3429-4a20-8b7f-f7a3cd795b24@45.134.21.8:8443?security=tls&type=ws&path=/data/list/out.php?ed=2560&host=ft76mv43.b1gqbrn7f2j6degb6bgs.workers.dev&packetEncoding=xudp&sni=ft76mv43.b1gqbrn7f2j6degb6bgs.workers.dev&fp=chrome&encryption=none#Khodemoni-288136
 vless://b01cadb4-428b-42d2-8c56-d6c13e582ede@one-for-all.levikogjgfdd.ir:8880?path=%2Fpyip&security=none&encryption=none&host=lingering-water-9e69.219.workers.dev&type=ws#Khodemoni-277272
 vless://97fb7dfe-94aa-44f7-895b-947d07246712@91.224.74.7:20000?&type=tcp&headerType=none&path=%2F#Khodemoni-328526
