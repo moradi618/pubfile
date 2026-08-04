@@ -13,7 +13,6 @@ vless://49e76398-5127-4005-90cb-c2a971f745f1@162.159.38.119:443?path=/all&securi
 vless://49e76398-5127-4005-90cb-c2a971f745f1@162.159.38.119:443?path=%2Fcarbon&security=tls&encryption=none&insecure=0&host=rmqkx.freshfox-nilo.sbs&fp=chrome&type=ws&allowInsecure=0&sni=rmqkx.freshfox-nilo.sbs#Khodemoni-324537
 vless://49e76398-5127-4005-90cb-c2a971f745f1@162.159.38.119:443?path=/carbon&security=tls&encryption=none&insecure=0&host=oekja.megacitylab-nomt.sbs&fp=firefox&type=ws&allowInsecure=0&sni=oekja.megacitylab-nomt.sbs#Khodemoni-327093
 trojan://ND91608427@tough-robin.rooster465.autos:443?allowInsecure=1&sni=tough-robin.rooster465.autos#Khodemoni-327876
-vless://901fc0c9-ae4c-4d06-9fed-253b25b68a0e@one-for-all.levikogjgfdd.ir:8443?path=%2F&security=tls&encryption=none&insecure=0&host=ad-004.vector9nmb3.info&type=ws&allowInsecure=0&sni=ad-004.vector9nmb3.info#Khodemoni-284099
 vless://49e76398-5127-4005-90cb-c2a971f745f1@162.159.38.119:443?path=%2Fcarbon&security=tls&encryption=none&insecure=0&host=uhnjk.greenlionport-fla.sbs&fp=chrome&type=ws&allowInsecure=0&sni=uhnjk.greenlionport-fla.sbs#Khodemoni-319443
 vless://ea1278d8-c65a-4bdf-8c68-e84a26be53a3@psf-1.zdshop.ir:80?encryption=none&type=ws&path=%2F&host=machinemag.ir&sni=machinemag.ir&allowInsecure=1#Khodemoni-326881
 vless://8a6729c4-81d4-4b05-8747-3fffc17b6a64@meshbuzz.bond:443?path=%2Fmashdi&security=tls&encryption=none&insecure=0&host=OhPwIlJo8.RoBoRoCkS.Ir&fp=firefox&type=ws&allowInsecure=0&sni=OhPwIlJo8.RoBoRoCkS.Ir#Khodemoni-331936
