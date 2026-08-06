@@ -1,3 +1,4 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.42:8080#Khodemoni-326888
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkM2ROa2JQYjF3NUJDQng5RnI1eHNi@creativeboxfin.zanity.net:5223#Khodemoni-346300
 vless://b3c0e083-7608-48b1-84ac-efd75522b745@dyar3.javanrooo.ir:2087?type=ws&host=play.google.com&path=%2F&security=none&encryption=none#Khodemoni-357247
 vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=&encryption=none&host=azsv1.drpingservice.com&type=ws#Khodemoni-147490
