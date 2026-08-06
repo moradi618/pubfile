@@ -1,6 +1,13 @@
+vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@182.16.61.2:45647?security=&encryption=none&headerType=none&type=tcp#Khodemoni-319853
+vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@182.16.61.2:45647?security=&encryption=none&headerType=&type=tcp#Khodemoni-319118
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@108.162.195.7:2053?security=tls&type=ws&path=/&host=josni.hoyes.cloudns.ch&packetEncoding=xudp&sni=josni.hoyes.cloudns.ch&fp=chrome#Khodemoni-321898
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@108.162.195.7:2053?encryption=none&host=josni.hoyes.cloudns.ch&path=%2F&security=tls&sni=josni.hoyes.cloudns.ch&type=ws#Khodemoni-322173
+trojan://ND91608427@smart-pup.rooster465.autos:443?allowInsecure=1&security=tls&sni=smart-pup.rooster465.autos#Khodemoni-329853
+trojan://ND91608427@definite-sturgeon.rooster465.autos:443?allowInsecure=1&security=tls&sni=definite-sturgeon.rooster465.autos#Khodemoni-329836
+vmess://eyJhZGQiOiI0Ny4yNDIuNzkuMTk4IiwiYWlkIjoiMCIsImhvc3QiOiJlak9Nc3hQdFAxOUFQeUdMLnYuM2Rucy52aXAiLCJpZCI6ImYyM2JiNDI3YzFmOTQzNzM4NzZjMmY0M2U5Zjc5MGYzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXZtZXNzIiwicG9ydCI6IjQ0MyIsInBzIjoiS2hvZGVtb25pLTMzMjQwNSIsInNjeSI6ImF1dG8iLCJzbmkiOiJlak9Nc3hQdFAxOUFQeUdMLnYuM2Rucy52aXAiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@8.47.69.0:2095?&type=ws&headerType=none&host=fuckingfangbinxing.pusytroller.cf&path=%2F#Khodemoni-313615
 vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@182.16.61.2:45647?&type=tcp&headerType=none&path=%2F#Khodemoni-229955
 vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@182.16.61.2:45647?type=tcp&security=none&fp=firefox#Khodemoni-230129
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@8.47.69.0:2095?&type=ws&headerType=none&host=fuckingfangbinxing.pusytroller.cf&path=%2F#Khodemoni-313615
 vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@182.16.61.2:45647?security=none&type=tcp&packetEncoding=xudp#Khodemoni-311652
 vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@chatgpt.com:2053?path=%2FJ5aLQOY1R9ONWYCM&security=tls&encryption=none&insecure=0&host=ov.iran-servers.shop&type=ws&allowInsecure=0&sni=ov.iran-servers.shop&fp=firefox#Khodemoni-326970
 vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@182.16.61.2:45647?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#Khodemoni-321379
@@ -119,6 +126,3 @@ vmess://eyJhZGQiOiJmajI2MDMwNi5mcmVlY2hhdHVwLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwi
 trojan://ND91608427@moved-meerkat.rooster465.autos:443?security=tls&sni=moved-meerkat.rooster465.autos&type=tcp#Khodemoni-329888
 vmess://eyJhZGQiOiJmajI2MDQwMy5mcmVlY2hhdHVwLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZmoyNjA0MDMuZnJlZWNoYXR1cC5jb20iLCJpZCI6Ijk4ZTJiZTNjLThmODQtNGI4NS05OTZiLWI2OGRjYzJmYmNiNiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjI3NzI2IiwicHMiOiJLaG9kZW1vbmktMzI5MTg3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://5781c996-f32e-4151-bf75-4dc04fa13c05@vip.cdkshop.ir:443?encryption=none&fp=chrome&pbk=SJdAKRmq9WVXSd1T92Nbk-JftCM7JZMNpBaNCnhLYjk&security=reality&sid=6b16ee683359&sni=pwa.snapptrip.com&spx=%2F887556991d5b67c&type=tcp#Khodemoni-356942
-vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@91.193.58.131:2096?encryption=none&security=tls&sni=free-server.techsonic.dev&insecure=0&allowInsecure=0&type=ws&host=free-server.techsonic.dev&path=%2Ffree-server.techsonic.dev&fp=firefox#Khodemoni-357607
-vmess://eyJhZGQiOiJzdHJlYW1jb3Jlbm9kZTgtYXBpbGlua2h1YjQtbmV0d2ViZ2F0ZS5jbG91ZHN5bmM5LmNvbSIsImFpZCI6MCwiaG9zdCI6InN0cmVhbWNvcmVub2RlOC1hcGlsaW5raHViNC1uZXR3ZWJnYXRlLmNsb3Vkc3luYzkuY29tIiwiaWQiOiJjZDc4YTRmZi1hODgwLTQwYzMtODQxNy1lNmEyYTM4Yzg5NjMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbVU1TzNMTkJjMEJ5bjFCZ29ZaDgiLCJwb3J0IjoiNDQzIiwicHMiOiJLaG9kZW1vbmktMzQ2OTE5Iiwic25pIjoic3RyZWFtY29yZW5vZGU4LWFwaWxpbmtodWI0LW5ldHdlYmdhdGUuY2xvdWRzeW5jOS5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@91.193.58.131:2096?encryption=none&security=tls&sni=free-server.techsonic.dev&insecure=0&allowInsecure=0&type=ws&host=free-server.techsonic.dev&path=%2Ffree-server.techsonic.dev&fp=ios#Khodemoni-357608
