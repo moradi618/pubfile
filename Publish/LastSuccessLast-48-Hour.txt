@@ -1,3 +1,6 @@
+trojan://ND91608427@stunning-mite.rooster465.autos:443?allowInsecure=1&security=tls&sni=stunning-mite.rooster465.autos#Khodemoni-329841
+vmess://eyJhZGQiOiI0Ny4yNDIuNzkuMTk4IiwiYWlkIjoiMCIsImhvc3QiOiJlak9Nc3hQdFAxOUFQeUdMLnYuM2Rucy52aXAiLCJpZCI6ImYyM2JiNDI3YzFmOTQzNzM4NzZjMmY0M2U5Zjc5MGYzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXZtZXNzIiwicG9ydCI6IjQ0MyIsInBzIjoiS2hvZGVtb25pLTMzMjQwNSIsInNjeSI6ImF1dG8iLCJzbmkiOiJlak9Nc3hQdFAxOUFQeUdMLnYuM2Rucy52aXAiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+trojan://ND91608427@fleet-bonefish.rooster465.autos:443?allowInsecure=1&sni=fleet-bonefish.rooster465.autos#Khodemoni-331036
 vless://9501f3d6-483f-45c1-ab2c-33266520cd5c@89.127.217.127:2200?encryption=none&host=rzd.ru&path=/v1&security=none&type=ws#Khodemoni-259746
 trojan://ND91608427@devoted-tapir.rooster465.autos:443?allowInsecure=1&sni=devoted-tapir.rooster465.autos#Khodemoni-331032
 trojan://ND91608427@prompt-duckling.rooster465.autos:443?allowInsecure=1&sni=prompt-duckling.rooster465.autos#Khodemoni-327863
@@ -6,7 +9,6 @@ trojan://ND91608427@real-werewolf.rooster465.autos:443?allowInsecure=1&security=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ%3D@61.231.30.84:50099#Khodemoni-331151
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.109.137:22224?encryption=none&security=none&type=tcp#Khodemoni-331815
 vless://b7977b65-cfd8-4db9-a029-6ef014a4ae4a@165.215.250.12:2086?type=xhttp&headerType=none&security=none&encryption=none&path=%2F&host=dev.speciq.co#Khodemoni-309245
-vmess://eyJhZGQiOiI0Ny4yNDIuNzkuMTk4IiwiYWlkIjoiMCIsImhvc3QiOiJlak9Nc3hQdFAxOUFQeUdMLnYuM2Rucy52aXAiLCJpZCI6ImYyM2JiNDI3YzFmOTQzNzM4NzZjMmY0M2U5Zjc5MGYzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXZtZXNzIiwicG9ydCI6IjQ0MyIsInBzIjoiS2hvZGVtb25pLTMzMjQwNSIsInNjeSI6ImF1dG8iLCJzbmkiOiJlak9Nc3hQdFAxOUFQeUdMLnYuM2Rucy52aXAiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 vless://b7977b65-cfd8-4db9-a029-6ef014a4ae4a@165.215.250.12:2086?encryption=none&security=none&type=xhttp&host=xvh.andishehparenting.com&path=%2F&mode=packet-up#Khodemoni-306752
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@92.112.126.90:443? #Khodemoni-295695
 vless://b1436565-19cf-4dbd-8391-b1e515f21612@104.25.41.89:2053?encryption=none&security=tls&sni=twilight-firefly-50bb.matin-farzan1387-e6e.workers.dev&fp=chrome&type=ws&host=twilight-firefly-50bb.matin-farzan1387-e6e.workers.dev&path=/matinf13&allowInsecure=0#Khodemoni-331167
