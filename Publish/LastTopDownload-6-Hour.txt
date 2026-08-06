@@ -1,6 +1,5 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwRk5OOWpLZThqd0Q@38.180.92.242:32245#Khodemoni-346671
 ss://YWVzLTI1Ni1nY206Tnpjd1ptUXdaRGRrT1dFMFl6RTRZMlUwWlRobU1qRTBaRE0xT0dVNQ@iran.tonanimalia.com:11134?prefix=%16%03%01%00%C2%A8%01%01#Khodemoni-357496
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkM2ROa2JQYjF3NUJDQng5RnI1eHNi@creativeboxfin.zanity.net:5223#Khodemoni-346300
 vless://1b25e81f-98d6-4c69-b9db-3df6c58a7500@rhn.codmaxx.ir:8686?encryption=none&type=ws&security=tls&path=live&host=vip.dokhtaroune.ir&sni=vip.dokhtaroune.ir&insecure=1&allowInsecure=1#Khodemoni-345244
 vless://1b25e81f-98d6-4c69-b9db-3df6c58a7500@rhn.codmaxx.ir:8282?encryption=none&type=ws&security=tls&path=live&host=vip.dokhtaroune.ir&sni=vip.dokhtaroune.ir&insecure=1&allowInsecure=1#Khodemoni-345243
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?mode=stream-one&path=/Join-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&extra={"noGRPCHeader":true,"xmux":{"maxConcurrency":"6","hKeepAlivePeriod":12},"headers":{"User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/101.0.4951.67Safari/537.36"}}&insecure=0&host=static.lotussec.com&fp=chrome&type=xhttp&allowInsecure=0&sni=static.lotussec.com#Khodemoni-274214
@@ -82,6 +81,7 @@ vless://d840e1ca-5432-425a-40e6-4f8791b6474d@fin.irgonde.ir:443?security=reality
 vless://385b5ef4-1360-dc71-c766-a93e347acfd8@grovestreetee-production-7cd2.up.railway.app:443?path=%2Fws%2F385b5ef4-1360-dc71-c766-a93e347acfd8&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=grovestreetee-production-7cd2.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=grovestreetee-production-7cd2.up.railway.app#Khodemoni-357582
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?mode=stream-one&path=/Join-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&host=static.lotussec.com&fp=chrome&type=xhttp&sni=static.lotussec.com#Khodemoni-310910
 vless://94ad79ea-aee2-4fb4-9787-afc0dbecfc8a@almh.trafficfast.ir:1841?security=&encryption=none&headerType=none&type=tcp#Khodemoni-357719
+vless://78eddd19-4fd4-461e-ad75-efd8cd44e0d0@i2.cloud--vpn.site:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#Khodemoni-357723
 vless://1b25e81f-98d6-4c69-b9db-3df6c58a7500@45.89.223.251:8181?path=live&security=tls&encryption=none&insecure=0&host=vip.dokhtaroune.ir&type=ws&allowInsecure=0&sni=vip.dokhtaroune.ir#Khodemoni-357534
 vless://0b0915d7-6800-4580-a44b-77d84f105e6a@185.79.138.71:448?type=tcp&security=reality&pbk=CsDgNRcCwCkPIslfZpKTIK71KFpIFNsotbdzKcZVoH8&fp=chrome&sni=www.samsung.com&sid=cd21e552537c7c0b#Khodemoni-345761
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206YU1WQ0J2eHVyY3VLNG9Cd2JUeURkaGRiYm44YTRzTkhwTXJKVmZnbVZ0TT06SnJiRWh0bE5tR1A0VEpVMVdpSjN5eGZnM1Rmb1JIdm1IOGwyK2dDb1R4cz0@78.47.35.178:50667#Khodemoni-344490
