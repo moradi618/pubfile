@@ -1,5 +1,6 @@
-trojan://ND91608427@ace-starling.rooster465.autos:443?security=tls&sni=ace-starling.rooster465.autos#Khodemoni-332526
+vmess://eyJ2IjoiMiIsInBzIjoiS2hvZGVtb25pLTM0NDc1MCIsImFkZCI6Ind3dy5uZXh0a3ljLmNvbSIsInBvcnQiOiI4NDQzIiwiaWQiOiI2MDQ0MTU0OC1iNjhlLTQzYjItODE5MS1lM2I4ODRiZTRiM2MiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJ2MnJheTEuZG96YXBwLnh5eiIsInBhdGgiOiIvbE1uc1pVTjQvIiwidGxzIjoidGxzIiwic25pIjoidjJyYXkxLmRvemFwcC54eXoiLCJ0ZXN0X25hbWUiOiI4OCJ9
 trojan://ND91608427@tidy-gelding.rooster465.autos:443?security=tls&sni=tidy-gelding.rooster465.autos#Khodemoni-344137
+trojan://ND91608427@ace-starling.rooster465.autos:443?security=tls&sni=ace-starling.rooster465.autos#Khodemoni-332526
 vless://d7e9b7e6-b704-49f5-aa9a-2db7382d0443@31.57.27.180:2083?security=none&type=tcp&headerType=&path=&host=#Khodemoni-358287
 vless://2ea7def2-4962-43f7-84fc-5f0298b8c771@199.232.78.159:443?path=/&security=tls&encryption=none&host=towndtime.global.ssl.fastly.neT.&type=ws&sni=ssl.fastly.com#Khodemoni-358284
 vless://XpnTeam-11@140.248.186.45:443?encryption=none&type=ws&security=tls&path=/&host=Appxdn.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#Khodemoni-358286
@@ -1423,8 +1424,8 @@ trojan://ND91608427@43.207.140.98:443?security=tls&sni=right-seahorse.rooster465
 trojan://wE0CA%2BqFy6HpXEYDckEg1SlhqL37BPtJaCPotkzYjE0%3D@91.107.157.137:35558?security=none&headerType=&type=tcp#Khodemoni-344786
 vless://9b0fd32f-f70e-4d1f-af23-61f048ec92cd@mahdi9090.paydar.site:8443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-358223
 vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@91.193.58.5:2096?type=ws&host=free-server.techsonic.dev&path=%2Ffree-server.techsonic.dev&security=tls&sni=free-server.techsonic.dev#Khodemoni-344018
-vmess://eyJhZGQiOiIxOC4xOTcuMjE4LjY5IiwiYWlkIjowLCJob3N0IjoiYXBqaGRnZ3l4LmNvbSIsImlkIjoiNWY3MmYxODAtYjIxYi00YjdhLTg0ODQtMjQwNzU5MDEyNjA0IiwibmV0Ijoid3MiLCJwYXRoIjoiLzVmNzJmMTgwLWIyMWItNGI3YS04NDg0LTI0MDc1OTA5Njc4NSIsInBvcnQiOjQ0MywicHMiOiJLaG9kZW1vbmktMzQ0ODEwIiwic2VjdXJpdHkiOiJhdXRvIiwic25pIjoiYXBqaGRnZ3l4LmNvbSIsInRscyI6InRscyJ9
 vless://926bc4cd-709e-4e90-8aa7-78db75fbe86b@205.196.81.159:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fgb---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&encryption=none&insecure=0&host=gbbs-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.KinGNetWork.iR&type=ws&allowInsecure=0&sni=gbs-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.KinGNetWork.iR#Khodemoni-333346
+vmess://eyJhZGQiOiIxOC4xOTcuMjE4LjY5IiwiYWlkIjowLCJob3N0IjoiYXBqaGRnZ3l4LmNvbSIsImlkIjoiNWY3MmYxODAtYjIxYi00YjdhLTg0ODQtMjQwNzU5MDEyNjA0IiwibmV0Ijoid3MiLCJwYXRoIjoiLzVmNzJmMTgwLWIyMWItNGI3YS04NDg0LTI0MDc1OTA5Njc4NSIsInBvcnQiOjQ0MywicHMiOiJLaG9kZW1vbmktMzQ0ODEwIiwic2VjdXJpdHkiOiJhdXRvIiwic25pIjoiYXBqaGRnZ3l4LmNvbSIsInRscyI6InRscyJ9
 trojan://ND91608427@willing-beagle.rooster465.autos:443?type=tcp&security=tls&sni=willing-beagle.rooster465.autos&allowInsecure=1#Khodemoni-344047
 vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@nasnet-162191099-direct.mbghalibaf.com:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=nasnet-162191099-direct.mbghalibaf.com&type=tcp#Khodemoni-333448
 vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.20.39.109:443?flow=&type=ws&host=support.zoom.us.yxls.eu.cc&path=/sg-melbi&security=tls&sni=support.zoom.us.yxls.eu.cc&fp=chrome#Khodemoni-346253
@@ -2158,7 +2159,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCTlh0ZTI3ekJ5dU52VHNR@20.223.129.129:443#Kho
 vmess://eyJhZGQiOiJmajI2MDMwNi5mcmVlY2hhdHVwLmNvbSIsImFpZCI6IjAiLCJhbHBuIjpudWxsLCJmcCI6bnVsbCwiaG9zdCI6ImZqMjYwMzA2LmZyZWVjaGF0dXAuY29tIiwiaWQiOiI5OGUyYmUzYy04Zjg0LTRiODUtOTk2Yi1iNjhkY2MyZmJjYjYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOjI3NzI2LCJwcyI6Iktob2RlbW9uaS0zNTc0NzciLCJzY3kiOm51bGwsInNuaSI6bnVsbCwidGxzIjoiIiwidHlwZSI6bnVsbCwidiI6bnVsbH0=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTTmtoWXg5U1Q1cFVmMW9n@20.223.129.129:443#Khodemoni-358232
 trojan://ND91608427@moved-meerkat.rooster465.autos:443?security=tls&sni=moved-meerkat.rooster465.autos#Khodemoni-328952
-vless://d516ffe9-f519-3c47-872b-666249bdc7b7@family.bucket.9.kfc-520.com:10053?&security=reality&flow=xtls-rprx-vision&pbk=o-ud3x7exNVYmknsVseZyUGMyK_680Nub0Cf6W4KiRw&sid=cbbf64&fp=firefox&sni=www.amd.com&type=tcp&headerType=none&host=www.amd.com&path=%2F#Khodemoni-330827
 vless://d516ffe9-f519-3c47-872b-666249bdc7b7@family.bucket.9.kfc-520.com:10047?security=reality&flow=xtls-rprx-vision&pbk=xnLREvR2BJGCu7teEqJej7qshkveyHNFwn1qKGgrAjA&sid=c5f8d3e8d4&sni=www.adobe.com&type=tcp&headerType=none&host=www.adobe.com&path=%2F&fp=qq#Khodemoni-330100
 vless://2181d0c8-448a-4f75-b848-1718029baef9@89.125.13.67:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=-Dg4mGAAM5Lwe9ri7Bx5WlYdPBsyYJy-Pai2Z0FGlyc&sid=afee962d&type=tcp&headerType=none#Khodemoni-332144
 vless://d516ffe9-f519-3c47-872b-666249bdc7b7@family.bucket.9.kfc-520.com:10049?&security=reality&flow=xtls-rprx-vision&pbk=5mklCKyNnRZwmN9sTwrR81latb570OKWykB0x_LL3zA&sid=a6b2be44&fp=firefox&sni=www.intel.com&type=tcp&headerType=none&host=www.intel.com&path=%2F#Khodemoni-329016
@@ -2662,7 +2662,6 @@ vless://50414e45-4c5f-5a45-5553-6f51879c0594@one-for-all.levikogjgfdd.ir:2096?pa
 vless://fd22ad82-2d89-4338-b72c-5092ae699c7d@8.47.69.0:8880?security=none&type=ws&path=%2Frutube&host=rutube.ummapeople.online&fp=chrome#Khodemoni-323295
 trojan://ND91608427@moral-buzzard.rooster465.autos:443?allowInsecure=1&sni=moral-buzzard.rooster465.autos#Khodemoni-327852
 trojan://41c406e2-12b5-41f2-a329-d0621052d675@hkdcrtc-e.catcat321.com:20066?allowInsecure=0&sni=hk.catxstar.com#Khodemoni-332021
-trojan://MiTiVPN@151.101.130.172:80?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNL---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=none&host=s4-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&type=ws#Khodemoni-329941
 vmess://eyJhZGQiOiI4OS4zNC4yMzAuMjI2IiwiYWlkIjoiMCIsImlkIjoiYTFjODM1MDMtNjQyOS00ZTE3LWIzOTgtNTA4NDk5NzgyOWMyIiwibmV0IjoidGNwIiwicG9ydCI6MzUwMzMsInBzIjoiS2hvZGVtb25pLTMzMjE5OCIsInNjeSI6ImF1dG8iLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vless://ce54986e-1876-4afb-8b01-af90d4ed5832@ush.snowdnvpno4.com:8443?encryption=none&fp=chrome&pbk=y6Y9r_UgfGNRTNvk-42m4av_jGupyJINqHqbWeNG2EQ&security=reality&serviceName=api.v1.telemetry.EventStream&sid=530db35e324c3aa5&sni=addons.mozilla.org&type=grpc#Khodemoni-331855
 trojan://ND91608427@becoming-hare.rooster465.autos:443?security=tls&sni=becoming-hare.rooster465.autos#Khodemoni-332532
