@@ -1,3 +1,8 @@
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@172.66.44.97:443?path=%2Fsg-melbi%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#Khodemoni-344838
+trojan://ND91608427@eager-louse.rooster465.autos:443?security=tls&sni=eager-louse.rooster465.autos#Khodemoni-332529
+trojan://ND91608427@gentle-raptor.rooster465.autos:443?security=tls&sni=gentle-raptor.rooster465.autos#Khodemoni-332531
+trojan://ND91608427@devoted-tapir.rooster465.autos:443?security=tls&sni=devoted-tapir.rooster465.autos#Khodemoni-332535
+trojan://ND91608427@89.39.70.180:443?sni=eager-louse.rooster465.autos#Khodemoni-332553
 vless://4d10c997-4781-4cd9-82c3-15453523e12c@172.66.44.97:443?type=ws&insecure=0&fp=chrome&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-melbi&sni=support.zoom.us.yxls.eu.cc&allowInsecure=0&security=tls&encryption=none#Khodemoni-357688
 vless://dd321f25-8f90-4e7c-a1fa-01883a8988a7@104.16.6.70:443?fp=random&host=soucuovls.pages.dev&path=pyip%3Dproxyip.cmliussss.net&security=tls&sni=soucuovls.pages.dev&type=ws#Khodemoni-332803
 vless://5b33318b-5444-2a0b-0748-147d00000000@104.20.6.134:443?path=/sync&security=tls&encryption=none&pbk=enabled&insecure=0&host=weathered-bush-f33d.optifime5.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=weathered-bush-f33d.optifime5.workers.dev#Khodemoni-333156
