@@ -1,3 +1,5 @@
+trojan://ND91608427@becoming-hare.rooster465.autos:443?security=tls&sni=becoming-hare.rooster465.autos#Khodemoni-332532
+trojan://ND91608427@happy-mutt.rooster465.autos:443?allowInsecure=1&security=tls&sni=happy-mutt.rooster465.autos#Khodemoni-329843
 vless://2001e98b-e06e-4244-910f-7ff640746eda@104.171.132.102:2200?encryption=none&security=none&type=ws&path=%2Fv1#Khodemoni-346572
 vless://a484645e-59df-4980-b649-92b71250ec60@72.56.246.91:4100?encryption=none&security=none&type=ws&path=%2Fv1#Khodemoni-346568
 vless://2001e98b-e06e-4244-910f-7ff640746eda@168.222.202.15:4100?encryption=none&security=none&type=ws&path=%2Fv1#Khodemoni-346569
@@ -2162,4 +2164,3 @@ vmess://eyJhZGQiOiIyMC4xNy4xNTcuMjAiLCJhaWQiOiIwIiwiaG9zdCI6ImFqYXgubWljcm9zb2Z0
 vmess://eyJ2IjoiMiIsInBzIjoiS2hvZGVtb25pLTMwODA2OSIsImFkZCI6ImZqMjYwMjA1LmZyZWVjaGF0dXAuY29tIiwicG9ydCI6IjI3NzI2IiwiaWQiOiI5OGUyYmUzYy04Zjg0LTRiODUtOTk2Yi1iNjhkY2MyZmJjYjYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6ImZqMjYwMjA1LmZyZWVjaGF0dXAuY29tIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI3In0=
 vmess://eyJhZGQiOiIxOTUuMTMzLjE5My4xOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5OGUyYmUzYy04Zjg0LTRiODUtOTk2Yi1iNjhkY2MyZmJjYjYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI3NzI2IiwicHMiOiJLaG9kZW1vbmktMzEzMjM1Iiwic2N5IjoiY2hhY2hhMjAtcG9seTEzMDUiLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqOEdSVU56ZXhBL0dGa2U0bXFJY3RNWm1VWmRMdnB4K3VjV0hoZHRaazY0PQ@e3.cover20.ir:56985?type=tcp#Khodemoni-346236
-trojan://ND91608427@becoming-hare.rooster465.autos:443?security=tls&sni=becoming-hare.rooster465.autos#Khodemoni-332532
