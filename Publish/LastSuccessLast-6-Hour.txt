@@ -1,3 +1,4 @@
+vless://ff6f09e0-7011-49ed-bf91-d2e53c7c5d24@tk.degeris.ir:2083?path=%2Fjansbsbsbeejdb&security=tls&encryption=none&insecure=0&host=vip.degeris.ir&fp=chrome&type=ws&allowInsecure=0&sni=vip.degeris.ir#Khodemoni-344560
 vless://5dafde1b-fcd1-4146-86c9-16a32f2779e2@77.42.120.85:22022?type=tcp&security=reality&encryption=none&fp=firefox&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&sid=c6e19c434dc87df7&sni=login.yahoo.com#Khodemoni-345573
 vmess://eyJ2IjoiMiIsInBzIjoiS2hvZGVtb25pLTMyNjc2MiIsImFkZCI6ImZqMjYwMzA0LmZyZWVjaGF0dXAuY29tIiwicG9ydCI6IjI3NzI2IiwiaWQiOiI5OGUyYmUzYy04Zjg0LTRiODUtOTk2Yi1iNjhkY2MyZmJjYjYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI3MiJ9
 vless://57270763-50af-4247-bc32-c2b7fba20ed0@217.11.164.92:37194?headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#Khodemoni-346746
@@ -56,10 +57,8 @@ trojan://ND91608427@devoted-tapir.rooster465.autos:443?sni=devoted-tapir.rooster
 trojan://ND91608427@definite-malamute.rooster465.autos:443?security=tls&sni=definite-malamute.rooster465.autos#Khodemoni-328941
 vmess://eyJ2IjoiMiIsInBzIjoiS2hvZGVtb25pLTMyODc2MSIsImFkZCI6IjQ3LjgzLjIwNy4xNDgiLCJwb3J0IjoiNDQzIiwiaWQiOiJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6IlZBSDRVUmRaTDNqRFg1cjIudi4zZG5zLnZpcCIsInBhdGgiOiIvd3Mtdm1lc3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJWQUg0VVJkWkwzakRYNXIyLnYuM2Rucy52aXAiLCJ0ZXN0X25hbWUiOiJISzE4In0=
 vless://9501f3d6-483f-45c1-ab2c-33266520cd5c@217.177.74.111:2200?encryption=none&type=ws&security=none&path=%2Fv1&host=rzd.ru#Khodemoni-290640
-vless://f3d7ebbc-03a1-40f9-a911-ae8628d3927a@dawn-waterfall-6052.360-001.workers.dev:8880?path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none&encryption=none&type=ws#Khodemoni-333363
 trojan://ND91608427@learning-leopard.rooster465.autos:443?security=tls&sni=learning-leopard.rooster465.autos#Khodemoni-344120
 trojan://41c406e2-12b5-41f2-a329-d0621052d675@oplosgru-c.catcat321.com:20088?allowInsecure=0&sni=hk.catxstar.com#Khodemoni-344412
-vless://435d616b-f0e6-489d-a70d-bdde70750b43@ruded3.onlinestreamself.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=6ycuxfrEPsqE9eXZ5_Osbnx4g6hXWmkc8pFuAJkJ4jY&sni=apple.com#Khodemoni-345675
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.159.168.212:22223?encryption=none&security=none&type=tcp#Khodemoni-346219
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.159.168.212:22222?encryption=none&security=none&type=tcp#Khodemoni-346232
 vless://f4e6476f-40d0-40cb-841f-cc2f6909ff20@www.gov.ua:8880?host=calm-haze-d105.21-7cd.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&type=ws#Khodemoni-143376
