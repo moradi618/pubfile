@@ -1,3 +1,4 @@
+trojan://ND91608427@uncommon-feline.rooster465.autos:443?security=tls&sni=uncommon-feline.rooster465.autos#Khodemoni-330992
 trojan://ND91608427@casual-bee.rooster465.autos:443?allowInsecure=1&security=tls&sni=casual-bee.rooster465.autos#Khodemoni-329904
 ss://YWVzLTI1Ni1nY206TlRGa05ETTJOamsyTTJSak4ySTVaV1JtTldRd05UVXdaV1F6WldSaQ@37.32.25.196:11109#Khodemoni-346580
 vless://59b2ff61-808d-4dcc-b74a-fa283ff82c42@46.8.232.38:2083?encryption=none&type=tcp&security=none#Khodemoni-346578
@@ -41,6 +42,3 @@ vless://e245d6f1-d99c-47cb-b3f4-edf12f0c73b8@146.75.119.82:80?path=ws/?ed=2048/@
 vless://5dafde1b-fcd1-4146-86c9-16a32f2779e2@37.27.9.5:22022?type=tcp&security=reality&encryption=none&fp=firefox&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&sid=c6e19c434dc87df7&sni=login.yahoo.com#Khodemoni-345644
 vless://a759afc4-6bc6-48e7-a39f-60f2c7efa891@pro-se.emrata.top:443?type=tcp&security=reality&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&fp=firefox&sni=pro-se.emrata.top#Khodemoni-346456
 vless://abd3678b-f654-404c-adc7-1355865197e1@104.21.25.168:8880?allowInsecure=0&type=ws&host=vless.a-amr79.workers.dev&path=/eyJqdW5rIjoiNUZVWmdPNWNpTW5LOCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzI2MDI6ZmM1OTpiMDo2NDo6XSJdfQ#Khodemoni-147292
-vless://b7f09658-cfed-4230-8e26-d74f779eb7d7@91.185.83.43:16443?security=reality&encryption=none&pbk=HmKTXDpJw9amcZPyIFGKhGMcpGTwKdOWNMa12Q1dzj8&type=grpc&serviceName=grpc&sni=5post-gate.x5.ru&fp=safari#Khodemoni-346037
-vless://e9177091-3ec0-4b7e-8b63-b5ad7e06edfb@91.185.83.70:443?encryption=none&flow=xtls-rprx-vision&fp=ios&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&security=reality&sid=a9c4f17e3b62d8&sni=api-maps.yandex.ru&type=raw#Khodemoni-346048
-vless://b7f09658-cfed-4230-8e26-d74f779eb7d7@91.185.83.43:16443?security=reality&encryption=none&pbk=HmKTXDpJw9amcZPyIFGKhGMcpGTwKdOWNMa12Q1dzj8&type=grpc&serviceName=grpc&sni=5post-gate.x5.ru&fp=ios#Khodemoni-346036
