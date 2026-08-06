@@ -13,6 +13,7 @@ vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&al
 trojan://ND91608427@54.249.34.120:443?security=tls&sni=social-mutt.rooster465.autos#Khodemoni-357917
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.42:8080#Khodemoni-326888
 vless://7540ffce-d883-4374-96b0-de82f1c05a56@199.232.78.159:443?encryption=none&type=ws&security=tls&path=%2FTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%3Fed%3D2053&host=pan1.global.ssl.fastly.neT&sni=ssl.fastly.com&insecure=1&allowInsecure=1#Khodemoni-346111
+vless://fd3a2556-56a0-24e1-8549-054dcb5a5d60@69.46.46.40:443?path=%2Fws%2Ffd3a2556-56a0-24e1-8549-054dcb5a5d60&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=x4g-production-58a7.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-58a7.up.railway.app#Khodemoni-358277
 vless://0b0915d7-6800-4580-a44b-77d84f105e6a@185.79.138.71:448?type=tcp&security=reality&pbk=CsDgNRcCwCkPIslfZpKTIK71KFpIFNsotbdzKcZVoH8&fp=chrome&sni=www.samsung.com&sid=cd21e552537c7c0b#Khodemoni-345761
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.42:8080? #Khodemoni-332401
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=none&type=xhttp&mode=stream-one&host=static.lotussec.com&path=/Join-JavidnamanIran-on-Telegram&security=tls&fp=firefox&sni=static.lotussec.com&alpn=h2#Khodemoni-312304
