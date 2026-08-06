@@ -1,3 +1,8 @@
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@172.66.44.97:443?path=%2Fsg-melbi%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#Khodemoni-344838
+trojan://ND91608427@eager-louse.rooster465.autos:443?security=tls&sni=eager-louse.rooster465.autos#Khodemoni-332529
+trojan://ND91608427@gentle-raptor.rooster465.autos:443?security=tls&sni=gentle-raptor.rooster465.autos#Khodemoni-332531
+trojan://ND91608427@devoted-tapir.rooster465.autos:443?security=tls&sni=devoted-tapir.rooster465.autos#Khodemoni-332535
+trojan://ND91608427@89.39.70.180:443?sni=eager-louse.rooster465.autos#Khodemoni-332553
 vless://4d10c997-4781-4cd9-82c3-15453523e12c@172.66.44.97:443?type=ws&insecure=0&fp=chrome&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-melbi&sni=support.zoom.us.yxls.eu.cc&allowInsecure=0&security=tls&encryption=none#Khodemoni-357688
 vless://dd321f25-8f90-4e7c-a1fa-01883a8988a7@104.16.6.70:443?fp=random&host=soucuovls.pages.dev&path=pyip%3Dproxyip.cmliussss.net&security=tls&sni=soucuovls.pages.dev&type=ws#Khodemoni-332803
 vless://5b33318b-5444-2a0b-0748-147d00000000@104.20.6.134:443?path=/sync&security=tls&encryption=none&pbk=enabled&insecure=0&host=weathered-bush-f33d.optifime5.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=weathered-bush-f33d.optifime5.workers.dev#Khodemoni-333156
@@ -2858,7 +2863,6 @@ trojan://ND91608427@real-werewolf.rooster465.autos:443?allowInsecure=1&security=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ%3D@61.231.30.84:50099#Khodemoni-331151
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.109.137:22224?encryption=none&security=none&type=tcp#Khodemoni-331815
 vless://5dbfbffc-c342-4a1e-b372-fda5387bedb9@tr.bizimishimiz.info:42268?encryption=none&type=httpupgrade&path=%2F&host=play.google.com#Khodemoni-331148
-vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@meg.ns.cloudflare.com:443?encryption=none&security=tls&type=ws&sni=swimmm.info&host=swimmm.info&path=%2Fyhowcws#Khodemoni-326506
 trojan://ND91608427@internal-sunbird.rooster465.autos:443?allowInsecure=1&sni=internal-sunbird.rooster465.autos#Khodemoni-327848
 vless://9047efd2-5aa4-4c9c-a58f-a5791b06c79e@ad-010.milo1fmyz.info:8443?security=tls&type=ws&path=/&host=ad-010.milo1fmyz.info&packetEncoding=xudp&sni=ad-010.milo1fmyz.info&fp=chrome&encryption=none#Khodemoni-329811
 vless://b1436565-19cf-4dbd-8391-b1e515f21612@104.25.41.89:2053?encryption=none&security=tls&sni=twilight-firefly-50bb.matin-farzan1387-e6e.workers.dev&fp=chrome&type=ws&host=twilight-firefly-50bb.matin-farzan1387-e6e.workers.dev&path=/matinf13&allowInsecure=0#Khodemoni-331167
