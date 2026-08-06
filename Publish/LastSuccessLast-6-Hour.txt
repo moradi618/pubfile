@@ -1,3 +1,4 @@
+trojan://ND91608427@uncommon-feline.rooster465.autos:443?security=tls&sni=uncommon-feline.rooster465.autos#Khodemoni-330992
 trojan://ND91608427@casual-bee.rooster465.autos:443?allowInsecure=1&security=tls&sni=casual-bee.rooster465.autos#Khodemoni-329904
 ss://YWVzLTI1Ni1nY206TlRGa05ETTJOamsyTTJSak4ySTVaV1JtTldRd05UVXdaV1F6WldSaQ@37.32.25.196:11109#Khodemoni-346580
 vless://59b2ff61-808d-4dcc-b74a-fa283ff82c42@46.8.232.38:2083?encryption=none&type=tcp&security=none#Khodemoni-346578
@@ -512,8 +513,6 @@ vmess://eyJ2IjoiMiIsInBzIjoiS2hvZGVtb25pLTMyOTA0NiIsImFkZCI6ImZqMjYwMjAzLmZyZWVj
 vless://31f345f3-b8eb-4ca6-8b14-bb555ae2c1f9@172.66.132.196:8880?security=none&type=ws&path=/pyip=ProxyIP.KR.CMLiussss.net&host=tiny-feather-4c41.227.workers.dev&packetEncoding=xudp&encryption=none#Khodemoni-329306
 vless://59525c39-e731-4c27-bc9e-6d8cef67572c@72.56.247.70:2200?path=%2Fv1&security=none&encryption=none&host=rzd.ru&type=ws#Khodemoni-343503
 trojan://ND91608427@large-baboon.rooster465.autos:443/?type=tcp&security=tls&sni=large-baboon.rooster465.autos&allowInsecure=1#Khodemoni-331397
-vless://060a5db6-7ff9-4a64-87c1-8a27be4f11ab@93.119.168.215:60771?&type=tcp&headerType=none&path=%2F#Khodemoni-331129
-vless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@p01.parsi.sbs:2086?path=%2F&security=&encryption=none&host=parsi.parsi.sbs&type=ws#Khodemoni-343583
 vless://667a035b-6656-4a4f-a74c-8cd6a679f8d4@172.65.90.52:8880?security=none&type=ws&path=/pyip=ProxyIP.SG.CMLiussss.net&host=winter-mode-7f4e.89-136.workers.dev&packetEncoding=xudp#Khodemoni-329488
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.194.53.30:8880?path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2Fyoutube%40ZYFXS%F0%9F%87%A8%F0%9F%87%B3&security=none&encryption=none&host=vms.lifetime19.workers.dev&type=ws#Khodemoni-329999
 vless://060a5db6-7ff9-4a64-87c1-8a27be4f11ab@93.119.168.215:60771?security=&encryption=none&headerType=none&type=tcp#Khodemoni-344210
@@ -529,7 +528,6 @@ vless://cf39cbf2-8926-43b5-ba3e-45b975019094@skk.moe:8880?path=%2Fpyip%3DProxyIP
 vless://bd3eb105-b048-47fa-9a1d-63a66f9830a2@log.bpminecraft.com:8880?path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=&alpn=http%2F1.1&encryption=none&host=misty-flower-4d15.372-912.workers.dev&fp=chrome&type=ws#Khodemoni-333396
 vless://e58a0802-443e-4ba3-992b-73687bb5b9f0@194.26.229.217:4100?&type=ws&headerType=none&host=live.ok.ru&path=%2Fv1#Khodemoni-333357
 trojan://55354c2b8ee339571bd657a9bb9858cc@speed-01.aliyun-web-tracker.cn:39221/?type=tcp&security=tls&sni=speed-01.aliyun-web-tracker.cn&allowInsecure=1&fp=chrome#Khodemoni-344401
-vless://3c763d51-928f-456d-8f16-062285b8abcb@95.214.63.147:48097?security=&encryption=none&headerType=none&type=tcp#Khodemoni-344526
 vless://02ae7872-1c03-4214-8b95-14c126da831e@pro-se.emrata.top:443?type=tcp&security=reality&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&fp=firefox&sni=pro-se.emrata.top#Khodemoni-344451
 vless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@p01.parsi.sbs:2086?type=ws&path=%2F&host=parsi.parsi.sbs&sni=p01.parsi.sbs#Khodemoni-332880
 trojan://ND91608427@real-werewolf.rooster465.autos:443?security=tls&sni=real-werewolf.rooster465.autos#Khodemoni-344118
@@ -537,10 +535,8 @@ vless://edd5f4a0-19dd-4017-8d67-03482fd6472a@54.254.145.25:6768?path=%2F%40Maris
 vless://bd3eb105-b048-47fa-9a1d-63a66f9830a2@log.bpminecraft.com:8880?path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none&alpn=http%2F1.1&encryption=none&host=misty-flower-4d15.372-912.workers.dev&fp=chrome&type=ws#Khodemoni-333360
 vless://060a5db6-7ff9-4a64-87c1-8a27be4f11ab@93.119.168.215:60771?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&&type=tcp&headerType=none&path=/#Khodemoni-343951
 vless://a429499b-6237-44b2-ae4d-0d53d14cf46a@themeforest.net:8880?encryption=none&host=small-wave-9851.441-57f.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&security=none&type=ws#Khodemoni-333407
-vless://060a5db6-7ff9-4a64-87c1-8a27be4f11ab@93.119.168.215:60771?encryption=none&security=none&type=tcp&headerType=none#Khodemoni-332040
 trojan://UO36402987@warm-bass.rooster465.autos:443#Khodemoni-343652
 vless://31f345f3-b8eb-4ca6-8b14-bb555ae2c1f9@172.66.132.196:8880?path=%2Fpyip&security=&encryption=none&host=tiny-feather-4c41.227.workers.dev&type=ws#Khodemoni-332893
-vless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.234.238:2086?path=%2F&security=&encryption=none&host=parsi.parsi.sbs&type=ws#Khodemoni-343582
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU56WmxOamhrWkdVPQ@163.176.59.72:59319#Khodemoni-345565
 vless://060a5db6-7ff9-4a64-87c1-8a27be4f11ab@93.119.168.215:60771?encryption=none&security=none&type=tcp#Khodemoni-343649
 vless://95f50108-2bae-4634-948c-b22e01ae3133@2.26.79.73:443?type=tcp&security=reality&encryption=none&fp=firefox&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&sni=pro-se.emrata.top#Khodemoni-345668
@@ -560,7 +556,6 @@ vless://78eddd19-4fd4-461e-ad75-efd8cd44e0d0@i.cloud--vpn.site:80?encryption=non
 vless://95f50108-2bae-4634-948c-b22e01ae3133@2.26.79.43:443?type=tcp&security=reality&encryption=none&fp=firefox&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&sni=pro-se.emrata.top#Khodemoni-345666
 vless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@64.49.38.6:993?encryption=none&type=tcp&security=reality&headerType=none&sni=download.nvidia.com&fp=firefox&insecure=1&allowInsecure=1&pbk=JeVpfwIwteGa8xfysPJUzrbHgmOPyLGomRqyH8Pi7W0&flow=xtls-rprx-vision#Khodemoni-345167
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.176.140:62145?encryption=none&security=none&type=tcp#Khodemoni-344899
-vless://c0a7e427-1034-485a-b5c7-4449bd04b28d@104.17.121.110:8880?path=%2Fmmd&security=none&encryption=none&host=svn-panel-team.lorqino.ir&type=httpupgrade#Khodemoni-345355
 trojan://humanity@45.130.125.190:443?encryption=none&security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#Khodemoni-345361
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVEV5WkRJME9HUXdNMlptWmpjNFpUZzFaVEJpWVRObFpUWmtaakl4T0RNPQ@92.5.238.186:45819#Khodemoni-345873
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.176.140:62145?#Khodemoni-345814
