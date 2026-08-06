@@ -1,9 +1,9 @@
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20004/?type=tcp&security=tls&sni=hk.catxstar.com&fp=edge#Khodemoni-358397
 vless://25a95029-1ecc-4ad6-83b6-d0dba7cab392@31.200.250.160:443?allowInsecure=1&flow=xtls-rprx-vision&fp=chrome&pbk=Rpc9MCEogqr44HkgduXGcJqCOGnNiaGyjCb4PDPRVQw&security=reality&sid=ad93fb04&sni=api.max.ru&type=tcp#Khodemoni-358399
 vless://fabda5d3-7454-47da-bb9c-629c0f3bace5@turky.netvipsoed.ir:1151?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-358406
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMWFlMGZjZS05MzQwLTRmMmUtODgyZC1mZGIyMjE4ZTJlMmI@36.224.177.236:50099#Khodemoni-358411
 vless://9afa0df3-3213-3cd2-6bd6-0cc7c86c68f6@69.46.46.53:443?path=%2Fws%2F9afa0df3-3213-3cd2-6bd6-0cc7c86c68f6&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=x4g-production-1021.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-1021.up.railway.app#Khodemoni-358407
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20004?security=tls&sni=hk.catxstar.com&fp=android#Khodemoni-358323
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20004/?type=tcp&security=tls&sni=hk.catxstar.com&fp=edge#Khodemoni-358397
 vless://0d543aed-4e30-4553-b5ac-211419bb0961@185.128.139.11:18244?security=none&amp;encryption=none&amp;host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&amp;headerType=none&amp;type=tcp#Khodemoni-282266
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20004?security=tls&sni=hk.catxstar.com&fp=edge#Khodemoni-358324
 vless://19791a56-54a5-47bf-a7c7-5cb3d3dce904@t.telewebion.ir.varzesh3.com.de:443?security=reality&alpn=http/1.1&encryption=none&pbk=JtA0d5K6Jnmg35oWP9SDOsc1ceuqaxOsNg33fiPHJQs&host=play.google.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=e915#Khodemoni-331213
@@ -30,4 +30,3 @@ trojan://ND91608427@ace-starling.rooster465.autos:443?security=tls&sni=ace-starl
 vless://d7e9b7e6-b704-49f5-aa9a-2db7382d0443@31.57.27.180:2083?security=none&type=tcp&headerType=&path=&host=#Khodemoni-358287
 vless://2ea7def2-4962-43f7-84fc-5f0298b8c771@199.232.78.159:443?path=/&security=tls&encryption=none&host=towndtime.global.ssl.fastly.neT.&type=ws&sni=ssl.fastly.com#Khodemoni-358284
 vless://XpnTeam-11@140.248.186.45:443?encryption=none&type=ws&security=tls&path=/&host=Appxdn.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#Khodemoni-358286
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@josni.hoyes.cloudns.ch:2053?&security=tls&fp=chrome&sni=josni.hoyes.cloudns.ch&type=ws&headerType=none&host=josni.hoyes.cloudns.ch&path=%2F#Khodemoni-345558
