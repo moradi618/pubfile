@@ -1,3 +1,4 @@
+trojan://ND91608427@happy-mutt.rooster465.autos:443?allowInsecure=1&security=tls&sni=happy-mutt.rooster465.autos#Khodemoni-329843
 vless://2001e98b-e06e-4244-910f-7ff640746eda@104.171.132.102:2200?encryption=none&security=none&type=ws&path=%2Fv1#Khodemoni-346572
 vless://a484645e-59df-4980-b649-92b71250ec60@72.56.246.91:4100?encryption=none&security=none&type=ws&path=%2Fv1#Khodemoni-346568
 vless://2001e98b-e06e-4244-910f-7ff640746eda@168.222.202.15:4100?encryption=none&security=none&type=ws&path=%2Fv1#Khodemoni-346569
