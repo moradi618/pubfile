@@ -33,3 +33,4 @@ vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?mode=stream
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=none&type=xhttp&security=tls&path=%2FJoin-JavidnamanIran-on-Telegram&host=static.lotussec.com&mode=stream-one&sni=static.lotussec.com&alpn=h2&fp=firefox&insecure=0&allowInsecure=#Khodemoni-317576
 vless://1633b472-dfce-48e7-a89d-de502494f9f3@www.speedtest.net:2082?path=%2Foopksl%3F&security=&encryption=none&host=sss.jorzel.ir&type=httpupgrade#Khodemoni-358961
 vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?encryption=none&type=ws&path=%2F&host=azsv1.drpingservice.com#Khodemoni-082627
+vless://6ffba3f2-66c6-4830-ab03-8df58e729bcc@hcaptcha.com:8443?path=%2F&security=tls&encryption=none&insecure=0&host=deir.ramzshadi.ir&type=httpupgrade&allowInsecure=0&sni=ramzshadi.ir#Khodemoni-346556
