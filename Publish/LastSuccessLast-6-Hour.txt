@@ -1,6 +1,10 @@
+vless://16e68684-a64b-4bd1-8fa4-9cfcde33f544@deir.ramzshadi.ir:8443?encryption=none&security=tls&type=httpupgrade&headerType=none&path=%2F&host=deir.ramzshadi.ir&sni=ramzshadi.ir#Khodemoni-359027
 vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@www.true.th:443?&security=tls&fp=chrome&sni=d1yxsk0zprgivr.cloudfront.net&type=ws&headerType=none&host=d1yxsk0zprgivr.cloudfront.net&path=%2F#Khodemoni-333453
-trojan://ND91608427@57.180.27.225:443?security=tls&sni=picked-guinea.rooster465.autos#Khodemoni-359066
 trojan://41c406e2-12b5-41f2-a329-d0621052d675@oplosgru-c.catcat321.com:20068?security=tls&sni=hk.catxstar.com#Khodemoni-359074
+trojan://ND91608427@57.180.27.225:443?security=tls&sni=picked-guinea.rooster465.autos#Khodemoni-359066
+vmess://eyJhZGQiOiJzdHJlYW1jb3Jlbm9kZTgtYXBpbGlua2h1YjQtbmV0d2ViZ2F0ZS5jbG91ZHN5bmM5LmNvbSIsImFpZCI6IjAiLCJob3N0Ijoic3RyZWFtY29yZW5vZGU4LWFwaWxpbmtodWI0LW5ldHdlYmdhdGUuY2xvdWRzeW5jOS5jb20iLCJpZCI6ImNkNzhhNGZmLWE4ODAtNDBjMy04NDE3LWU2YTJhMzhjODk2MyIsIm5ldCI6IndzIiwicGF0aCI6Ii9tVTVPM0xOQmMwQnluMUJnb1loOCIsInBvcnQiOiI0NDMiLCJwcyI6Iktob2RlbW9uaS0zNTkxMDUiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vmess://eyJhZGQiOiJ3d3cubmV4dGt5Yy5jb20iLCJhaWQiOiIwIiwiaG9zdCI6InYycmF5MS5kb3phcHAueHl6IiwiaWQiOiI2MDQ0MTU0OC1iNjhlLTQzYjItODE5MS1lM2I4ODRiZTRiM2MiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbE1uc1pVTjQvIiwicG9ydCI6Ijg0NDMiLCJwcyI6Iktob2RlbW9uaS0yNzQwNTAiLCJzY3kiOiJhdXRvIiwic25pIjoidjJyYXkxLmRvemFwcC54eXoiLCJ0ZXN0X25hbWUiOiJVUzYiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+trojan://ND91608427@185.244.208.13:443?security=tls&sni=ace-starling.rooster465.autos#Khodemoni-359072
 trojan://ND91608427@3.112.223.141:443?security=tls&sni=internal-sunbird.rooster465.autos#Khodemoni-359067
 vmess://eyJhZGQiOiJ3d3cubmV4dGt5Yy5jb20iLCJhaWQiOjAsImhvc3QiOiJ2MnJheTEuZG96YXBwLnh5eiIsImlkIjoiNjA0NDE1NDgtYjY4ZS00M2IyLTgxOTEtZTNiODg0YmU0YjNjIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xNbnNaVU40LyIsInBvcnQiOjg0NDMsInBzIjoiS2hvZGVtb25pLTIyMzc0MiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
 vless://8c9be850-32a0-4cc1-809b-4a5161413a90@172.67.179.98:8880?path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none&encryption=none&host=sparkling-frog-59e1.256-d4e.workers.dev&type=ws#Khodemoni-228779
@@ -186,7 +190,6 @@ trojan://ND91608427@sensible-mongrel.rooster465.autos:443?security=tls&sni=sensi
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.193.29.40:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vms.lifetime08.workers.dev&path=%2F&security=none&type=ws#Khodemoni-345824
 vless://12cebf33-2f96-48a3-af37-c2231e5cef75@91.193.58.25:8880?security=none&type=ws&path=/pyip=Telegram@VPNine1&host=throbbing-moon-a07c.90-ec4.workers.dev&packetEncoding=xudp#Khodemoni-329395
 trojan://ND91608427@right-seahorse.rooster465.autos:443?allowInsecure=1&sni=right-seahorse.rooster465.autos#Khodemoni-327873
-trojan://ND91608427@informed-alpaca.rooster465.autos:443#Khodemoni-329247
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.193.29.40:8880?security=none&type=ws&path=/?ed=2560&https://t.me/youtube@ZYFXS&host=vms.lifetime08.workers.dev&packetEncoding=xudp#Khodemoni-329404
 trojan://ND91608427@chief-bluegill.rooster465.autos:443?allowInsecure=1&sni=chief-bluegill.rooster465.autos#Khodemoni-327877
 trojan://ND91608427@43.203.119.20:443?allowInsecure=0&security=tls&sni=uncommon-feline.rooster465.autos#Khodemoni-329889
@@ -199,7 +202,6 @@ vless://d35b56de-9a34-439f-b542-9dcad311f24c@144.31.219.205:443?insecure=0&host=
 vless://8890bbf7-1da1-4c74-8b01-71d261688a4f@soskeynets.fantomgavi.workers.dev:443?encryption=none&fp=chrome&host=mohamad.fantomgavi.workers.dev&path=/&security=tls&sni=mohamad.fantomgavi.workers.dev&type=ws#Khodemoni-346503
 trojan://ND91608427@uncommon-feline.rooster465.autos:443?allowInsecure=1&security=tls&sni=uncommon-feline.rooster465.autos#Khodemoni-329885
 vless://2001e98b-e06e-4244-910f-7ff640746eda@104.171.132.102:2200?host=rzd.ru&path=%2Fv1&security=none&type=ws#Khodemoni-332280
-vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.228.161:8443/?type=grpc&encryption=none&flow=&serviceName=grpc#Khodemoni-333541
 trojan://41c406e2-12b5-41f2-a329-d0621052d675@hkdcrtc-e.catcat321.com:20129?allowInsecure=0&sni=hk.catxstar.com#Khodemoni-333429
 trojan://41c406e2-12b5-41f2-a329-d0621052d675@oplosgru-c.catcat321.com:20034?allowInsecure=0&sni=hk.catxstar.com#Khodemoni-332866
 trojan://ND91608427@54.93.65.133:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=next-turkey.rooster465.autos#Khodemoni-333638
