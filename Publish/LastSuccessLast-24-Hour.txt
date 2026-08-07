@@ -1,5 +1,6 @@
-vless://0d543aed-4e30-4553-b5ac-211419bb0961@185.128.139.11:18244?security=none&encryption=none&host=/?BIA_TELEGRAM@VPNine1&headerType=none&type=tcp#Khodemoni-279185
 vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.228.161:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=none&encryption=none&type=grpc&serviceName=grpc#Khodemoni-358599
+vless://0d543aed-4e30-4553-b5ac-211419bb0961@185.128.139.11:18244?security=none&encryption=none&host=/?BIA_TELEGRAM@VPNine1&headerType=none&type=tcp#Khodemoni-279185
+trojan://Telegram_healer_config@188.114.96.3:443?path=/tr/mn7HiiHzSQM2Lf1txOmQV?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=5exzc5h4dp8qxsj7bvnb4ftw71.f8orz6ag1a5ng9ih.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=5ExzC5h4Dp8qXSJ7bVNB4ftw71.f8OrZ6ag1a5nG9IH.worKErS.DEv#Khodemoni-333380
 vmess://eyJ2IjpudWxsLCJwcyI6Iktob2RlbW9uaS0zNTg3MjIiLCJhZGQiOiJlam9tc3hwdHAxOWFweWdsLnYuM2Rucy52aXAiLCJwb3J0Ijo0NDMsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6ImVqT01zeFB0UDE5QVB5R0wudi4zZG5zLnZpcCIsImFscG4iOm51bGwsInBhdGgiOiIvd3Mtdm1lc3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJlak9Nc3hQdFAxOUFQeUdMLnYuM2Rucy52aXAiLCJmcCI6bnVsbCwibmFtZSI6Ilx1RDgzQ1x1RERFRFx1RDgzQ1x1RERGMCBISyAzMiJ9
 vless://3fd3909b-238f-42c4-9170-38d10014b1d8@134.209.190.111:41574?path=%2F&host=Play.google.com&type=ws&encryption=none&security=none#Khodemoni-358716
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvUXdTK3Z5K1pYaDlqWFIydVVhZXJJelVpWDBhb2psRVhBMUQzS1g5c0lNPQ@e3.cover20.ir:56985#Khodemoni-358752
@@ -146,7 +147,6 @@ trojan://ND91608427@43.203.119.20:443?allowInsecure=0&security=tls&sni=uncommon-
 vless://84270e8b-567e-45c6-b2f2-56ec9a67ae1e@172.67.152.71:8880?security=none&type=ws&path=/pyip=ProxyIP.SG.CMLiussss.net&host=young-leaf-a723.162-4da.workers.dev&packetEncoding=xudp&sni=log.bpminecraft.com&encryption=none#Khodemoni-329353
 vless://878dd962-027b-4bd3-a1f8-66be68a03c4d@deepl.com:8880?path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=&encryption=none&host=young-wind-3c58.240-2ce.workers.dev&type=ws#Khodemoni-333647
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@195.85.59.69:2095?host=cnm-fangbinxing-nmsl.fangbinxing-wcnm.workers.dev&path=%2F&security=none&type=ws#Khodemoni-332984
-trojan://ND91608427@picked-guinea.rooster465.autos:443?security=tls&sni=picked-guinea.rooster465.autos#Khodemoni-344121
 vless://bd8c736e-cae1-43d7-b573-9672e6ca4989@fornewiran.axiomed.ir:443?encryption=none&security=tls&sni=l0n0QgKdtTu061g57fhqZBet333S4t.adE-1004.WOrkerS.Dev&alpn=http%2F1.1&fp=chrome&type=ws&host=l0n0qgkdttu061g57fhqzbet333s4t.ade-1004.workers.dev&path=%2Fvl%2FzXLTmz3hE3szn64f%3Fed%3D2560#Khodemoni-344551
 trojan://ND91608427@better-molly.rooster465.autos:443?security=tls#Khodemoni-344109
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@195.85.59.69:2095?host=cnm-fangbinxing-nmsl.fangbinxing-wcnm.workers.dev&path=%2F&security=none&type=ws#Khodemoni-332986
