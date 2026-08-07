@@ -1,2 +1,1 @@
-vless://1633b472-dfce-48e7-a89d-de502494f9f3@Usa-oss.lorqino.ir:9145?security=reality&encryption=none&pbk=Fw1tpKBQ_bT_eSTbaCSYBthpXAQ76kujwfywvjgpUA0&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=5e06032a9c448538#Khodemoni-359007
 vless://6ffba3f2-66c6-4830-ab03-8df58e729bcc@hcaptcha.com:8443?path=%2F&security=tls&encryption=none&insecure=0&host=deir.ramzshadi.ir&type=httpupgrade&allowInsecure=0&sni=ramzshadi.ir#Khodemoni-346556
