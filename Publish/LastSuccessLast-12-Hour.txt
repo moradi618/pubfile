@@ -1,3 +1,6 @@
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.26.9.48:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/sg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#Khodemoni-322295
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.26.9.48:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#Khodemoni-321818
+vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@88.216.220.88:443?encryption=none&type=grpc&security=reality&serviceName=api.v1.StreamService&authority=v2rayNplus--v2rayNplus--v2rayNplus&mode=gun&sni=files.noneok.com&fp=firefox&insecure=1&allowInsecure=1&pbk=q3kOYHdjmqWLLYj8oikvna1bTjofk45ktegGaJE611g&sid=d3b394558cfe0266#Khodemoni-369675
 vless://96de8fe7-7b9b-4ba2-8f2d-54cd4f51c6f2@153.52.92.216:20000?security=&encryption=none&headerType=none&type=tcp#Khodemoni-370613
 vless://b4469373-b425-4902-80d4-a00e00ada7de@31.57.228.37:50303?path=%2F&security=none&encryption=none&host=play.google.com&type=ws#Khodemoni-372260
 vless://196fa82c-aa34-4512-8dfa-386391ac8008@47.82.120.47:43630?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-372264
@@ -1329,4 +1332,3 @@ vless://76b6be07-7f48-48dd-a91e-075a7bd189de@172.86.66.104:443?encryption=none&e
 vmess://eyJhZGQiOiJ3d3cubmV4dGt5Yy5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InYycmF5MS5kb3phcHAueHl6IiwiaWQiOiI2MDQ0MTU0OC1iNjhlLTQzYjItODE5MS1lM2I4ODRiZTRiM2MiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbE1uc1pVTjQvIiwicG9ydCI6Ijg0NDMiLCJwcyI6Iktob2RlbW9uaS0xMjcyNDEiLCJzY3kiOiJhdXRvIiwic25pIjoidjJyYXkxLmRvemFwcC54eXoiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 vless://3b9e15c9-200c-4471-9482-87a109891472@shomal.sikuzdi.uk:38995?security=&encryption=none&type=grpc#Khodemoni-372072
 trojan://6kcro2JWRvYBom13BJWnb89RYTrQtG70KBhE3arb9T4=@65.109.208.236:55109?security=none&headerType=&type=tcp#Khodemoni-372171
-vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@88.216.220.88:443?encryption=none&type=grpc&security=reality&serviceName=api.v1.StreamService&authority=v2rayNplus--v2rayNplus--v2rayNplus&mode=gun&sni=files.noneok.com&fp=firefox&insecure=1&allowInsecure=1&pbk=q3kOYHdjmqWLLYj8oikvna1bTjofk45ktegGaJE611g&sid=d3b394558cfe0266#Khodemoni-369675
