@@ -1,4 +1,6 @@
 vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@www.true.th:443?&security=tls&fp=chrome&sni=d1yxsk0zprgivr.cloudfront.net&type=ws&headerType=none&host=d1yxsk0zprgivr.cloudfront.net&path=%2F#Khodemoni-333453
+vless://4d9868fb-bb94-419d-8c01-420cf7e3feaa@www.parvian.ir:443?security=reality&encryption=none&pbk=8iZthEek8HsCb3m2YY1jPGOS-WlCC_6VeROra4WuCw0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdn-apple.com&sid=74d37a95022cc957#Khodemoni-359029
+vless://16e68684-a64b-4bd1-8fa4-9cfcde33f544@cdtr.ramzshadi.ir:8443?encryption=none&security=tls&type=httpupgrade&headerType=none&path=%2F&host=cdtr.ramzshadi.ir&sni=ramzshadi.ir#Khodemoni-359028
 vless://fc8a0708-951a-4027-860f-2a154ebc4dd7@time.is:2083?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=crimson-king-301d.nexoxnet.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=crimson-king-301d.nexoxnet.workers.dev#Khodemoni-346546
 vless://2d212f81-7ea2-4d0b-884c-a6497ab41143@cloudflare-ech.com:8880?host=hidden-union-a4b2.436.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&type=ws#Khodemoni-233148
 vless://d682c8f4-e719-577e-cbe9-2e5b00000002@172.67.185.65:80?security=none&type=ws&path=/sync&host=0406.infinityconfig7.workers.dev&packetEncoding=xudp&encryption=none#Khodemoni-329530
@@ -32,7 +34,6 @@ vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@168.222.140.233:4100?encryption=non
 vless://d682c8f4-e719-577e-cbe9-2e5b00000000@0406.infinityconfig7.workers.dev:443?security=tls&type=ws&path=/sync&host=0406.infinityconfig7.workers.dev&packetEncoding=xudp&sni=0406.infinityconfig7.workers.dev&fp=chrome#Khodemoni-329558
 vless://cf39cbf2-8926-43b5-ba3e-45b975019094@skk.moe:8880?path=/pyip=ProxyIP.US.CMLiussss.net&security=none&encryption=none&host=snowy-feather-39d3.428.workers.dev&type=ws#Khodemoni-312183
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.193.213.30:8880?encryption=none&type=ws&security=none&host=vms.lifetime23.workers.dev#Khodemoni-329027
-vless://e58a0802-443e-4ba3-992b-73687bb5b9f0@194.26.229.217:4100?&type=ws&headerType=none&host=live.ok.ru&path=%2Fv1#Khodemoni-333357
 vless://adda46c3-eab1-40bc-b88d-6b92c1e8c558@172.66.140.62:8880?path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&security=none&encryption=none&host=delicate-base-12ed.287-133.workers.dev&type=ws#Khodemoni-330000
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@103.116.7.30:8880?security=none&type=ws&path=/&host=vms.lifetime35.workers.dev&packetEncoding=xudp#Khodemoni-328896
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.101.194.120:62145?#Khodemoni-344852
@@ -2132,7 +2133,6 @@ vless://d028eaf5-c5ef-49a0-85c6-4f4816af8053@104.17.33.116:2086/?encryption=none
 vless://d028eaf5-c5ef-49a0-85c6-4f4816af8053@188.114.98.215:2086/?path=%2FeyJqdW5rIjoiZUJZR2pXVFByVyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjEwOS4xMjAuMTU4LjE0OSJdfQ%3D%3D%3Fed%3D2560&security=&encryption=none&host=misty-bread-fd96.salehinezhadali.workers.dev&type=ws#Khodemoni-010600
 vless://9ec52cb8-8daa-0021-ac36-d38295a25e5b@5.61.91.207:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=a7b2c9d4&sni=www.amd.com&fp=firefox&alpn=http%2F1.1#Khodemoni-310324
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqOEdSVU56ZXhBL0dGa2U0bXFJY3RNWm1VWmRMdnB4K3VjV0hoZHRaazY0PQ@e3.cover20.ir:56985?type=tcp#Khodemoni-346236
-vmess://eyJ2IjoiMiIsInBzIjoiS2hvZGVtb25pLTMyMDg3NSIsImFkZCI6Imx0LmJhZG5zLmhlbHAiLCJwb3J0IjoiNTEzNjAiLCJpZCI6Ijg1YWQyMWUxLWMyY2QtMzQwNy1hYTkwLTgxNWYzZjNlYTYzNiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJpbnNlY3VyZSI6IjAiLCJ2Y24iOiIiLCJwY3MiOiIiLCJob3N0IjoiIiwicGF0aCI6IiJ9
 vless://bff1f3ee-aff7-480a-a968-d3511d9a33cb@104.171.133.18:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=yFdgeRvZ7pYNp7C5v3sOq1x3gwHxWYem62W2tB9RJ0k&security=reality&sni=max.ru&type=raw#Khodemoni-346059
 vless://bff1f3ee-aff7-480a-a968-d3511d9a33cb@104.171.133.18:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=yFdgeRvZ7pYNp7C5v3sOq1x3gwHxWYem62W2tB9RJ0k&security=reality&sni=max.ru&type=raw#Khodemoni-346026
 trojan://f7d7e66a-b293-4108-861b-4d41dcf8fd3b@soskeynets-luffy-ezaccess1-658c.up.railway.app:443?path=/ws/trojan/f7d7e66a-b293-4108-861b-4d41dcf8fd3b?ed=2048&security=tls&alpn=h3&insecure=0&host=ezaccess1-luffy-ezaccess1-658c.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=ezaccess1-luffy-ezaccess1-658c.up.railway.app#Khodemoni-346194
@@ -2466,6 +2466,6 @@ vless://01a95af3-a2f6-453e-9f88-b2fc011627cc@92.114.24.95:43630?security=&encryp
 vless://78eddd19-4fd4-461e-ad75-efd8cd44e0d0@i2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#Khodemoni-358561
 vless://01a95af3-a2f6-453e-9f88-b2fc011627cc@92.114.24.95:43630?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&headerType=none&type=tcp#Khodemoni-358655
 vless://5bb07942-ca80-4577-acd0-e5935c3cd523@93.152.217.55:8443?security=reality&encryption=none&pbk=4uDjB4cV22HwhNwXkyicoWN5ocwxBB85i08lcRpN7Xc&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=firefox&spx=%2F06fca620fa52ba5&type=tcp&flow=xtls-rprx-vision&sni=vk-portal.ru&sid=ad5cfe18#Khodemoni-358787
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvUXdTK3Z5K1pYaDlqWFIydVVhZXJJelVpWDBhb2psRVhBMUQzS1g5c0lNPQ@e3.cover20.ir:56985#Khodemoni-358752
-vless://7699e066-2abf-466a-b4a8-5d725b80650b@pg.restauranzorban.ir:2052?path=%2F&security=none&encryption=none&host=germany1.restaurantnetwork.ir&type=ws#Khodemoni-358794
 vless://5bb07942-ca80-4577-acd0-e5935c3cd523@93.152.217.55:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=4uDjB4cV22HwhNwXkyicoWN5ocwxBB85i08lcRpN7Xc&headerType=none&fp=chrome&spx=/06fca620fa52ba5&type=tcp&flow=xtls-rprx-vision&sni=vk-portal.ru&sid=ad5cfe18#Khodemoni-358566
+vless://7699e066-2abf-466a-b4a8-5d725b80650b@pg.restauranzorban.ir:2052?path=%2F&security=none&encryption=none&host=germany1.restaurantnetwork.ir&type=ws#Khodemoni-358794
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvUXdTK3Z5K1pYaDlqWFIydVVhZXJJelVpWDBhb2psRVhBMUQzS1g5c0lNPQ@e3.cover20.ir:56985#Khodemoni-358752
