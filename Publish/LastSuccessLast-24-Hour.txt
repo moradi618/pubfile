@@ -1,5 +1,7 @@
-vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@www.true.th:443?&security=tls&fp=chrome&sni=d1yxsk0zprgivr.cloudfront.net&type=ws&headerType=none&host=d1yxsk0zprgivr.cloudfront.net&path=%2F#Khodemoni-333453
 trojan://ND91608427@57.180.27.225:443?security=tls&sni=picked-guinea.rooster465.autos#Khodemoni-359066
+vmess://eyJhZGQiOiJ3d3cubmV4dGt5Yy5jb20iLCJhaWQiOiIwIiwiaG9zdCI6InYycmF5MS5kb3phcHAueHl6IiwiaWQiOiI2MDQ0MTU0OC1iNjhlLTQzYjItODE5MS1lM2I4ODRiZTRiM2MiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbE1uc1pVTjQvIiwicG9ydCI6Ijg0NDMiLCJwcyI6Iktob2RlbW9uaS0yNzQwNTAiLCJzY3kiOiJhdXRvIiwic25pIjoidjJyYXkxLmRvemFwcC54eXoiLCJ0ZXN0X25hbWUiOiJVUzYiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@www.true.th:443?&security=tls&fp=chrome&sni=d1yxsk0zprgivr.cloudfront.net&type=ws&headerType=none&host=d1yxsk0zprgivr.cloudfront.net&path=%2F#Khodemoni-333453
+trojan://ND91608427@185.244.208.13:443?security=tls&sni=ace-starling.rooster465.autos#Khodemoni-359072
 trojan://41c406e2-12b5-41f2-a329-d0621052d675@oplosgru-c.catcat321.com:20068?security=tls&sni=hk.catxstar.com#Khodemoni-359074
 trojan://ND91608427@3.112.223.141:443?security=tls&sni=internal-sunbird.rooster465.autos#Khodemoni-359067
 vmess://eyJhZGQiOiJ3d3cubmV4dGt5Yy5jb20iLCJhaWQiOjAsImhvc3QiOiJ2MnJheTEuZG96YXBwLnh5eiIsImlkIjoiNjA0NDE1NDgtYjY4ZS00M2IyLTgxOTEtZTNiODg0YmU0YjNjIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xNbnNaVU40LyIsInBvcnQiOjg0NDMsInBzIjoiS2hvZGVtb25pLTIyMzc0MiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
@@ -18,7 +20,6 @@ vless://2d212f81-7ea2-4d0b-884c-a6497ab41143@cloudflare-ech.com:8880?host=hidden
 vless://d682c8f4-e719-577e-cbe9-2e5b00000002@172.67.185.65:80?security=none&type=ws&path=/sync&host=0406.infinityconfig7.workers.dev&packetEncoding=xudp&encryption=none#Khodemoni-329530
 trojan://ND91608427@upright-impala.rooster465.autos:443?security=tls&sni=upright-impala.rooster465.autos&type=tcp#Khodemoni-329833
 vless://916e3030-6eac-418b-9402-7508ca7d6280@fast.nanniang.top:8443?security=tls&type=ws&path=/&host=us-akile.nanniang.top&packetEncoding=xudp&sni=us-akile.nanniang.top&fp=chrome#Khodemoni-329159
-vless://d682c8f4-e719-577e-cbe9-2e5b00000001@0406.infinityconfig7.workers.dev:2053?encryption=none&security=tls&type=ws#Khodemoni-329532
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.185.108.50:8880?security=none&type=ws&path=/?https://t.me/youtube@ZYFXSfp=chrome&host=vms.lifetime23.workers.dev&packetEncoding=xudp#Khodemoni-329416
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.68.11.30:8880/?type=ws&encryption=none&flow=&host=vms.lifetime28.workers.dev#Khodemoni-204237
 vless://18a7834f-bf89-4c87-ad57-49927a56deed@172.67.179.98:8880?encryption=none&type=ws&host=holy-violet-858e.471.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none#Khodemoni-232657
@@ -41,7 +42,6 @@ vless://234c52f2-0d7b-dc4a-0d6b-b0b300000025@104.27.2.172:80?security=none&type=
 vless://7111212b-6bc3-459a-85b4-3b13038a19f8@cf4.466688.xyz:8880?&fp=chrome&type=ws&headerType=none&host=shrill-fog-67af.235-e6a.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#Khodemoni-294070
 vless://05e7abc2-46e1-4a23-9cdc-173ce17eb0d4@www.iplocation.net:8880?host=round-term-947c.41-332.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&type=ws#Khodemoni-282346
 vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@168.222.140.233:4100?encryption=none&host=live.ok.ru&path=/v1&security=none&type=ws#Khodemoni-312639
-vless://d682c8f4-e719-577e-cbe9-2e5b00000000@0406.infinityconfig7.workers.dev:443?security=tls&type=ws&path=/sync&host=0406.infinityconfig7.workers.dev&packetEncoding=xudp&sni=0406.infinityconfig7.workers.dev&fp=chrome#Khodemoni-329558
 vless://cf39cbf2-8926-43b5-ba3e-45b975019094@skk.moe:8880?path=/pyip=ProxyIP.US.CMLiussss.net&security=none&encryption=none&host=snowy-feather-39d3.428.workers.dev&type=ws#Khodemoni-312183
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.193.213.30:8880?encryption=none&type=ws&security=none&host=vms.lifetime23.workers.dev#Khodemoni-329027
 vless://adda46c3-eab1-40bc-b88d-6b92c1e8c558@172.66.140.62:8880?path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&security=none&encryption=none&host=delicate-base-12ed.287-133.workers.dev&type=ws#Khodemoni-330000
