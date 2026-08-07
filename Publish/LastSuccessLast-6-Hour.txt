@@ -1,3 +1,5 @@
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.26.9.48:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/sg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#Khodemoni-322295
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.26.9.48:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#Khodemoni-321818
 vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@88.216.220.88:443?encryption=none&type=grpc&security=reality&serviceName=api.v1.StreamService&authority=v2rayNplus--v2rayNplus--v2rayNplus&mode=gun&sni=files.noneok.com&fp=firefox&insecure=1&allowInsecure=1&pbk=q3kOYHdjmqWLLYj8oikvna1bTjofk45ktegGaJE611g&sid=d3b394558cfe0266#Khodemoni-369675
 vless://b4469373-b425-4902-80d4-a00e00ada7de@31.57.228.37:50303?path=%2F&security=none&encryption=none&host=play.google.com&type=ws#Khodemoni-372260
 vless://196fa82c-aa34-4512-8dfa-386391ac8008@47.82.120.47:43630?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-372264
