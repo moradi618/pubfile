@@ -1,3 +1,4 @@
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.186.16.216:22222?encryption=none&amp;security=none&amp;type=tcp#Khodemoni-373975
 vless://fd7b79d4-cf9e-4ada-a8fe-98539d395374@grsr1.plasdomain.ir:31993?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=play.google.com&fp=qq&pbk=JJi5mLuFJwe8_EFfNIND5HBNqPDhWweYwGUdegdTwWI&sid=fc374bb9eda9360a#Khodemoni-372083
 vless://3b9e15c9-200c-4471-9482-87a109891472@shomal.sikuzdi.uk:38995?security=&encryption=none&type=grpc#Khodemoni-372072
 trojan://6kcro2JWRvYBom13BJWnb89RYTrQtG70KBhE3arb9T4=@65.109.208.236:55109?security=none&headerType=&type=tcp#Khodemoni-372171
@@ -606,8 +607,6 @@ vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.117:443?encryption=none&
 vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@88.216.220.87:443?encryption=none&type=grpc&security=reality&serviceName=api.v1.StreamService&sni=api.noneok.com&fp=firefox&insecure=1&allowInsecure=1&pbk=S8O8R938N960cpQfIIDXsJTxeGAkbVv6PlIqP0-d30w&sid=1ea59febb8d4fc8e#Khodemoni-371781
 vless://e4281fbe-7729-4ef1-ad3b-f33aca54e339@ct.877774.xyz:443?&security=tls&fp=random&sni=us-lax.862400.xyz&type=ws&headerType=none&host=us-lax.862400.xyz&path=%2Fannouncement#Khodemoni-373560
 vless://d4aad26f-70b6-4411-8517-17f7b4281886@168.222.140.233:2200?path=/v1&security=none&encryption=none&fp=chrome&type=ws#Khodemoni-291786
-vless://5dc56757-458e-4df2-9e71-2a14ce47e8af@nl2-akn.astralweb.tech:443?type=tcp&security=tls&encryption=none&sni=nl2-akn.astralweb.tech&fp=safari#Khodemoni-370586
-vless://5dc56757-458e-4df2-9e71-2a14ce47e8af@nl2-akn.astralweb.tech:443?type=tcp&security=tls&encryption=none&sni=nl2-akn.astralweb.tech&fp=chrome#Khodemoni-370585
 vmess://eyJ2IjoiMiIsInBzIjoiS2hvZGVtb25pLTM3MjE4OSIsImFkZCI6IjQ3LjkyLjE2MS44IiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3Mtdm1lc3MiLCJob3N0IjoiNkpEdkFyYXpnVTNxUVI2US52LjNkbnMudmlwIiwidGxzIjoidGxzIn0=
 vless://7812d96c-fbd5-4689-a480-e359dde49b7b@www.speedtest.net:443?encryption=none&security=tls&sni=BPb-F23dDEdd.JCXkvlnDL.WOrkERS.deV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=bpb-f23ddedd.jcxkvlndl.workers.dev&path=%2FeyJqdW5rIjoiWWdUTFZiaTRQU3YiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#Khodemoni-286203
 vless://cf0248f7-afaa-49fd-821e-6adc951df1a5@www.speedtest.net:443?encryption=none&security=tls&sni=BPb-C4AfEfbB.djFvbKjDfV.woRKeRs.dev&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=bpb-c4afefbb.djfvbkjdfv.workers.dev&path=%2FeyJqdW5rIjoibzdETUxDZXk3RjNkY1BBIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560#Khodemoni-286202
