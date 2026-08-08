@@ -1,6 +1,6 @@
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.213.216:62145?encryption=none&security=none&type=tcp&headerType=none&path=%2F#Khodemoni-375401
 vmess://eyJ2IjoiMiIsInBzIjoiS2hvZGVtb25pLTM3NTI1NiIsImFkZCI6IjQ3LjgzLjE5OC4zOCIsInBvcnQiOiI0NDMiLCJpZCI6ImYyM2JiNDI3YzFmOTQzNzM4NzZjMmY0M2U5Zjc5MGYzIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0Ijoid3dhZmo1bGhsNmJpOGF1OS52LjNkbnMudmlwIiwicGF0aCI6Ii93cy12bWVzcyIsInRscyI6InRscyIsInNuaSI6Ind3YWZqNWxobDZiaThhdTkudi4zZG5zLnZpcCIsInRlc3RfbmFtZSI6IkhLMiJ9
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.213.216:62145?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-375402
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.213.216:62145?encryption=none&security=none&type=tcp&headerType=none&path=%2F#Khodemoni-375401
 vmess://eyJ2IjoiMiIsInBzIjoiS2hvZGVtb25pLTM3NTI3OCIsImFkZCI6ImNmLmxldmlrb2dqZ2ZkZC5pciIsInBvcnQiOiIyMDUzIiwiaWQiOiI5YTFhMDVkOS02OWJlLTQ1ZDMtZTMyNi1jNjYyMWVkZjdiMzEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJkZWFwcC5qaXN1eXVuLnRvcCIsInBhdGgiOiIvZGV2bSIsInRscyI6InRscyIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjI5In0=
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.64.99.156:22224?encryption=none&type=tcp&headerType=none#Khodemoni-375246
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@143.47.188.151:62145?encryption=none&security=none&type=tcp&headerType=none&path=%2F#Khodemoni-375255
@@ -32,6 +32,3 @@ vless://Telegram-@Cooonfig-@Cooonfig@65.109.183.102:80?Telegram=@HoosheMasnui,@H
 vless://e0bb3250-1873-4b9d-b9b5-7aa6c863885f@95.85.233.181:443?mode=gun&security=reality&encryption=none&authority=BIA_TELEGRAM@TOOTFFARANGI_TOOTFFARANGI_TOOTFFARANGI&pbk=S05RWQUVH-p3uqekd0iRpIeH__NpCt0XEN2xCiQJs3Y&fp=chrome&type=grpc&sni=c.primarymaster.online&sid=c56c3ba3b9f676c5#Khodemoni-375192
 vless://Telegram-@Cooonfig-@Cooonfig@65.109.183.102:80?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-375178
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@217.217.222.230:20004?security=tls&sni=hk.catxstar.com&type=tcp&path=/#Khodemoni-375036
-vless://a21b9103-1693-49c1-8dc9-e8e8098ee969@188.164.248.69:443?path=%2F&security=tls&encryption=none&insecure=0&host=free-7f1.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=free-7f1.pages.dev#Khodemoni-369812
-vless://5dc56757-458e-4df2-9e71-2a14ce47e8af@jp-ak.astralweb.tech:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Z2c9dK70_0OWBEZGgeaXJyt9dup9h2-hZlCCvIGLg1Q&sid=496ee75c2f91f51d&sni=jp-ak.astralweb.tech#Khodemoni-369691
-vless://01a95af3-a2f6-453e-9f88-b2fc011627cc@47.82.120.47:43630?encryption=none&type=raw&headerType=none&security=none#Khodemoni-375056
