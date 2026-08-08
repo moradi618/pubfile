@@ -1,4 +1,6 @@
 vmess://eyJ2IjoiMiIsInBzIjoiS2hvZGVtb25pLTM3NTI1NiIsImFkZCI6IjQ3LjgzLjE5OC4zOCIsInBvcnQiOiI0NDMiLCJpZCI6ImYyM2JiNDI3YzFmOTQzNzM4NzZjMmY0M2U5Zjc5MGYzIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0Ijoid3dhZmo1bGhsNmJpOGF1OS52LjNkbnMudmlwIiwicGF0aCI6Ii93cy12bWVzcyIsInRscyI6InRscyIsInNuaSI6Ind3YWZqNWxobDZiaThhdTkudi4zZG5zLnZpcCIsInRlc3RfbmFtZSI6IkhLMiJ9
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.213.216:62145?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-375402
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.213.216:62145?encryption=none&security=none&type=tcp&headerType=none&path=%2F#Khodemoni-375401
 vmess://eyJ2IjoiMiIsInBzIjoiS2hvZGVtb25pLTM3NTI3OCIsImFkZCI6ImNmLmxldmlrb2dqZ2ZkZC5pciIsInBvcnQiOiIyMDUzIiwiaWQiOiI5YTFhMDVkOS02OWJlLTQ1ZDMtZTMyNi1jNjYyMWVkZjdiMzEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJkZWFwcC5qaXN1eXVuLnRvcCIsInBhdGgiOiIvZGV2bSIsInRscyI6InRscyIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjI5In0=
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.64.99.156:22224?encryption=none&type=tcp&headerType=none#Khodemoni-375246
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@143.47.188.151:62145?encryption=none&security=none&type=tcp&headerType=none&path=%2F#Khodemoni-375255
@@ -93,7 +95,6 @@ vless://f692629b-3557-488a-9c9b-60775331e423@150.241.72.37:443?Telegram=@Gozarga
 trojan://UO36402987@34.251.228.118:443?sni=definite-ladybird.rooster465.autos&allowInsecure=1&type=tcp#Khodemoni-346475
 vmess://eyJ2IjoiMiIsInBzIjoiS2hvZGVtb25pLTM3MzkxMyIsImFkZCI6IjQ3LjgzLjIwNy4xNDgiLCJwb3J0IjoiNDQzIiwiaWQiOiJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6IlZBSDRVUmRaTDNqRFg1cjIudi4zZG5zLnZpcCIsInBhdGgiOiIvd3Mtdm1lc3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJWQUg0VVJkWkwzakRYNXIyLnYuM2Rucy52aXAiLCJ0ZXN0X25hbWUiOiJISzIyIn0=
 trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#Khodemoni-250321
-trojan://humanity@104.16.7.70:443?encryption=none&security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment#Khodemoni-254781
 vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@104.21.41.140:2053?security=tls&type=ws&path=/&host=po.fastbrokencompony.com&packetEncoding=xudp&alpn=h3,h2&sni=po.fastbrokencompony.com&fp=chrome&encryption=none#Khodemoni-258946
 vless://3666e25b-a1c2-48ec-b060-075392b1aa6e@chatgpt-async-webps-prod-centralus-0.chatgpt.com:443?type=xhttp&security=tls&fp=edge&sni=GERMAN.sarzamiiinahang.ir&path=/Meh?di=443&mode=auto#Khodemoni-318241
 trojan://ND91608427@pet-ghost.rooster465.autos:443?security=tls&sni=pet-ghost.rooster465.autos#Khodemoni-357954
