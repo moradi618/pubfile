@@ -20,6 +20,7 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.87.82:22224?encryption=none&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.42:8080#Khodemoni-326888
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.184.103.244:22224?encryption=none&security=none&type=tcp&headerType=none#Khodemoni-374130
 vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?host=%2F%3F&amp;encryption=none&amp;headerType=none&amp;security=none&amp;type=tcp#Khodemoni-371816
+vless://c2983f64-6cbc-4452-8d5f-a2d7b761ff0e@165.227.139.80:31448?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-373738
 vless://48eb563b-27ad-4158-a651-8b527e1db831@178.62.82.215:15458?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-373734
 vless://7e1501d5-36e5-4753-8740-3e38a75b1052@138.68.133.247:41556?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-373733
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplQ2hzOW1xYmp2OXU4aUIrSDY4T243UmpjbTdCNTR0dmVtbyt0VHNLTUU0PQ@e3.cover20.ir:56985?type=tcp#Khodemoni-373218
@@ -34,9 +35,9 @@ vless://6245461b-d082-4bbe-9499-dcfda0422c30@165.227.140.79:25049?security=none&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvZ1Y1MlFGcFJDVGNlWU9zMy03dGd5R1JwTkphdnRHRA==@de2.mamad-imnix.ir:80?type=tcp#Khodemoni-373689
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?mode=stream-one&path=/Join-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&fp=chrome&type=xhttp&allowInsecure=0&sni=static.lotussec.com#Khodemoni-307873
 vless://888193f6-6818-42f4-b223-64c9fd323b76@cd3.postshup.ir:8880?path=%2F%3Fed%3D2082&security=none&encryption=none&host=SsopsSyois.6.postshup.ir&type=httpupgrade#Khodemoni-373755
-trojan://Telegram_healer_config@188.114.96.3:443?path=%2Ftr%2FFPR2laikdYLiah29Tqdujf%3Fed%3D2560&security=tls&alpn=http%2F1.1&host=7kdylxxsikw5rjlkhpdrhtx8.6nvgyhkobjke10qsu1s09hhyd4iz4pv.workers.dev&fp=chrome&type=ws&sni=7kDYlxxSIkw5RjLKHpdRHtX8.6nVgyHkobjke10qsu1s09HhYd4Iz4pv.WOrKERS.deV#Khodemoni-291709
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?mode=stream-one&path=/Join-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&extra={"noGRPCHeader":true,"xmux":{"maxConcurrency":"6","hKeepAlivePeriod":12},"headers":{"User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/101.0.4951.67Safari/537.36"}}&insecure=0&host=static.lotussec.com&fp=chrome&type=xhttp&allowInsecure=0&sni=static.lotussec.com#Khodemoni-274214
 vless://2697ce6d-62b1-4d57-95e6-fee940e6c5bb@91.228.227.231:54034?encryption=none&host=play.google.com&path=%2F&security=none&type=ws#Khodemoni-374106
+vless://888193f6-6818-42f4-b223-64c9fd323b76@cd3.postshup.ir:8880?encryption=none&type=httpupgrade&path=%2F%3Fed%3D2082&host=SsopsSyois.6.postshup.ir#Khodemoni-373449
 vless://61b08368-97cf-4f24-9e17-8c4a20cc2eea@87.251.77.95:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=reality&encryption=none&pbk=S4n22MVLxeJL3E58_Jm6x5X2RtRvGZRi0fcGUZp27lQ&fp=chrome&spx=/&type=grpc&sni=www.apple.com&sid=fa3c4d0d247a82d8#Khodemoni-374220
 vless://f692629b-3557-488a-9c9b-60775331e423@150.241.72.37:443?encryption=none&security=reality&sni=fi1-cosmostechnology.ru&pbk=f3Mwf_vaM2TDw1X8HZORkYPLY0-DE5smNYgHuhrQLTA&type=grpc&authority=&serviceName=fi1cosmos&mode=gun#Khodemoni-374129
 vless://f692629b-3557-488a-9c9b-60775331e423@144.31.218.18:443?encryption=none&security=reality&sni=fi1-cosmostechnology.ru&pbk=f3Mwf_vaM2TDw1X8HZORkYPLY0-DE5smNYgHuhrQLTA&type=grpc&authority=&serviceName=fi1cosmos&mode=gun#Khodemoni-374128
