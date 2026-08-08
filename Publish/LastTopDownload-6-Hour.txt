@@ -13,6 +13,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.42:80
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.184.103.244:22224?encryption=none&security=none&type=tcp&headerType=none#Khodemoni-374130
 vless://c2983f64-6cbc-4452-8d5f-a2d7b761ff0e@165.227.139.80:31448?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-373738
 vless://48eb563b-27ad-4158-a651-8b527e1db831@178.62.82.215:15458?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-373734
+vless://dc2a36c3-1eec-444e-abcd-d435adf0a74f@45.131.185.205:47504?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-374793
 vless://7e1501d5-36e5-4753-8740-3e38a75b1052@138.68.133.247:41556?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-373733
 vless://888193f6-6818-42f4-b223-64c9fd323b76@45.80.111.1:8880?path=%2F%3Fed%3D2082&security=none&encryption=none&host=eEhdfhhgln.5.postshup.ir&type=httpupgrade#Khodemoni-373754
 vless://48eb563b-27ad-4158-a651-8b527e1db831@144.126.193.243:15458?encryption=none&type=tcp&headerType=http&host=play.google.com#Khodemoni-373691
@@ -31,8 +32,6 @@ vless://541853fc-5818-4d56-9e1f-78a60dfcf689@69.46.46.100:443?encryption=none&se
 vless://f692629b-3557-488a-9c9b-60775331e423@31.76.55.0:443?security=reality&encryption=none&pbk=N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE&headerType=&type=tcp&flow=xtls-rprx-vision&sni=fi1-cosmostechnology.ru#Khodemoni-374101
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvZ1Y1MlFGcFJDVGNlWU9zMy03dGd5R1JwTkphdnRHRA==@de2.mamad-imnix.ir:80?type=tcp#Khodemoni-373689
 vless://60ba3369-9a78-40fe-98c3-233a6f107043@143.246.182.7:443?path=/assets/build/_app/immutable/chunks/stream-one/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=uk7.jailever.org&fp=chrome&type=xhttp&allowInsecure=0&sni=uk7.jailever.org#Khodemoni-372115
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?mode=stream-one&path=/Join-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&fp=chrome&type=xhttp#Khodemoni-323151
-vless://2942f5d0-997b-4b74-bc6e-8488e2d12789@69.46.46.24:443?encryption=none&security=tls&type=ws&host=web-production-889d3.up.railway.app&path=/ws/vless/2942f5d0-997b-4b74-bc6e-8488e2d12789%3Fed%3D2048&sni=web-production-889d3.up.railway.app&fp=ios&alpn=http/1.1#Khodemoni-374485
 vless://2942f5d0-997b-4b74-bc6e-8488e2d12789@69.46.46.100:443?encryption=none&security=tls&type=ws&host=web-production-889d3.up.railway.app&path=/ws/vless/2942f5d0-997b-4b74-bc6e-8488e2d12789%3Fed%3D2048&sni=web-production-889d3.up.railway.app&fp=ios&alpn=http/1.1#Khodemoni-374483
 vless://61b08368-97cf-4f24-9e17-8c4a20cc2eea@87.251.77.95:443?mode=gun&security=reality&encryption=none&pbk=S4n22MVLxeJL3E58_Jm6x5X2RtRvGZRi0fcGUZp27lQ&fp=chrome&spx=/&type=grpc&sni=www.apple.com&sid=fa3c4d0d247a82d8#Khodemoni-374221
 vless://61b08368-97cf-4f24-9e17-8c4a20cc2eea@87.251.77.95:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=reality&encryption=none&pbk=S4n22MVLxeJL3E58_Jm6x5X2RtRvGZRi0fcGUZp27lQ&fp=chrome&spx=/&type=grpc&sni=www.apple.com&sid=fa3c4d0d247a82d8#Khodemoni-374220
