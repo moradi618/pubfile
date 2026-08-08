@@ -1802,8 +1802,8 @@ vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@45.131.4.8:443?ed=2560&eh=Sec-WebSo
 ss://YWVzLTEyOC1nY206U3lTV0RhUDhybTFORUswd2RMZG9hVjVDbGtTakZEZnc@antony.athforce.ir:51058#Khodemoni-369649
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@159.242.242.8:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=gj2rf.mlrb.tyr.hh.vavava.kdns.fr&path=/&security=tls&sni=gj2rf.mlrb.tyr.hh.vavava.kdns.fr&type=ws#Khodemoni-371566
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.183.238.8:22222?encryption=none&security=none&type=tcp#Khodemoni-370826
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.183.238.8:22222?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Khodemoni-371812
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@166.62.112.8:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=gj2rf.mlrb.tyr.hh.vavava.kdns.fr&path=/&security=tls&sni=gj2rf.mlrb.tyr.hh.vavava.kdns.fr&type=ws#Khodemoni-371603
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.183.238.8:22222?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Khodemoni-371812
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@166.62.115.8:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=gj2rf.mlrb.tyr.hh.vavava.kdns.fr&path=/&security=tls&sni=gj2rf.mlrb.tyr.hh.vavava.kdns.fr&type=ws#Khodemoni-371649
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@45.192.223.8:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=gj2rf.mlrb.tyr.hh.vavava.kdns.fr&path=/&security=tls&sni=gj2rf.mlrb.tyr.hh.vavava.kdns.fr&type=ws#Khodemoni-371714
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@45.131.5.8:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=gj2rf.mlrb.tyr.hh.vavava.kdns.fr&path=/&security=tls&sni=gj2rf.mlrb.tyr.hh.vavava.kdns.fr&type=ws#Khodemoni-371595
