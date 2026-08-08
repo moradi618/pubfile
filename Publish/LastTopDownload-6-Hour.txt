@@ -9,9 +9,9 @@ vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?encryption=none&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.42:8080? #Khodemoni-332401
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTeWhGTlpVTWtzY0RJYWp2dUJua0lvbmtBU1lzaUhJYTIxNnhZRGJuREtZPQ@e1.cover20.ir:51570?type=tcp#Khodemoni-372532
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkYzIxMzRkYi0zMzJmLTRkZjAtYWQwZC1hY2VjNDU4MmE5Zjg%3D@hub.mmdoof.ir:443#Khodemoni-372354
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOSG5SL0NaOVhTVEsyaElLVlo2cUNWTEtIZTRjYlpzb3pZNThFSXEvSFpJPQ@e3.cover20.ir:56985?type=tcp#Khodemoni-371497
 vless://16ab4d4a-fd81-4535-9b7b-346677226ce8@gg1.serviceoda.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ya.ru&pbk=0tXJ2_hHZNfhFvmNx-qcYmACNydKpkHNgzv9961g43k&sid=7e3ffa92a19813ff&type=tcp&headerType=none&fp=qq#Khodemoni-371940
 vless://16ab4d4a-fd81-4535-9b7b-346677226ce8@gg1.serviceoda.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ya.ru&pbk=0tXJ2_hHZNfhFvmNx-qcYmACNydKpkHNgzv9961g43k&sid=7e3ffa92a19813ff&type=tcp&headerType=none&fp=safari#Khodemoni-372032
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOSG5SL0NaOVhTVEsyaElLVlo2cUNWTEtIZTRjYlpzb3pZNThFSXEvSFpJPQ@e3.cover20.ir:56985?type=tcp#Khodemoni-371497
 vless://b4469373-b425-4902-80d4-a00e00ada7de@31.57.228.37:50303?path=%2F&security=none&encryption=none&host=play.google.com&type=ws#Khodemoni-372260
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?mode=stream-one&path=/Join-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&fp=chrome&type=xhttp#Khodemoni-323151
 vless://b4469373-b425-4902-80d4-a00e00ada7de@91.124.63.210:50303?path=%2F&security=none&encryption=none&host=play.google.com&type=ws#Khodemoni-372263
@@ -39,7 +39,6 @@ vless://16ab4d4a-fd81-4535-9b7b-346677226ce8@lm.cryptoofarm.com:2053?encryption=
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.183.238.8:22223?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Khodemoni-371815
 vless://4fddb011-51ce-487d-8e47-1c1c901cd3fc@91.132.162.218:443?type=grpc&security=reality&fp=firefox&pbk=VnuqDFzedJka4uGk7uMHady2p48E_f-zqiZItFF2pEY&sid=b536806a&sni=www.intel.com#Khodemoni-371501
 vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?security=none&encryption=none&host=BIA_TELEGRAM?=@ShadowFlux2---@ShadowFlux2---@ShadowFlux2---@ShadowFlux2---@ShadowFlux2&headerType=none&type=tcp#Khodemoni-369930
-vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-369929
 vless://218fd696-e3a2-4c33-b397-a5f13a82969e@139.28.241.21:443?security=reality&type=grpc&fp=firefox&sni=www.telekom.de&pbk=faEedJtYwpjrjMXXhIMs3yT6BGIAdC-UCeX6TRC2ABs&serviceName=grpc&sid=312c0c39#Khodemoni-357704
 vless://e0bb3250-1873-4b9d-b9b5-7aa6c863885f@95.85.233.181:443?encryption=none&security=reality&sni=c.primarymaster.online&pbk=S05RWQUVH-p3uqekd0iRpIeH__NpCt0XEN2xCiQJs3Y&sid=c56c3ba3b9f676c5&allowInsecure=1&type=grpc&fp=safari#Khodemoni-357644
 vless://e0bb3250-1873-4b9d-b9b5-7aa6c863885f@95.85.233.181:443?encryption=none&security=reality&sni=c.primarymaster.online&pbk=S05RWQUVH-p3uqekd0iRpIeH__NpCt0XEN2xCiQJs3Y&sid=c56c3ba3b9f676c5&allowInsecure=1&type=grpc&fp=qq#Khodemoni-357643
