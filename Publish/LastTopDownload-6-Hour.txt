@@ -1,6 +1,6 @@
 vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-369929
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.231.197:22222?encryption=none&security=none&type=tcp#Khodemoni-371412
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.231.197:22224?security=&encryption=none&headerType=&type=tcp#Khodemoni-371462
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.231.197:22222?encryption=none&security=none&type=tcp#Khodemoni-371412
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPV1ZoWVdNNE9URmxOR0ZoTlRGaU5qWTVORE5sT0RJM1pERTVOamMwWm1FPQ@92.5.161.213:59924#Khodemoni-371522
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.231.197:22222?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=tcp#Khodemoni-371477
 vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?host=%2F%3F&amp;encryption=none&amp;headerType=none&amp;security=none&amp;type=tcp#Khodemoni-371816
@@ -12,12 +12,12 @@ vmess://eyJhZGQiOiJ2aXJ1c2thZGUuaXIiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiMzRhZjM0
 vmess://eyJhZGQiOiJ2aXJ1c2thZGUuaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMzRhZjM0Y2MtNjIzMy00ZGU3LTllMTMtYjQxMDkwNTU0ZjhlIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMTI5MiIsInBzIjoiS2hvZGVtb25pLTM3MTM3MyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vless://28d0edc6-93c9-4465-bac9-720274d8b8c4@201.51.1.11:40443?security=reality&type=tcp&packetEncoding=xudp&sni=deepl.com&fp=qq&flow=xtls-rprx-vision&sid=69d4&pbk=WRveYv8IuUyvai4jgnQ6nWCL971-wKboe8evES5arlg#Khodemoni-329654
 vmess://eyJhZGQiOiJDaGR4Z2loLnZpcmFuaXguaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InBsYXkuZ29vZ2xlLmNvbSIsImlkIjoiZmU4MzA5YWQtZDM4Yy00MDIwLTllYTUtODE3YTZkMmY5OTMwIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii9pbnVzZS9mb3Job3N0IiwicGNzIjoiIiwicG9ydCI6IjEwODAiLCJwcyI6Iktob2RlbW9uaS0zNzE0NTMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiIsInZjbiI6IiJ9
-vless://b6591693-d398-4179-a3b8-182cdc5e55d8@62.238.49.122:52874?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-371372
 vless://b4469373-b425-4902-80d4-a00e00ada7de@31.57.228.37:50303?path=%2F&security=none&encryption=none&host=play.google.com&type=ws#Khodemoni-372260
 vless://28d0edc6-93c9-4465-bac9-720274d8b8c4@201.51.1.11:40443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=WRveYv8IuUyvai4jgnQ6nWCL971-wKboe8evES5arlg&security=reality&sid=69d4&sni=deepl.com&type=tcp#Khodemoni-359368
 vless://b4469373-b425-4902-80d4-a00e00ada7de@91.124.63.210:50303?path=%2F&security=none&encryption=none&host=play.google.com&type=ws#Khodemoni-372263
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOSG5SL0NaOVhTVEsyaElLVlo2cUNWTEtIZTRjYlpzb3pZNThFSXEvSFpJPQ@e3.cover20.ir:56985?type=tcp#Khodemoni-371497
 vless://7c9b4360-6be9-47f2-ace9-b87297ea3d8f@157.90.165.181:11762?encryption=none&flow=xtls-rprx-vision&fp=&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&security=reality&sni=swdist.apple.com&type=tcp#Khodemoni-371834
+trojan://Telegram_healer_config@172.67.218.38:443?path=/tr/dxyX388XOtyAjF3A?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=1v95v6tjywcytbahl7f7lx8b27g.l4495eycqmse9he0yvoemjfc4ibyf-4.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=1v95V6tjywCyTBAhl7f7lX8B27G.l4495eycQmSE9he0YVoemJfc4IBYf-4.wORkerS.dEV#Khodemoni-369741
 vless://6444f5e1-8862-4273-9b2f-e66fcf82e855@172.86.66.104:443?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2F&pbk=sh-pMkomLIRThMoVKOuqXhizofBYuX0agWzuU2_r_3Q&security=reality&sid=55def4a8&sni=www.sony.com&spx=%2FEDMt2a6LPFwGJQE&type=xhttp&x_padding_bytes=100-1000#Khodemoni-371546
 vless://43b70fc0-99cc-0004-acd0-88e98418953d@192.142.12.175:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=diffoscope.com&fp=qq&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&sid=1c3e8241a8743df9&type=tcp&headerType=none#Khodemoni-371470
 vless://7c9b4360-6be9-47f2-ace9-b87297ea3d8f@157.90.165.181:11762?security=reality&encryption=none&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=swdist.apple.com#Khodemoni-358603
