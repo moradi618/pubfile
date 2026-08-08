@@ -1,8 +1,8 @@
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.186.16.216:22224?encryption=none&security=none&type=tcp#Khodemoni-373610
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.186.16.216:22222?encryption=none&security=none&type=tcp#Khodemoni-373609
 vless://c2983f64-6cbc-4452-8d5f-a2d7b761ff0e@159.89.23.128:31448?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-373631
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR1U0WmpWa01HTmhZMlkzWXpNME5tSXhNRGd5TkRRNU9HVmpaalkyWTJZPQ@144.24.224.65:61312#Khodemoni-373623
 vless://b54cdb1e-7664-4f13-b1b6-a07c8f6560db@SPEEDTEST.NET:80?encryption=none&security=none&type=ws&headerType=none&path=%2F&host=SvnTeamChannel.global.ssl.fastly.net#Khodemoni-373612
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR1U0WmpWa01HTmhZMlkzWXpNME5tSXhNRGd5TkRRNU9HVmpaalkyWTJZPQ@144.24.224.65:61312#Khodemoni-373623
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.186.16.216:22223?encryption=none&security=none&type=tcp#Khodemoni-373608
 vless://6245461b-d082-4bbe-9499-dcfda0422c30@165.227.140.79:25049?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-373616
 vless://b54cdb1e-7664-4f13-b1b6-a07c8f6560db@199.232.78.159:443?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=SvnTeamChannel.global.ssl.fastly.net&sni=ssl.fastly.com#Khodemoni-373613
