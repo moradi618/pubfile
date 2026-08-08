@@ -2,6 +2,7 @@ vless://3ba9dc6a-81e9-44fc-8d98-2d72c87a74ae@157.230.29.236:28890?security=none&
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.197.53:22222?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=tcp#Khodemoni-374396
 vless://ff454950-3922-4398-8cfe-7d53f5687901@161.35.201.185:34619?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-374941
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.64.99.156:22224?encryption=none&security=none&type=tcp#Khodemoni-374934
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.64.99.156:22224?security=&encryption=none&headerType=&type=tcp#Khodemoni-375230
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@143.47.188.151:62145?&type=tcp&headerType=none&path=%2F#Khodemoni-374691
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.186.16.216:22223?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&headerType=none&type=tcp#Khodemoni-374849
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.184.103.244:22224?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&headerType=none&type=tcp#Khodemoni-374746
