@@ -1,6 +1,7 @@
+trojan://humanity@45.130.125.112:443?encryption=none&security=tls&sni=www.calmlunch.com&fp=chrome&type=ws&path=/assignment#Khodemoni-254674
+vmess://eyJhZGQiOiIyMC4yMzUuMjIwLjE4OSIsImFpZCI6IjAiLCJob3N0IjoiNkpEdkFyYXpnVTNxUVI2US52LjNkbnMudmlwIiwiaWQiOiJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsIm5ldCI6IndzIiwicGF0aCI6Ii93cy12bWVzcyIsInBvcnQiOiI0NDMiLCJwcyI6Iktob2RlbW9uaS0zNzE5MzQiLCJzZWN1cml0eSI6ImF1dG8iLCJzbmkiOiI2SkR2QXJhemdVM3FRUjZRLnYuM2Rucy52aXAiLCJ0bHMiOiJ0bHMiLCJ2IjoiMiIsInR5cGUiOiJub25lIiwic2N5IjoiYXV0byIsImFscG4iOiIiLCJmcCI6IiJ9
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.77.122.78:22223?security=&encryption=none&headerType=&type=tcp#Khodemoni-374988
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.77.122.78:22222?encryption=none&amp;security=none&amp;type=tcp#Khodemoni-374999
-trojan://humanity@45.130.125.112:443?encryption=none&security=tls&sni=www.calmlunch.com&fp=chrome&type=ws&path=/assignment#Khodemoni-254674
 vmess://eyJhZGQiOiI0Ny43Ni4xOTcuNzIiLCJhaWQiOiIwIiwiaG9zdCI6Im0wMWM3YjJ6MjZkdHFnZWUudi4zZG5zLnZpcCIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3Mtdm1lc3MiLCJwb3J0IjoiNDQzIiwicHMiOiJLaG9kZW1vbmktMzE4Mzg2Iiwic2N5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6Im0wMWM3YjJ6MjZkdHFnZWUudi4zZG5zLnZpcCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiI0Ny4yNDIuNzkuMTk4IiwiYWlkIjoiMCIsImhvc3QiOiJlak9Nc3hQdFAxOUFQeUdMLnYuM2Rucy52aXAiLCJpZCI6ImYyM2JiNDI3YzFmOTQzNzM4NzZjMmY0M2U5Zjc5MGYzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXZtZXNzIiwicG9ydCI6IjQ0MyIsInBzIjoiS2hvZGVtb25pLTMzMjQwNSIsInNjeSI6ImF1dG8iLCJzbmkiOiJlak9Nc3hQdFAxOUFQeUdMLnYuM2Rucy52aXAiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 vless://77930005-ea92-44dc-9d94-e9192427f519@wx-deu-037.cdnphotos.org:443?type=xhttp&security=tls&fp=ios&sni=wx-deu-037.cdnphotos.org&path=/api/v1/&mode=auto#Khodemoni-345616
@@ -70,5 +71,3 @@ trojan://87961f9d-bee1-4377-826b-e169e7891c4f@cf.0sm.com:443?security=tls&sni=yk
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwRk5OOWpLZThqd0Q@38.180.92.242:32245#Khodemoni-346671
 vless://f692629b-3557-488a-9c9b-60775331e423@150.241.72.37:443?encryption=none&security=reality&sni=fi1-cosmostechnology.ru&pbk=f3Mwf_vaM2TDw1X8HZORkYPLY0-DE5smNYgHuhrQLTA&type=grpc&authority=&serviceName=fi1cosmos&mode=gun#Khodemoni-374129
 vless://b79c54f3-68e9-4e9d-8b57-22cbbe978730@77.222.37.89:2200?encryption=none&host=rzd.ru&path=%2Fv1&security=none&type=ws#Khodemoni-374084
-vless://0b0915d7-6800-4580-a44b-77d84f105e6a@185.79.138.71:448?security=reality&encryption=none&pbk=CsDgNRcCwCkPIslfZpKTIK71KFpIFNsotbdzKcZVoH8&host=%2F%3FBIA_TELEGRAM%40TOOTFFARANGI_TOOTFFARANGI_TOOTFFARANGI&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=cd21e552537c7c0b#Khodemoni-374897
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.227.216:62145?&type=tcp&headerType=none&path=%2F#Khodemoni-374907
