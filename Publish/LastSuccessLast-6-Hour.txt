@@ -1,3 +1,5 @@
+trojan://humanity@45.130.125.112:443?security=tls&sni=www.calmlunch.com&allowInsecure=1&fp=chrome&type=ws&path=/assignment#Khodemoni-274465
+vmess://eyJ2IjoiMiIsInBzIjoiS2hvZGVtb25pLTM3MTI2MyIsImFkZCI6IjQ3LjI0Mi43OS4xOTgiLCJwb3J0IjoiNDQzIiwiaWQiOiJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6ImVqT01zeFB0UDE5QVB5R0wudi4zZG5zLnZpcCIsInBhdGgiOiIvd3Mtdm1lc3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJlak9Nc3hQdFAxOUFQeUdMLnYuM2Rucy52aXAiLCJ0ZXN0X25hbWUiOiJISzcifQ==
 trojan://humanity@109.71.241.236:8443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#Khodemoni-372965
 trojan://humanity@194.135.38.140:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#Khodemoni-372971
 trojan://humanity@45.133.117.185:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#Khodemoni-372975
