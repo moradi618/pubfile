@@ -1,3 +1,6 @@
+trojan://ND91608427@18.181.164.216:443?allowInsecure=1&fp=chrome&security=tls&sni=upright-impala.rooster465.autos&type=tcp#Khodemoni-357918
+trojan://ND91608427@pet-ghost.rooster465.autos:443?security=tls&sni=pet-ghost.rooster465.autos#Khodemoni-357954
+vless://1b69afb7-9f0a-4e6c-9a4b-1fcf7621b0be@109.107.140.188:51790?encryption=none&flow=xtls-rprx-vision-udp443&pbk=XJa0ZYOvtfwRz7aF8GprVrnEjc4S1rokGFhc-tI1YFk&security=reality&sid=02c40852&sni=icloud.com&spx=%2F&type=raw&fp=safari#Khodemoni-357651
 vless://4f375fb4-3c95-425f-bc7b-8085487a6f3c@177.3.208.169:443?&security=tls&fp=chrome&sni=titandarkness.mooo.com&type=ws&headerType=none&host=titandarkness.mooo.com&path=%2F21381%2F0kO2id8FMQ#Khodemoni-358556
 vless://a21b9103-1693-49c1-8dc9-e8e8098ee969@188.164.248.69:443/?type=ws&encryption=none&flow=&host=free-7f1.pages.dev&path=%2F&security=tls&sni=free-7f1.pages.dev&fp=chrome#Khodemoni-359014
 vless://0d543aed-4e30-4553-b5ac-211419bb0961@185.128.139.11:18244?security=none&encryption=none&host=/?BIA_TELEGRAM@VPNine1&headerType=none&type=tcp#Khodemoni-279185
