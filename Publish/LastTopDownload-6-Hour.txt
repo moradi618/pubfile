@@ -16,9 +16,7 @@ vless://bcd2e4aa-81d1-4a8e-874a-27312de239a5@165.232.35.128:47587?Telegram=@Goza
 vless://d1dc000d-9bf1-44ef-9eec-9a21edc57cdf@164.92.248.190:23532?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-373625
 vless://7e1501d5-36e5-4753-8740-3e38a75b1052@159.89.108.78:41556?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-373618
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.87.82:22224?encryption=none&security=none&type=tcp&headerType=none#Khodemoni-374134
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.184.103.244:22222?encryption=none&amp;security=none&amp;type=tcp#Khodemoni-373338
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.42:8080#Khodemoni-326888
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.184.103.244:22224?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Khodemoni-374434
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.184.103.244:22224?encryption=none&security=none&type=tcp&headerType=none#Khodemoni-374130
 vless://c2983f64-6cbc-4452-8d5f-a2d7b761ff0e@165.227.139.80:31448?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-373738
 vless://48eb563b-27ad-4158-a651-8b527e1db831@178.62.82.215:15458?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-373734
