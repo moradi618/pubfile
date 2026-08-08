@@ -1,3 +1,7 @@
+trojan://humanity@194.135.38.140:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#Khodemoni-372971
+trojan://humanity@45.133.117.185:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#Khodemoni-372975
+trojan://humanity@45.130.125.112:443?path=%2Fassignment&security=tls&fp=chrome&allowinsecure=0&type=ws&sni=www.calmlunch.com#Khodemoni-131153
+trojan://humanity@45.130.125.112:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=ws&security=tls&path=/assignment&sni=www.calmlunch.com&fp=chrome&insecure=0&allowInsecure=0#Khodemoni-173480
 vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@18.239.83.52:443?security=tls&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=d1yxsk0zprgivr.cloudfront.net#Khodemoni-370932
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFdkxmV0dlMEFLdks@70.39.198.35:54166? #Khodemoni-375889
 vmess://eyJhZGQiOiIxNzIuNjYuNDQuOTciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IlBvbDEubE9vbE9vbG9PbE9vLkNPTS4iLCJpZCI6IjRhODY3YWJkLWYzZGEtNGYyOC04ZjQwLTNlNDI5ZjA1NWQ2NSIsImluc2VjdXJlIjoiMCIsIm5ldCI6Imh0dHB1cGdyYWRlIiwicGF0aCI6Ii9lZD0/MjA0OCIsInBjcyI6IiIsInBvcnQiOiI4MDgwIiwicHMiOiJLaG9kZW1vbmktMzc1ODkwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInZjbiI6IiJ9
