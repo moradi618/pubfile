@@ -1,3 +1,6 @@
+trojan://ND91608427@18.181.164.216:443?allowInsecure=1&fp=chrome&security=tls&sni=upright-impala.rooster465.autos&type=tcp#Khodemoni-357918
+trojan://ND91608427@pet-ghost.rooster465.autos:443?security=tls&sni=pet-ghost.rooster465.autos#Khodemoni-357954
+vless://1b69afb7-9f0a-4e6c-9a4b-1fcf7621b0be@109.107.140.188:51790?encryption=none&flow=xtls-rprx-vision-udp443&pbk=XJa0ZYOvtfwRz7aF8GprVrnEjc4S1rokGFhc-tI1YFk&security=reality&sid=02c40852&sni=icloud.com&spx=%2F&type=raw&fp=safari#Khodemoni-357651
 vless://4f375fb4-3c95-425f-bc7b-8085487a6f3c@177.3.208.169:443?&security=tls&fp=chrome&sni=titandarkness.mooo.com&type=ws&headerType=none&host=titandarkness.mooo.com&path=%2F21381%2F0kO2id8FMQ#Khodemoni-358556
 vless://a21b9103-1693-49c1-8dc9-e8e8098ee969@188.164.248.69:443/?type=ws&encryption=none&flow=&host=free-7f1.pages.dev&path=%2F&security=tls&sni=free-7f1.pages.dev&fp=chrome#Khodemoni-359014
 vless://0d543aed-4e30-4553-b5ac-211419bb0961@185.128.139.11:18244?security=none&encryption=none&host=/?BIA_TELEGRAM@VPNine1&headerType=none&type=tcp#Khodemoni-279185
@@ -108,7 +111,6 @@ vless://506e4a91-1d05-5683-b84c-2113f673cb19@172.67.69.152:443?encryption=none&t
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.117.112.40:8880/?type=ws&encryption=none&flow=&host=vms.lifetime11.workers.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FYouTube%40%E5%B0%8F%E9%9D%92%E7%A7%91%E5%AD%A6%E7%BD%91%F0%9F%87%A8%F0%9F%87%B3#Khodemoni-173655
 trojan://Mehdi1234@172.64.144.251:2083/?type=ws&host=purple-recipe-5e30.cimavo4626.workers.dev&path=%2F%3Fed%3D2560&security=tls&sni=purple-recipe-5e30.cimavo4626.workers.dev&allowInsecure=1&fp=chrome#Khodemoni-199685
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.159.247.30:8880?security=none&encryption=none&host=vms.lifetime59.workers.dev&type=ws#Khodemoni-218150
-trojan://humanity@188.114.98.0:443?encryption=none&security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#Khodemoni-227490
 trojan://Mehdi1234@172.64.144.251:2083?path=/&security=tls&insecure=0&host=purple-recipe-5e30.cimavo4626.workers.dev&type=ws&allowInsecure=0&sni=purple-recipe-5e30.cimavo4626.workers.dev#Khodemoni-233807
 vless://51c1e31e-3c8a-4dc2-b76e-ca64077302b1@xn--zn-gpa36i.paydar.site:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-374349
 vless://f692629b-3557-488a-9c9b-60775331e423@144.31.218.18:443?mode=gun&security=reality&encryption=none&pbk=f3Mwf_vaM2TDw1X8HZORkYPLY0-DE5smNYgHuhrQLTA&type=grpc&serviceName=fi1cosmos&sni=fi1-cosmostechnology.ru#Khodemoni-374347
