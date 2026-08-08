@@ -12,7 +12,6 @@ vless://3e3f9a53-154e-4110-9059-08eede7d59db@sheykh.pingsf.ir:2056?Telegram=@Goz
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.50.247:22223?encryption=none&security=none&type=tcp#Khodemoni-375407
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.77.122.78:22222?encryption=none&amp;security=none&amp;type=tcp#Khodemoni-374999
 vless://Telegram-@Cooonfig-@Cooonfig@65.109.183.102:80?Telegram=@HoosheMasnui,@HoosheMasnui,@HoosheMasnui,@HoosheMasnui,@HoosheMasnui,@HoosheMasnui,@HoosheMasnui,@HoosheMasnui,@HoosheMasnui,@HoosheMasnui&security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-375177
-vless://0f1a8007-531d-4848-89d8-2c7a322b6ba3@188.130.154.252:443?encryption=none&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#Khodemoni-375536
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.64.99.156:22224?encryption=none&type=tcp&headerType=none#Khodemoni-375246
 vless://Telegram-@Cooonfig-@Cooonfig@65.109.183.102:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-375654
 vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@109.69.218.208:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=kind-wolf.cdn.cachefleet.com&fp=randomized&pbk=8hse7wRRL-F66rQ-aAeetKTw0MSeJC7Rr6EaDeLzdCU#Khodemoni-375759
@@ -68,6 +67,5 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.64.99.156:22223?Telegram=@Gozarga
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.77.122.78:22223?security=&encryption=none&headerType=none&type=tcp#Khodemoni-375566
 vless://6bfcc22f-c80f-481b-b82b-bf28ed3e9f82@91.107.148.158:8080?type=tcp&encryption=none&security=none#Khodemoni-375497
 vless://930cfa02-05f0-4a38-3f6b-cdbe2fa59e78@69.46.46.30:443?path=%2Fws%2F930cfa02-05f0-4a38-3f6b-cdbe2fa59e78&security=tls&alpn=http%2F1.1&encryption=none&host=rvg-production-4a7f.up.railway.app&fp=ios&type=ws&sni=rvg-production-4a7f.up.railway.app#Khodemoni-375251
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.64.99.156:22224?encryption=none&security=none&type=tcp#Khodemoni-374934
 trojan://MiTiVPN@151.101.56.172:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fsw---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=1&host=s4b-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.fastly.com&fp=chrome#Khodemoni-370251
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.42:8080#Khodemoni-326888
