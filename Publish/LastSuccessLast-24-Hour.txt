@@ -1,5 +1,5 @@
-vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@88.216.220.87:443/?type=grpc&encryption=none&flow=&serviceName=api.v1.StreamService&sni=api.noneok.com&security=reality&pbk=S8O8R938N960cpQfIIDXsJTxeGAkbVv6PlIqP0-d30w&sid=1ea59febb8d4fc8e#Khodemoni-372849
 vless://07f82c34-bd45-4a7e-b70a-d4e73e2e5a39@cctvhikvision.center:2083?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=uwu.blueknight.site&fp=chrome&type=ws&allowInsecure=0&sni=uwu.blueknight.site#Khodemoni-378374
+vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@88.216.220.87:443/?type=grpc&encryption=none&flow=&serviceName=api.v1.StreamService&sni=api.noneok.com&security=reality&pbk=S8O8R938N960cpQfIIDXsJTxeGAkbVv6PlIqP0-d30w&sid=1ea59febb8d4fc8e#Khodemoni-372849
 vless://91748616-e778-464c-bbda-be0df3dbf166@201.24.114.29:88?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-378373
 vless://e73e63ad-e22e-4a79-b565-25521ac22670@201.34.142.29:901?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-378375
 vless://66ddcfaf-a9f0-4506-e052-4844d314402a@i3.cloud--vpn.site:443?encryption=none&security=tls&sni=ssl.fastly.com&alpn=h2&fp=firefox&type=ws&host=c12.com&path=%2F#Khodemoni-378379
@@ -12,7 +12,6 @@ vless://50414e45-4c5f-5a45-5553-4eef5adc237a@104.25.155.45:443?encryption=none&s
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.102.174.17:22222?encryption=none&amp;security=none&amp;type=tcp#Khodemoni-378352
 vmess://eyJhZGQiOiIxNzIuNjYuNDQuOTciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IlBvbDEubE9vbE9vbG9PbE9vLkNPTS4iLCJpZCI6IjgwYzZhNGU0LTNiOTktNGFlOC05NjgxLWMyNGQ1NTFlNDQ0ZCIsImluc2VjdXJlIjoiMCIsIm5ldCI6Imh0dHB1cGdyYWRlIiwicGF0aCI6Ii9lZD0/MjA0OCIsInBjcyI6IiIsInBvcnQiOiI4MDgwIiwicHMiOiJLaG9kZW1vbmktMzc4MjY5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInZjbiI6IiJ9
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.213.216:62145?encryption=none&security=none&type=tcp&headerType=none&path=%2F#Khodemoni-375401
-vless://5dc56757-458e-4df2-9e71-2a14ce47e8af@jp-ak.astralweb.tech:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Z2c9dK70_0OWBEZGgeaXJyt9dup9h2-hZlCCvIGLg1Q&sid=496ee75c2f91f51d&sni=jp-ak.astralweb.tech#Khodemoni-369691
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.50.247:22224?encryption=none&security=none&type=tcp#Khodemoni-375411
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.213.216:62145?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-375402
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.50.247:22222?encryption=none&security=none&type=tcp#Khodemoni-375414
