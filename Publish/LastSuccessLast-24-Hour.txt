@@ -1,6 +1,6 @@
+vmess://eyJhZGQiOiIxNzIuNjYuNDQuOTciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IlBvbDEubE9vbE9vbG9PbE9vLkNPTS4iLCJpZCI6IjgwYzZhNGU0LTNiOTktNGFlOC05NjgxLWMyNGQ1NTFlNDQ0ZCIsImluc2VjdXJlIjoiMCIsIm5ldCI6Imh0dHB1cGdyYWRlIiwicGF0aCI6Ii9lZD0/MjA0OCIsInBjcyI6IiIsInBvcnQiOiI4MDgwIiwicHMiOiJLaG9kZW1vbmktMzc4MjY5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInZjbiI6IiJ9
 vless://60ba3369-9a78-40fe-98c3-233a6f107043@45.86.159.114:443?mode=auto&path=/assets/build/_app/immutable/chunks/stream-one/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=uk1.denverpresents.top&fp=chrome&type=xhttp&allowInsecure=0&sni=uk1.denverpresents.top#Khodemoni-378287
 vless://ae9bcc43-5fd8-4891-b06e-1c93e2747ed9@45.74.178.41:719?encryption=none&type=ws&path=/api/v2/xtrnwqjbkr?ed=2560&host=play.google.com#Khodemoni-378298
-vless://77930005-ea92-44dc-9d94-e9192427f519@wx-deu-037.cdnphotos.org:443?type=xhttp&security=tls&fp=ios&sni=wx-deu-037.cdnphotos.org&path=/api/v1/&mode=auto#Khodemoni-345616
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.213.216:62145?encryption=none&security=none&type=tcp&headerType=none&path=%2F#Khodemoni-375401
 vless://5dc56757-458e-4df2-9e71-2a14ce47e8af@jp-ak.astralweb.tech:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Z2c9dK70_0OWBEZGgeaXJyt9dup9h2-hZlCCvIGLg1Q&sid=496ee75c2f91f51d&sni=jp-ak.astralweb.tech#Khodemoni-369691
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.50.247:22224?encryption=none&security=none&type=tcp#Khodemoni-375411
