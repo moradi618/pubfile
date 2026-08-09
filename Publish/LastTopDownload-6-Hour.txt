@@ -8,7 +8,6 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.145.128:22223?encryption=non
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.102.174.17:22223?encryption=none&security=none&type=tcp#Khodemoni-378197
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.145.128:22222?encryption=none&security=none&type=tcp#Khodemoni-377675
 vless://cfda87b3-4426-4fd2-b37e-3f385fbecb0d@xnzn-gpa36i.paydar.site:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-377906
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.221.117:22223?encryption=none&security=none&type=tcp#Khodemoni-377363
 vless://33c150b7-c0ca-4133-9a52-6f1207da9b8b@194.87.151.151:443?type=xhttp&security=reality&fp=firefox&pbk=vnjp7zIK2H3CGdjSis_79KXqS6IG-opmpbETPUD-EC8&sid=15affa0af66dfc79&sni=deepl.com&mode=auto#Khodemoni-376751
 vless://28d0edc6-93c9-4465-bac9-720274d8b8c4@201.51.1.11:40443?security=reality&type=tcp&packetEncoding=xudp&sni=deepl.com&fp=qq&flow=xtls-rprx-vision&sid=69d4&pbk=WRveYv8IuUyvai4jgnQ6nWCL971-wKboe8evES5arlg#Khodemoni-329654
 vless://3536e1fa-0850-44d1-b123-925ce12476cf@206.71.158.124:443?mode=stream-one&path=/kavir&security=tls&alpn=h2&encryption=none&insecure=1&host=dey.lnmarketplace.net&fp=chrome&type=xhttp&allowInsecure=1&sni=dey.lnmarketplace.net#Khodemoni-242396
