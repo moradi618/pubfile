@@ -4,7 +4,6 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.72.71:22224?encryption=none&
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.102.174.17:22222?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-378223
 vless://ddd72e51-9224-43a2-b3a0-9c4170f78ed1@178.83.46.30:5794?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-377140
 vless://cfda87b3-4426-4fd2-b37e-3f385fbecb0d@xnzn-gpa36i.paydar.site:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-377906
-vless://28d0edc6-93c9-4465-bac9-720274d8b8c4@201.51.1.11:40443?security=reality&type=tcp&packetEncoding=xudp&sni=deepl.com&fp=qq&flow=xtls-rprx-vision&sid=69d4&pbk=WRveYv8IuUyvai4jgnQ6nWCL971-wKboe8evES5arlg#Khodemoni-329654
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1S0xwY3ZwcE8xYnI3bHJYY0E3cFpjK2Q0MDA2NHJWSzFVK0t2U0ltcVkwPQ@e1.cover20.ir:51570?type=tcp#Khodemoni-378252
 vless://f43bbd21-6560-4d0f-9f25-5c477c916260@91.98.154.118:57775?encryption=none&host=play.google.com&path=%2F&security=none&type=ws#Khodemoni-378199
 vless://07730597-ba4f-4ca8-abe5-a53b28ad318c@vip.sinavm.ir:443?encryption=none&type=ws&security=tls&path=%2F----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM&host=vip.sinavm.ir&sni=vip.sinavm.ir&alpn=h2%2Chttp%2F1.1%2Ch3&fp=chrome&insecure=1&allowInsecure=1#Khodemoni-374321
