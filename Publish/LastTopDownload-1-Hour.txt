@@ -72,8 +72,8 @@ vless://b3eed393-e990-40a0-978c-689d40be9da4@86.107.178.66:448?type=tcp&security
 vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@62.233.39.6:993?security=reality&encryption=none&pbk=oHaUPZiESTQQ89DMd4uIcPWgsyeFFy58iZYX_8mbvWk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dl.dell.com#Khodemoni-379137
 vless://7c3e7eb3-289a-4664-b783-e459713aed4f@cdn.devmixa.ir:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=english.havray2025.ir&fp=chrome&type=ws&allowInsecure=0&sni=english.havray2025.ir#Khodemoni-379058
 vless://e3a1a6f5-2491-42e8-b2e1-7c84f0c547e8@bobopanelsi.jorgotr.ir:49199?encryption=none&security=none&type=tcp#Khodemoni-379161
-vless://e3a1a6f5-2491-42e8-b2e1-7c84f0c547e8@bobopanelsi.jorgotr.ir:20697?encryption=none&fp=chrome&pbk=h6xaCIRMwAA1C5yuIlJS7jfC2i0oa2rzv_axHZqe52c&security=reality&sid=a5c5&sni=mbp.yimg.com&spx=/4bhpR9i1Uu0by2T&type=tcp#Khodemoni-379159
 vless://e3a1a6f5-2491-42e8-b2e1-7c84f0c547e8@bobopanelsi.jorgotr.ir:42754?encryption=none&security=none&type=tcp#Khodemoni-379163
+vless://e3a1a6f5-2491-42e8-b2e1-7c84f0c547e8@bobopanelsi.jorgotr.ir:20697?encryption=none&fp=chrome&pbk=h6xaCIRMwAA1C5yuIlJS7jfC2i0oa2rzv_axHZqe52c&security=reality&sid=a5c5&sni=mbp.yimg.com&spx=/4bhpR9i1Uu0by2T&type=tcp#Khodemoni-379159
 vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@88.218.44.5:8443?mode=gun&security=reality&encryption=none&pbk=EG3y7UktGRlzSZZ2oXT_YaO2gVP4ca3Xe6AQ0u9A5DQ&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com#Khodemoni-379135
 vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@88.218.44.5:8443?mode=gun&security=reality&encryption=none&pbk=Nnpwm8dqFl9dlMJmg0M9G11vmgCKzNagFTn4tH4sWy4&fp=chrome&type=grpc&serviceName=TunService&sni=dl.kaspersky.com#Khodemoni-379132
 vless://0a2417ed-bf70-48a7-a35d-4b4df5954783@64.227.122.82:20846?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-379126
