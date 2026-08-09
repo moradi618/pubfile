@@ -16,5 +16,4 @@ trojan://humanity@193.239.160.134:443?path=%2Fassignment&security=tls&insecure=0
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.64.99.156:22223?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&headerType=none&type=tcp#Khodemoni-375673
 vless://03464802-b517-404b-b15c-7750ffc5e78f@111.88.143.139:51940?mode=gun&security=reality&encryption=none&authority=&pbk=uPHvFb_vZ3DKL-8Et_e9OliZskdSV5U1NZ66tHfC-2Y&fp=chrome&spx=/&type=grpc&serviceName=&sni=yahoo.com&sid=fd7f#Khodemoni-376863
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@154.64.226.149:9450?security=tls&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0&amp;sni=hk.catxstar.com#Khodemoni-317872
-vless://66fe0ea8-2fb5-415e-b98e-4cab7933c111@Cysecy123.global.ssl.fastly.net:80?security=&encryption=none&type=ws#Khodemoni-374555
 vless://9d246b7d-936c-4472-9e90-a83e69124e8c@91.240.87.201:8444?mode=gun&security=reality&encryption=none&authority=&pbk=JjxjQ0bCB8UZDC4Tjs3FhWJciPB6jBd0846Ew31hSQk&fp=chrome&type=grpc&serviceName=grpc&sni=ads.x5.ru&sid=a1b2c3d4#Khodemoni-376842
