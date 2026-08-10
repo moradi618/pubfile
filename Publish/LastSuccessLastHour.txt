@@ -1,6 +1,6 @@
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WW1RNVkyRTNNR1JsTm1VMU5EVmtaVE5oWkdJeU1tSXlaREpqWmpNM05HST06TkRFek0yRTRZalV0T1RsaU9TMDBZakE1TFdJM1pERXRPVFV5TlRsbE5HUT0@r.358.onl:65031#Khodemoni-381214
 vless://24e70daa-cc81-4bd7-b3d2-154ba74eaffb@138.124.90.40:43335?encryption=none&security=reality&sni=www.amd.com&fp=chrome&pbk=oX0_gGgDEMgybgPVdyT6coArUyRqgRVDBKP6GCemBwg&sid=beabb2&spx=%2F&type=xhttp&path=%2F&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D#Khodemoni-381192
 vless://1a33ef35-79eb-4c01-a70b-6b55a1204f5d@138.124.90.40:11735?encryption=none&security=reality&sni=www.sony.com&fp=chrome&pbk=ED0posvMCUDI2sgVQwf6QYWb3uCSL7dHpir-NSbWPig&sid=5cacb3425fb6&spx=%2F&type=tcp&headerType=none#Khodemoni-381191
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WW1RNVkyRTNNR1JsTm1VMU5EVmtaVE5oWkdJeU1tSXlaREpqWmpNM05HST06TkRFek0yRTRZalV0T1RsaU9TMDBZakE1TFdJM1pERXRPVFV5TlRsbE5HUT0@r.358.onl:65031#Khodemoni-381214
 vless://a8780580-43df-4821-9081-82063c77de8f@138.124.90.40:42171?encryption=none&security=reality&sni=www.icloud.com&fp=chrome&pbk=mO8izhyDtkuUqHSPbzseO_opZ_mB6hc0iAGLXlU3Gkc&sid=9e&spx=%2F&type=xhttp&path=%2F&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D#Khodemoni-381203
 vless://771049ad-ad67-4b4a-a5df-f47c55a5e8e8@138.124.90.40:57566?encryption=none&security=reality&sni=www.icloud.com&fp=chrome&pbk=gyIof2zBtXKnYnEbmTUte-qQTnXtBZ1mEIQ1spddiTw&sid=0de07cf9fc1678de&spx=%2F&type=xhttp&path=%2F&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D#Khodemoni-381193
 vless://185d47af-5988-489a-a370-b8e4bbaadc2f@138.124.90.40:34038?encryption=none&security=reality&sni=www.nvidia.com&fp=chrome&pbk=llKcvNPI-m0-p5st7b0l4CajkOdrmwSQTWu--s9vKm8&sid=74cd&spx=%2F&type=tcp&headerType=none#Khodemoni-381201
@@ -78,6 +78,3 @@ vless://22a0751d-4db7-4a51-ba80-d8ddf24e0b77@176.123.165.127:12672?type=tcp&encr
 vless://f61025f4-7973-4e3e-883c-a0fe85f0489c@144.31.178.184:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&security=reality&sni=ee.rexten.cc&type=tcp#Khodemoni-378836
 vless://f61025f4-7973-4e3e-883c-a0fe85f0489c@216.9.224.248:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&security=reality&sni=us.rexten.cc&type=tcp#Khodemoni-378897
 vless://0108c657-a9bd-4c99-9179-74050cf78889@91.194.213.179:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=abuse.sellflow.org&type=tcp#Khodemoni-285106
-vless://2f956d32-8a67-4bc9-8995-e1621ad20ddc@neth6.lckdwn.ru:443?security=none&type=ws&encryption=none#Khodemoni-378653
-vless://2aa2be33-b987-461e-8d0e-2ffe15cb8e4c@141.11.149.200:11650?security=&encryption=none&headerType=none&type=tcp#Khodemoni-316987
-vless://6d4cce6a-dbc6-43af-9146-067847483fce@cf-mci.coixconqwe1.ir:8880?path=%2F%3Fed%3D2082&security=none&encryption=none&host=oxfxgh.francee1.postshup.ir&type=httpupgrade#Khodemoni-380880
