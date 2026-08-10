@@ -1,5 +1,6 @@
 vless://cb337e55-6aa3-4d69-9f05-f0e9f219f4fd@165.232.74.209:29889?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Khodemoni-380631
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.176.44.159:22222?encryption=none&security=none&type=tcp#Khodemoni-380594
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.126.61.199:22222?encryption=none&amp;security=none&amp;type=tcp#Khodemoni-381160
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.176.44.159:22222?encryption=none&amp;security=none&amp;type=tcp#Khodemoni-380782
 vless://55ecd608-f8e9-4717-b972-91f25b9457a8@209.97.182.42:21942?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Khodemoni-380619
 vless://55ecd608-f8e9-4717-b972-91f25b9457a8@138.68.105.209:21942?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Khodemoni-380621
