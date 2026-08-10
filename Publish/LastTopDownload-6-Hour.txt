@@ -1,9 +1,8 @@
 vless://cb337e55-6aa3-4d69-9f05-f0e9f219f4fd@165.232.74.209:29889?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Khodemoni-380631
-vless://810c56e4-eb78-4a0f-8019-89c2bea69af6@104.248.242.200:18311?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Khodemoni-380623
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.176.44.159:22222?encryption=none&security=none&type=tcp#Khodemoni-380594
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.176.44.159:22222?encryption=none&amp;security=none&amp;type=tcp#Khodemoni-380782
-vless://55ecd608-f8e9-4717-b972-91f25b9457a8@138.68.105.209:21942?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Khodemoni-380621
 vless://55ecd608-f8e9-4717-b972-91f25b9457a8@209.97.182.42:21942?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Khodemoni-380619
+vless://55ecd608-f8e9-4717-b972-91f25b9457a8@138.68.105.209:21942?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Khodemoni-380621
 vless://d78c3322-7e85-44ff-bb2a-ad238f8526c5@64.226.76.127:21318?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Khodemoni-380622
 vless://d78c3322-7e85-44ff-bb2a-ad238f8526c5@157.230.96.101:21318?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Khodemoni-380614
 vless://810c56e4-eb78-4a0f-8019-89c2bea69af6@165.22.18.191:18311?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Khodemoni-380630
@@ -24,9 +23,8 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.176.44.159:22224?encryption=none
 trojan://Telegram_healer_config@188.114.96.3:443?path=%2Ftr%2FFPR2laikdYLiah29Tqdujf%3Fed%3D2560&security=tls&alpn=http%2F1.1&host=7kdylxxsikw5rjlkhpdrhtx8.6nvgyhkobjke10qsu1s09hhyd4iz4pv.workers.dev&fp=chrome&type=ws&sni=7kDYlxxSIkw5RjLKHpdRHtX8.6nVgyHkobjke10qsu1s09HhYd4Iz4pv.WOrKERS.deV#Khodemoni-291709
 vless://5710bc50-f5ff-4d19-a3f5-067959ed2644@50.7.176.60:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&security=reality&sid=00a61d55a07de885&sni=nl.convert-flow.net&type=tcp#Khodemoni-380062
 vless://33c150b7-c0ca-4133-9a52-6f1207da9b8b@xhttpru.enotvpn.net:443?type=xhttp&security=reality&fp=firefox&pbk=vnjp7zIK2H3CGdjSis_79KXqS6IG-opmpbETPUD-EC8&sid=15affa0af66dfc79&sni=deepl.com&mode=auto#Khodemoni-380227
-vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@89.106.86.84:443?security=reality&encryption=none&pbk=qW8UIkS9M8F1BjbAa6Ih1kNL5hkTRDp_DZ5TEpyyIFs&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=plucky-lunar.cdn.cachefleet.com#Khodemoni-380463
-vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@89.106.86.84:443?security=reality&encryption=none&pbk=qW8UIkS9M8F1BjbAa6Ih1kNL5hkTRDp_DZ5TEpyyIFs&headerType=&type=tcp&flow=xtls-rprx-vision&sni=plucky-lunar.cdn.cachefleet.com#Khodemoni-380131
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMisyQU50aE1oK2llVWxpSVFTOHdiazc2cm9taGdhSG10MUNMZFd3dmhRPQ@e3.cover20.ir:56985?type=tcp#Khodemoni-380545
+vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@89.106.86.84:443?security=reality&encryption=none&pbk=qW8UIkS9M8F1BjbAa6Ih1kNL5hkTRDp_DZ5TEpyyIFs&headerType=&type=tcp&flow=xtls-rprx-vision&sni=plucky-lunar.cdn.cachefleet.com#Khodemoni-380131
 vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@89.106.86.84:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=qW8UIkS9M8F1BjbAa6Ih1kNL5hkTRDp_DZ5TEpyyIFs&security=reality&sni=plucky-lunar.cdn.cachefleet.com&type=tcp#Khodemoni-380054
 vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@45.131.212.36:443?encryption=none&security=reality&type=tcp&sni=sellflow.org&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#Khodemoni-378935
 vless://ed9b0ad8-149f-4b7e-8847-072a90b74eb0@31.57.228.37:37952?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-380771
