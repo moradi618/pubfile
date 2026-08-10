@@ -1,10 +1,9 @@
 vless://cb337e55-6aa3-4d69-9f05-f0e9f219f4fd@165.232.74.209:29889?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Khodemoni-380631
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.176.44.159:22222?encryption=none&security=none&type=tcp#Khodemoni-380594
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.176.44.159:22222?encryption=none&amp;security=none&amp;type=tcp#Khodemoni-380782
-vless://55ecd608-f8e9-4717-b972-91f25b9457a8@209.97.182.42:21942?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Khodemoni-380619
 vless://55ecd608-f8e9-4717-b972-91f25b9457a8@138.68.105.209:21942?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Khodemoni-380621
+vless://55ecd608-f8e9-4717-b972-91f25b9457a8@209.97.182.42:21942?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Khodemoni-380619
 vless://d78c3322-7e85-44ff-bb2a-ad238f8526c5@64.226.76.127:21318?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Khodemoni-380622
-vless://ae9bcc43-5fd8-4891-b06e-1c93e2747ed9@45.74.178.41:719?path=/api/v2/xtrnwqjbkr?ed=2560&security=none&encryption=none&host=play.google.com&type=ws#Khodemoni-369927
 vless://d78c3322-7e85-44ff-bb2a-ad238f8526c5@157.230.96.101:21318?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Khodemoni-380614
 vless://810c56e4-eb78-4a0f-8019-89c2bea69af6@165.22.18.191:18311?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Khodemoni-380630
 vless://cd1b9b9e-31d2-40dc-9cb3-0d27a37c2271@139.59.184.23:29831?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Khodemoni-380620
@@ -30,8 +29,8 @@ vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@89.106.86.84:443?encryption=none&fl
 vless://3536e1fa-0850-44d1-b123-925ce12476cf@206.71.158.124:443?mode=stream-one&path=/kavir/?@VPNine1?ed=2048&security=tls&alpn=h2&encryption=none&insecure=0&host=dey.lnmarketplace.net&fp=chrome&type=xhttp&allowInsecure=0&sni=dey.lnmarketplace.net#Khodemoni-279408
 vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@45.131.212.36:443?encryption=none&security=reality&type=tcp&sni=sellflow.org&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#Khodemoni-378935
 vless://ed9b0ad8-149f-4b7e-8847-072a90b74eb0@31.57.228.37:37952?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-380771
-vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?encryption=none&security=tls&alpn=h2&fp=chrome&type=xhttp&host=dey.lnmarketplace.net&path=%2Fkavir&mode=stream-one#Khodemoni-227621
 vless://a06119a7-4f1a-4592-86d9-e050a332b2b3@frfas.foot8all.ir:3389?security=reality&encryption=none&pbk=NSlhQMA6VBgHPp7RsErk3hEdKuWPO0eeLdxgssfwbmY&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=207e5f6d28592940#Khodemoni-379975
+vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?encryption=none&security=tls&alpn=h2&fp=chrome&type=xhttp&host=dey.lnmarketplace.net&path=%2Fkavir&mode=stream-one#Khodemoni-227621
 vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?encryption=none&security=tls&sni=dey.lnmarketplace.net&alpn=h2&fp=chrome&type=xhttp&path=%2Fkavir&mode=stream-one#Khodemoni-228977
 trojan://MiTiVPN@104.254.140.62:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fdde---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=Dde1-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.kingnetwork.ir&type=ws&allowInsecure=0&sni=ddp-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.kingnetwork.ir&fp=android#Khodemoni-371132
 vless://2f956d32-8a67-4bc9-8995-e1621ad20ddc@31.76.76.26:443?security=none&encryption=none&type=ws&path=/#Khodemoni-379505
