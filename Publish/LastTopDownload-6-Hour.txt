@@ -25,7 +25,6 @@ vless://4e7e3e37-7bfd-400b-8c21-a7474c4ce366@185.8.172.140:443?security=none&enc
 vless://271e3f7b-6afe-4104-b65b-afc2950f1638@apn.zyro-lab.com:8090?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Khodemoni-382826
 vless://4cfb9456-0921-4547-a684-4614980d4a86@179.198.49.14:443?type=tcp&security=reality&encryption=none&pbk=0tsW6-mbhq0zPODM7BlymfZDYAjSB5S5doDDk8qpYXE&sni=yandex.ru&sid=8e79809e9958ae22&spx=%2F&fp=chrome#Khodemoni-396008
 vless://7b9a0c53-d488-4f2f-9035-816f2fe01fcd@31.56.205.47:57705?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-396629
-vless://271e3f7b-6afe-4104-b65b-afc2950f1638@cdn.pixo-space.com:8090?security=none&type=tcp&headerType=http&path=%2F&host=icloud.com#Khodemoni-382827
 vless://4cfb9456-0921-4547-a684-4614980d4a86@179.198.49.14:443?type=tcp&security=reality&encryption=none&pbk=0tsW6-mbhq0zPODM7BlymfZDYAjSB5S5doDDk8qpYXE&sni=yandex.ru&sid=8e79809e9958ae22&spx=%2F&fp=firefox#Khodemoni-395651
 vless://f39f3125-ce6a-4f0d-9e90-cbdea9922b12@193.178.226.154:443?security=reality&encryption=none&sni=happierpets.org&pbk=HjstheApR8mjk3d1bseY4_B1mE1qjbgI8GbNj4sg6EE&sid=ac518b05221efae6&flow=xtls-rprx-vision&spx=%2FGfp3m1c9ZIjGX8fs&fp=ios#Khodemoni-397234
 vless://c67115b4-0015-460f-9ace-5458c1aa7f62@91.234.39.183:443?type=ws&encryption=none&path=%2F&host=snapp.ir&security=none#Khodemoni-397198
