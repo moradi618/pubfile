@@ -1,5 +1,4 @@
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.187.6:22222?encryption=none&security=none&type=tcp#Khodemoni-397519
-vless://f83d8e60-f039-45c8-95d2-2a44c59025f6@freetg.strettenvpn.com:9999?encryption=none&security=&type=tcp#Khodemoni-395297
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.187.6:22222?encryption=none&amp;security=none&amp;type=tcp#Khodemoni-397609
 vless://2c6e77bd-e478-4cbe-b13c-3c728cf71fd9@web-10.zostoree.ir:2044?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=updates.cdn-apple.com#Khodemoni-397522
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388? #Khodemoni-397574
