@@ -8,4 +8,3 @@ vless://acc50200-7f21-4f90-9cca-0057efcbf042@ot.media-save.com:443?type=tcp&head
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6YksxRUVtZlJ0Q3JWVWZqdzhPTjg4OGxuckg4VjRVc3FTSCtoaUl4eC9CUT0@168.107.81.96:56927#Khodemoni-398710
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU56WmxOamhrWkdVPQ@163.176.133.70:59319#Khodemoni-398714
 vless://814bd064-544d-4255-a070-5705c03f6da9@67.220.73.204:18662/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&security=reality&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&sid=48050fab#Khodemoni-398869
-vless://56ae4ec4-6705-43d0-bf3a-bc36ab3b3545@nld-01.node.lumixnet.com:443?type=xhttp&security=reality&pbk=5xGLTT4UpMz0e_jhPnukNWSums2LntehfHftBmhu7j8&sid=5d129292338820e4&sni=nld-01.node.lumixnet.com&path=%2Fapi%2Fstream%2Fv4%2Fc6aef220b374c230&mode=stream-up&fp=hellochrome_120#Khodemoni-395975
