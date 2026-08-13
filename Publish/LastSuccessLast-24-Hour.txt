@@ -1,3 +1,7 @@
+trojan://QV31589740@51.44.160.58:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=great-krill.rooster465.autos#Khodemoni-398860
+vless://288bb3f1-8994-47cf-8bd8-9b7d4d716461@104.17.166.39:2095?encryption=none&security=none&type=ws&host=newvless2026.nova-b0f3f5.workers.dev&path=%2F%3Fed%3D2560#Khodemoni-398859
+vless://5c5f21f2-8527-4d45-95d0-0c72871d22e7@40.66.48.118:2041?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-398863
+vless://5c5f21f2-8527-4d45-95d0-0c72871d22e7@4.185.112.1:2059?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-398861
 vless://814bd064-544d-4255-a070-5705c03f6da9@67.220.73.204:18662/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&security=reality&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&sid=48050fab#Khodemoni-398869
 vless://acc50200-7f21-4f90-9cca-0057efcbf042@ot.media-save.com:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.ya.ru&fp=firefox&pbk=Oyd0sn1z_6uNSN6AN63Q7aBq7AUQ1bOsB9MT3FyyiRM&sid=837fa04e73d6b581&flow=xtls-rprx-vision#Khodemoni-382924
 vless://31216f81-3139-0021-bac4-646680314264@185.218.194.71:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&security=reality&sid=e1f8a3b6&sni=www.amd.com&type=tcp#Khodemoni-383168
@@ -51,8 +55,6 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.159.247.30:8880?security=none&e
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.148.104.30:8880/?type=ws&encryption=none&flow=&host=vms.lifetime51.workers.dev#Khodemoni-169072
 vless://5a4d9f40-56db-402a-9fbc-31c9229bdcf6@172.67.190.141:8880?type=ws&host=floral-resonance-4baf.468.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#Khodemoni-170944
 vless://5a4d9f40-56db-402a-9fbc-31c9229bdcf6@172.66.140.62:8880?type=ws&host=floral-resonance-4baf.468.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#Khodemoni-173608
-vless://38ede46b-d237-4c76-9de1-a10738642adc@www.ipget.net:8880?encryption=none&security=none&type=ws&host=summer-hat-ba5c.430.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#Khodemoni-189534
-vless://b7300b59-7598-4997-9714-27efd75065d0@www.ipget.net:8880?encryption=none&security=none&type=ws&host=mute-lab-4c55.389.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#Khodemoni-194507
 vless://767b6340-96dc-4aa0-8013-a8af7513d920@singapore.com:8443?security=tls&type=ws&path=%2F&host=c7dabe95.proxy-978.pages.dev&packetEncoding=xudp&sni=c7dabe95.proxy-978.pages.dev&fp=chrome#Khodemoni-195092
 vless://3adac494-0eb1-4d89-a187-b2181691444d@172.67.187.219:8880?type=ws&host=tiny-lake-bbf1.369-766.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#Khodemoni-229877
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@88.216.66.30:8880?security=none&type=ws&path=/&host=vms.lifetime04.workers.dev#Khodemoni-220283
