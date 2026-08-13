@@ -17,7 +17,6 @@ vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@144.31.157.104:20017?security=none&
 vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@144.31.157.104:20017?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-396646
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU=@51.255.13.232:8388#Khodemoni-396874
 vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?encryption=none&security=tls&sni=dey.lnmarketplace.net&fp=chrome&alpn=h2&insecure=0&allowInsecure=0&type=xhttp&host=dey.lnmarketplace.net&path=%2Fkavir&mode=stream-one&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%28WindowsNT10.0%3BWin64%3Bx64%29AppleWebKit%2F537.36%28KHTML%2ClikeGecko%29Chrome%2F101.0.4951.67Safari%2F537.36%22%7D%2C%22noGRPCHeader%22%3Atrue%2C%22xmux%22%3A%7B%22hKeepAlivePeriod%22%3A12%2C%22maxConcurrency%22%3A%226%22%7D%7D#Khodemoni-244084
-vless://5c5f21f2-8527-4d45-95d0-0c72871d22e7@40.66.48.118:2041?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-398863
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyU2VZY2lnX1hCeThxM2szM05wSzNB@65.109.178.10:1080#Khodemoni-393975
 vless://1bc8fb2a-3bee-4ae0-aa12-957885e63e18@104.16.72.41:8880?path=%2Fpyip&security=&encryption=none&host=super-mud-8b38.114-a90.workers.dev&type=ws#Khodemoni-250336
 vless://b85c8be2-3109-4b8a-aa82-f0d8fe06f5ae@anydesk.com:8880?encryption=none&security=none&type=ws&host=young-dust-b8d9.31-8ba.workers.dev&path=%2F#Khodemoni-381153
@@ -43,6 +42,7 @@ vless://a06119a7-4f1a-4592-86d9-e050a332b2b3@166493121fea0c25.nimaghaffarzadeh.i
 vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?security=tls&encryption=none&insecure=1&host=/?BIA_TELEGRAM@VPNine1&headerType=none&type=tcp&allowInsecure=1&sni=186.190.211.188#Khodemoni-200826
 vless://243ad93d-9732-4e19-9784-8b1a642cff70@anydesk.com:8880?type=ws&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&host=fancy-king-6fb5.33-615.workers.dev&sni=anydesk.com#Khodemoni-255372
 vless://346b8cd2-0714-45b5-ae37-16792e360822@asfe.plasdomain.ir:31993?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=play.google.com&fp=firefox&pbk=JJi5mLuFJwe8_EFfNIND5HBNqPDhWweYwGUdegdTwWI&sid=e5c8ef350daf76e1#Khodemoni-398902
+vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?type=tcp&security=tls&encryption=none&sni=186.190.211.188&allowInsecure=1#Khodemoni-189620
 vless://3536e1fa-0850-44d1-b123-925ce12476cf@206.71.158.124:443?mode=stream-one&path=%2Fkavir&security=tls&alpn=h2&encryption=none&host=dey.lnmarketplace.net&type=xhttp&sni=dey.lnmarketplace.net#Khodemoni-381564
 vless://a06119a7-4f1a-4592-86d9-e050a332b2b3@65.109.188.209:3389/?type=tcp&encryption=none&flow=&sni=play.google.com&fp=chrome&security=reality&pbk=NSlhQMA6VBgHPp7RsErk3hEdKuWPO0eeLdxgssfwbmY&sid=c6cbc90da6316b21#Khodemoni-394754
 vless://3536e1fa-0850-44d1-b123-925ce12476cf@206.71.158.124:443?mode=stream-one&path=%2Fkavir&security=tls&alpn=h2&encryption=none&insecure=0&host=dey.lnmarketplace.net&type=xhttp&allowInsecure=0&sni=dey.lnmarketplace.net#Khodemoni-382576
