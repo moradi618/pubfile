@@ -1,3 +1,5 @@
+vless://767b6340-96dc-4aa0-8013-a8af7513d920@singapore.com:8443?&security=tls&fp=chrome&sni=c7dabe95.proxy-978.pages.dev&type=ws&headerType=none&host=c7dabe95.proxy-978.pages.dev&path=%2F#Khodemoni-115562
+vless://767b6340-96dc-4aa0-8013-a8af7513d920@singapore.com:8443?encryption=none&security=tls&sni=c7dabe95.proxy-978.pages.dev&insecure=0&allowInsecure=0&type=ws&host=c7dabe95.proxy-978.pages.dev&path=%2F#Khodemoni-130916
 vless://9c63fd59-f9ee-446e-97ec-0bf2de21ed7b@188.114.97.8:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/eyJqdW5rIjoiVVhGU1pOZ1oxaTFUUldyVCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&security=tls&encryption=none&insecure=0&host=dry-glitter-ef10.gfryubcdryujvrth.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=dRy-GLITTer-ef10.gFRYubCdrYujVRtH.WorkErS.DEV#Khodemoni-242276
 vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@104.18.1.1:2052?path=%2Fx0o2qglxz7zu&security=none&encryption=none&host=index.arcane509.workers.dev&type=ws#Khodemoni-274637
 trojan://ND91608427@54.249.34.120:443?security=tls&sni=social-mutt.rooster465.autos#Khodemoni-357917
