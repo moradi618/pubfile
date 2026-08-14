@@ -6,13 +6,13 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.59.68.6:22222?encryption=none&am
 vless://dbe453d8-112d-4bad-b353-3ccf60044a23@164.90.191.172:47260?type=tcp&encryption=none&security=none#Khodemoni-403416
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.193.240.71:22223?encryption=none&security=none&type=tcp#Khodemoni-402349
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.158.7.204:22222?encryption=none&security=none&type=tcp#Khodemoni-402343
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.193.240.71:22222?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-402644
 vless://f83d8e60-f039-45c8-95d2-2a44c59025f6@217.60.99.49:9999?security=none&type=tcp&packetEncoding=xudp#Khodemoni-402885
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.193.240.71:22224?encryption=none&security=none&type=tcp#Khodemoni-402355
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.59.68.6:22224?encryption=none&security=none&type=tcp#Khodemoni-403326
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.59.68.6:22222?encryption=none&security=none&type=tcp#Khodemoni-403327
 vmess://eyJhZGQiOiIxNzguODMuNDUuMjkiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiNDg0MjIzMDAtNDU4Zi00ZGJiLWIwZjUtOTZmNDU0NTBhYjlmIiwibmV0IjoidGNwIiwicGF0aCI6Ii9CZWdvb19WUE4vQmVnb29fVlBOL0JlZ29vX1ZQTi9CZWdvb19WUE4vQmVnb29fVlBOL0JlZ29vX1ZQTi9CZWdvb19WUE4vQmVnb29fVlBOL0JlZ29vX1ZQTi9CZWdvb19WUE4vQmVnb29fVlBOL0JlZ29vX1ZQTi9CZWdvb19WUE4iLCJwb3J0IjoiMzg5OTgiLCJwcyI6Iktob2RlbW9uaS0zOTg2NTUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
 vmess://eyJhZGQiOiIxNzguODMuNDUuMjkiLCJhaWQiOjAsImhvc3QiOiIxNzguODMuNDUuMjkiLCJpZCI6IjQ4NDIyMzAwLTQ1OGYtNGRiYi1iMGY1LTk2ZjQ1NDUwYWI5ZiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6Mzg5OTgsInBzIjoiS2hvZGVtb25pLTM5ODk5NyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOmZhbHNlLCJ0eXBlIjpudWxsLCJ2IjoyfQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU%3D@51.255.13.232:8388#Khodemoni-396587
 vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?encryption=none&security=none&type=ws&host=azsv1.drpingservice.com&path=%2F#Khodemoni-081861
 vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.142.142:8880?path=%2F&security=none&encryption=none&host=azsv1.drpingservice.com&type=ws#Khodemoni-108018
 vmess://eyJhZGQiOiIxNzguODMuNDUuMjkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNDg0MjIzMDAtNDU4Zi00ZGJiLWIwZjUtOTZmNDU0NTBhYjlmIiwiaW5zZWN1cmUiOiIxIiwibmV0IjoidGNwIiwicGF0aCI6Ii9CZWdvb19WUE4vQmVnb29fVlBOL0JlZ29vX1ZQTi9CZWdvb19WUE4vQmVnb29fVlBOL0JlZ29vX1ZQTi9CZWdvb19WUE4vQmVnb29fVlBOL0JlZ29vX1ZQTi9CZWdvb19WUE4vQmVnb29fVlBOL0JlZ29vX1ZQTi9CZWdvb19WUE4iLCJwb3J0IjoiMzg5OTgiLCJwcyI6Iktob2RlbW9uaS0zOTgxMzgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
