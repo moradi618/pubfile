@@ -1,4 +1,10 @@
 trojan://AE62539071@shining-haddock.rooster465.autos:443?security=tls&sni=shining-haddock.rooster465.autos#Khodemoni-403125
+trojan://AE62539071@right-seahorse.rooster465.autos:443?fp=chrome&security=tls&sni=right-seahorse.rooster465.autos&type=tcp#Khodemoni-403174
+trojan://tsuchiya@aa.ccmusic.jp:443?fp=chrome&security=tls&sni=aa.ccmusic.jp&type=tcp#Khodemoni-403152
+trojan://AE62539071@sacred-hound.rooster465.autos:443?allowInsecure=1&security=tls#Khodemoni-403166
+vmess://eyJ2IjoiMiIsInBzIjoiS2hvZGVtb25pLTQwMzMzNCIsImFkZCI6ImNkbi1jbG91ZGZsYXJlNDU1LmtvcnZleGUuaXIiLCJwb3J0IjoiMjA5NSIsImlkIjoiODAwMGUzNzQtNmI3Zi00YmJmLWI0NWYtMjI3MjY1N2VkNWY5IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJodHRwdXBncmFkZSIsInR5cGUiOiJub25lIiwiaG9zdCI6ImNkbi1jbG91ZGZsYXJlNDU1LmtvcnZleGUuaXIiLCJwYXRoIjoiLyIsInRscyI6Im5vbmUiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
+vless://c0f16ee2-a909-4890-ab1c-96489230658a@admin.jikebet.com:443?encryption=none&type=ws&security=tls&path=%2Fvless&host=admin.jikebet.com&sni=admin.jikebet.com&insecure=0&allowInsecure=0#Khodemoni-403321
+trojan://AE62539071@up-dinosaur.rooster465.autos:443?security=tls#Khodemoni-403247
 trojan://AE62539071@thorough-falcon.rooster465.autos:443?security=tls#Khodemoni-402226
 trojan://AE62539071@relative-locust.rooster465.autos:443?security=tls&sni=relative-locust.rooster465.autos#Khodemoni-403285
 vmess://eyJhZGQiOiI5M3Vjcm40aTBwZmZ1YWJrLnYuM2Rucy52aXAiLCJhaWQiOjAsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImYyM2JiNDI3YzFmOTQzNzM4NzZjMmY0M2U5Zjc5MGYzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXZtZXNzIiwicG9ydCI6NDQzLCJwcyI6Iktob2RlbW9uaS00MDI2ODkiLCJzY3kiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
@@ -153,11 +159,3 @@ vmess://eyJhZGQiOiIyMTYuMTI4LjE3Ni4xNjYiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiZWJj
 trojan://_Hqs2tyFXRK3mDAOZZocRqL_uWa95ssL@ws.devmrzero.ir:8443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&host=ws.devmrzero.ir&type=ws&allowInsecure=0&sni=ws.devmrzero.ir#Khodemoni-402612
 vless://f8fd2381-40ea-4b46-973b-f9dab2eed50b@146.103.26.96:37211?encryption=none&pbk=2dpt8KZvY90iXmpdsCMkvK_00uHIhNbnz0VYrVFcJ3k&security=reality&sid=aa6f080efb8928f9&sni=www.google.com&type=tcp&fp=qq#Khodemoni-402590
 vless://928e6cce-8ced-4243-9a48-a6642edd09b0@103.149.183.198:13779?security=reality&encryption=none&pbk=llTyp52oRXnJmQ3I9UUrmlwbMA79B-wLCRHCu-8dLGg&host=tesla.com&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=tesla.com&sid=af1bdd293097b664#Khodemoni-402376
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@mfa.gov.ua:2087?path=%2F&security=tls&encryption=none&insecure=0&host=fx3l5i2wdfxln0.fx6hsv0.ccwu.cc&fp=chrome&type=ws&allowInsecure=0&sni=fx3l5i2wdfxln0.fx6hsv0.ccwu.cc#Khodemoni-402361
-vless://cc9082e4-9c7c-4cef-a0f5-963363bed638@104.16.107.139:8880?path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&security=none&encryption=none&host=weathered-mode-8f39.83-33c.workers.dev&type=ws#Khodemoni-190243
-vless://f55a75a7-5aa6-4df7-814a-99da0edb5c86@104.21.55.229:8880?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/pyip=ProxyIP.US.CMLiussss.net&security=&encryption=none&host=autumn-cloud-ab5e.229-601.workers.dev&type=ws#Khodemoni-253985
-vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?security=tls&encryption=none&insecure=1&host=%2F%3Fmtmvpn&headerType=none&type=tcp&allowInsecure=1&sni=186.190.211.188#Khodemoni-225586
-vless://01a95af3-a2f6-453e-9f88-b2fc011627cc@92.114.24.95:43630?security=&encryption=none&headerType=none&type=tcp#Khodemoni-358503
-vless://1b69afb7-9f0a-4e6c-9a4b-1fcf7621b0be@109.107.140.188:51790?encryption=none&flow=xtls-rprx-vision-udp443&pbk=XJa0ZYOvtfwRz7aF8GprVrnEjc4S1rokGFhc-tI1YFk&security=reality&sid=02c40852&sni=icloud.com&spx=%2F&type=raw&fp=safari#Khodemoni-357651
-vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@104.18.1.1:2053?encryption=none&type=ws&security=tls&path=/?ed=2053&host=po.fastbrokencompony.com&sni=po.fastbrokencompony.com&alpn=h3,h2,http/1.1&fp=chrome&insecure=0&allowInsecure=0#Khodemoni-346497
-vless://01a95af3-a2f6-453e-9f88-b2fc011627cc@92.114.24.95:43630?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-358419
