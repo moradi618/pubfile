@@ -1,4 +1,10 @@
+trojan://AE62539071@right-seahorse.rooster465.autos:443?fp=chrome&security=tls&sni=right-seahorse.rooster465.autos&type=tcp#Khodemoni-403174
+trojan://tsuchiya@aa.ccmusic.jp:443?fp=chrome&security=tls&sni=aa.ccmusic.jp&type=tcp#Khodemoni-403152
+trojan://AE62539071@sacred-hound.rooster465.autos:443?allowInsecure=1&security=tls#Khodemoni-403166
 trojan://AE62539071@shining-haddock.rooster465.autos:443?security=tls&sni=shining-haddock.rooster465.autos#Khodemoni-403125
+vmess://eyJ2IjoiMiIsInBzIjoiS2hvZGVtb25pLTQwMzMzNCIsImFkZCI6ImNkbi1jbG91ZGZsYXJlNDU1LmtvcnZleGUuaXIiLCJwb3J0IjoiMjA5NSIsImlkIjoiODAwMGUzNzQtNmI3Zi00YmJmLWI0NWYtMjI3MjY1N2VkNWY5IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJodHRwdXBncmFkZSIsInR5cGUiOiJub25lIiwiaG9zdCI6ImNkbi1jbG91ZGZsYXJlNDU1LmtvcnZleGUuaXIiLCJwYXRoIjoiLyIsInRscyI6Im5vbmUiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
+vless://c0f16ee2-a909-4890-ab1c-96489230658a@admin.jikebet.com:443?encryption=none&type=ws&security=tls&path=%2Fvless&host=admin.jikebet.com&sni=admin.jikebet.com&insecure=0&allowInsecure=0#Khodemoni-403321
+trojan://AE62539071@up-dinosaur.rooster465.autos:443?security=tls#Khodemoni-403247
 trojan://AE62539071@thorough-falcon.rooster465.autos:443?security=tls#Khodemoni-402226
 trojan://AE62539071@relative-locust.rooster465.autos:443?security=tls&sni=relative-locust.rooster465.autos#Khodemoni-403285
 vmess://eyJhZGQiOiI5M3Vjcm40aTBwZmZ1YWJrLnYuM2Rucy52aXAiLCJhaWQiOjAsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImYyM2JiNDI3YzFmOTQzNzM4NzZjMmY0M2U5Zjc5MGYzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXZtZXNzIiwicG9ydCI6NDQzLCJwcyI6Iktob2RlbW9uaS00MDI2ODkiLCJzY3kiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
