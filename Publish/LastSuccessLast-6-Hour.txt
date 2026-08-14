@@ -1,8 +1,9 @@
+trojan://AE62539071@shining-haddock.rooster465.autos:443?security=tls&sni=shining-haddock.rooster465.autos#Khodemoni-403125
+trojan://AE62539071@social-mutt.rooster465.autos:443?fp=chrome&security=tls&sni=social-mutt.rooster465.autos&type=tcp#Khodemoni-403083
 trojan://AE62539071@inviting-burro.rooster465.autos:443?security=tls&sni=inviting-burro.rooster465.autos#Khodemoni-403148
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.158.7.204:22222?encryption=none&amp;security=none&amp;type=tcp#Khodemoni-403310
 vmess://eyJhZGQiOiI0Ny44My4xOTguMzgiLCJhaWQiOiIwIiwiaG9zdCI6Ind3YWZqNUxIbDZiSThhVTkudi4zZG5zLnZpcCIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3Mtdm1lc3MiLCJwb3J0IjoiNDQzIiwicHMiOiJLaG9kZW1vbmktMzgyNDM1Iiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
 trojan://AE62539071@thorough-falcon.rooster465.autos:443?security=tls#Khodemoni-402226
-trojan://AE62539071@shining-haddock.rooster465.autos:443?security=tls&sni=shining-haddock.rooster465.autos#Khodemoni-403125
 trojan://AE62539071@right-seahorse.rooster465.autos:443?fp=chrome&security=tls&sni=right-seahorse.rooster465.autos&type=tcp#Khodemoni-403174
 trojan://tsuchiya@aa.ccmusic.jp:443?fp=chrome&security=tls&sni=aa.ccmusic.jp&type=tcp#Khodemoni-403152
 trojan://AE62539071@sacred-hound.rooster465.autos:443?allowInsecure=1&security=tls#Khodemoni-403166
