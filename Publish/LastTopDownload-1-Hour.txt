@@ -36,7 +36,6 @@ vless://272b98b4-d02b-4dbc-bd8c-d8de5249b999@164.37.100.59:443?type=grpc&securit
 vless://272b98b4-d02b-4dbc-bd8c-d8de5249b999@164.37.100.59:443?type=grpc&security=tls&sni=edge1.numberoneok.com&serviceName=rpc.v1.SyncService&authority=edge1.numberoneok.com&fp=qq#Khodemoni-402595
 vless://272b98b4-d02b-4dbc-bd8c-d8de5249b999@164.37.100.59:443?type=grpc&security=tls&sni=edge1.numberoneok.com&serviceName=rpc.v1.SyncService&authority=edge1.numberoneok.com&fp=edge#Khodemoni-402542
 vless://272b98b4-d02b-4dbc-bd8c-d8de5249b999@164.37.100.59:443?type=grpc&security=tls&sni=edge1.numberoneok.com&mode=gun&serviceName=rpc.v1.SyncService&fp=qq#Khodemoni-402540
-vmess://eyJhZGQiOiIxOTMuMTExLjc4LjEwNiIsImFpZCI6IjAiLCJpZCI6IjI2YjZmZDMyLTA0ZTYtNDNmZi1hMDY1LWJlYTM2Zjc0ODY1NSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo1ODMwNCwicHMiOiJLaG9kZW1vbmktNDE0NjgwIiwic2N5IjoiYXV0byIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://272b98b4-d02b-4dbc-bd8c-d8de5249b999@164.37.100.59:443?security=tls&sni=edge1.numberoneok.com&type=grpc&serviceName=rpc.v1.SyncService&fp=qq#Khodemoni-402593
 vless://272b98b4-d02b-4dbc-bd8c-d8de5249b999@164.37.100.59:443?type=grpc&security=tls&sni=edge1.numberoneok.com&serviceName=rpc.v1.SyncService&authority=edge1.numberoneok.com&fp=chrome#Khodemoni-402594
 vless://272b98b4-d02b-4dbc-bd8c-d8de5249b999@164.37.100.59:443?security=tls&sni=edge1.numberoneok.com&type=grpc&serviceName=rpc.v1.SyncService&fp=firefox#Khodemoni-402592
