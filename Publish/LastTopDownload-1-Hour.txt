@@ -86,4 +86,3 @@ vmess://eyJ2IjoiMiIsInBzIjoiS2hvZGVtb25pLTEzOTA5NyIsImFkZCI6IjEzNC4xOTUuMTk4LjE0
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@217.217.222.230:20004?security=tls&sni=hk.catxstar.com&type=tcp&fp=firefox#Khodemoni-394406
 vless://a484645e-59df-4980-b649-92b71250ec60@72.56.246.91:4100/?type=ws&encryption=none&flow=&path=%2Fv1#Khodemoni-369793
 vless://b91abe1a-80ca-417b-998b-2b542661c16f@it.feywebsite.ir:8008?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=packet-up&path=/api/v1/stream&security=reality&encryption=none&extra={"mode":"packet-up","xPaddingBytes":"100-1000"}&pbk=yGB6HD9OYiD77YWTH1YxcG9yIYkyeEYOEcHL-WnwQn8&fp=chrome&type=xhttp&sni=play.google.com&sid=5f9a#Khodemoni-400616
-vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?security=tls&encryption=none&insecure=1&host=%2F%3Fmtmvpn&headerType=none&type=tcp&allowInsecure=1&sni=186.190.211.188#Khodemoni-225586
