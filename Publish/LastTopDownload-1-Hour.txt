@@ -4,9 +4,7 @@ vless://79c9514e-aa3c-4cd0-bf0d-dd6df42039f6@a2.arshia-nova.ir:443?path=/&securi
 vless://88335b0c-1929-4f76-b87f-6e28831dfb7e@Chess.com:443?path=/&security=tls&encryption=none&insecure=0&host=kojj.dearhossein-taktaz.ir&fp=chrome&type=ws&allowInsecure=0&sni=kojj.dearhossein-taktaz.ir#Khodemoni-415300
 vless://79c9514e-aa3c-4cd0-bf0d-dd6df42039f6@k2.cloud--vpn.site:443?path=/&security=tls&encryption=none&host=c12.com&type=ws&sni=ssl.fastly.com#Khodemoni-415318
 vless://788312f9-b95e-46da-9a39-623d798de761@164.37.100.59:443?security=tls&encryption=none&type=grpc&serviceName=rpc.v1.SyncService&sni=edge1.numberoneok.com#Khodemoni-415315
-vless://218fd696-e3a2-4c33-b397-a5f13a82969e@46.29.165.181:7443?security=reality&type=tcp&fp=firefox&sni=kleinanzeigen.de&pbk=whjFaQUOWE6n1r89kfjPVeJtut_b_YD3YnfRtpC4QEU&sid=0782f882&spx=%2F&encryption=none#Khodemoni-402017
 vless://88335b0c-1929-4f76-b87f-6e28831dfb7e@mahdroo.ir:443?path=/&security=tls&encryption=none&insecure=0&host=kojj.dearhossein-taktaz.ir&fp=chrome&type=ws&allowInsecure=0&sni=kojj.dearhossein-taktaz.ir#Khodemoni-415301
 vless://79c9514e-aa3c-4cd0-bf0d-dd6df42039f6@151.101.56.6:443?path=/&security=tls&encryption=none&host=c12.com&type=ws&sni=ssl.fastly.com#Khodemoni-415316
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6MkszcktzVHk1bXFkRVRlcnU5ZU1uL2JZUk1hRlRvdkplclp5bWVqTzI5bz0@147.15.111.47:59319#Khodemoni-415290
 vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@144.31.157.104:20017?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-398043
-vless://8a72077b-1db6-42bd-97a1-bd7214a87a1f@188.253.123.71:7228?security=tls&type=ws&path=/@Marisa_kristi&host=9-7u3b6e.wzkija0v0du4yhk6jfyfafml3nh22kne.workers.dev&packetEncoding=xudp&sni=9-7u3b6e.wzkija0v0du4yhk6jfyfafml3nh22kne.workers.dev&fp=chrome#Khodemoni-402821
