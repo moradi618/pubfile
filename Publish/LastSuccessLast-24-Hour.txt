@@ -299,8 +299,8 @@ vless://9c63fd59-f9ee-446e-97ec-0bf2de21ed7b@188.114.97.8:8443?Telegram=@Gozarga
 vless://5bbf0601-8431-45f6-a4e9-a1e8b44c0055@log.bpminecraft.com:8880/?type=ws&encryption=none&flow=&host=misty-mouse-141d.177-f18.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#Khodemoni-246979
 vless://f12cc297-c9ce-4cdb-98d4-8e47c3f09644@codecanyon.net:8880?&type=ws&headerType=none&host=weathered-union-5358.101-262.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#Khodemoni-243967
 vless://f32b0ea8-5b9f-4ee2-b20c-0bdfd2057e1d@172.67.187.219:8880?path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=&encryption=none&host=throbbing-shape-b190.478-57a.workers.dev&type=ws#Khodemoni-282520
-vless://18a7834f-bf89-4c87-ad57-49927a56deed@104.21.88.129:8880?encryption=none&security=none&type=ws&host=holy-violet-858e.471.workers.dev&path=%2Fpyip%3Dproxyip.sg.cmliussss.net#Khodemoni-254784
 vless://234c52f2-0d7b-dc4a-0d6b-b0b300000025@104.27.2.172:80?security=none&type=ws&path=%2Fsync&host=billowing-surf-d251.netizo06.workers.dev&sni=billowing-surf-d251.netizo06.workers.dev#Khodemoni-254841
+vless://18a7834f-bf89-4c87-ad57-49927a56deed@104.21.88.129:8880?encryption=none&security=none&type=ws&host=holy-violet-858e.471.workers.dev&path=%2Fpyip%3Dproxyip.sg.cmliussss.net#Khodemoni-254784
 vless://26fb53e4-fd49-4b34-b605-b6cc1b1a06a8@104.16.72.101:8880?path=%2Fpyip&security=none&encryption=none&host=royal-shape-3771.93-728.workers.dev&type=ws#Khodemoni-253396
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.75.199.30:8880?security=none&type=ws&path=/&host=vms.lifetime59.workers.dev&packetEncoding=none&allowInsecure=1#Khodemoni-258376
 vless://f12cc297-c9ce-4cdb-98d4-8e47c3f09644@codecanyon.net:8880?security=none&type=ws&path=/pyip=ProxyIP.KR.CMLiussss.net&host=weathered-union-5358.101-262.workers.dev&packetEncoding=xudp#Khodemoni-255670
