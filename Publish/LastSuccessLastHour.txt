@@ -1,3 +1,6 @@
+trojan://ND91608427@3.36.59.34:443?allowInsecure=1&fp=chrome&security=tls&sni=select-ferret.rooster465.autos&type=tcp#Khodemoni-403189
+trojan://AE62539071@noted-bass.rooster465.autos:443?security=tls&sni=noted-bass.rooster465.autos#Khodemoni-403193
+vless://283665ab-54c2-4c59-ac55-5e8388558eba@172.67.174.157:2083?security=tls&type=ws&path=/vl/oCCSZfAWhGqcVO3WOEnIPj9Z9ke?ed&host=27l432tlhnpcojr6u0d3.adfasdfadfasdf.workers.dev&packetEncoding=xudp&alpn=http/1.1&sni=27l432tlhnpcojr6u0d3.adfasdfadfasdf.workers.dev&fp=chrome#Khodemoni-402779
 vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@www.true.th:443?fp=chrome&host=d1yxsk0zprgivr.cloudfront.net&path=%2F&security=tls&sni=d1yxsk0zprgivr.cloudfront.net&type=ws#Khodemoni-374563
 vless://5b1ef008-0abd-4a5e-9653-2d6043cb86b2@188.114.98.44:8080?path=%2F%3Fed%3D2080&security=&encryption=none&host=1.vexogf.ir&type=httpupgrade#Khodemoni-415747
 trojan://AE62539071@54.95.128.248:443?security=tls&sni=engaged-ram.rooster465.autos#Khodemoni-402225
@@ -47,7 +50,6 @@ vless://49e76398-5127-4005-90cb-c2a971f745f1@104.17.134.117:443?security=tls&typ
 vless://2cb6b4d9-0c74-45e2-a4fb-645bb8ac532a@91.124.19.38:443?encryption=none&flow=xtls-rprx-vision&pbk=V2JprbR_aJkS7uX6anyU3nrswGxdvDQT2HpY4WnzuC8&security=reality&sid=5629431325884ff0&sni=nl6.o4ka-internet.com&type=tcp&fp=chrome#Khodemoni-414832
 trojan://Mehdi1234@172.64.144.251:2083?security=tls&sni=purple-recipe-5e30.cimavo4626.workers.dev&type=ws&host=purple-recipe-5e30.cimavo4626.workers.dev&path=%2F%3Fed%3D2560#Khodemoni-228399
 vless://efc23e98-f747-17d3-47c5-13717cb4a884@212.87.199.95:443?flow=xtls-rprx-vision&sni=www.datadoghq.com&pbk=PBnTKkMwNAC6DtiVg4SYWqaV_3dJWWZPdFb7UQbvvUo&security=reality&fp=chrome&headerType=none&type=tcp&encryption=none#Khodemoni-415665
-vless://2001e98b-e06e-4244-910f-7ff640746eda@168.222.202.15:4100?&type=ws&headerType=none&path=%2Fv1#Khodemoni-345806
 vless://35e8826f-0873-492d-8b8a-d495c9947480@104.16.101.215:8880?encryption=none&security=none&type=ws&host=super-sunset-010c.24-43d.workers.dev&path=%2Fpyip#Khodemoni-415680
 vless://50414e45-4c5f-5a45-5553-5d36fccf19c3@172.64.93.246:443?path=/stream/PANEL_ZEUS/5d36fccf19c3&security=tls&encryption=none&insecure=0&host=zeus-panel-24zdq8.bikhabi.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-24zdq8.bikhabi.workers.dev#Khodemoni-415693
 vless://e039f2a1-2238-455c-a520-fb3893532b19@simpleto.asan-ps.ir:443?security=tls&type=ws&headerType=&path=&host=italyazd.global.ssl.fastly.net&sni=ssl.fastly.com&fp=#Khodemoni-415674
@@ -100,7 +102,3 @@ vless://00ff7e5f-9b6f-4401-aab9-4d044660411f@104.17.25.173:8880?encryption=none&
 vless://8dd8af16-cae0-4431-b04c-a637b4d7645b@104.16.107.139:8880?encryption=none&security=none&type=ws&host=wild-frog-c709.403-6ff.workers.dev&path=%2Fpyip%3Dproxyip.us.cmliussss.net#Khodemoni-415651
 vless://cc9082e4-9c7c-4cef-a0f5-963363bed638@104.16.107.139:8880?encryption=none&security=none&type=ws&host=weathered-mode-8f39.83-33c.workers.dev&path=%2Fpyip%3Dproxyip.jp.cmliussss.net#Khodemoni-415656
 vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@www.wto.org:2053?&security=tls&fp=edge&sni=usa.105794.xyz&type=ws&headerType=none&host=usa.105794.xyz&path=%2Fdownload%2Fv3%2Finstaller-x64.bin#Khodemoni-415530
-vless://2db92da9-8ffb-491b-81d6-6e8d50876020@104.17.147.22:443?security=tls&type=ws&path=/eyJqdW5rIjoiWlFRWlMwRDdLakVqMyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=&host=bpb-01c11365.hjdbcvdbkv.workers.dev&packetEncoding=xudp&alpn=http/1.1&sni=bpB-01c11365.HJdBcvDbKV.WORKErS.dEV&fp=chrome&encryption=none#Khodemoni-258395
-vmess://eyJhZGQiOiI0Ny44Ni4xMDcuMTE5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJsY3Y4djlsN095YW14eGZaLnYuM2Rucy52aXAiLCJpZCI6ImYyM2JiNDI3YzFmOTQzNzM4NzZjMmY0M2U5Zjc5MGYzIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXZtZXNzIiwicG9ydCI6NDQzLCJwcyI6Iktob2RlbW9uaS0zMDcxMzEiLCJzY3kiOiJhdXRvIiwic25pIjoibGN2OHY5bDdPeWFteHhmWi52LjNkbnMudmlwIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@172.64.155.209:2053?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&insecure=0&encryption=none&security=tls&sni=ov.iran-servers.shop&host=ov.iran-servers.shop&fp=chrome&path=/J5aLQOY1R9ONWYCM&allowInsecure=0&type=ws#Khodemoni-308201
-vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@172.64.155.209:2053?path=/J5aLQOY1R9ONWYCM&security=tls&encryption=none&insecure=0&host=ov.iran-servers.shop&fp=chrome&type=ws&allowInsecure=0&sni=ov.iran-servers.shop#Khodemoni-313023
