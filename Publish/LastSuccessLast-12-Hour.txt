@@ -1,3 +1,6 @@
+vmess://eyJhZGQiOiJjZi5sZXZpa29namdmZGQuaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImRlYXBwLmppc3V5dW4udG9wIiwiaWQiOiI5YTFhMDVkOS02OWJlLTQ1ZDMtZTMyNi1jNjYyMWVkZjdiMzEiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZGV2bSIsInBjcyI6IiIsInBvcnQiOiIyMDUzIiwicHMiOiJLaG9kZW1vbmktNDAyMjQyIiwic2N5IjoiYXV0byIsInNuaSI6ImRlYXBwLmppc3V5dW4udG9wIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIiwidmNuIjoiIn0=
+vless://c0f16ee2-a909-4890-ab1c-96489230658a@172.64.80.1:443?encryption=none&host=admin.jikebet.com&path=%2Fvless&security=tls&sni=admin.jikebet.com&type=ws&fp=ios#Khodemoni-413792
+vless://bc155a59-a4db-45e7-addf-db634b79757b@103.118.252.45:13131?type=tcp&fp=qq#Khodemoni-413777
 vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@www.visa.cn:443?&security=tls&fp=edge&sni=tl.520783.xyz&type=ws&headerType=none&host=tl.520783.xyz&path=%2Fassets%2Fdist%2Fapp-update-payload.dat#Khodemoni-403611
 trojan://AE62539071@18.183.182.132:443?security=tls&sni=exciting-grizzly.rooster465.autos#Khodemoni-402205
 vless://a382aa45-22d5-4a8c-86cc-ad11d1f2800f@45.65.112.228:20513?security=reality&encryption=none&pbk=CTfSuRE6fUPYVBJGsmOYnP3UketmmTJSQP45OcoGI2k&headerType=none&fp=chrome&type=tcp&sni=updates.cdn-apple.com&sid=9f3921483225ccf8#Khodemoni-414931
