@@ -75,8 +75,8 @@ vless://efc23e98-f747-17d3-47c5-13717cb4a884@212.87.199.95:443?flow=xtls-rprx-vi
 vless://2001e98b-e06e-4244-910f-7ff640746eda@168.222.202.15:4100?&type=ws&headerType=none&path=%2Fv1#Khodemoni-345806
 vless://35e8826f-0873-492d-8b8a-d495c9947480@104.16.101.215:8880?encryption=none&security=none&type=ws&host=super-sunset-010c.24-43d.workers.dev&path=%2Fpyip#Khodemoni-415680
 vless://50414e45-4c5f-5a45-5553-5d36fccf19c3@172.64.93.246:443?path=/stream/PANEL_ZEUS/5d36fccf19c3&security=tls&encryption=none&insecure=0&host=zeus-panel-24zdq8.bikhabi.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-24zdq8.bikhabi.workers.dev#Khodemoni-415693
-trojan://AE62539071@18.198.1.232:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=teaching-gnu.rooster465.autos#Khodemoni-415731
 vless://e039f2a1-2238-455c-a520-fb3893532b19@simpleto.asan-ps.ir:443?security=tls&type=ws&headerType=&path=&host=italyazd.global.ssl.fastly.net&sni=ssl.fastly.com&fp=#Khodemoni-415674
+trojan://AE62539071@18.198.1.232:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=teaching-gnu.rooster465.autos#Khodemoni-415731
 vless://05e7abc2-46e1-4a23-9cdc-173ce17eb0d4@104.26.6.214:8880?encryption=none&security=none&type=ws&host=round-term-947c.41-332.workers.dev&path=%2Fpyip%3Dproxyip.sg.cmliussss.net#Khodemoni-415685
 vless://3a38b35b-7b31-452c-954f-99c2f45dda19@172.66.170.53:8880?encryption=none&security=none&type=ws&host=sweet-truth-0f0c.71-fca.workers.dev&path=%2Fpyip%3Dproxyip.jp.cmliussss.net#Khodemoni-415682
 vless://699dde7d-4a08-4dd0-b081-7a87407a23fc@3.68.4.250:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&headerType=none&type=tcp&encryption=none#Khodemoni-415696
