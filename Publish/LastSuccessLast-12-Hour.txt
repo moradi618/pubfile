@@ -1,3 +1,4 @@
+vless://2cb6b4d9-0c74-45e2-a4fb-645bb8ac532a@178.214.211.36:443?encryption=none&flow=xtls-rprx-vision&pbk=V2JprbR_aJkS7uX6anyU3nrswGxdvDQT2HpY4WnzuC8&security=reality&sid=5629431325884ff0&sni=rom2.o4ka-internet.com&type=tcp&fp=ios#Khodemoni-414491
 vless://2a88091e-e3f8-4478-9751-6ce0557a7f2e@82.117.87.199:4100?path=%2Fv1&security=&encryption=none&host=live.ok.ru&type=ws#Khodemoni-417224
 vless://a6f6d9c9-9d43-4d0e-bf95-4b87cc5bbaac@81.31.210.138:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=rkRBWVPGbMdh1UXAMu0I019NbBFWoBh4W1T856oyl2o&security=reality&sid=bbab5af2663db00a&sni=nl1.murhost.network&type=tcp#Khodemoni-417255
 vless://e7c3374c-f8b8-490c-aee8-11e3bdab67bc@109.73.193.169:2200?path=%2Fv1&security=&encryption=none&host=rzd.ru&type=ws#Khodemoni-417223
@@ -80,7 +81,6 @@ vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.37.228:443?encryption=none&t
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.18.37.228:443?security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#Khodemoni-400775
 trojan://Telegram_healer_config@172.67.176.194:443?alpn=http%2F1.1&fp=chrome&path=%2Ftr%2FVKQiUREJ9PL5qHi1r4bkL9Rm8%3Fed%3D2560&security=tls&sni=30f67sBQ8JjwmT7gYtfc14.0M68-QZ3HQYFnLAr6N3IQ.wOrkerS.deV&type=ws#Khodemoni-403200
 vless://93fa8bdb-9cca-4a3e-8355-b7c12e4f595e@104.25.5.52:443?security=tls&type=ws&path=/vl/yLWNcuUuw1jlJpkDhGy?ed=2560&host=fornewiran.ade-1000.workers.dev&packetEncoding=xudp&alpn=http/1.1&sni=FORnEwIRAn.ADE-1000.worKeRS.dev&fp=chrome&encryption=none#Khodemoni-402707
-trojan://AE62539071@engaged-skink.rooster465.autos:443?security=tls&sni=engaged-skink.rooster465.autos#Khodemoni-403213
 trojan://AE62539071@noted-bass.rooster465.autos:443?security=tls&sni=noted-bass.rooster465.autos#Khodemoni-403193
 trojan://ND91608427@3.36.59.34:443?allowInsecure=1&fp=chrome&security=tls&sni=select-ferret.rooster465.autos&type=tcp#Khodemoni-403189
 vless://7b102311-43fd-4e8f-877e-8090623c101d@103.102.228.113:443?security=tls&type=ws&path=/TelegramU0001F1E8U0001F1F3@VPNine1fp=chrome&host=vp58.cc.cd&packetEncoding=xudp&sni=vp58.cc.cd&fp=chrome#Khodemoni-403015
@@ -1570,5 +1570,3 @@ vless://37a098ab-8fec-4352-8ee8-294ae5bca68f@193.233.126.82:9443?encryption=none
 vless://928e6cce-8ced-4243-9a48-a6642edd09b0@103.149.183.198:13779?type=tcp&security=reality&path=%2F&sni=tesla.com&flow=xtls-rprx-vision&pbk=llTyp52oRXnJmQ3I9UUrmlwbMA79B-wLCRHCu-8dLGg&sid=af1bdd293097b664&fp=qq#Khodemoni-400943
 vless://928e6cce-8ced-4243-9a48-a6642edd09b0@103.149.183.198:13779?security=reality&flow=xtls-rprx-vision&pbk=llTyp52oRXnJmQ3I9UUrmlwbMA79B-wLCRHCu-8dLGg&sid=af1bdd293097b664&sni=tesla.com&type=tcp&headerType=none&host=tesla.com&path=%2F&fp=qq#Khodemoni-400888
 vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?encryption=none&security=none&type=ws&host=azsv1.drpingservice.com&path=/?telegram-marambashi_marambashi_marambashi_marambashi_marambashi?ed=512#Khodemoni-416151
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.18.37.228:443?encryption=none&security=tls&sni=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&host=josni.hoyes.cloudns.ch&path=musiclovers85?ed#Khodemoni-415320
-trojan://FH72359861@3.112.250.103:443?allowInsecure=0&sni=flexible-pony.rooster465.autos#Khodemoni-415242
