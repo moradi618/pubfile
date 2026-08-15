@@ -1,4 +1,7 @@
 vless://fbcef3f5-12d0-4f97-8309-c70ddf5c00b0@91.228.186.215:8585?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&ech=AGH%2BDQBdAAAgACDhNPMVFT43eWXk%2BlVrGoIqNlemU81nyQ7vm0GGNTb/fQAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAA45MS4yMjguMTg2LjIxNQAA&type=ws&allowInsecure=0&sni=#Khodemoni-415254
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@8.47.69.0:2095?encryption=none&host=fuckingfangbinxing.pusytroller.cf&path=%2F&security=none&type=ws#Khodemoni-374661
+vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@81.95.4.189:443?security=tls&sni=bab-6.site&type=ws&path=%2Fvws%2F&host=bab-6.site&fp=chrome#Khodemoni-400861
+trojan://humanity@188.114.98.0:443/?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#Khodemoni-022074
 trojan://AE62539071@18.194.232.212:443?fp=chrome&sni=dashing-bedbug.rooster465.autos#Khodemoni-415274
 vless://50414e45-4c5f-5a45-5553-4d64f1370eeb@88.216.69.144:443?encryption=none&security=tls&sni=r5zenrelur2s.pqzdileiu8es.workers.dev&fp=ios&insecure=0&allowInsecure=0&type=ws&host=r5zenrelur2s.pqzdileiu8es.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2F4d64f1370eeb%2Floc-0#Khodemoni-415289
 trojan://AE62539071@18.198.1.232:443?fp=chrome&sni=teaching-gnu.rooster465.autos#Khodemoni-415272
@@ -380,7 +383,3 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.148.107.30:8880/?type=ws&encryp
 trojan://AE62539071@52.194.223.176:443?security=tls&sni=clear-heron.rooster465.autos#Khodemoni-402234
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.167.167:22222?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=tcp&headerType=none#Khodemoni-415213
 trojan://UO36402987@34.251.228.118:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=definite-ladybird.rooster465.autos#Khodemoni-413760
-trojan://Telegram_healer_config@104.21.17.125:443?path=%2Ftr%2FhYgAqUlh5GyczDyXP%3Fed&security=tls&alpn=http%2F1.1&host=30f67sbq8jjwmt7gytfc14.0m68-qz3hqyfnlar6n3iq.workers.dev&fp=chrome&type=ws&sni=30f67sBQ8jJwMt7GYtfc14.0M68-Qz3hqYfnLAR6n3Iq.wORkErs.dEv#Khodemoni-308883
-vless://b0c94dd5-0c4c-6e1e-7ecf-84c386f7c748@172.67.143.54:2086?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&&sni=aged-silence-8d7d.tahaggs.workers.dev&type=ws&headerType=none&host=aged-silence-8d7d.tahaggs.workers.dev&path=/taha3#Khodemoni-415212
-vless://a8178248-3cdf-4fb0-ab7b-87c1ab77201c@8.47.69.0:8880?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&type=ws&path=/cdn/assets/stream&host=cnd.france2.gg.newwaycdn.com#Khodemoni-415211
-vless://83ca7c32-3000-4ea3-80af-38d9ea6f7ab2@193.138.77.84:5000?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=mlkem768x25519plus.native.0rtt.62O0m9ahsU1WfbvZBC3mgbvtBh_qes9sIHf0RPvFSm4&security=none&type=tcp&headerType=none#Khodemoni-415210
