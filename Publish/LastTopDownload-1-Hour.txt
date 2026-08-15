@@ -9,8 +9,6 @@ vless://e97ab92c-6067-44d8-a8ea-c8c07d33e99a@164.92.176.108:12899?security=none&
 vless://e97ab92c-6067-44d8-a8ea-c8c07d33e99a@167.99.142.236:12899?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#Khodemoni-417228
 vless://cb794985-2800-4d88-af43-018dcb678f2f@94.237.89.10:3389?encryption=none&security=none&type=tcp&headerType=none#Khodemoni-417072
 vless://e97ab92c-6067-44d8-a8ea-c8c07d33e99a@161.35.194.85:12899?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#Khodemoni-417035
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw@188.116.23.244:8388? #Khodemoni-397575
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw%3D@188.116.23.244:8388#Khodemoni-396590
 vless://ede43ede-85b5-4a0e-8bd6-57409bc2b2c9@dl0.pcapps.ir:8080?security=none&headerType=http&encryption=none&type=tcp&host=us.demonware.net#Khodemoni-417306
 vless://e7e90e6b-8069-4cb8-bad9-a3b364dd5d71@84.32.189.155:443?mode=auto&path=/&security=tls&alpn=h2&encryption=none&insecure=0&fp=firefox&type=xhttp&allowInsecure=0&sni=e7e90e6b.ferrin.uk#Khodemoni-417074
 vless://26bf95c1-b78c-40eb-b11e-b38b8962ddb2@49.13.18.224:2005?mode=auto&path=%2F&security=reality&encryption=none&pbk=l4usGn2Cy_FQPUIqX3pJnkqA7HDa6gCTl85alaEIylk&fp=chrome&type=xhttp&sni=updates.cdn-apple.com&sid=7fb595171b791a7d#Khodemoni-417275
