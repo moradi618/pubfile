@@ -12,7 +12,6 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.124.227.195:22222?Telegram=@Gozar
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU=@51.255.13.232:8388?type=tcp#Khodemoni-396875
 vmess://eyJhZGQiOiIxNzguODMuNDUuMjkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNDg0MjIzMDAtNDU4Zi00ZGJiLWIwZjUtOTZmNDU0NTBhYjlmIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIzODk5OCIsInBzIjoiS2hvZGVtb25pLTQxNTYwNiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU@51.255.13.232:8388? #Khodemoni-397125
-vless://b97eb59a-d11d-4e0c-942e-e3e3c93b279c@178.83.46.41:3030?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-415549
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU%3D@51.77.225.200:8388#Khodemoni-396588
 vless://66843e20-96cf-4332-bb4d-45b4f5dd844b@95.38.176.31:443?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-415561
 vless://66843e20-96cf-4332-bb4d-45b4f5dd844b@188.121.103.122:443?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-415562
@@ -49,6 +48,7 @@ vless://526c4eb2-9b4e-563a-b9e4-7fd6d0f28733@89.125.168.45:5000?Telegram=@Gozarg
 vmess://eyJhZGQiOiI2NS4xMDkuMTc4LjEwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImY2MzYxYWY4LWJiOGYtNDYwOS1iZjVkLTNmYzBmNjg4ZjQ3YiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NiIsInBzIjoiS2hvZGVtb25pLTM5OTg1NyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vless://88360a6d-0fd7-49ef-ad06-6397fc7a80e5@172.67.189.28:2083?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=dxcz.dearhossein-taktaz.ir&fp=chrome&type=ws&allowInsecure=0&sni=dxcz.dearhossein-taktaz.ir#Khodemoni-415567
 vless://79c9514e-aa3c-4cd0-bf0d-dd6df42039f6@151.101.56.6:443?encryption=none&security=tls&sni=ssl.fastly.com&fp=firefox&insecure=0&allowInsecure=0&type=ws&host=c12.com&path=%2F#Khodemoni-416081
+vless://e0454af2-6fe9-4983-a55d-05e1da202602@199.232.78.159:443?encryption=none&security=tls&sni=ssl.fastly.com&insecure=0&allowInsecure=0&type=ws&host=lsjaoijji.global.ssl.fastly.neT&path=/#Khodemoni-414985
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.153.151.72:22222?security=&encryption=none&headerType=none&type=tcp#Khodemoni-416006
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.124.227.195:22224?encryption=none&security=none&type=tcp#Khodemoni-415668
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.153.151.72:22222?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&headerType=none&type=tcp#Khodemoni-415600
@@ -66,7 +66,6 @@ vless://de6d11a5-d833-4f18-a4f9-464b80f0f864@83.138.53.189:4443?encryption=none&
 vless://de6d11a5-d833-4f18-a4f9-464b80f0f864@205.237.104.58:4443?encryption=none&pbk=-yJaCCGsucUDEnTTn6VJJyF0R5ZLlJAVNeIXFJYSGn8&security=reality&serviceName=grpc-service&sid=361c68748712c743&sni=dev.max.ru&type=grpc&fp=firefox#Khodemoni-415401
 vless://79c9514e-aa3c-4cd0-bf0d-dd6df42039f6@k2.cloud--vpn.site:443?path=/&security=tls&encryption=none&host=c12.com&type=ws&sni=ssl.fastly.com#Khodemoni-415318
 vless://79c9514e-aa3c-4cd0-bf0d-dd6df42039f6@151.101.56.6:443?path=/&security=tls&encryption=none&host=c12.com&type=ws&sni=ssl.fastly.com#Khodemoni-415316
-vless://e0454af2-6fe9-4983-a55d-05e1da202602@199.232.78.159:443?encryption=none&security=tls&sni=ssl.fastly.com&insecure=0&allowInsecure=0&type=ws&host=lsjaoijji.global.ssl.fastly.neT&path=/#Khodemoni-414985
 vmess://eyJ2IjoiMiIsInBzIjoiS2hvZGVtb25pLTQxNDk2OCIsImFkZCI6IjE3OC44My40NS4yOSIsInBvcnQiOiIzODk5OCIsImlkIjoiNDg0MjIzMDAtNDU4Zi00ZGJiLWIwZjUtOTZmNDU0NTBhYjlmIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiL0JlZ29vX1ZQTi9CZWdvb19WUE4vQmVnb29fVlBOL0JlZ29vX1ZQTi9CZWdvb19WUE4vQmVnb29fVlBOL0JlZ29vX1ZQTi9CZWdvb19WUE4vQmVnb29fVlBOL0JlZ29vX1ZQTi9CZWdvb19WUE4vQmVnb29fVlBOL0JlZ29vX1ZQTiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjkyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
 vless://e0454af2-6fe9-4983-a55d-05e1da202602@199.232.78.159:443?&security=tls&fp=chrome&sni=ssl.fastly.com&type=ws&headerType=none&host=lsjaoijji.global.ssl.fastly.neT.&path=%2F#Khodemoni-414915
 vless://79c9514e-aa3c-4cd0-bf0d-dd6df42039f6@151.101.56.6:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#Khodemoni-414199
