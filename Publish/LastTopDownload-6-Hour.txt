@@ -1,6 +1,5 @@
 vless://01a95af3-a2f6-453e-9f88-b2fc011627cc@92.114.24.95:43630?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&headerType=none&type=tcp#Khodemoni-358655
 vless://01a95af3-a2f6-453e-9f88-b2fc011627cc@92.114.24.95:43630?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-358419
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.167.167:22223?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-414019
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.180.184.26:22224?encryption=none&security=none&type=tcp&headerType=none#Khodemoni-414228
 vmess://eyJhZGQiOiIxNzguODMuNDUuMjkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNDg0MjIzMDAtNDU4Zi00ZGJiLWIwZjUtOTZmNDU0NTBhYjlmIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiIzODk5OCIsInBzIjoiS2hvZGVtb25pLTM5OTEzNiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.167.167:22224?encryption=none&security=none&type=tcp#Khodemoni-414122
@@ -25,13 +24,13 @@ vless://33c150b7-c0ca-4133-9a52-6f1207da9b8b@194.87.151.151:443?type=xhttp&secur
 vless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@p01.parsi.sbs:2086?encryption=none&type=ws&host=parsi.parsi.sbs&path=%2F&security=none#Khodemoni-318261
 vless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@p01.parsi.sbs:2086?type=ws&path=%2F&host=parsi.parsi.sbs&sni=p01.parsi.sbs#Khodemoni-332880
 vless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.234.238:2086?security=none&type=ws&path=/&host=parsi.parsi.sbs&sni=parsi.parsi.sbs&encryption=none#Khodemoni-327756
+vmess://eyJhZGQiOiIxMDQuMTguMzIuNDciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IlBvbDEubE9vbE9vbG9PbE9vLkNPTS4iLCJpZCI6ImFiMTYwZGU1LTBiY2ItNDk2OC1hOGQxLWFlZjU5NGEzZGE0MyIsImluc2VjdXJlIjoiMCIsIm5ldCI6Imh0dHB1cGdyYWRlIiwicGF0aCI6Ii9lZD0/MjA0OCIsInBvcnQiOiI4MDgwIiwicHMiOiJLaG9kZW1vbmktNDEzOTQzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 vless://3536e1fa-0850-44d1-b123-925ce12476cf@206.71.158.124:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&type=xhttp&security=tls&path=/kavir&host=dey.lnmarketplace.net&mode=stream-one&sni=dey.lnmarketplace.net&alpn=h2&insecure=1&allowInsecure=1#Khodemoni-377933
 vless://272b98b4-d02b-4dbc-bd8c-d8de5249b999@164.37.100.59:443?security=tls&sni=edge1.numberoneok.com&type=grpc&serviceName=rpc.v1.SyncService&fp=firefox#Khodemoni-402592
 vless://272b98b4-d02b-4dbc-bd8c-d8de5249b999@164.37.100.59:443?type=grpc&security=tls&sni=edge1.numberoneok.com&mode=gun&serviceName=rpc.v1.SyncService&fp=firefox#Khodemoni-402538
 vless://d0f4d620-db2b-45e0-8353-a073461b1130@new01.asaltabie.monster:443?security=tls&sni=new01.asaltabie.monster&type=ws&path=%2F&host=new01.asaltabie.monster&fp=qq#Khodemoni-402510
 vless://d0f4d620-db2b-45e0-8353-a073461b1130@new01.asaltabie.monster:443?security=tls&sni=new01.asaltabie.monster&type=ws&path=%2F&host=new01.asaltabie.monster&fp=ios#Khodemoni-402509
 vless://272b98b4-d02b-4dbc-bd8c-d8de5249b999@164.37.100.59:443?alpn=h2&authority=edge1.numberoneok.com&encryption=none&security=tls&serviceName=rpc.v1.SyncService&sni=edge1.numberoneok.com&type=grpc&fp=ios#Khodemoni-400194
-vless://272b98b4-d02b-4dbc-bd8c-d8de5249b999@164.37.100.59:443?alpn=h2&authority=edge1.numberoneok.com&encryption=none&security=tls&serviceName=rpc.v1.SyncService&sni=edge1.numberoneok.com&type=grpc&fp=firefox#Khodemoni-400193
 vless://272b98b4-d02b-4dbc-bd8c-d8de5249b999@164.37.100.59:443?encryption=none&type=grpc&mode=gun&serviceName=rpc.v1.SyncService&security=tls&fp=firefox&sni=edge1.numberoneok.com&alpn=h2#Khodemoni-399752
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU=@51.255.13.232:8388?type=tcp#Khodemoni-396875
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU=@51.255.13.232:8388#Khodemoni-396874
