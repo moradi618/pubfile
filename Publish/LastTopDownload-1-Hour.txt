@@ -1,6 +1,5 @@
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.78.155.1:22224?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=tcp#Khodemoni-416723
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.74.196.166:22222?encryption=none&amp;security=none&amp;type=tcp#Khodemoni-416728
-vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?encryption=none&security=none&type=ws&host=azsv1.drpingservice.com&path=/?telegram-marambashi_marambashi_marambashi_marambashi_marambashi?ed=512#Khodemoni-416151
 vless://a382aa45-22d5-4a8c-86cc-ad11d1f2800f@45.65.112.228:20513?security=reality&encryption=none&pbk=CTfSuRE6fUPYVBJGsmOYnP3UketmmTJSQP45OcoGI2k&headerType=none&fp=chrome&type=tcp&sni=updates.cdn-apple.com&sid=9f3921483225ccf8#Khodemoni-414931
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.78.155.1:22222?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=tcp#Khodemoni-416731
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.78.155.1:22223?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=tcp#Khodemoni-416732
