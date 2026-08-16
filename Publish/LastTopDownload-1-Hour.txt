@@ -1,4 +1,3 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.157.224.206:22222?encryption=none&security=none&type=tcp#Khodemoni-418152
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.157.224.206:22224?encryption=none&security=none&type=tcp#Khodemoni-418153
 vless://50b9918d-8197-4278-876a-5939400998b8@94.237.91.161:3389?type=tcp&encryption=none&path=%2F&host=zula.ir&headerType=http&security=none#Khodemoni-418191
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozamg0QWFKVGxwaHJ6VTdUSE5qdlkwNUk1ZHlPOHJ3Ng@93.119.195.172:16#Khodemoni-418193
