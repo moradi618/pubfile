@@ -1,3 +1,7 @@
+vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?path=%2F%3FTELEGRAM-vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr%3Fed%3D512&security=none&encryption=none&host=azsv1.drpingservice.com&type=ws#Khodemoni-145955
+vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=none&encryption=none&host=azsv1.drpingservice.com&type=ws#Khodemoni-143437
+vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?encryption=none&type=ws&path=%2F&host=azsv1.drpingservice.com#Khodemoni-082627
+vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?path=%2F&security=&encryption=none&host=azsv1.drpingservice.com&type=ws#Khodemoni-094469
 vless://a06119a7-4f1a-4592-86d9-e050a332b2b3@65.109.188.209:3389?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=NSlhQMA6VBgHPp7RsErk3hEdKuWPO0eeLdxgssfwbmY&sid=c6cbc90da6316b21&type=tcp&headerType=none#Khodemoni-396061
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@mws.tunnelgate.org:14443?&security=tls&fp=qq&alpn=http%2F1.1&sni=mws.tunnelgate.org&type=ws&headerType=none&host=mws.tunnelgate.org&path=%2Fru#Khodemoni-417593
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6V1Y1OVRaM3RCMTFQSTVJWkRrVGNQWXlqYXFZQW1jVnVrZXR6OHdQWUxyZz0@137.131.212.166:59319#Khodemoni-417594
