@@ -1,3 +1,5 @@
+vless://f4e6476f-40d0-40cb-841f-cc2f6909ff20@104.21.23.72:8880?path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none&encryption=none&host=calm-haze-d105.21-7cd.workers.dev&type=ws#Khodemoni-177315
+vless://50414e45-4c5f-5a45-5553-9568000eed47@162.159.93.59:443?encryption=none&security=tls&sni=urzpn8e9ub5s.shoameni2.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=urzpn8e9ub5s.shoameni2.workers.dev&path=/stream/PANEL_ZEUS/9568000eed47#Khodemoni-399870
 vless://5a4d9f40-56db-402a-9fbc-31c9229bdcf6@104.21.89.181:8880?encryption=none&security=none&type=ws&host=floral-resonance-4baf.468.workers.dev&path=%2Fpyip%3Dproxyip.us.cmliussss.net#Khodemoni-415768
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.188.30:8880?type=ws&host=vms.lifetime18.workers.dev&path=/#Khodemoni-143343
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.wto.org:2095?encryption=none&type=ws&path=/&host=cnmfangbinxing.cnmfangbinxing-f.workers.dev&fp=chrome#Khodemoni-171216
