@@ -1,4 +1,5 @@
 trojan://FH72359861@funny-squid.rooster465.autos:443?security=tls#Khodemoni-417715
+vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@www.visa.cn:443?&security=tls&fp=chrome&sni=tl.520783.xyz&type=ws&headerType=none&host=tl.520783.xyz&path=/assets/dist/app-update-payload.dat#Khodemoni-417745
 trojan://FH72359861@43.202.61.210:443?security=tls&sni=loyal-molly.rooster465.autos#Khodemoni-417721
 ss://YWVzLTI1Ni1nY206SWpMamxIYk5DZ3cyRDRkVg@212.192.15.41:8388#Khodemoni-417724
 vless://45172ad2-bfb4-4403-a525-2b60b4e75985@185.126.236.181:2053?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/&security=none&encryption=none&host=www.icloud.com&type=ws#Khodemoni-417750
