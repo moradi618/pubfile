@@ -1,3 +1,7 @@
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@195.184.247.238:443?security=reality&encryption=none&pbk=6z3YcVP0f2pK3iANKIkBUZOgNeErDjxY83mHZG5jrnI&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=savesafe.co&sid=f63805c3ecc7a483#Khodemoni-422718
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@195.184.247.238:443?encryption=none&flow=xtls-rprx-vision&pbk=6z3YcVP0f2pK3iANKIkBUZOgNeErDjxY83mHZG5jrnI&security=reality&sid=f63805c3ecc7a483&sni=savesafe.co&type=tcp&fp=firefox#Khodemoni-422919
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@195.184.247.238:443?encryption=none&flow=xtls-rprx-vision&pbk=6z3YcVP0f2pK3iANKIkBUZOgNeErDjxY83mHZG5jrnI&security=reality&sid=f63805c3ecc7a483&sni=savesafe.co&type=tcp&fp=ios#Khodemoni-422920
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@195.184.247.238:443?security=reality&encryption=none&pbk=6z3YcVP0f2pK3iANKIkBUZOgNeErDjxY83mHZG5jrnI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=savesafe.co&sid=f63805c3ecc7a483#Khodemoni-423112
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.234.172:62145?#Khodemoni-423785
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.170.175:62145?#Khodemoni-423788
 vless://00b41e07-68e6-46b0-928f-a02becd4e398@site1.awextr.ir:2095?path=%2F&security=&encryption=mlkem768x25519plus.native.0rtt.Mx0f1kLg9E0uQfA79cfhs8n6akrAp8vej3lxYml4aDU&host=www.varzesh3.com&type=httpupgrade#Khodemoni-423790
