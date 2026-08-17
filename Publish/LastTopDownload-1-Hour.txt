@@ -1,6 +1,4 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.180.97.199:22224?encryption=none&security=none&type=tcp#Khodemoni-419307
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.199.26.134:22222?encryption=none&amp;security=none&amp;type=tcp#Khodemoni-421911
-vless://c7333a4e-b8c9-44d4-aee6-f73bfe203902@france2.spaidan.ir:50701?security=&encryption=none&headerType=&type=tcp#Khodemoni-420776
 vless://67770c79-6faa-4969-bdca-f8995c3bd884@testtt.botdegeris.ir:58752?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-421932
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCWnBnZWdCUFFaSlIyN0pOdkxrWmRR@Library.amozesh-kade.ir:4099?type=tcp#Khodemoni-421939
 vless://67770c79-6faa-4969-bdca-f8995c3bd884@testtt.botdegeris.ir:58752?security=&encryption=none&headerType=none&type=tcp#Khodemoni-421927
@@ -18,7 +16,6 @@ vless://57d430fa-6b15-41ba-9b94-05a05b64fd66@gzipd.restaurantbomb.com:1758?secur
 vless://94ae7a6c-8593-4455-80a3-f1fb2bd71744@ir2.golden98.ir:12937?type=ws&encryption=none&path=%2F&host=&security=none#Khodemoni-421905
 vless://62a08ea5-0564-47b4-a92c-25be07ad6358@31.77.154.46:443?security=reality&spx=/&fp=chrome&serviceName=grpc&type=grpc&sid=6ba85179e30d4fc2&sni=360.yandex.ru&pbk=ne8wv6o6AYcQoVvz30PiTjSxviGa3_Kw5ClIEDdg-3A&encryption=none#Khodemoni-421954
 vless://62a08ea5-0564-47b4-a92c-25be07ad6358@31.77.154.46:443?mode=gun&security=reality&encryption=none&pbk=ne8wv6o6AYcQoVvz30PiTjSxviGa3_Kw5ClIEDdg-3A&fp=firefox&spx=%2F&type=grpc&serviceName=grpc&sni=360.yandex.ru&sid=6ba85179e30d4fc2#Khodemoni-421934
-vless://62b72631-985d-4768-8b5a-7cc06753e0f0@america.koexp.ru:9443?type=xhttp&security=reality&fp=qq&pbk=-yJaCCGsucUDEnTTn6VJJyF0R5ZLlJAVNeIXFJYSGn8&sid=361c68748712c743&sni=america.koexp.ru&mode=packet-up#Khodemoni-420825
 vless://57d430fa-6b15-41ba-9b94-05a05b64fd66@klsjdo.restaurantbomb.com:1758?security=reality&encryption=none&pbk=YHpxdq3UWoSZyk_mw5hUWvSkWIN4A8bksnnxrfHrzBE&headerType=none&fp=firefox&type=tcp&sni=www.yahoo.com&sid=b5516a2b1bdcb4f6#Khodemoni-421917
 vless://57d430fa-6b15-41ba-9b94-05a05b64fd66@klsjdo.restaurantbomb.com:1758?security=reality&encryption=none&pbk=YHpxdq3UWoSZyk_mw5hUWvSkWIN4A8bksnnxrfHrzBE&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=b5516a2b1bdcb4f6#Khodemoni-421951
 vmess://eyJhZGQiOiIxMzQuMTk1LjE5OC4xNDciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJLaG9kZW1vbmktMDU5Nzk0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
