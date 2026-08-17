@@ -36,7 +36,6 @@ vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?mode=stre
 vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?security=tls&encryption=none&insecure=1&host=Telegram-NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP&headerType=none&type=tcp&allowInsecure=1&sni=186.190.211.188#Khodemoni-140081
 vless://fd22ad82-2d89-4338-b72c-5092ae699c7d@8.47.69.0:8880?allowInsecure=0&sni=rutube.ummapeople.online&type=ws&host=rutube.ummapeople.online&path=/rutube#Khodemoni-325905
 vless://bd73cb46-5d86-42ca-ac4e-e702825a221a@193.111.78.106:61134?encryption=mlkem768x25519plus.native.0rtt.fifrfSw33WQdkPjmBmNvrLDaYE_6hmHOH-dcI_rRblA&security=none&type=ws&headerType=none&path=/&host=node.badrangteb.ir#Khodemoni-416181
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.35.15:2095?security=none&type=ws&path=/&host=fuckingfangbinxing.pusytroller.cf&packetEncoding=xudp#Khodemoni-329550
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206TGRld25IT2pEN0xieFpsY3BTWDBFTmZhVXhlTk9OWnN6MFU2c0xIUVNKbz06QTR2YzF6dkVQQk1pdDRqYWpDL3pqZWVHTElBZ2F6eVBvckUyb3dLWFpjZz0@91.107.155.114:1943#Khodemoni-420916
 vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@194.71.227.213:443?encryption=none&fp=chrome&host=kjgdksgghre466.pages.dev&path=%2F&security=tls&sni=kjgdksgghre466.pages.dev&type=ws#Khodemoni-421834
 vless://e25486c7-3342-4777-a82d-89d485f844dc@45.13.151.46:48689?path=/host&security=none&encryption=none&host=www.filimo.com&type=httpupgrade#Khodemoni-421887
