@@ -1,3 +1,4 @@
+vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@5.187.7.220:443?encryption=none&type=ws&security=tls&path=/api/v1/irc&host=vod.ensf.top&sni=vod.ensf.top&fp=chrome&insecure=0&allowInsecure=0#Khodemoni-416679
 trojan://QV31589740@51.44.160.58:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=great-krill.rooster465.autos#Khodemoni-398860
 vless://c2ab50ae-7520-4d34-bd34-d6d5cf1b6faa@spider-panel-production-c21d.up.railway.app:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=tls&type=ws&host=&path=/ws/c2ab50ae-7520-4d34-bd34-d6d5cf1b6faa&sni=&fp=chrome&alpn=http/1.1#Khodemoni-421960
 trojan://MiTiVPN@199.232.78.160:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/s-g@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&host=s44-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&sni=react.dev#Khodemoni-421981
@@ -126,7 +127,6 @@ vless://c7333a4e-b8c9-44d4-aee6-f73bfe203902@france2.spaidan.ir:50701?security=&
 vless://62b72631-985d-4768-8b5a-7cc06753e0f0@america.koexp.ru:9443?type=xhttp&security=reality&fp=qq&pbk=-yJaCCGsucUDEnTTn6VJJyF0R5ZLlJAVNeIXFJYSGn8&sid=361c68748712c743&sni=america.koexp.ru&mode=packet-up#Khodemoni-420825
 vmess://eyJ2IjoiMiIsInBzIjoiS2hvZGVtb25pLTIxNDk3OCIsImFkZCI6IjIxNy4xNDIuMTM4LjYxIiwicG9ydCI6IjgwIiwidHlwZSI6Imh0dHAiLCJpZCI6ImFjMWI5MzNkLWFmZmYtNDQ4Ny05M2VmLWY1NzEzMGE1NWRmZiIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
 vless://896002a8-3afc-49e6-8fac-5129fb717b49@83.138.53.193:443?encryption=none&fp=qq&pbk=-yJaCCGsucUDEnTTn6VJJyF0R5ZLlJAVNeIXFJYSGn8&security=reality&serviceName=grpc&sid=361c68748712c743&sni=centraleurope.koexp.ru&type=grpc#Khodemoni-418351
-trojan://FH72359861@108.130.49.217:443?allowInsecure=1&sni=concise-bass.rooster465.autos#Khodemoni-418482
 trojan://AE62539071@rich-mule.rooster465.autos:443?fp=chrome&security=tls&sni=rich-mule.rooster465.autos&type=tcp#Khodemoni-420056
 trojan://FH72359861@helping-shark.rooster465.autos:443?allowInsecure=0&sni=helping-shark.rooster465.autos#Khodemoni-417348
 trojan://FH72359861@live-stallion.rooster465.autos:443?fp=chrome&security=tls&sni=live-stallion.rooster465.autos&type=tcp#Khodemoni-420071
