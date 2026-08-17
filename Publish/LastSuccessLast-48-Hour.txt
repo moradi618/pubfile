@@ -124,8 +124,8 @@ vless://18a7834f-bf89-4c87-ad57-49927a56deed@104.21.88.129:8880?encryption=none&
 vless://31f345f3-b8eb-4ca6-8b14-bb555ae2c1f9@172.67.187.219:8880?security=none&type=ws&host=tiny-feather-4c41.227.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#Khodemoni-147193
 vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@172.64.156.60:443?encryption=none&security=tls&sni=powered-by-surena.configfarsi6982dd6e0355e.workers.dev&type=ws&host=powered-by-surena.configfarsi6982dd6e0355e.workers.dev&path=/ #Khodemoni-170290
 vless://9e65fe63-b771-c63d-5272-fdd700000000@172.67.202.43:443?security=tls&sni=nameless-moon-7c4d.shafmrhjlos23.workers.dev&type=ws&host=nameless-moon-7c4d.shafmrhjlos23.workers.dev&path=%2Fvasl&fp=chrome&allowInsecure=0#Khodemoni-147620
-vless://59a0424b-d36b-4685-bac5-89d50d8969a8@104.16.100.66:8880?&security=none&type=ws&headerType=&host=billowing-snowflake-f056.63-f14.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#Khodemoni-147589
 vless://fba6d1fd-0dab-428d-ae71-0e64c73a6060@104.21.12.116:8880?encryption=none&security=none&type=ws&host=morning-wood-0e8a.28-63e.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net #Khodemoni-146587
+vless://59a0424b-d36b-4685-bac5-89d50d8969a8@104.16.100.66:8880?&security=none&type=ws&headerType=&host=billowing-snowflake-f056.63-f14.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#Khodemoni-147589
 vless://31f345f3-b8eb-4ca6-8b14-bb555ae2c1f9@172.66.140.62:8880/?type=ws&encryption=none&flow=&host=tiny-feather-4c41.227.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#Khodemoni-169083
 vless://c9d1b8e6-f28a-419f-2581-97ad3258c320@8.6.112.224:443/?type=ws&encryption=none&flow=&host=withered-cake-d636.asfvgsrhtrzdbvcgfn.workers.dev&path=%2Fkbapqjwhbsjwoqjhskso&security=tls&sni=withered-cake-d636.asfvgsrhtrzdbvcgfn.workers.dev&fp=chrome#Khodemoni-169257
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@173.245.49.50:8880?encryption=none&security=none&type=ws&host=vms.lifetime36.workers.dev&path=%2F%3Fed%3D2560#Khodemoni-147641
@@ -1301,8 +1301,8 @@ vless://25322a43-4ef3-45cc-9e96-db44bcccd7be@104.21.56.202:8880?path=/pyip=Proxy
 vless://5990e0a5-fc5f-43c6-8fdc-39612c60a9cd@skk.moe:8880?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/pyip&security=none&encryption=none&host=jolly-butterfly-24e0.212-cb3.workers.dev&type=ws#Khodemoni-393806
 vless://0787cfdb-9930-4abb-8419-c1b96c3ef628@172.67.190.141:8880?security=none&type=ws&host=red-snowflake-c399.12-ee1.workers.dev#Khodemoni-393708
 vless://84270e8b-567e-45c6-b2f2-56ec9a67ae1e@104.21.12.116:8880?path=%2Fpyip&security=&encryption=none&host=young-leaf-a723.162-4da.workers.dev&type=ws#Khodemoni-393752
-vless://84270e8b-567e-45c6-b2f2-56ec9a67ae1e@172.64.80.1:8880?host=young-leaf-a723.162-4da.workers.dev&path=%2Fpyip&security=none&type=ws#Khodemoni-393925
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.37.228:443?path=%2Fsg-melbi%23TELEGRAM-PROXY_MTM%3Fed%3D512&security=tls&encryption=none&host=hhlfy.twiladaphne.ndjp.net&type=ws&sni=hhlfy.twiladaphne.ndjp.net#Khodemoni-383025
+vless://84270e8b-567e-45c6-b2f2-56ec9a67ae1e@172.64.80.1:8880?host=young-leaf-a723.162-4da.workers.dev&path=%2Fpyip&security=none&type=ws#Khodemoni-393925
 vless://5d0fbb28-3be3-4044-bc5b-e4b7ca1916c7@31.177.82.106:2200?path=%2Fv1&security=&encryption=none&type=ws#Khodemoni-396422
 vless://f3d7ebbc-03a1-40f9-a911-ae8628d3927a@codecanyon.net:8880?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/pyip=ProxyIP.KR.CMLiussss.net&security=none&encryption=none&host=dawn-waterfall-6052.360-001.workers.dev&type=ws#Khodemoni-393820
 vless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.233.238:2086?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=ws&host=parsi.parsi.sbs&path=/#Khodemoni-397615
