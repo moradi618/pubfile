@@ -1,12 +1,15 @@
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@195.184.247.238:443?encryption=none&flow=xtls-rprx-vision&pbk=6z3YcVP0f2pK3iANKIkBUZOgNeErDjxY83mHZG5jrnI&security=reality&sid=f63805c3ecc7a483&sni=savesafe.co&type=tcp&fp=firefox#Khodemoni-422919
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@195.184.247.238:443?encryption=none&flow=xtls-rprx-vision&pbk=6z3YcVP0f2pK3iANKIkBUZOgNeErDjxY83mHZG5jrnI&security=reality&sid=f63805c3ecc7a483&sni=savesafe.co&type=tcp&fp=ios#Khodemoni-422920
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@195.184.247.238:443?security=reality&encryption=none&pbk=6z3YcVP0f2pK3iANKIkBUZOgNeErDjxY83mHZG5jrnI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=savesafe.co&sid=f63805c3ecc7a483#Khodemoni-423112
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.234.172:62145?#Khodemoni-423785
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.170.175:62145?#Khodemoni-423788
 vless://00b41e07-68e6-46b0-928f-a02becd4e398@site1.awextr.ir:2095?path=%2F&security=&encryption=mlkem768x25519plus.native.0rtt.Mx0f1kLg9E0uQfA79cfhs8n6akrAp8vej3lxYml4aDU&host=www.varzesh3.com&type=httpupgrade#Khodemoni-423790
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6QUtpa1ZpRS9tOE9sVkVmanlvd28vS0V1eGlmZWE1aEZVRFlUbG9JMlNXOD0=@161.118.225.233:56927#Khodemoni-423784
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6dk5MeGxWdmZQSjBYdXA3dnlFMDNZQXRpM3ljRXJZeTNwVHhicHZ4SzBHST0=@129.146.72.157:50356#Khodemoni-423782
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6T3NScGNkSTc4R3ZzcVlOQVRISUd5eTY5cFJ2US8vNSs2bTNBQ1JwYTFMND0=@129.146.200.192:50356#Khodemoni-423783
 vless://cd477134-ffce-473a-8dca-8ce5fc6eb3eb@216.167.54.75:47212?#Khodemoni-423780
 vless://c7e9c591-2764-423a-afca-efbd010fd396@145.239.85.117:2053?path=%2F&security=tls&encryption=none&insecure=0&host=forfreeuse.rtqa.ru&type=ws&allowInsecure=0&sni=forfreeuse.rtqa.ru#Khodemoni-423789
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6QUtpa1ZpRS9tOE9sVkVmanlvd28vS0V1eGlmZWE1aEZVRFlUbG9JMlNXOD0=@161.118.225.233:56927#Khodemoni-423784
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.148.225.158:62145?#Khodemoni-423786
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.170.175:62145?#Khodemoni-423788
 vless://f4685d27-73e3-4588-9622-add50b84046a@179.254.126.218:9800?&type=tcp&headerType=none&path=%2F#Khodemoni-423787
 vless://9a734231-b3cb-4d97-86e8-0207579d24f4@5.252.26.38:4433?security=&encryption=mlkem768x25519plus.native.0rtt.bE0oh2DRWjm2hpQ8J_Yr3V3qjcIOUiJLc2DpniZKwDQ&host=icloud.com&headerType=http&type=tcp#Khodemoni-423791
 vmess://eyJhZGQiOiJwbGFuYi5tb2pjbi5jb20ubGludXhsaC54aW4iLCJhaWQiOiIwIiwiaG9zdCI6IjQwN2EyYmM2ZDQ1MmZmOTNlNmQ3YjczMDc4NTM5ZDllLm1vYmdzbGIudGJjYWNoZS5jb20iLCJpZCI6Ijk3YzYzOGM2LTg2ZDUtNGNmNi1iNzBiLTExNGM2ODA5YjYzNyIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMTY2MzIiLCJwcyI6Iktob2RlbW9uaS00MjI2MTkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
