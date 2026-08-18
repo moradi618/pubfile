@@ -1,3 +1,4 @@
+vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@45.130.125.162:2053?path=%2F&security=tls&encryption=none&insecure=0&host=po.fastbrokencompony.com&fp=ios&type=ws&allowInsecure=0&sni=po.fastbrokencompony.com#Khodemoni-238338
 trojan://AE62539071@18.179.200.238:443?sni=safe-frog.rooster465.autos&type=tcp&fp=chrome#Khodemoni-426396
 vless://76385932-bb44-4718-9085-5741fd1a5b1a@us.samanehha.io:800?encryption=none&type=xhttp&path=%2F%3Fed%3D2048&host=us.samanehha.io&mode=stream-one&security=none#Khodemoni-426389
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.138.74:22223?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-426388
@@ -42,7 +43,6 @@ vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@cf.levikogjgfdd.ir:2053?path=/?ed=2
 trojan://humanity@45.130.125.112:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#Khodemoni-142952
 vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@18.239.83.52:443?security=tls&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=d1yxsk0zprgivr.cloudfront.net#Khodemoni-370932
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.138.74:22224?encryption=none&security=none&type=tcp#Khodemoni-426350
-vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@45.130.125.162:2053?path=%2F&security=tls&encryption=none&insecure=0&host=po.fastbrokencompony.com&fp=ios&type=ws&allowInsecure=0&sni=po.fastbrokencompony.com#Khodemoni-238338
 trojan://humanity@104.18.8.83:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment#Khodemoni-256160
 vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=stream-one&path=/kavir&security=tls&alpn=h2&encryption=none&extra={"noGRPCHeader":true,"xmux":{"maxConcurrency":"6","hKeepAlivePeriod":12},"headers":{"User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/101.0.4951.67Safari/537.36"}}&insecure=0&host=&fp=chrome&type=xhttp&allowInsecure=0&sni=#Khodemoni-287577
 vless://2aa2be33-b987-461e-8d0e-2ffe15cb8e4c@141.11.149.200:11650/?type=tcp&encryption=none&flow=#Khodemoni-320933
