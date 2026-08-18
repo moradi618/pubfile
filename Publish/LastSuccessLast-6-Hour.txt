@@ -1,3 +1,7 @@
+vless://50c91104-c1fc-471e-914f-3ad252a0a34c@cf4.466688.xyz:8880?security=none&type=ws&path=/pyip=ProxyIP.US.CMLiussss.net@https://t.me/QiangLieTuiJian&host=quiet-snowflake-e1dd.374-ac3.workers.dev&packetEncoding=xudp&encryption=none#Khodemoni-311588
+trojan://FH72359861@engaged-lionfish.rooster465.autos:443?allowInsecure=0&sni=engaged-lionfish.rooster465.autos#Khodemoni-417325
+trojan://FH72359861@champion-panther.rooster465.autos:443?allowInsecure=0&sni=champion-panther.rooster465.autos#Khodemoni-417357
+trojan://ND91608427@15.237.137.197:443?security=tls&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&sni=fancy-skink.rooster465.autos#Khodemoni-378654
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw=@188.116.23.244:8388#Khodemoni-396877
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw@188.116.23.244:8388#Khodemoni-396388
 vless://fbca467d-cb8a-4dac-b513-efe5fdd5c591@104.16.71.190:443?encryption=none&type=ws&security=tls&path=%2FeyJqdW5rIjoicmZSdVpuclVkaSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&sni=PLAiN-ShaDoW-821F.PfEgehEjRRjRjjrj.WORKerS.dev&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#Khodemoni-259900
