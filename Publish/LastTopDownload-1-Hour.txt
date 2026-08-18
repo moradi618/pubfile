@@ -2,6 +2,7 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.180.32.154:22224?&type=tcp&heade
 vless://99d6bdee-1d04-455e-8ad9-43fc14b544b4@94.237.93.20:33651?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-424574
 vless://4bea7803-9942-4cf7-ae48-283878dc6c0d@94.237.93.20:33651?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-424571
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.79.218.80:22224?&type=tcp&headerType=none&path=%2F#Khodemoni-424530
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw=@188.116.23.244:8388#Khodemoni-396877
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.70.32:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=t_qv0VOfWhKZJV_giGC55-ipgHYWo44Yfvik_B8T8ik&security=reality&sid=4a46213c935e2ee4&sni=baltic.cendora.ru&type=tcp#Khodemoni-424569
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@83.143.112.146:443?security=reality&encryption=none&pbk=YQTixaXzPVImuRc4TUbrFAekjIiaYV-t5S-HTKlH0AU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nordic.cendora.ru&sid=2186a755ed67b034#Khodemoni-424523
 vless://7412605e-18de-4b34-af4e-82e9f544cc24@ge-isdf.slovovpn.com:42321?encryption=none&fp=&pbk=C8lo017EXpVnG_TxCYibs_NBzbgoW-61IQH4qZhHGmw&security=reality&sid=3f080f861d7f&sni=www.github.com&type=tcp#Khodemoni-424542
