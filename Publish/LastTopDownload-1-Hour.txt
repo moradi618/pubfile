@@ -76,7 +76,6 @@ vless://e0454af2-6fe9-4983-a55d-05e1da202602@151.101.56.7:443?path=%2F&security=
 vless://a8307b5d-2d9e-4d34-912d-5b5dd8340082@uk.zelnora.ir:64584?security=&encryption=none&headerType=&type=tcp#Khodemoni-426383
 vless://16ab4d4a-fd81-4535-9b7b-346677226ce8@2.27.201.57:2053?authority=grpc-kx-a7f3m2q9ds&encryption=none&pbk=0DYv-zQp_9zz2MoLjwLSqOyhWRU7DcC8c_pvq6sLjkg&security=reality&serviceName=ni.cryptoofarm.com&sid=8b97509663&sni=ni.cryptoofarm.com&type=grpc&fp=firefox#Khodemoni-426512
 vless://5238521b-c5dd-42af-870e-c174a2aaaafe@199.189.253.213:13443?encryption=none&security=reality&sni=auto.cendora.ru&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&sid=a7f3c91b2e6d84c0&flow=xtls-rprx-vision&fp=safari#Khodemoni-426440
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.138.74:22224?encryption=none&security=none&type=tcp#Khodemoni-426350
 vless://b80b392c-0cf4-42f9-ae54-9f862e3ba276@103.195.4.7:13443?encryption=none&security=reality&sni=auto.cendora.ru&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&sid=a7f3c91b2e6d84c0&flow=xtls-rprx-vision&fp=chrome#Khodemoni-426537
 vless://b80b392c-0cf4-42f9-ae54-9f862e3ba276@103.195.4.7:13443?encryption=none&security=reality&sni=auto.cendora.ru&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&sid=a7f3c91b2e6d84c0&flow=xtls-rprx-vision&fp=qq#Khodemoni-426424
 vless://b80b392c-0cf4-42f9-ae54-9f862e3ba276@103.195.4.7:13443?encryption=none&security=reality&sni=auto.cendora.ru&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&sid=a7f3c91b2e6d84c0&flow=xtls-rprx-vision&fp=edge#Khodemoni-426423
