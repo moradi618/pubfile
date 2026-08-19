@@ -1,3 +1,5 @@
+vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@18.154.132.94:443?fp=chrome&host=d1yxsk0zprgivr.cloudfront.net&path=%2F&security=tls&sni=d1yxsk0zprgivr.cloudfront.net&type=ws#Khodemoni-403071
+vless://9f58cd6c-ef20-4cd8-ace3-519b9d45edb4@www.speedtest.net:443?security=tls&type=ws&path=%2FeyJqdW5rIjoicHpFUzNPWGoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&host=fjvpcvzq6g9jioa1idl437xj27rktat7.pouriarahem46.workers.dev&alpn=http%2F1.1&sni=FjvpCvzQ6g9Jioa1idl437XJ27rKTAt7.pOuRIaRaHeM46.wOrKeRS.Dev&fp=chrome&encryption=none#Khodemoni-427118
 trojan://FH72359861@pleased-sawfly.rooster465.autos:443?fp=chrome&security=tls&sni=pleased-sawfly.rooster465.autos&type=tcp#Khodemoni-419921
 trojan://AE62539071@35.72.10.188:443?security=tls&sni=immortal-woodcock.rooster465.autos#Khodemoni-419968
 trojan://AE62539071@13.250.126.30:443?allowInsecure=1&fp=chrome&security=tls&sni=adapted-martin.rooster465.autos&type=tcp#Khodemoni-420018
