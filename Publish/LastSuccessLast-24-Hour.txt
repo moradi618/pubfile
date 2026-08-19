@@ -1,3 +1,5 @@
+trojan://PQ05174892@54.199.28.234:443?sni=robust-toucan.rooster465.autos&allowInsecure=1&type=tcp#Khodemoni-427117
+vless://d195909a-eff4-489d-a261-955b904894cb@time.is:443?path=%2FeyJqdW5rIjoieUhYMWhoZEVEIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19%3Fed%3D2560&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=free.server6peekconfig.workers.dev.&fp=ios&type=ws&allowInsecure=0&sni=fREE.sERVer6PeeKCOnFIG.wOrkErs.dEv.#Khodemoni-346551
 vless://50414e45-4c5f-5a45-5553-60c86b8747e5@courses.zigapacademy.ir:443?path=/api/ws&security=tls&encryption=none&insecure=0&host=web-app-aug8yr.app-f1qsy1.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=web-app-aug8yr.app-f1qsy1.workers.dev&fragment=tlshello,100-200,1-1,100-200#Khodemoni-423059
 vless://50414e45-4c5f-5a45-5553-6f51879c0594@one-for-all.levikogjgfdd.ir:2053?path=/&security=tls&fragment=200-3000,1-2&encryption=none&insecure=0&host=levikoconfig.levikogjgfdd.ir&fp=chrome&type=ws&allowInsecure=0&sni=levikoconfig.levikogjgfdd.ir#Khodemoni-283280
 vless://624dbb1d-d38b-4ed1-a967-f483af364eca@news.zoom.us:8443?type=ws&encryption=none&path=%2F&host=zero.csmaster.ggff.net&security=tls&alpn=h3%2Ch2%25%C3%83%C2%A2%C3%82%C2%80%C3%82%C2%A6&fp=qq#Khodemoni-423002
@@ -114,7 +116,6 @@ vless://c7e9c591-2764-423a-afca-efbd010fd396@195.133.94.188:2053?path=%2F%3FTELE
 trojan://ND91608427@57.180.27.225:443?security=tls&sni=picked-guinea.rooster465.autos#Khodemoni-359066
 trojan://AE62539071@13.212.173.162:443?security=tls&sni=integral-quetzal.rooster465.autos#Khodemoni-420008
 vless://2a88091e-e3f8-4478-9751-6ce0557a7f2e@185.247.16.117:2200?encryption=none&security=none&type=ws&host=rzd.ru&path=%2Fv1#Khodemoni-417423
-trojan://FH72359861@202.78.163.233:443?security=tls&sni=magnetic-caiman.rooster465.autos#Khodemoni-422703
 vless://c7e9c591-2764-423a-afca-efbd010fd396@31.133.0.133:2053?encryption=none&host=forfreeuse.rtqa.ru&path=%2F&security=tls&sni=forfreeuse.rtqa.ru&type=ws#Khodemoni-422715
 vless://fa4babae-cea3-49b1-9d6f-342495a46ea9@201.24.49.62:3?&type=tcp&headerType=none&path=%2F#Khodemoni-424650
 vless://b1b99d33-8df1-4c74-b140-28941b43a4d2@deepl.com:8880?security=none&type=ws&path=/pyip=ProxyIP.KR.CMLiussss.net&host=nameless-poetry-cc33.268-910.workers.dev&packetEncoding=xudp&encryption=none#Khodemoni-425564
@@ -704,7 +705,6 @@ vless://84270e8b-567e-45c6-b2f2-56ec9a67ae1e@172.64.80.1:8880?host=young-leaf-a7
 vless://b0c94dd5-0c4c-6e1e-7ecf-84c386f7c748@172.67.143.54:2086?&sni=aged-silence-8d7d.tahaggs.workers.dev&type=ws&headerType=none&host=aged-silence-8d7d.tahaggs.workers.dev&path=/taha3#Khodemoni-393811
 vless://f12cc297-c9ce-4cdb-98d4-8e47c3f09644@172.64.153.11:8880?security=none&encryption=none&host=weathered-union-5358.101-262.workers.dev&type=ws#Khodemoni-396290
 vless://f32b0ea8-5b9f-4ee2-b20c-0bdfd2057e1d@172.67.174.37:8880?path=/pyip=ProxyIP.KR.CMLiussss.net&security=&encryption=none&host=throbbing-shape-b190.478-57a.workers.dev&type=ws#Khodemoni-396809
-trojan://QV31589740@51.44.160.58:443?security=tls&sni=great-krill.rooster465.autos#Khodemoni-395467
 vless://a06119a7-4f1a-4592-86d9-e050a332b2b3@65.109.188.209:3389?security=reality&encryption=none&pbk=NSlhQMA6VBgHPp7RsErk3hEdKuWPO0eeLdxgssfwbmY&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=c6cbc90da6316b21#Khodemoni-396790
 vless://b97e287f-a24e-0021-a103-7e7ecef83139@185.218.194.70:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.amd.com&fp=chrome&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=e1f8a3b6&flow=xtls-rprx-vision#Khodemoni-383500
 vless://a8178248-3cdf-4fb0-ab7b-87c1ab77201c@8.47.69.0:8880?encryption=none&type=ws&path=%2Fcdn%2Fassets%2Fstream&host=cnd.france2.gg.newwaycdn.com#Khodemoni-396446
