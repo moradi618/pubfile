@@ -42,7 +42,6 @@ vless://b97e287f-a24e-0021-a103-7e7ecef83139@185.218.194.71:443?security=reality
 vless://b97e287f-a24e-0021-a103-7e7ecef83139@2.26.147.118:443?security=reality&flow=xtls-rprx-vision&sni=www.amd.com&type=tcp&fp=qq&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=e1f8a3b6#Khodemoni-294010
 vless://fd9a3805-5925-48c5-a3b8-2d6cacbba154@81.90.21.59:8444?type=xhttp&security=reality&pbk=jgf0wWpgkEJZzu9wu45Ms33SNZpibtx507rpvzfz3mQ&sid=635a76c25a4b1820&sni=www.microsoft.com&path=%2Fxh&mode=stream-one&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome#Khodemoni-426527
 vless://b97e287f-a24e-0021-a103-7e7ecef83139@185.218.194.70:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.amd.com&fp=qq&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=e1f8a3b6&flow=xtls-rprx-vision#Khodemoni-383140
-vless://f62a1751-c1e4-4612-90e7-bd5781c1aede@bz2.wba-pn.ru:2053?type=ws&security=tls&sni=bz2.wba-pn.ru&fp=firefox#Khodemoni-425862
 vless://1b7e722e-a8e1-4314-9463-9440e6fe6a66@104.21.81.165:443?encryption=none&fp=chrome&host=cdn.dexterr.ir&path=%2F&security=tls&sni=cdn.dexterr.ir&type=ws#Khodemoni-426904
 vless://aaec13cf-f7a7-4896-99c8-c9dcd21035cb@tra.mobileemdad.top:42538?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=msedge.b.tlu.dl.delivery.mp.microsoft.com#Khodemoni-426801
 vless://aaec13cf-f7a7-4896-99c8-c9dcd21035cb@tr-play.mobileemdad.top:42542?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=amp-api-edge.apps.apple.com#Khodemoni-426800
