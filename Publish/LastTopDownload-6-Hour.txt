@@ -4,10 +4,10 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.182.189.87:22222?Telegram=@Gozar
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.127.126.3:22223?&type=tcp&headerType=none&path=%2F#Khodemoni-438755
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.223.106:22223?encryption=none&security=none&type=tcp#Khodemoni-438335
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZcExkWXRtS1VHaUxWWXV5STNQOWhB@91.107.243.39:1080#Khodemoni-438351
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.182.189.87:22222?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-438058
 vless://1c79cc2a-90d0-4ffd-a427-7226a8b2b0a6@starmizban.ir:1011?security=none&encryption=none&host=igap.net&headerType=http&type=tcp#Khodemoni-437898
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.223.106:22222?encryption=none&security=none&type=tcp#Khodemoni-438336
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.182.189.87:22222?encryption=none&security=none&type=tcp#Khodemoni-427775
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.182.111.210:22223?encryption=none&security=none&type=tcp#Khodemoni-438794
 vless://009c21ef-6f64-461d-b86c-b482afc7f459@sv9.nonpath.ir:42542?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=amp-api-edge.apps.apple.com#Khodemoni-438376
 vless://10c651c8-aeca-4817-8d85-a01f104ff88f@internal-my-y4o.mobileahmad.ir:2091?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#Khodemoni-438384
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.182.189.87:22223?encryption=none&security=none&type=tcp#Khodemoni-427774
