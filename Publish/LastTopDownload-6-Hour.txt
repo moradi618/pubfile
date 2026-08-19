@@ -3,6 +3,7 @@ vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@144.31.157.104:20017?security=none&
 vless://7579a712-b8c6-4506-9aad-70b157cdabad@176.120.17.7:48537?encryption=none&type=tcp&security=none#Khodemoni-426968
 vless://c1690430-9cd5-4fb0-90bf-c709c86326bf@5.75.193.204:50420?encryption=none&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#Khodemoni-426908
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.246.118:22223?encryption=none&security=none&type=tcp#Khodemoni-426043
+ss://YWVzLTI1Ni1nY206Wmpoak1EbGxNbU0zTUdReVltWXlNelF3TVdaa01tUmpaRE0yTlRNeg@94.101.181.25:9147?prefix=%16%03%01%00%C2%A8%01%01#Khodemoni-427060
 vless://1d977a71-920e-4846-98b1-24f8e2fa0ea3@176.120.17.6:59167?encryption=none&type=tcp&security=none#Khodemoni-426969
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.246.118:22224?encryption=none&security=none&type=tcp#Khodemoni-426044
 trojan://8bS8vVC5CQ2GsckhMh8IT1jv@193.124.46.65:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&sni=#Khodemoni-425453
