@@ -1,3 +1,15 @@
+trojan://humanity@188.114.98.0:443/?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#Khodemoni-022074
+vless://01a95af3-a2f6-453e-9f88-b2fc011627cc@92.114.24.95:43630?security=&encryption=none&headerType=none&type=tcp#Khodemoni-358503
+trojan://humanity@5.181.187.58:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#Khodemoni-438919
+trojan://AE62539071@18.183.135.94:443?fp=chrome&sni=central-jawfish.rooster465.autos#Khodemoni-438865
+trojan://EQ30679154@54.217.133.71:443?sni=willing-beagle.rooster465.autos&type=tcp&fp=chrome#Khodemoni-438871
+trojan://EQ30679154@54.74.185.175:443?sni=romantic-kangaroo.rooster465.autos&type=tcp&fp=chrome#Khodemoni-438872
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMkZpdnppU29vV01EekU2cDJrQng3cmk3b3dkTFp5UG51UUxQZURoblk4cVhLbTZ6WjRNMzlwb3Y0dzdNZnhSTjVGaldxQzFjQ0E4Z0dvTHBaUVZvdVB0OWNDQTlpZE4@166.1.129.245:42607#Khodemoni-438882
+vless://01ada9fb-fa2f-45da-a0d0-bce80cdf433b@207.56.137.51:443?security=reality&encryption=none&pbk=WNifT0qNHWrUsvC6cuvej0rzZe6qPijopbmJyRADOF0&host=JOIN_BEDE_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=f713561d#Khodemoni-438898
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUVTROVUp1TWU0WGxaM05DUV8xS2lR@178.63.176.113:1080#Khodemoni-438893
+vless://05bfcbaa-cba0-4bce-9103-09fe3f5f0667@167.233.219.201:443?security=reality&encryption=none&pbk=3ei2ET7SLe8rAO3KOlUWyXy0U22zb86VNOqUCshRVl8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=f648da8196bdb32e#Khodemoni-438887
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6aU1DeUxoL0tqSEt5ZncyWTl1VDlBSzV6dTZvMDRvSTZBdHNoWUhiZ3BWWT0=@130.61.148.92:59924#Khodemoni-438892
+trojan://AE62539071@34.221.30.108:443?fp=chrome&sni=humorous-hawk.rooster465.autos#Khodemoni-438910
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpybmtIRWVFc3BTMXU1VmZq@4.168.234.201:443#Khodemoni-438883
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMWZOcmh4ZnZBa1VPRXE3THlDcnFLM0RnMVIvU0JlTA%3D%3D@vip-ca-1.hkd4fwmg.xyz:10586#Khodemoni-438894
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg%3D%3D@95.40.120.162:8319#Khodemoni-438896
