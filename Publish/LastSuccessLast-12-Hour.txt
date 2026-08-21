@@ -1,3 +1,8 @@
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@193.124.45.154:443?flow=xtls-rprx-vision&fp=firefox&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&security=reality&sid=00bca5982f82d083&sni=eu-central.cendora.ru&type=tcp#Khodemoni-416460
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@savesafe.co:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=6z3YcVP0f2pK3iANKIkBUZOgNeErDjxY83mHZG5jrnI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=&sid=f63805c3ecc7a483#Khodemoni-423368
+trojan://humanity@194.135.38.140:443?path=/assignment&security=tls&sni=www.calmlunch.com&type=ws&sni=www.calmlunch.com#Khodemoni-376155
+trojan://PQ05174892@3.112.242.12:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=intimate-hog.rooster465.autos#Khodemoni-427709
+trojan://AE62539071@13.230.97.36:443?security=tls&sni=known-albacore.rooster465.autos#Khodemoni-440138
 trojan://AE62539071@real-cardinal.rooster465.autos:443?allowInsecure=0#Khodemoni-440124
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.153:9001?encryption=none&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=grpc-reality&sid=6ba85179e30d4fc2&sni=api-maps.yandex.ru&type=grpc#Khodemoni-427089
 vmess://eyJ2IjoiMiIsInBzIjoiS2hvZGVtb25pLTQyNzE5OSIsImFkZCI6Ind3dy5uZXh0a3ljLmNvbSIsInBvcnQiOiI4NDQzIiwiaWQiOiI2MDQ0MTU0OC1iNjhlLTQzYjItODE5MS1lM2I4ODRiZTRiM2MiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJ2MnJheTEuZG96YXBwLnh5eiIsInBhdGgiOiIvbE1uc1pVTjQvIiwidGxzIjoidGxzIiwic25pIjoidjJyYXkxLmRvemFwcC54eXoiLCJ0ZXN0X25hbWUiOiIyNCJ9
@@ -12,7 +17,6 @@ trojan://atKbXl2I4rKzHGiRybV7fOp%2BOCYPz%2BbO@vip-us-6.hkd4fwmg.xyz:13758?securi
 vless://207561ae-a447-4edf-9154-ac781ae5ed13@game-net1212.th3store.ir:8080?path=/play&security=none&encryption=mlkem768x25519plus.native.0rtt.6sX65UGupCsfoa79w42JvLZkJfnDvacVv0m9bplzXiM&host=game-net1212.th3store.ir&type=httpupgrade#Khodemoni-441593
 trojan://Edk07MJ3Xqg5cl1j5519zqwX2f2EFjON@vip-sg-1.hkd4fwmg.vip:21802?allowInsecure=0&sni=vip-sg-1.hkd4fwmg.vip#Khodemoni-441637
 trojan://EQ30679154@moral-dolphin.rooster465.autos:443#Khodemoni-438874
-trojan://AE62539071@13.230.97.36:443?security=tls&sni=known-albacore.rooster465.autos#Khodemoni-440138
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.183.228.38:22222?encryption=none&security=none&type=tcp#Khodemoni-439090
 trojan://AE62539071@frank-frog.rooster465.autos:443?fp=chrome&security=tls&sni=frank-frog.rooster465.autos&type=tcp#Khodemoni-439267
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.69.99.40:22224?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-439324
@@ -70,7 +74,6 @@ vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@savesafe.co:443?security=reality&en
 vless://f9613819-d2fe-4b3a-a2e6-40c184c6854c@wsru1.wba-pn.ru:8443?type=ws&security=tls&sni=wsru1.wba-pn.ru&fp=safari#Khodemoni-425918
 vless://01a95af3-a2f6-453e-9f88-b2fc011627cc@92.114.24.95:43630?encryption=none&security=none&type=raw&headertype=none#Khodemoni-425734
 vless://f9613819-d2fe-4b3a-a2e6-40c184c6854c@wsru1.wba-pn.ru:8443?type=ws&security=tls&sni=wsru1.wba-pn.ru&fp=ios#Khodemoni-425916
-trojan://PQ05174892@3.112.242.12:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=intimate-hog.rooster465.autos#Khodemoni-427709
 vless://4bc8ff7a-20b4-41b2-9751-dfca869f0553@gb1.wba-pn.ru:443?encryption=none&security=tls&sni=gb1.wba-pn.ru&type=ws&path=%2F&fp=edge#Khodemoni-438554
 vmess://eyJhZGQiOiI0My4yMjguMTI2LjE4NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiNDMuMjI4LjEyNi4xODciLCJpZCI6IjllNWM2ZWJmLTM1ZjktNDlhMy05ZjEyLWNiYTJiN2NkYmNjYiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjQ3NjMwIiwicHMiOiJLaG9kZW1vbmktNDM4MzA2Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://32d851aa-b5f8-7d42-45cc-01e541b4cb90@147.182.156.111:8039?flow=xtls-rprx-vision&encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=ZrdPHtBvi7yMRj17SohKaGQEXuDptmCJWCi8gk5HlD8&sid=35938c4e546cd459&allowinsecure=1&type=tcp&headerType=none#Khodemoni-441708
