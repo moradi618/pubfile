@@ -1,5 +1,4 @@
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6UHFVTW9hU1VsVUt2WVFiYWdxTXNBYW9PZVlDbEk2ZTBQVUphVC9RQWlNOD0@134.98.137.200:45819#Khodemoni-443020
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.70.33.197:22223?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=tcp&headerType=none#Khodemoni-442815
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6c3RXeVVrNm9yYm9pMzk1aUwwRm5SM0JQdXN1RWppbzJWQnl3VzA5T09PMD0@134.98.146.23:45819#Khodemoni-443017
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@134.98.135.220:62145?&type=tcp&headerType=none&path=%2F#Khodemoni-443015
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@134.98.136.110:62145?&type=tcp&headerType=none&path=%2F#Khodemoni-443014
@@ -34,6 +33,7 @@ vless://dbc43f55-79cd-4331-84ff-d891356d387a@45.195.111.108:443?security=reality
 trojan://654df5c6-73ac-3b11-8269-6b21fb8d9dad@rub01.nwncd.com:489?security=tls&insecure=0&type=grpc&serviceName=mygrpc&allowInsecure=0#Khodemoni-438901
 trojan://MiTiVPN@213.182.199.137:443?type=ws&security=tls&sni=66-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSs---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&alpn=http%2F1.1&fp=qq#Khodemoni-442981
 vless://af714063-bd63-584e-2fdf-728d76929516@f35-production-0ec6.up.railway.app:443?encryption=none&security=tls&type=ws&host=f35-production-0ec6.up.railway.app&path=/ws/af714063-bd63-584e-2fdf-728d76929516&sni=f35-production-0ec6.up.railway.app&fp=ios&alpn=http/1.1#Khodemoni-442993
+vless://c62313f5-7661-41f8-bcd6-7ea9a3adebe4@frzn.borna-otbos.ir:2095?mode=gun&security=none&encryption=none&type=grpc#Khodemoni-442553
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6TzY4eW8rdlk3Z0VjVG9JeXRmS0pHWkNHN2xRa0JXNFZ6c1AxWlhSc1RJVT0@167.234.225.164:59319#Khodemoni-443001
 vless://af714063-bd63-584e-2fdf-728d76929516@f35-production-0ec6.up.railway.app:443?encryption=none&security=tls&type=ws&host=f35-production-0ec6.up.railway.app&path=/ws/af714063-bd63-584e-2fdf-728d76929516&sni=f35-production-0ec6.up.railway.app&fp=chrome&alpn=http/1.1#Khodemoni-443058
 vless://c71e5acd-dd60-4239-963b-ceb978c36869@pasarguardpanel2.viramiq.ir:21463?encryption=mlkem768x25519plus.native.0rtt._BLdy3PivXjfaQjx6HtqfiLxO62JQp70iKkVxyjF4zs&security=none&type=xhttp&headerType=none&path=/&host=myket.ir&mode=stream-up#Khodemoni-443029
