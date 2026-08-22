@@ -1,3 +1,6 @@
+vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@190.93.247.2:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#Khodemoni-231157
+vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@104.26.5.39:443?security=tls&type=ws&path=/sg-amz&host=support.zoom.us.yxls.eu.cc&packetEncoding=xudp&sni=support.zoom.us.yxls.eu.cc&fp=chrome#Khodemoni-223475
+vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@104.17.147.118:443?encryption=none&security=tls&sni=support.zoom.us.yxls.eu.cc&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-amz#Khodemoni-201513
 vless://93ee032f-b67f-4cac-a239-da1295aec528@turk.mamadhpbot.ir:50118?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#Khodemoni-444301
 vless://93ee032f-b67f-4cac-a239-da1295aec528@usnodenew.mamadhpbot.ir:50118?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#Khodemoni-444302
 vless://93ee032f-b67f-4cac-a239-da1295aec528@germanndnew.mamadhpbot.ir:50118?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#Khodemoni-444300
