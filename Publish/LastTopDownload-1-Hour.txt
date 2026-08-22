@@ -4,7 +4,6 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.80.12:22224?encryption=none&
 vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?path=%2F&security=&encryption=none&host=azsv1.drpingservice.com&type=ws#Khodemoni-094469
 vless://ab704845-fa0a-444c-a45f-0c23be586bf4@45.131.6.67:8443?path=%2Feddd&security=tls&alpn=h2&encryption=none&insecure=0&host=ge.bllackray.ir&fp=firefox&type=ws&allowInsecure=0&sni=ge.bllackray.ir#Khodemoni-443130
 vless://ab704845-fa0a-444c-a45f-0c23be586bf4@104.21.9.48:8443?path=%2Feddd&security=tls&alpn=h2&encryption=none&insecure=0&host=ge.bllackray.ir&fp=firefox&type=ws&allowInsecure=0&sni=ge.bllackray.ir#Khodemoni-443129
-vless://44897c4d-b924-4315-a07e-a1124c029f9c@mdfd-tuprgb.calvanta.top:443?flow=xtls-rprx-vision&fp=chrome&pbk=z28COr6Up8DlUK4rwCNZlitse32WOXaHJmWvxRjtjjU&security=reality&sid=22927768303dd453&sni=www.bing.com&type=tcp&encryption=none#Khodemoni-440648
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMWFlMGZjZS05MzQwLTRmMmUtODgyZC1mZGIyMjE4ZTJlMmI@114.25.9.245:50099#Khodemoni-443110
 vless://e1497c37-4943-4b99-918b-ee52a0976d29@zhci-1936eeu.solvera.top:443?flow=xtls-rprx-vision&fp=chrome&pbk=l7JQh1wolRUB1fiUDIMjbgKksM2hMfQaOr4yeFUZLQk&security=reality&sid=905354e3cbb8e2fb&sni=www.bing.com&type=tcp&encryption=none#Khodemoni-443132
 vless://309b0ce3-09a8-4883-bfe4-bd56e215be44@31.76.91.138:2087?mode=gun&security=reality&encryption=none&authority=BIA_TELEGRAM%40TOOTFFARANGI&pbk=JfuItzJ81sJehx1PbxyliWSJvuBMKoa9ahNgPO3R7R4&fp=firefox&type=grpc&serviceName=grpc&sni=ads.x5.ru&sid=c226283c4de5b1ad#Khodemoni-443148
