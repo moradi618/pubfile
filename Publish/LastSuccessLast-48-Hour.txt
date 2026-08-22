@@ -1,3 +1,5 @@
+vless://308cf8e0-e922-49bb-9b68-203e5aafcc97@kz.node.goidanet.com:443?type=grpc&security=reality&fp=firefox&pbk=xXxqDpB8gQjBddOHSOFb52xVS2Odmb63z1PYhMqe0Uo&sid=1a55b8fd25417fbf&sni=kz.node.goidanet.com&mode=multi&spx=/#Khodemoni-418312
+vless://308cf8e0-e922-49bb-9b68-203e5aafcc97@kz.node.goidanet.com:443?type=grpc&security=reality&fp=firefox&pbk=xXxqDpB8gQjBddOHSOFb52xVS2Odmb63z1PYhMqe0Uo&sid=1a55b8fd25417fbf&sni=kz.node.goidanet.com#Khodemoni-418311
 trojan://FH72359861@many-pangolin.rooster465.autos:443?security=tls#Khodemoni-417714
 vless://766f6c65-0000-4000-8000-787000000002@172.67.208.166:2083?path=%2Fvolexprosy&security=tls&encryption=none&insecure=0&host=volexproxy.karjadidd.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=volexproxy.karjadidd.workers.dev#Khodemoni-215511
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.16.89.120:443?encryption=none&type=ws&path=/musiclovers85?ed&host=josni.hoyes.cloudns.ch&security=tls&sni=josni.hoyes.cloudns.ch#Khodemoni-416940
