@@ -1,3 +1,5 @@
+vless://485717cf-e96c-40db-9bc1-624060b89f20@211.76.176.156:49475?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=i0nN_0uLl5ha8pIf6gNNLeLQe7it-nXDFLC5eM1BHV4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.python.org&sid=bb9b8f5f#Khodemoni-444714
+vmess://eyJhZGQiOiJub2RlLXVrLmNvbm5lY3RzdWl0ZS5vcmciLCJhaWQiOjAsImlkIjoiNzJmMmNiZTQtMjg3NC00NWI3LWI2YWEtYjkzMDc3YzEwYzcyIiwibmV0IjoidGNwIiwicG9ydCI6MjA1MywicHMiOiJLaG9kZW1vbmktNDE4MTUxIiwic2N5IjoiYXV0byIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoiS2hvZGVtb25pLTQxOTU5NCIsImFkZCI6InJ1c2gtdzFuaXUudGVlb3BwLm9ubGluZSIsInBvcnQiOiI0NDMiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6InJ1c2gtdzFuaXUudGVlb3BwLm9ubGluZSIsInBhdGgiOiIvdmlkZW8vdjRzeDNxL3p4enJ1cmtjLm0zdTgiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJydXNoLXcxbml1LnRlZW9wcC5vbmxpbmUiLCJ0ZXN0X25hbWUiOiI5NyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiS2hvZGVtb25pLTM3MjY4NiIsImFkZCI6IjQ3Ljc2LjE5Ny43MiIsInBvcnQiOiI0NDMiLCJpZCI6ImYyM2JiNDI3YzFmOTQzNzM4NzZjMmY0M2U5Zjc5MGYzIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoibTAxYzdiMnoyNmR0cWdlZS52LjNkbnMudmlwIiwicGF0aCI6Ii93cy12bWVzcyIsInRscyI6InRscyIsInNuaSI6Im0wMWM3YjJ6MjZkdHFnZWUudi4zZG5zLnZpcCIsInRlc3RfbmFtZSI6IkhLMTAifQ==
 vmess://eyJhZGQiOiJkYXNoYm9hcmQuYWZyYWdhbWUudG9wIiwiaWQiOiI3NmNlZmNkNy02YjUzLTRjNjUtYWQyOS0xYTkyNzM0ZmM5NjgiLCJwb3J0IjoiNTM4NyIsInR5cGUiOiJub25lIiwic2N5IjoiYXV0byIsInBzIjoiS2hvZGVtb25pLTQ0NDcwNiIsIm5ldCI6InRjcCJ9
@@ -211,7 +213,6 @@ vless://15fd22d1-8931-4d41-af37-8ba6711e93fe@preview.netraidly.ru:40443?Telegram
 vless://76f6b7fe-5de8-4637-87a0-6ddd33d67b3e@80.66.78.227:443?security=reality&encryption=none&pbk=kRwY2AAdT6SH4FKFQb-UhnJbyddqbdluKy1xaYPatD8&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn-se.alohaapp.uk&sid=b9f8f9772217538f#Khodemoni-438625
 vless://76f6b7fe-5de8-4637-87a0-6ddd33d67b3e@80.66.78.227:443?security=reality&encryption=none&pbk=kRwY2AAdT6SH4FKFQb-UhnJbyddqbdluKy1xaYPatD8&host=/?BIA_TELEGRAM@TOOTFFARANGI_TOOTFFARANGI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn-se.alohaapp.uk&sid=b9f8f9772217538f#Khodemoni-438810
 vless://76f6b7fe-5de8-4637-87a0-6ddd33d67b3e@80.66.78.227:443?security=reality&encryption=none&pbk=kRwY2AAdT6SH4FKFQb-UhnJbyddqbdluKy1xaYPatD8&host=%2F%3FBIA_TELEGRAM%40TOOTFFARANGI_TOOTFFARANGI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdn-se.alohaapp.uk&sid=b9f8f9772217538f#Khodemoni-438785
-trojan://atKbXl2I4rKzHGiRybV7fOp%2BOCYPz%2BbO@vip-us-6.hkd4fwmg.xyz:13758?security=tls&fp=android#Khodemoni-440727
 trojan://atKbXl2I4rKzHGiRybV7fOp%2BOCYPz%2BbO@vip-us-6.hkd4fwmg.xyz:13758?security=tls&fp=qq#Khodemoni-440729
 vless://57a9cf7d-bb6c-414e-97be-1985f7123c61@sw.zapret-tg.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=ZEeqikL1-TUlngESsBHGQ5-nZ0C0ydn5JuBqQzMKog8&sid=4c6794705dc6fa5e&sni=sw.zapret-tg.ru&fp=edge#Khodemoni-443307
 vless://57a9cf7d-bb6c-414e-97be-1985f7123c61@sw.zapret-tg.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=ZEeqikL1-TUlngESsBHGQ5-nZ0C0ydn5JuBqQzMKog8&sid=4c6794705dc6fa5e&sni=sw.zapret-tg.ru&fp=qq#Khodemoni-443309
@@ -991,7 +992,6 @@ vless://b91abe1a-80ca-417b-998b-2b542661c16f@nl.feywebsite.ir:8008?mode=auto&pat
 vless://9952b71a-6c86-4522-888f-ff9ea9b93536@188.114.97.6:443?encryption=none&type=ws&security=tls&path=%2F&host=1.hshs8227shhshs.workers.dev&sni=1.hshs8227shhshs.workers.dev&fp=chrome&insecure=0&allowInsecure=0#Khodemoni-439317
 vless://a06119a7-4f1a-4592-86d9-e050a332b2b3@am1.milkabebar.ir:17780?encryption=none&security=reality&type=tcp&headerType=none&sni=amp-api-edge.apps.apple.com&fp=firefox&pbk=CHNEnURyZzZ1OQwb5SD2Ze8K9eIY2oggyrV5FOIsU28&sid=a0fbc54d937aaccb#Khodemoni-440824
 trojan://EQ30679154@true-coral.rooster465.autos:443#Khodemoni-438875
-trojan://AE62539071@54.249.32.173:443?type=tcp&security=tls&encryption=none&sni=eager-camel.rooster465.autos&fp=edge#Khodemoni-440713
 trojan://AE62539071@dear-hermit.rooster465.autos:443?security=tls#Khodemoni-440134
 vless://3087ca05-1a7c-45fa-aec9-805adeaedb1b@141.101.114.219:80?encryption=none&security=none&type=ws&host=tianshu.kevqwkt451.workers.dev&path=%2F%3Fed%3D2560#Khodemoni-438860
 trojan://AE62539071@healthy-panda.rooster465.autos:443?security=tls#Khodemoni-440135
@@ -1003,13 +1003,11 @@ trojan://AE62539071@13.230.97.36:443?security=tls&sni=known-albacore.rooster465.
 trojan://atKbXl2I4rKzHGiRybV7fOp%2BOCYPz%2BbO@vip-us-6.hkd4fwmg.xyz:13758?security=tls&sni=vip-us-6.hkd4fwmg.xyz&insecure=0&allowInsecure=0&type=tcp&headerType=none&fp=chrome#Khodemoni-440724
 trojan://PQ05174892@185.14.47.101:443?type=tcp&security=tls&sni=ideal-robin.rooster465.autos#Khodemoni-438903
 vless://a06119a7-4f1a-4592-86d9-e050a332b2b3@ita.milkabebar.ir:17780?encryption=none&security=reality&type=tcp&headerType=none&sni=amp-api-edge.apps.apple.com&fp=qq&pbk=CHNEnURyZzZ1OQwb5SD2Ze8K9eIY2oggyrV5FOIsU28&sid=a0fbc54d937aaccb#Khodemoni-440769
-vless://d0af05d4-d1f0-491e-a143-1def35ad6438@vip-us-6.hkd4fwmg.xyz:38609?encryption=none&flow=xtls-rprx-vision&security=tls&sni=vip-us-6.hkd4fwmg.xyz&insecure=0&allowInsecure=0&type=tcp&headerType=none#Khodemoni-440870
 vless://7b102311-43fd-4e8f-877e-8090623c101d@57.128.177.198:443?allowInsecure=1&encryption=none&host=vp58.cc.cd&path=/Telegram+@VPNine1&security=tls&sni=vp58.cc.cd&type=ws#Khodemoni-440567
 trojan://AE62539071@climbing-frog.rooster465.autos:443?security=tls#Khodemoni-440140
 vless://a06119a7-4f1a-4592-86d9-e050a332b2b3@172.239.237.246:17780?encryption=none&fp=firefox&pbk=CHNEnURyZzZ1OQwb5SD2Ze8K9eIY2oggyrV5FOIsU28&security=reality&sid=a0fbc54d937aaccb&sni=amp-api-edge.apps.apple.com&type=tcp#Khodemoni-440823
 vless://a06119a7-4f1a-4592-86d9-e050a332b2b3@ca.milkabebar.ir:17780?encryption=none&security=reality&type=tcp&headerType=none&sni=amp-api-edge.apps.apple.com&fp=qq&pbk=CHNEnURyZzZ1OQwb5SD2Ze8K9eIY2oggyrV5FOIsU28&sid=a0fbc54d937aaccb#Khodemoni-440740
 trojan://EQ30679154@wealthy-gobbler.rooster465.autos:443?security=tls&sni=wealthy-gobbler.rooster465.autos#Khodemoni-440137
-trojan://atKbXl2I4rKzHGiRybV7fOp%2BOCYPz%2BbO@vip-us-6.hkd4fwmg.xyz:13758?security=tls&fp=edge#Khodemoni-440728
 vless://a06119a7-4f1a-4592-86d9-e050a332b2b3@104.105.3.100:17780?encryption=none&fp=firefox&pbk=CHNEnURyZzZ1OQwb5SD2Ze8K9eIY2oggyrV5FOIsU28&security=reality&sid=a0fbc54d937aaccb&sni=amp-api-edge.apps.apple.com&type=tcp#Khodemoni-440763
 trojan://ND91608427@devoted-heron.rooster465.autos:443?security=tls&sni=devoted-heron.rooster465.autos&path=/#Khodemoni-438977
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNV00yTg@83.171.225.55:8388#Khodemoni-440168
