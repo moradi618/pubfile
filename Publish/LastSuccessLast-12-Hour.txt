@@ -1,3 +1,7 @@
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@185.193.30.94:443?ed=512&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=josni.hoyes.cloudns.ch&path=%2Fmusiclovers85&security=tls&sni=josni.hoyes.cloudns.ch&type=ws#Khodemoni-427776
+vless://a4ec0cdd-a71d-4093-b8e1-aa9bfbcd75eb@5xgovtcyqgoh5tedrlj6sg--sn9pbh.mahsapodcst.workers.dev:443?path=%2Fvl%2FP7l2zlifeGb5UNmfWMkoVakVd%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=5xgovtCYqgoh5tEDRLJ6Sg--sn9PbH.mAHsApOdCSt.WOrKers.deV#Khodemoni-438686
+vless://294bf801-bfbe-4f29-9a03-3a9736a9674b@m7r.speedtestmark.com:443?security=reality&encryption=none&pbk=Bp49BC_XtsdC4Jvp5p-vfR1voCti6QrYyIPKQSIt_Hw&headerType=&type=tcp&flow=xtls-rprx-vision&sni=&sid=4326#Khodemoni-443066
+vmess://eyJ2IjoiMiIsInBzIjoiS2hvZGVtb25pLTQ0MzA2OSIsImFkZCI6Im5vZGUuc29ja3M1LmtkbnMuZnIiLCJwb3J0Ijo0NDMsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJ0bHMiLCJpZCI6ImRlMmIwNGFhLWNjNGQtNGJjOC04NmUyLWVjYTM1MDY3MWVhOCIsInNuaSI6Imhhd2FpaWFuLWJhbGQtc2hlZC1nb2VzLnRyeWNsb3VkZmxhcmUuY29tIiwiaG9zdCI6Imhhd2FpaWFuLWJhbGQtc2hlZC1nb2VzLnRyeWNsb3VkZmxhcmUuY29tIiwicGF0aCI6Ii9kZTJiMDRhYS1jYzRkLTRiYzgtODZlMi1lY2EzNTA2NzFlYTgtdm0iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
 vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@cf.levikogjgfdd.ir:2053?path=/?ed=2053&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=po.fastbrokencompony.com&fp=chrome&type=ws&allowInsecure=0&sni=po.fastbrokencompony.com#Khodemoni-346896
 ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@51.83.192.80:8388#Khodemoni-443065
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.16.80.73:443?path=musiclovers85&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#Khodemoni-427708
@@ -814,7 +818,6 @@ trojan://AE62539071@climbing-frog.rooster465.autos:443?security=tls#Khodemoni-44
 vless://a06119a7-4f1a-4592-86d9-e050a332b2b3@172.239.237.246:17780?encryption=none&fp=firefox&pbk=CHNEnURyZzZ1OQwb5SD2Ze8K9eIY2oggyrV5FOIsU28&security=reality&sid=a0fbc54d937aaccb&sni=amp-api-edge.apps.apple.com&type=tcp#Khodemoni-440823
 vless://a06119a7-4f1a-4592-86d9-e050a332b2b3@ca.milkabebar.ir:17780?encryption=none&security=reality&type=tcp&headerType=none&sni=amp-api-edge.apps.apple.com&fp=qq&pbk=CHNEnURyZzZ1OQwb5SD2Ze8K9eIY2oggyrV5FOIsU28&sid=a0fbc54d937aaccb#Khodemoni-440740
 trojan://EQ30679154@wealthy-gobbler.rooster465.autos:443?security=tls&sni=wealthy-gobbler.rooster465.autos#Khodemoni-440137
-trojan://AE62539071@13.230.97.36:443?security=tls&sni=known-albacore.rooster465.autos#Khodemoni-440138
 vless://a06119a7-4f1a-4592-86d9-e050a332b2b3@104.105.3.100:17780?encryption=none&fp=firefox&pbk=CHNEnURyZzZ1OQwb5SD2Ze8K9eIY2oggyrV5FOIsU28&security=reality&sid=a0fbc54d937aaccb&sni=amp-api-edge.apps.apple.com&type=tcp#Khodemoni-440763
 vless://7b102311-43fd-4e8f-877e-8090623c101d@57.128.177.198:443?allowInsecure=1&encryption=none&host=vp58.cc.cd&path=/Telegram+@VPNine1&security=tls&sni=vp58.cc.cd&type=ws#Khodemoni-440567
 vless://d97bc3da-1ce2-4589-b12f-d162aa98d84e@ip1.falzema.ir:6800?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#Khodemoni-439123
@@ -3470,8 +3473,6 @@ ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SDhMS1lOcTMvNFdwZzlkS3ZOY0NvM1EvWjE
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6d3FRVHdTT0RudFFpVUZDdDdYL0F3ZDBoSjFKTXpXRkNKbXZNV1NoUkU3RT0=@129.146.25.160:50356#Khodemoni-442184
 vless://c7e9c591-2764-423a-afca-efbd010fd396@143.110.163.137:2053/?type=ws&encryption=none&flow=&host=forfreeuse.rtqa.ru&path=%2F&security=tls&sni=forfreeuse.rtqa.ru#Khodemoni-442163
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Y3BySURQNHFZRXRlaEQ4amNoN21kUkg0R1Y0blJocU56cXNRaWdXeENOUT0@152.69.213.76:56927#Khodemoni-442124
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@185.193.30.94:443?ed=512&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=josni.hoyes.cloudns.ch&path=%2Fmusiclovers85&security=tls&sni=josni.hoyes.cloudns.ch&type=ws#Khodemoni-427776
 trojan://FH72359861@13.230.239.7:443?fp=chrome&security=tls&sni=alert-redfish.rooster465.autos&type=tcp#Khodemoni-419875
 trojan://ND91608427@18.181.164.216:443?fp=chrome&security=tls&sni=upright-impala.rooster465.autos&type=raw#Khodemoni-419856
 vmess://eyJhZGQiOiIyMTcuMTQyLjEzOC42MSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJhYzFiOTMzZC1hZmZmLTQ0ODctOTNlZi1mNTcxMzBhNTVkZmYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoiS2hvZGVtb25pLTI1ODI1MSIsInNjeSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
-trojan://HC04361579@exact-sawfish.rooster465.autos:443?security=tls&sni=exact-sawfish.rooster465.autos#Khodemoni-438649
