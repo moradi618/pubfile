@@ -1,3 +1,5 @@
+vmess://eyJhZGQiOiI0Ny44My4yMDcuMTQ4IiwiYWlkIjoiMCIsImhvc3QiOiJWQUg0VVJkWkwzakRYNXIyLnYuM2Rucy52aXAiLCJpZCI6ImYyM2JiNDI3YzFmOTQzNzM4NzZjMmY0M2U5Zjc5MGYzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXZtZXNzIiwicG9ydCI6IjQ0MyIsInBzIjoiS2hvZGVtb25pLTM3NjQ1NSIsInNjeSI6ImF1dG8iLCJzbmkiOiJWQUg0VVJkWkwzakRYNXIyLnYuM2Rucy52aXAiLCJ0ZXN0X25hbWUiOiJISzUiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+trojan://humanity@80.77.25.142:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#Khodemoni-372979
 vless://14da77da-4fb3-4e49-ac4f-7881ea19b267@neth6.lckdwn.ru:443/?type=ws&encryption=none&flow=#Khodemoni-439615
 vmess://eyJ2IjoiMiIsInBzIjoiS2hvZGVtb25pLTM1OTI3NyIsImFkZCI6IjQ3Ljc2LjE5Ny43MiIsInBvcnQiOiI0NDMiLCJpZCI6ImYyM2JiNDI3YzFmOTQzNzM4NzZjMmY0M2U5Zjc5MGYzIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoibTAxYzdiMnoyNmR0cWdlZS52LjNkbnMudmlwIiwicGF0aCI6Ii93cy12bWVzcyIsInRscyI6InRscyIsInNuaSI6Im0wMWM3YjJ6MjZkdHFnZWUudi4zZG5zLnZpcCIsInRlc3RfbmFtZSI6IkhLMjEifQ==
 trojan://humanity@45.130.125.190:443?encryption=none&security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#Khodemoni-345361
@@ -40,4 +42,3 @@ vless://714e1212-6707-471e-9f40-2fbd3d8d3b4b@201.24.49.233:2200/?type=ws&encrypt
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@88.218.92.126:13443?security=reality&encryption=none&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=auto.cendora.ru&sid=a7f3c91b2e6d84c0#Khodemoni-448069
 vless://f463819c-5e64-458a-808b-6693afb47aa4@45.87.104.185:443?sni=medicine.repaironline.biz&alpn=http/1.1&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#Khodemoni-448078
 vless://22fff84b-dd89-489d-bc4c-794f664b92a2@151.101.56.7:443?path=%2F&security=tls&encryption=none&insecure=0&host=7wwwspeedtestnet.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#Khodemoni-448070
-vless://64bd5231-8c49-44f4-8bc0-998eef787d05@201.24.49.233:4100?type=ws&path=%2Fv1&host=live.ok.ru#Khodemoni-441934
