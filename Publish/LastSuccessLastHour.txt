@@ -1,3 +1,4 @@
+vless://916e3030-6eac-418b-9402-7508ca7d6280@172.64.152.241:8443?path=%2F&security=tls&encryption=none&insecure=0&host=us-akile.nanniang.top&fp=chrome&type=ws&allowInsecure=0&sni=us-akile.nanniang.top#Khodemoni-400349
 vless://ae2e0637-5c9d-422b-93ac-70bd3fceeb81@hys40.wba-pn.ru:443?type=ws&security=tls&sni=hys40.wba-pn.ru&fp=firefox#Khodemoni-425857
 vless://ae2e0637-5c9d-422b-93ac-70bd3fceeb81@hys40.wba-pn.ru:443?type=ws&security=tls&sni=hys40.wba-pn.ru&fp=qq#Khodemoni-425858
 vless://ae2e0637-5c9d-422b-93ac-70bd3fceeb81@hys40.wba-pn.ru:443?type=ws&security=tls&sni=hys40.wba-pn.ru&fp=ios#Khodemoni-425936
