@@ -1,4 +1,3 @@
-vless://01a95af3-a2f6-453e-9f88-b2fc011627cc@92.114.24.35:43630?&type=tcp&headerType=none&path=%2F#Khodemoni-383319
 ss://YWVzLTI1Ni1nY206ZDk5YzQyMjE5OWU2MmI2Yg==@194.87.69.207:40119#Khodemoni-445408
 ss://YWVzLTI1Ni1nY206YmRiMzEzYWRmNzRjMmVkZQ==@46.17.40.234:40112#Khodemoni-445411
 vmess://eyJhZGQiOiI5MS4yMTYuMjE3LjE4MSIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJkYjM5MmRkYy01YWM5LTQ1OWItOWNlMy02ZjZkYzg3YjY1MGUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQ0MyIsInBzIjoiS2hvZGVtb25pLTQ0NTIxMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
@@ -11,6 +10,7 @@ vless://7efc901f-7862-40e8-902b-4bfad8f8ca88@213.165.40.175:443?security=none&ty
 vless://7efc901f-7862-40e8-902b-4bfad8f8ca88@213.165.40.175:2053?type=tcp&security=none&fp=qq#Khodemoni-444509
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxcktoRzZPNXlKcElfTnFlYXIzNXNB@80.90.191.35:443#Khodemoni-445115
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.72.202.163:22224?encryption=none&security=none&type=tcp#Khodemoni-445413
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZRjJDTGp4WVdIcUprSzArTGJRZHBXeVd2Y3hScHBTSFlvUFdtNEloK2ljPQ@e4.cover20.ir:16156?type=tcp#Khodemoni-445440
 vless://60e6320d-60c6-43f5-9f54-686089edd608@vip.paaradiseshop.ir:2052?encryption=none&security=none&type=ws&host=english.paradiseshop.click&path=%2Fpath#Khodemoni-444911
 vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@194.93.61.66:443?encryption=none&flow=xtls-rprx-vision&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&security=reality&sid=cbb0a5c1dc905505&sni=cdnjs.com&type=tcp&fp=qq#Khodemoni-445284
 vless://a06119a7-4f1a-4592-86d9-e050a332b2b3@104.105.3.100:17780?encryption=none&fp=firefox&pbk=CHNEnURyZzZ1OQwb5SD2Ze8K9eIY2oggyrV5FOIsU28&security=reality&sid=a0fbc54d937aaccb&sni=amp-api-edge.apps.apple.com&type=tcp#Khodemoni-440763
