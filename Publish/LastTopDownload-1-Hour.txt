@@ -1,6 +1,6 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZRjJDTGp4WVdIcUprSzArTGJRZHBXeVd2Y3hScHBTSFlvUFdtNEloK2ljPQ@e4.cover20.ir:16156?type=tcp#Khodemoni-445440
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.72.202.163:22224?encryption=none&security=none&type=tcp#Khodemoni-445413
 ss://YWVzLTI1Ni1nY206NmIzOWFlMzIzNGRmZDY4Yg==@45.140.169.123:40119#Khodemoni-445412
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZRjJDTGp4WVdIcUprSzArTGJRZHBXeVd2Y3hScHBTSFlvUFdtNEloK2ljPQ@e4.cover20.ir:16156?type=tcp#Khodemoni-445440
 vless://41e71ba7-d389-47aa-94f7-ed1f55fdbcdf@194.93.61.86:443?encryption=none&flow=xtls-rprx-vision&pbk=E1te_g9q6EWQVOCgjwI4PF-cml9qqW7OEAf33tYkUxQ&security=reality&sid=17d334ad29b2ff40&sni=cdnjs.com&type=tcp&fp=firefox#Khodemoni-444491
 vless://9647129d-57ff-4fe2-bbd8-4a49d622612a@185.121.179.11:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&sni=de-01.atlanta-api.com&fp=firefox&alpn=h2%2Chttp%2F1.1#Khodemoni-445264
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxcktoRzZPNXlKcElfTnFlYXIzNXNB@80.90.191.35:443#Khodemoni-445115
