@@ -1,3 +1,5 @@
+trojan://PQ05174892@sure-bengal.rooster465.autos:443?fp=chrome#Khodemoni-439230
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@185.193.30.94:443/?type=ws&encryption=none&flow=&host=josni.hoyes.cloudns.ch&path=/musiclovers85&security=tls&sni=josni.hoyes.cloudns.ch&fp=chrome#Khodemoni-438024
 trojan://PQ05174892@casual-bullfrog.rooster465.autos:443?fp=chrome#Khodemoni-427762
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@150.241.102.202:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=america.cendora.ru&security=reality&pbk=v1hVg2Uc7Wsc_bhlLfKkML_HUGogQA9O9n9uZFwzQSM&sid=065cf4f1c7d83e79#Khodemoni-438998
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@150.241.102.202:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=v1hVg2Uc7Wsc_bhlLfKkML_HUGogQA9O9n9uZFwzQSM&security=reality&sid=065cf4f1c7d83e79&sni=america.cendora.ru&type=tcp#Khodemoni-439165
@@ -5,7 +7,6 @@ vless://9f8e7d6c-5b4a-4321-8b7a-6c5d4e3f2a1b@172.66.47.69:80?encryption=none&hos
 trojan://PQ05174892@34.220.224.252:443?fp=chrome&sni=smooth-sculpin.rooster465.autos#Khodemoni-439236
 trojan://PQ05174892@35.91.138.234:443?fp=chrome&sni=sure-bengal.rooster465.autos#Khodemoni-439235
 trojan://FH72359861@35.92.245.6:443?fp=chrome&sni=neutral-quail.rooster465.autos#Khodemoni-439223
-trojan://PQ05174892@sure-bengal.rooster465.autos:443?fp=chrome#Khodemoni-439230
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@140.99.223.187:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=wx4B5IBeGc_0h6XZW6714G7951zLUYILv6eNRSgPDl8&security=reality&sid=e4f6a3446ac34a24&sni=savesafe.run&type=tcp#Khodemoni-439218
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Vk5aVTI2eUN1NUoxVGFYUTlJZEphc0tIb3BCVXpjMnh0K0pVbDlFQ0IrZz0@150.230.229.189:59319#Khodemoni-445191
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6WFZkSkRQdVliMXgwNzJKckNDMitCZmVpQ2dJTURoRE8zcTNobDQ2N0ZaVT0@147.15.34.121:59319#Khodemoni-445190
