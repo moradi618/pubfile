@@ -1,9 +1,11 @@
+vless://14b78fcb-2647-4d76-812e-7c7ae959bcfd@iranian.arshia-nova.ir:443?encryption=none&fp=chrome&pbk=uSoNVrVIdQ5Y0YOpDCRkaYK5VAzYG6tCPtTc4cim7Tw&security=reality&sid=22024c&sni=cstudio.semiconductor.samsung.com&spx=%2F63c1b997d7fb90d&type=tcp#Khodemoni-447090
+vless://1c3c2dbc-577c-4522-b8d3-c5dcf16d7a58@iman.dexterr.ir:42314?encryption=none&fp=firefox&pbk=LPViwfCMM74xqoaSY7ZIO38CYQrLIlDgRMowiuhyKWs&security=reality&sid=52bdf8ea99&sni=play.google.com&spx=%2Ff2399744c0b9f0c&type=tcp#Khodemoni-447149
+vless://ac7fb60f-0b7a-465d-a002-05160ec04ed6@lapa4.api3-max.ru:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=lapa4.api3-max.ru#Khodemoni-447140
 vless://1c3c2dbc-577c-4522-b8d3-c5dcf16d7a58@iman.dexterr.ir:16656?encryption=none&fp=chrome&pbk=JU2RSU2sL-MAlzjOqLOYr-cDpg5ystXrF9Pdk2GWPhM&security=reality&sid=a2&sni=icloud.com&spx=%2Ff2399744c0b9f0c&type=tcp#Khodemoni-447150
 trojan://humanity@104.16.72.41:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=ws&security=tls&path=/assignment&host=www.calmlunch.com&sni=www.calmlunch.com&insecure=0&allowInsecure=0#Khodemoni-447146
 vless://1c3c2dbc-577c-4522-b8d3-c5dcf16d7a58@iman.dexterr.ir:8036?encryption=none&fp=chrome&pbk=InNdZUbn4v_kECugLTpKB-bx6P330fyDj7DfVRbeZTs&security=reality&sid=b73e7631&sni=ai.android&spx=%2Ff2399744c0b9f0c&type=tcp#Khodemoni-447148
 vless://52f86c87-afd4-48e4-8371-7874590b999b@104.16.250.153:443?path=%2F%3Fu%3Duser1&security=tls&encryption=none&insecure=0&host=ez-b9a267.ezaccess141636a.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=ez-b9a267.ezaccess141636a.workers.dev#Khodemoni-447161
 vless://1c3c2dbc-577c-4522-b8d3-c5dcf16d7a58@104.21.81.165:443?encryption=none&fp=chrome&host=cl.dexterr.ir&path=%2F&security=tls&sni=cl.dexterr.ir&type=ws#Khodemoni-447152
-vless://1c3c2dbc-577c-4522-b8d3-c5dcf16d7a58@iman.dexterr.ir:42314?encryption=none&fp=firefox&pbk=LPViwfCMM74xqoaSY7ZIO38CYQrLIlDgRMowiuhyKWs&security=reality&sid=52bdf8ea99&sni=play.google.com&spx=%2Ff2399744c0b9f0c&type=tcp#Khodemoni-447149
 vless://1d101c24-541e-4f32-a747-b3b62d79cc4c@94.228.166.11:443?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-447162
 vless://1c3c2dbc-577c-4522-b8d3-c5dcf16d7a58@104.21.68.12:443?encryption=none&fp=chrome&host=cl.dexterr.ir&path=%2F&security=tls&sni=cl.dexterr.ir&type=ws#Khodemoni-447151
 vless://1c3c2dbc-577c-4522-b8d3-c5dcf16d7a58@104.18.93.198:443?encryption=none&fp=chrome&host=cl.dexterr.ir&path=%2F&security=tls&sni=cl.dexterr.ir&type=ws#Khodemoni-447154
@@ -17,7 +19,6 @@ vless://2b44a12a-2a00-48aa-a8db-0d182e34d888@65.109.215.185:4046?security=none&e
 vless://2b44a12a-2a00-48aa-a8db-0d182e34d888@65.109.215.185:4049?security=none&encryption=none&host=igap.net&headerType=http&type=tcp#Khodemoni-447157
 vless://2b44a12a-2a00-48aa-a8db-0d182e34d888@65.109.215.185:7090?security=none&encryption=none&host=rubika.ir&headerType=http&type=tcp#Khodemoni-447165
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.217.79:22224?encryption=none&security=none&type=tcp#Khodemoni-447164
-vless://14b78fcb-2647-4d76-812e-7c7ae959bcfd@iranian.arshia-nova.ir:443?encryption=none&fp=chrome&pbk=uSoNVrVIdQ5Y0YOpDCRkaYK5VAzYG6tCPtTc4cim7Tw&security=reality&sid=22024c&sni=cstudio.semiconductor.samsung.com&spx=%2F63c1b997d7fb90d&type=tcp#Khodemoni-447090
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@162.35.231.70:443?security=reality&encryption=none&pbk=6z3YcVP0f2pK3iANKIkBUZOgNeErDjxY83mHZG5jrnI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=savesafe.co&sid=f63805c3ecc7a483#Khodemoni-447112
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.156.140.181:22223?encryption=none&security=none&type=tcp#Khodemoni-447118
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.217.79:22223?encryption=none&security=none&type=tcp#Khodemoni-447117
@@ -48,5 +49,3 @@ vless://71281db8-470f-4b1b-9f69-4b066fafe363@iranian.arshia-nova.ir:8443?encrypt
 vless://71281db8-470f-4b1b-9f69-4b066fafe363@shop.jarorobo.ir:443?encryption=none&fp=chrome&pbk=uSoNVrVIdQ5Y0YOpDCRkaYK5VAzYG6tCPtTc4cim7Tw&security=reality&sid=82&sni=stg-ru-images.shop.samsung.com&spx=%2Ffc1027402edcd1d&type=tcp#Khodemoni-447067
 vless://71281db8-470f-4b1b-9f69-4b066fafe363@iranian.arshia-nova.ir:443?encryption=none&fp=chrome&pbk=uSoNVrVIdQ5Y0YOpDCRkaYK5VAzYG6tCPtTc4cim7Tw&security=reality&sid=82&sni=stg-ru-images.shop.samsung.com&spx=%2Ffc1027402edcd1d&type=tcp#Khodemoni-447069
 vless://71281db8-470f-4b1b-9f69-4b066fafe363@iran.arshia-nova.ir:443?encryption=none&fp=chrome&pbk=uSoNVrVIdQ5Y0YOpDCRkaYK5VAzYG6tCPtTc4cim7Tw&security=reality&sid=82&sni=stg-ru-images.shop.samsung.com&spx=%2Ffc1027402edcd1d&type=tcp#Khodemoni-447068
-vless://00506574-3b10-4f7d-9b2f-8afdc5919b93@pl1.nihaovpn.ru:443?security=reality&encryption=none&pbk=2stsLH56yUXFwc7ICrN111GveMOIrWSDFiUr6XWFhx4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=pl1.nihaovpn.ru&sid=d9622c6fea10c1#Khodemoni-447061
-vless://959bd27a-bcc8-45b4-bec7-d8902c986f55@173.234.76.175:51359?encryption=none&type=tcp&security=reality&sni=wid.world&fp=chrome&pbk=-ZWG_AEb-xDKOK8fWq4bRHn4bhTUkwvNkSe0qwbigCo&sid=c3177d4358119938&allowInsecure=1#Khodemoni-447062
