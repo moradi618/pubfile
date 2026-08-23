@@ -1,3 +1,8 @@
+trojan://FH72359861@13.230.239.7:443?fp=chrome&security=tls&sni=alert-redfish.rooster465.autos&type=tcp#Khodemoni-419875
+trojan://ND91608427@18.181.164.216:443?fp=chrome&security=tls&sni=upright-impala.rooster465.autos&type=raw#Khodemoni-419856
+vless://ae2e0637-5c9d-422b-93ac-70bd3fceeb81@hys40.wba-pn.ru:443?type=ws&security=tls&sni=hys40.wba-pn.ru&fp=chrome#Khodemoni-425855
+vless://ae2e0637-5c9d-422b-93ac-70bd3fceeb81@hys40.wba-pn.ru:443?type=ws&security=tls&sni=hys40.wba-pn.ru&fp=safari#Khodemoni-425859
+vless://8d44a812-229a-4c54-a461-8109b29621a7@94.26.83.7:443?mode=gun&security=reality&encryption=none&pbk=HFTFARa1OS53m4HWnjwtZ0J3lu7aoKkE7OujIyM62QI&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=2a236a7fcbe0ce61#Khodemoni-446921
 trojan://HC04361579@exact-sawfish.rooster465.autos:443?security=tls&sni=exact-sawfish.rooster465.autos#Khodemoni-438649
 trojan://AE62539071@54.245.126.186:443?fp=chrome&sni=moral-cow.rooster465.autos#Khodemoni-439228
 vless://1f619326-cd93-4d6b-aebe-e0b5f8831d02@relay.meshbeat.online:8444?encryption=none&fp=chrome&host=relay.meshbeat.online&path=/api/v1/devices/2545c190a7/telemetry&security=tls&sni=relay.meshbeat.online&type=ws#Khodemoni-439628
@@ -5,7 +10,6 @@ trojan://AE62539071@real-cardinal.rooster465.autos:443?allowInsecure=0#Khodemoni
 trojan://atKbXl2I4rKzHGiRybV7fOp%2BOCYPz%2BbO@vip-us-6.hkd4fwmg.xyz:13758?security=tls&fp=android#Khodemoni-440727
 trojan://atKbXl2I4rKzHGiRybV7fOp%2BOCYPz%2BbO@vip-us-6.hkd4fwmg.xyz:13758?security=tls&fp=qq#Khodemoni-440729
 trojan://Edk07MJ3Xqg5cl1j5519zqwX2f2EFjON@vip-sg-1.hkd4fwmg.vip:21802?allowInsecure=0&sni=vip-sg-1.hkd4fwmg.vip#Khodemoni-441637
-vless://8d44a812-229a-4c54-a461-8109b29621a7@94.26.83.7:443?mode=gun&security=reality&encryption=none&pbk=HFTFARa1OS53m4HWnjwtZ0J3lu7aoKkE7OujIyM62QI&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=2a236a7fcbe0ce61#Khodemoni-446921
 vmess://eyJhZGQiOiJVUzAzMjAxMy5zc2dyZWVuLm9yZyIsImFpZCI6IjAiLCJpZCI6IjY0NWFjYjY4LTMyMjktNDU5NS05NTdiLWZjNzEyNzA1ZTYwNSIsIm5ldCI6IndzIiwicGF0aCI6Ii93ZXMiLCJwb3J0IjoiNDQzIiwicHMiOiJLaG9kZW1vbmktNDQ2OTQ1Iiwic2N5IjoiYXV0byIsInNuaSI6IlVTMDMyMDEzLnNzZ3JlZW4ub3JnIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJKUDAzMjAwNy5zc2dyZWVuLm9yZyIsImFpZCI6IjAiLCJpZCI6IjczY2YxMjY5LWRjNTItNDVlNS1hZTU4LTA1MzEyNjRiNmQ5ZiIsIm5ldCI6IndzIiwicGF0aCI6Ii93ZXMiLCJwb3J0IjoiNDQzIiwicHMiOiJLaG9kZW1vbmktNDQ2OTQ2Iiwic2N5IjoiYXV0byIsInNuaSI6IkpQMDMyMDA3LnNzZ3JlZW4ub3JnIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 vmess://eyJhZGQiOiI2NS4xMDkuMjExLjEzNiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlOTUxYWUzOS0yMjQwLTQwY2EtYmUxMy05Zjg2MmMzZGUzY2UiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjMzMTIwIiwicHMiOiJLaG9kZW1vbmktNDQ2OTQxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=
@@ -5515,6 +5519,4 @@ trojan://ND91608427@57.180.13.78:443?security=tls&sni=healthy-louse.rooster465.a
 vmess://eyJhZGQiOiIyMTcuMTQyLjEzOC42MSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJhYzFiOTMzZC1hZmZmLTQ0ODctOTNlZi1mNTcxMzBhNTVkZmYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoiS2hvZGVtb25pLTMzMzAzMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 trojan://ND91608427@57.180.27.225:443?fp=chrome&security=tls&sni=picked-guinea.rooster465.autos&type=tcp#Khodemoni-357923
 trojan://ND91608427@18.181.164.216:443?allowInsecure=1&fp=chrome&security=tls&sni=upright-impala.rooster465.autos&type=tcp#Khodemoni-357918
-trojan://FH72359861@13.230.239.7:443?fp=chrome&security=tls&sni=alert-redfish.rooster465.autos&type=tcp#Khodemoni-419875
-trojan://ND91608427@18.181.164.216:443?fp=chrome&security=tls&sni=upright-impala.rooster465.autos&type=raw#Khodemoni-419856
 trojan://UO36402987@34.251.228.118:443?fp=chrome&security=tls&sni=definite-ladybird.rooster465.autos#Khodemoni-395483
