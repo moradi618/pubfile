@@ -1,3 +1,8 @@
+trojan://atKbXl2I4rKzHGiRybV7fOp%2BOCYPz%2BbO@vip-us-6.hkd4fwmg.xyz:13758?security=tls&fp=qq#Khodemoni-440729
+trojan://AE62539071@54.245.126.186:443?fp=chrome&sni=moral-cow.rooster465.autos#Khodemoni-439228
+trojan://AE62539071@real-cardinal.rooster465.autos:443?allowInsecure=0#Khodemoni-440124
+trojan://atKbXl2I4rKzHGiRybV7fOp%2BOCYPz%2BbO@vip-us-6.hkd4fwmg.xyz:13758?security=tls&fp=android#Khodemoni-440727
+trojan://Edk07MJ3Xqg5cl1j5519zqwX2f2EFjON@vip-sg-1.hkd4fwmg.vip:21802?allowInsecure=0&sni=vip-sg-1.hkd4fwmg.vip#Khodemoni-441637
 vmess://eyJhZGQiOiJkYXNoYm9hcmQuYWZyYWdhbWUudG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImNmZDQyYWQyLTZmYzctNDQzZi05OTRlLTEwZTNkN2RmMjRkMSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiNTM4NyIsInBzIjoiS2hvZGVtb25pLTQ0ODEzNiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=
 vless://41e71ba7-d389-47aa-94f7-ed1f55fdbcdf@194.93.61.86:443?security=reality&encryption=none&pbk=E1te_g9q6EWQVOCgjwI4PF-cml9qqW7OEAf33tYkUxQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=17d334ad29b2ff40#Khodemoni-448079
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@193.124.45.154:13443?type=tcp&security=reality&sni=auto.cendora.ru&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&sid=a7f3c91b2e6d84c0&encryption=none&flow=xtls-rprx-vision&fp=safari#Khodemoni-442924
@@ -5706,8 +5711,3 @@ trojan://UO36402987@34.251.228.118:443?fp=chrome&security=tls&sni=definite-ladyb
 trojan://FH72359861@13.230.239.7:443?fp=chrome&security=tls&sni=alert-redfish.rooster465.autos&type=tcp#Khodemoni-419875
 trojan://ND91608427@18.181.164.216:443?fp=chrome&security=tls&sni=upright-impala.rooster465.autos&type=raw#Khodemoni-419856
 trojan://HC04361579@exact-sawfish.rooster465.autos:443?security=tls&sni=exact-sawfish.rooster465.autos#Khodemoni-438649
-trojan://AE62539071@54.245.126.186:443?fp=chrome&sni=moral-cow.rooster465.autos#Khodemoni-439228
-trojan://AE62539071@real-cardinal.rooster465.autos:443?allowInsecure=0#Khodemoni-440124
-trojan://atKbXl2I4rKzHGiRybV7fOp%2BOCYPz%2BbO@vip-us-6.hkd4fwmg.xyz:13758?security=tls&fp=android#Khodemoni-440727
-trojan://atKbXl2I4rKzHGiRybV7fOp%2BOCYPz%2BbO@vip-us-6.hkd4fwmg.xyz:13758?security=tls&fp=qq#Khodemoni-440729
-trojan://Edk07MJ3Xqg5cl1j5519zqwX2f2EFjON@vip-sg-1.hkd4fwmg.vip:21802?allowInsecure=0&sni=vip-sg-1.hkd4fwmg.vip#Khodemoni-441637
