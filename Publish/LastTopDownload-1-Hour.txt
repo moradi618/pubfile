@@ -1,22 +1,14 @@
-ss://YWVzLTI1Ni1nY206NmIzOWFlMzIzNGRmZDY4Yg==@45.140.169.123:40119#Khodemoni-445412
-ss://YWVzLTI1Ni1nY206ZDk5YzQyMjE5OWU2MmI2Yg==@194.87.69.207:40119#Khodemoni-445408
-ss://YWVzLTI1Ni1nY206YmRiMzEzYWRmNzRjMmVkZQ==@46.17.40.234:40112#Khodemoni-445411
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.72.202.163:22222?encryption=none&security=none&type=tcp#Khodemoni-445360
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZRjJDTGp4WVdIcUprSzArTGJRZHBXeVd2Y3hScHBTSFlvUFdtNEloK2ljPQ@e4.cover20.ir:16156?type=tcp#Khodemoni-445440
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKMUludVU2UVJUNUpPaDFtUWZralUy@144.31.243.2:16015?type=tcp&headerType=none#Khodemoni-445421
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.72.202.163:22224?encryption=none&security=none&type=tcp#Khodemoni-445413
+ss://YWVzLTI1Ni1nY206NmIzOWFlMzIzNGRmZDY4Yg==@45.140.169.123:40119#Khodemoni-445412
 ss://YWVzLTEyOC1nY206TVZSSlFuSkRRMUozUjFKYVMxTlhOWEk1VkZCM2VreHFRMGR4UkRkdVpVWkRXblIxZG5OcWVFaFZTMXBoVmxaeVdHNDJRbmM1TkdWMllXUlVhRkZyVGc9PQ@37.77.106.46:26140#Khodemoni-445447
-ss://YWVzLTI1Ni1nY206NzI1NTMzMjBhZTZiY2M4Zg==@212.192.13.121:20990#Khodemoni-445410
+vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@194.93.61.91:443?security=reality&encryption=none&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=cbb0a5c1dc905505#Khodemoni-445454
 vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@194.93.61.70:443?security=reality&encryption=none&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=cbb0a5c1dc905505#Khodemoni-445444
-vless://8e77c52e-e0b1-ee23-9bab-1c6be0144b54@69.46.46.123:443?path=%2Fws%2F8e77c52e-e0b1-ee23-9bab-1c6be0144b54&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=sr-production-ac27.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=sr-production-ac27.up.railway.app#Khodemoni-445363
-ss://YWVzLTI1Ni1nY206ZmJjZWM3Njk1M2EyZDE3Mw==@166.88.130.218:40991#Khodemoni-445387
+vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@194.93.61.91:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&security=reality&sid=cbb0a5c1dc905505&sni=cdnjs.com&type=tcp#Khodemoni-445460
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVEFPYndnNE9XV1hrWkpRczBaZGdD@31.76.82.131:34260?type=tcp&headerType=none#Khodemoni-445420
 vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@194.93.61.90:443?security=reality&encryption=none&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=cbb0a5c1dc905505#Khodemoni-445446
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMWFlMGZjZS05MzQwLTRmMmUtODgyZC1mZGIyMjE4ZTJlMmI=@114.25.9.245:50099#Khodemoni-445400
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKMUludVU2UVJUNUpPaDFtUWZralUy@144.31.243.2:16015? #Khodemoni-445377
 ss://YWVzLTI1Ni1nY206c0ZTMzQxZWNlYUlpU20yZA@154.53.63.33:443?type=tcp&headerType=none#Khodemoni-445414
-vmess://eyJhZGQiOiJVUzAzMjAxMy5zc2dyZWVuLm9yZyIsImFpZCI6MCwiaWQiOiI2NDVhY2I2OC0zMjI5LTQ1OTUtOTU3Yi1mYzcxMjcwNWU2MDUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd2VzIiwicG9ydCI6NDQzLCJwcyI6Iktob2RlbW9uaS00NDUzODAiLCJzZWN1cml0eSI6ImF1dG8iLCJ0bHMiOiJ0bHMifQ==
 vless://d900a139-8b5f-4758-8a32-389c6f36fc86@132.243.174.112:2054?mode=gun&security=reality&encryption=none&authority=&pbk=JFzd2AbfzZSnMefyKEXNIae_QEZAo5o239pmuHHZsAY&fp=firefox&type=grpc&serviceName=grpc&sni=www.swisscom.ch&sid=b27b172e7453e810#Khodemoni-445341
-vmess://eyJhZGQiOiJKUDAzMjAwNy5zc2dyZWVuLm9yZyIsImFpZCI6MCwiaWQiOiI3M2NmMTI2OS1kYzUyLTQ1ZTUtYWU1OC0wNTMxMjY0YjZkOWYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd2VzIiwicG9ydCI6NDQzLCJwcyI6Iktob2RlbW9uaS00NDUzODIiLCJzZWN1cml0eSI6ImF1dG8iLCJ0bHMiOiJ0bHMiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiJKUDAzMjAwNy5zc2dyZWVuLm9yZyIsImFpZCI6MCwiaWQiOiI3M2NmMTI2OS1kYzUyLTQ1ZTUtYWU1OC0wNTMxMjY0YjZkOWYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd2VzIiwicG9ydCI6NDQzLCJwcyI6Iktob2RlbW9uaS00NDUzNzkiLCJzZWN1cml0eSI6ImF1dG8iLCJ0bHMiOiJ0bHMifQ==
 vless://2ed0d2a0-dbba-4cc2-95df-a197831d9978@109.169.37.129:443?security=reality&encryption=none&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=foodnetwork.com&sid=fd55b698ee8c3629#Khodemoni-445445
