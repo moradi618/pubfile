@@ -1,3 +1,4 @@
+vmess://eyJ2IjoiMiIsInBzIjoiS2hvZGVtb25pLTQyNzIzMCIsImFkZCI6Im5vZGUtdWsuY29ubmVjdHN1aXRlLm9yZyIsInBvcnQiOiIyMDUzIiwiaWQiOiI3MmYyY2JlNC0yODc0LTQ1YjctYjZhYS1iOTMwNzdjMTBjNzIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiJ0bHMiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI4NiJ9
 trojan://humanity@178.208.75.155:2053?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#Khodemoni-381095
 vmess://eyJhZGQiOiI0Ny44My4yMDcuMTQ4IiwiYWlkIjoiMCIsImhvc3QiOiJWQUg0VVJkWkwzakRYNXIyLnYuM2Rucy52aXAiLCJpZCI6ImYyM2JiNDI3YzFmOTQzNzM4NzZjMmY0M2U5Zjc5MGYzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXZtZXNzIiwicG9ydCI6IjQ0MyIsInBzIjoiS2hvZGVtb25pLTM3NjQ1NSIsInNjeSI6ImF1dG8iLCJzbmkiOiJWQUg0VVJkWkwzakRYNXIyLnYuM2Rucy52aXAiLCJ0ZXN0X25hbWUiOiJISzUiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 trojan://humanity@80.77.25.142:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#Khodemoni-372979
@@ -272,7 +273,6 @@ ss://YWVzLTEyOC1nY206YWRiYzFlOGMtMTg0ZS00ZDAyLWIwZTAtZjBjYjcwYjM3N2Rm@mn.qwer-cn
 vless://ef945624-a311-4766-b57a-c19e7e6bb73c@de1.miyazono-kaori.com:443?type=raw&security=reality&flow=xtls-rprx-vision&sni=www.siemens.com&fp=chrome&pbk=aEAdhhksLgyI_GWf7l_ES5hMZhigMAIWBn9emSXdaHc&sid=56f276ac52#Khodemoni-446916
 ss://YWVzLTEyOC1nY206YWRiYzFlOGMtMTg0ZS00ZDAyLWIwZTAtZjBjYjcwYjM3N2Rm@mn.qwer-cn.org:10928#Khodemoni-446544
 ss://YWVzLTEyOC1nY206YWRiYzFlOGMtMTg0ZS00ZDAyLWIwZTAtZjBjYjcwYjM3N2Rm@mn.qwer-cn.org:10925#Khodemoni-446542
-vless://9ede262c-37f9-4363-82cd-9802dafe9e1f@50.7.249.218:8443?&security=tls&fp=firefox&alpn=http%2F1.1&sni=apkav-5.bosx.net&type=ws&headerType=none&path=%2Fapi%2Fconnect#Khodemoni-446539
 vless://14b78fcb-2647-4d76-812e-7c7ae959bcfd@shop.jarorobo.ir:8443?encryption=none&fp=chrome&pbk=9LyZjKAQkh2_FwDS21QVW05gfBRR77KjatFS8EtRyU4&security=reality&sid=b5d663e4e2e19d&sni=www.github.com&spx=/8e7525cfea3cb21&type=tcp#Khodemoni-447130
 ss://YWVzLTEyOC1nY206YWRiYzFlOGMtMTg0ZS00ZDAyLWIwZTAtZjBjYjcwYjM3N2Rm@mn.qwer-cn.org:10936#Khodemoni-446687
 vless://37a80f27-a184-4da7-a320-7d5ff19cdac1@turkie5.kaliteam.ir:53765?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=chrome&pbk=qPJ4Ihy7aIt05In_B3KcUA55FqQhjmZwGCDklMYdAQE&sid=59df2373c3e92229#Khodemoni-446628
