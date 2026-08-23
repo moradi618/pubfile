@@ -1,3 +1,5 @@
+vless://XpnTeam-31@199.232.78.160:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#Khodemoni-397139
+vless://7893b302-3882-4c38-9ab6-6313f1575d1a@193.111.208.36:443?encryption=none&security=tls&sni=cf.udpid.org&type=ws&fp=chrome&path=/%40zyzzzoao&host=cf.udpid.org&udp=1#Khodemoni-440864
 vless://XpnTeam-31@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#Khodemoni-396711
 vless://%58pnTeam-31@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#Khodemoni-396626
 vless://f60ccf44-8fe2-4517-8df2-2f646ae89bef@202.133.88.51:2083?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=0VAi_Jpn4icncP7Aa2zuMQm4kLMpt0mHlMT81Gswqgw&security=reality&sid=07b0e3&sni=amp-api-edge.apps.apple.com&spx=/D7o4Iwjdbhd64SZ&type=tcp#Khodemoni-448160
@@ -15,7 +17,6 @@ vless://22fff84b-dd89-489d-bc4c-794f664b92a2@151.101.56.7:443?Telegram=@Gozargah
 vless://@Cooonfig@Cooonfig@ZhilaVPN@65.109.212.98:13470?encryption=none&type=tcp&headerType=http&host=amp-api-edge.apps.apple.com#Khodemoni-448152
 vmess://eyJhZGQiOiIyMTcuMTQyLjEzOC42MSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJhYzFiOTMzZC1hZmZmLTQ0ODctOTNlZi1mNTcxMzBhNTVkZmYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoiS2hvZGVtb25pLTI1ODI1MSIsInNjeSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@one-for-all.levikogjgfdd.ir:2053?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=tls&sni=po.fastbrokencompony.com&fp=chrome&alpn=h3,h2&insecure=0&allowInsecure=0&type=ws&host=po.fastbrokencompony.com&path=/#Khodemoni-308495
-trojan://ND91608427@57.180.27.225:443?fp=chrome&security=tls&sni=picked-guinea.rooster465.autos&type=tcp#Khodemoni-357923
 vless://916e3030-6eac-418b-9402-7508ca7d6280@172.64.152.241:8443?path=%2F&security=tls&encryption=none&insecure=0&host=us-akile.nanniang.top&fp=chrome&type=ws&allowInsecure=0&sni=us-akile.nanniang.top#Khodemoni-400349
 trojan://FH72359861@13.230.239.7:443?fp=chrome&security=tls&sni=alert-redfish.rooster465.autos&type=tcp#Khodemoni-419875
 trojan://ND91608427@18.181.164.216:443?fp=chrome&security=tls&sni=upright-impala.rooster465.autos&type=raw#Khodemoni-419856
