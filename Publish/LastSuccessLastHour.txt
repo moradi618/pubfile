@@ -1,3 +1,6 @@
+vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@104.18.1.1:2053?encryption=none&security=tls&sni=po.fastbrokencompony.com&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=ws&host=po.fastbrokencompony.com&path=%2F#Khodemoni-442529
+vless://fd22ad82-2d89-4338-b72c-5092ae699c7d@8.47.69.0:8880?allowInsecure=0&sni=rutube.ummapeople.online&type=ws&host=rutube.ummapeople.online&path=/rutube#Khodemoni-325905
+vless://fd22ad82-2d89-4338-b72c-5092ae699c7d@8.47.69.0:8880?security=none&type=ws&path=/rutube&host=rutube.ummapeople.online&packetEncoding=xudp&sni=rutube.ummapeople.online#Khodemoni-346062
 vless://c3a47671-146d-4a66-9e23-8cc2da62b9c9@cd-tech.mrmtn.xyz:2222?path=%2F&security=none&encryption=none&host=play.google.com&type=ws#Khodemoni-450254
 vmess://eyJ2IjoiMiIsInBzIjoiS2hvZGVtb25pLTQ0Mzc4NCIsImFkZCI6IjIxNi4xMjguMTc2LjE2NiIsInBvcnQiOiIyODgwOSIsImlkIjoiZWJjYTU1OWMtYTRhMS00MDYyLTk0NTMtNjQxMmQ4ZmY1MjU1IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6Ii9lYmNhNTU5Yy1hNGExLTQwNjItOTQ1My02NDEyZDhmZjUyNTUiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI4OCJ9
 vless://b1cf484e-651f-432b-b086-f148e010669e@45.80.111.175:8880?security=none&type=ws&path=%2Frutube&host=rutube.ummapeople.online&encryption=none#Khodemoni-378100
@@ -41,6 +44,3 @@ vless://2cca8201-c93e-40eb-bd8a-fea4170c169e@185.136.12.190:443?Telegram=@Gozarg
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.188.101.151:22224?encryption=none&security=none&type=tcp#Khodemoni-450212
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.188.101.151:22222?encryption=none&security=none&type=tcp#Khodemoni-450213
 vmess://eyJ2IjoiMiIsInBzIjoiS2hvZGVtb25pLTQzOTU2MyIsImFkZCI6IjQzLjIyOC4xMjYuMTg3IiwicG9ydCI6IjQ3NjMwIiwiaWQiOiI5ZTVjNmViZi0zNWY5LTQ5YTMtOWYxMi1jYmEyYjdjZGJjY2IiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwiaW5zZWN1cmUiOiIwIiwidmNuIjoiIiwicGNzIjoiIn0=
-vless://a817d012-0eeb-4b13-9f8e-0269e939d6f6@178.172.227.178:443?alpn=h2%2Chttp%2F1.1&encryption=none&path=%2F&security=tls&sni=by01.botovod.space&type=xhttp&fp=qq#Khodemoni-447455
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.18.37.228:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/?TELEGRAM-NexVexo_NexVexo_NexVexo_NexVexo_NexVexo?ed=512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#Khodemoni-448186
-vless://a237ca49-48d5-466f-aee5-c44f728a99ab@edge7.rumedia-cdn.com:8443?flow=xtls-rprx-vision&pbk=Z3dT5WeVvmrbBtZycHfI3kO6kyoLH3tAqpT_ReaMaxI&security=reality&sid=4f676caa93313eab&sni=www.rumedia-cdn.com&spx=%2F&type=tcp&fp=firefox#Khodemoni-450152
