@@ -1,3 +1,4 @@
+vless://a06119a7-4f1a-4592-86d9-e050a332b2b3@ca.milkabebar.ir:17780?encryption=none&security=reality&type=tcp&headerType=none&sni=amp-api-edge.apps.apple.com&fp=firefox&pbk=CHNEnURyZzZ1OQwb5SD2Ze8K9eIY2oggyrV5FOIsU28&sid=a0fbc54d937aaccb#Khodemoni-440739
 vless://1cae67cd-9f09-4c59-94e6-998ed0346c44@188.114.97.6:8080?path=%2Fpyip&security=none&encryption=none&host=lingering-lab-91a6.54-8c3.workers.dev&type=ws#Khodemoni-448888
 vless://4908acbe-485f-4e1c-bb11-5dd04b9f7e88@188.114.97.6:8080?path=%2FeyJqdW5rIjoiRjhycEV5WUpJTGZpQSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=none&encryption=none&host=restless-base-fe24.alirezahabibi20009.workers.dev&type=ws#Khodemoni-448889
 vless://8c56b4af-4762-4299-a1f8-799790dbaac7@188.114.97.6:8080?path=%2Fpyip%3DProxyIP.SG.CMLiussss.net%2B&security=none&encryption=none&host=lively-lab-4fd2.150-6f7.workers.dev&type=ws#Khodemoni-448894
@@ -1826,7 +1827,6 @@ vless://b0a6832e-e6a3-491c-8137-fee5a7912ed4@cctvhikvision.center:2052?encryptio
 vless://a54fec73-26a1-4c05-b948-6a01c157927e@192.220.55.133:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=HCa-dCIFGG7LF3wPOBlrRzk_T1m-YIkhmupepQy0bzI&sid=616ead1cdc4486ca&allowInsecure=1#Khodemoni-447686
 vless://b0a6832e-e6a3-491c-8137-fee5a7912ed4@cctvhikvision.center:2053?encryption=none&security=tls&sni=uwu.blueknightnet.qzz.io&fp=chrome&alpn=h2&insecure=0&allowInsecure=0&type=ws&host=uwu.blueknightnet.qzz.io&path=%2F%40BlueKnight_net--%40BlueKnight_net--%40BlueKnight_net--%40BlueKnight_net--%40BlueKnight_net--%40BlueKnight_net#Khodemoni-447813
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.77.108:22222?encryption=none&security=none&type=tcp#Khodemoni-447798
-vless://9dc3a0e3-0115-488e-aff0-444035c5f5eb@tgju.org:443?path=%2Fapi%2Fai%2Fv1&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=chatgpt.sanqelo.ir#Khodemoni-447483
 vless://2a6a619b-3a18-40f6-b40f-d028ea60465d@66.90.99.250:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=jp.quattro-tech.ru&fp=chrome&security=reality&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#Khodemoni-446952
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.77.108:22224?encryption=none&security=none&type=tcp#Khodemoni-447800
 vless://388db6b7-93f3-4a43-805e-20d863dab397@82.158.120.66:443?security=tls&encryption=none&headerType=&type=tcp&sni=rzqfntub2c6b.doprik.com#Khodemoni-447708
@@ -1835,7 +1835,6 @@ vless://7aecb4a5-f0a4-32a0-aabe-c9d5241e313f@154.23.242.77:10005?security=realit
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.217.79:22223?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=&encryption=none&headerType=none&type=tcp#Khodemoni-447767
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.217.79:22223?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-447768
 vless://218fd696-e3a2-4c33-b397-a5f13a82969e@103.110.66.43:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=reality&encryption=none&pbk=ECYE8G81FW1V__Y9yBYxIU0TWWcConhXoJncZG1D_0U&fp=chrome&type=grpc&serviceName=grpc&sni=www.amazon.se&sid=7a08844f#Khodemoni-447703
-vless://9dc3a0e3-0115-488e-aff0-444035c5f5eb@tgju.org:8443?path=%2Fapi%2Fai%2Fv2&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=chatgpt.sanqelo.ir#Khodemoni-447484
 vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@185.36.142.111:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&security=reality&sid=ff776ff77be48b88&sni=est2.freeinternat.com&type=tcp#Khodemoni-444751
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.156.140.181:22222?encryption=none&amp;security=none&amp;type=tcp#Khodemoni-447527
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.75:9002?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=grpc-reality&sni=api-maps.yandex.ru#Khodemoni-419015
