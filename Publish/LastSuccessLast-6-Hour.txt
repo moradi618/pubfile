@@ -1,3 +1,7 @@
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.42.163:2095?security=none&type=ws&path=%2F&host=download.pusytroller.gq#Khodemoni-232116
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.42.163:2095/?type=ws&encryption=none&flow=&host=download.pusytroller.gq&path=%2F#Khodemoni-218546
+trojan://humanity@104.18.8.83:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment#Khodemoni-256160
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.42.163:2095?security=none&type=ws&path=/&host=download.pusytroller.gq&packetEncoding=xudp&encryption=none#Khodemoni-258733
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.67.161.104:2095?type=ws&host=fangbinxingnmsl.pusytroller.gq&path=/#Khodemoni-290867
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@193.124.45.154:443?type=tcp&headerType=none&security=reality&encryption=none&sni=eu-central.cendora.ru&fp=chrome&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083&flow=xtls-rprx-vision#Khodemoni-416461
 vmess://eyJ2IjoiMiIsInBzIjoiS2hvZGVtb25pLTMyMDI2NCIsImFkZCI6IjQ3LjgzLjIwNy4xNDgiLCJwb3J0IjoiNDQzIiwiaWQiOiJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6IlZBSDRVUmRaTDNqRFg1cjIudi4zZG5zLnZpcCIsInBhdGgiOiIvd3Mtdm1lc3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJWQUg0VVJkWkwzakRYNXIyLnYuM2Rucy52aXAiLCJ0ZXN0X25hbWUiOiJISzgifQ==
