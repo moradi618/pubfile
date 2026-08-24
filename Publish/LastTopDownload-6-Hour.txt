@@ -1,6 +1,7 @@
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.195.83.74:22222?encryption=none&amp;security=none&amp;type=tcp#Khodemoni-448862
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.44.5:22223?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=tcp#Khodemoni-449590
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw@188.116.23.244:8388? #Khodemoni-397575
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.29.36.98:22223?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-449245
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.195.83.74:22224?encryption=none&security=none&type=tcp#Khodemoni-448695
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw%3D@188.116.23.244:8388#Khodemoni-396590
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.29.36.98:22223?encryption=none&security=none&type=tcp#Khodemoni-449122
@@ -8,7 +9,6 @@ vless://aa904ebf-99ab-452d-9678-cbe62f5f8934@86.53.189.109:2044?security=&encryp
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.44.5:22223?encryption=none&security=none&type=tcp#Khodemoni-449520
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.195.83.74:22222?encryption=none&security=none&type=tcp#Khodemoni-448696
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.195.83.74:22223?encryption=none&security=none&type=tcp#Khodemoni-448697
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.44.5:22222?encryption=none&amp;security=none&amp;type=tcp#Khodemoni-449738
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.29.36.98:22224?encryption=none&security=none&type=tcp#Khodemoni-449121
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw@188.116.23.244:8388#Khodemoni-396388
 vmess://eyJhZGQiOiJnMS5ob3J2ZXhhLmlyIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImI4NGExYTMyLTQ1YjUtNDNmZi1iNTViLTQyM2VlOWFkODE1ZiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjA5ODEiLCJwcyI6Iktob2RlbW9uaS00NDkyMjkiLCJzY3kiOiJub25lIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
