@@ -43,7 +43,6 @@ trojan://MiTiVPN@140.248.185.253:443?Telegram=@GozargahAzad,@GozargahAzad,@Gozar
 vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.142.142:8880?path=%2F&security=none&encryption=none&host=azsv1.drpingservice.com&type=ws#Khodemoni-108018
 vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?encryption=none&security=none&type=ws&host=azsv1.drpingservice.com&path=%2F#Khodemoni-081861
 vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?path=%2F&security=&encryption=none&host=azsv1.drpingservice.com&type=ws#Khodemoni-094469
-vless://9e09f1ce-45d4-466d-b077-81b0dae00db2@31.76.111.113:7777?encryption=none&flow=xtls-rprx-vision&security=reality&sni=console.cloud.yandex.ru&fp=chrome&pbk=4iWZChsH0rnqtn89xiB1evDLkFjmgh-3WYjx8cknZC0&sid=a8b9c0d1e2f34567&type=tcp&headerType=none#Khodemoni-450785
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.188.101.151:22222?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-450412
 vless://35dc1a9b-c02c-4670-a3f9-1f8106567f14@107.181.155.227:34156?type=tcp&security=reality&fp=firefox&pbk=BsCp88E9PdpEDjC5bxLMP2tiJYK6afCPQT_CoxCVgAI&sid=d6cdfdd9a21f8d23&sni=yahoo.com#Khodemoni-449077
 vless://35dc1a9b-c02c-4670-a3f9-1f8106567f14@107.181.155.227:34156?type=tcp&security=reality&fp=edge&pbk=BsCp88E9PdpEDjC5bxLMP2tiJYK6afCPQT_CoxCVgAI&sid=d6cdfdd9a21f8d23&sni=yahoo.com#Khodemoni-449076
