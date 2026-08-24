@@ -1,3 +1,4 @@
+trojan://humanity@162.159.91.211:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#Khodemoni-259171
 ss://YWVzLTI1Ni1nY206NzI1NTMzMjBhZTZiY2M4Zg@212.192.15.246:20990#Khodemoni-450482
 vless://b2bef9e4-0e52-43d7-9613-f6e73c2eb970@109.169.76.34:443?security=reality&encryption=none&pbk=JZ6o_q7-OSJ87w9kTrcn9I4UiMVZdPUnjXoRs4TbLzE&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=slashdot.org&sid=61811b12a62fb2a4#Khodemoni-450479
 ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@62.76.234.92:10901#Khodemoni-450471
@@ -88,7 +89,6 @@ ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OEMrQzQxSEx6dFJqdnErc2Y2Szk0VjJpKzZ
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@134.98.129.83:62145?&type=tcp&headerType=none&path=%2F#Khodemoni-450244
 vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.142.142:8880?path=%2F&security=&encryption=none&host=azsv1.drpingservice.com&type=ws#Khodemoni-108024
 vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?path=%2F%3FTELEGRAM-vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr%3Fed%3D512&security=none&encryption=none&host=azsv1.drpingservice.com&type=ws#Khodemoni-145955
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@140.99.223.19:443?encryption=none&flow=xtls-rprx-vision&pbk=wx4B5IBeGc_0h6XZW6714G7951zLUYILv6eNRSgPDl8&security=reality&sid=e4f6a3446ac34a24&sni=savesafe.run&type=tcp&fp=firefox#Khodemoni-422981
 vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.142.142:8880?path=%2F&security=none&encryption=none&host=azsv1.drpingservice.com&type=ws#Khodemoni-108018
 vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?encryption=none&security=none&type=ws&host=azsv1.drpingservice.com&path=%2F#Khodemoni-081861
 vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?encryption=none&type=ws&path=%2F&host=azsv1.drpingservice.com#Khodemoni-082627
@@ -102,11 +102,8 @@ vless://362a79a2-ce89-8d2d-355c-f1f5071a445f@188.114.96.7:8443?security=tls&type
 trojan://AE62539071@emerging-weevil.rooster465.autos:443#Khodemoni-399196
 trojan://tsuchiya@aa.ccmusic.jp:443?fp=chrome&security=tls&sni=aa.ccmusic.jp&type=tcp#Khodemoni-403152
 vmess://eyJhZGQiOiJub2RlLXVrLmNvbm5lY3RzdWl0ZS5vcmciLCJhaWQiOjAsImlkIjoiNzJmMmNiZTQtMjg3NC00NWI3LWI2YWEtYjkzMDc3YzEwYzcyIiwibmV0IjoidGNwIiwicG9ydCI6MjA1MywicHMiOiJLaG9kZW1vbmktNDE4MTUxIiwic2N5IjoiYXV0byIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-trojan://AE62539071@dominant-jaguar.rooster465.autos:443?fp=chrome&security=tls&sni=dominant-jaguar.rooster465.autos&type=tcp#Khodemoni-420074
 vmess://eyJ2IjoiMiIsInBzIjoiS2hvZGVtb25pLTQyMTE1OCIsImFkZCI6Im5vZGUtdWsuY29ubmVjdHN1aXRlLm9yZyIsInBvcnQiOiIyMDUzIiwiaWQiOiI3MmYyY2JlNC0yODc0LTQ1YjctYjZhYS1iOTMwNzdjMTBjNzIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiJ0bHMiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIzNCJ9
-trojan://FH72359861@many-pangolin.rooster465.autos:443?security=tls#Khodemoni-417714
 vless://76f6b7fe-5de8-4637-87a0-6ddd33d67b3e@cdn-se.alohaapp.uk:443?type=tcp&encryption=none&security=reality&flow=xtls-rprx-vision&sid=b9f8f9772217538f&sni=&headerType=none&pbk=kRwY2AAdT6SH4FKFQb-UhnJbyddqbdluKy1xaYPatD8&fp=chrome#Khodemoni-423215
-trojan://FH72359861@many-pangolin.rooster465.autos:443?security=tls&sni=many-pangolin.rooster465.autos#Khodemoni-419070
 vless://16569657-116c-46ed-8920-758ab8abaac4@djuc1.rapidmesh.ir:2096?security=reality&encryption=none&pbk=jqDgERbgQ5DVnJvw4p_j8XnM4GXUSXvPEn2t0TOtMms&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c2b19b0e0e625d01#Khodemoni-422160
 trojan://AE62539071@present-warthog.rooster465.autos:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&sni=&type=tcp&path=/&allow_insecure=1#Khodemoni-422812
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNV00yTg@83.171.225.55:8388#Khodemoni-440168
