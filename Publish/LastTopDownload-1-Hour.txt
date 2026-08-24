@@ -2,11 +2,7 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.198.221.49:22224?encryption=none
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.188.101.151:22222?encryption=none&security=none&type=tcp#Khodemoni-450213
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.198.221.49:22222?encryption=none&security=none&type=tcp#Khodemoni-450238
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.188.101.151:22224?encryption=none&security=none&type=tcp#Khodemoni-450212
-vless://b5c36be7-c0dc-4b72-904e-ba840cba7c49@65.109.215.185:8055?security=none&encryption=none&host=igap.net&headerType=http&type=tcp#Khodemoni-450032
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6ZElRLy9ieC9CRGhINStZV3AzUk4wQ3ZCZld5OVdKUEVMQnhPRjN0YTkzaz0@129.151.74.128:61312#Khodemoni-450248
-vless://%40Cooonfig%40@65.109.210.106:13470?security=&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#Khodemoni-450033
-vless://b5c36be7-c0dc-4b72-904e-ba840cba7c49@65.109.215.185:7090?security=none&encryption=none&host=rubika.ir&headerType=http&type=tcp#Khodemoni-450030
-vless://b5c36be7-c0dc-4b72-904e-ba840cba7c49@65.109.215.185:7080?security=none&encryption=none&headerType=http&type=tcp#Khodemoni-450031
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.188.101.151:22223?encryption=none&security=none&type=tcp#Khodemoni-450038
 trojan://MiTiVPN@213.182.199.137:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNL---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=1&host=28283839-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&type=ws&allowInsecure=1&sni=399338866-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&fp=firefox#Khodemoni-450076
 vless://5b3040c2-3139-4f66-b124-076dca3ed850@176.65.151.83:37430?type=tcp&encryption=none&security=reality&pbk=SH-kDcAJqxHIyvtvSjt9DIiOy-5pscb8-Xdt8QxmG38&fp=chrome&sni=amp-api-edge.apps.apple.com&spx=/#Khodemoni-450047
@@ -34,10 +30,8 @@ vless://5e1a8b4d-dcb5-4651-a0a3-1b17476b1baa@us.alcors.net:443?security=reality&
 vless://b3198f79-b4e6-4da0-9088-a9ec89e5f8d7@edge4.rumedia-cdn.com:8448?type=tcp&security=reality&sni=www.rumedia-cdn.com&pbk=WvMqlTcY5BY7WbrsGCwtA4VzhXGaP-FkjoOHn-yMsSI&sid=a94eb0e19d010373&spx=%2F&encryption=none&flow=xtls-rprx-vision&fp=safari#Khodemoni-450143
 trojan://mitivpn@45.205.0.6:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fu-ss%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=1&host=82929733-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&type=ws&allowInsecure=1&sni=383837333-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&fp=qq#Khodemoni-450077
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.165.253:62145?&type=tcp&headerType=none&path=%2F#Khodemoni-450219
-vless://a88e2744-3555-4a0a-9635-0aae23e038f8@45.134.38.204:8063?encryption=none&security=reality&sni=www.amd.com&pbk=hjJ1VN2xwcl1n7vrwvOspB2NFWrXNySUNPexutOVvAM&sid=4bdfc3394f&spx=%2FSpbLZLyrvjXqwyZ&type=tcp&headerType=none&fp=edge#Khodemoni-448217
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.235.70:62145?&type=tcp&headerType=none&path=%2F#Khodemoni-450218
 vless://b5c36be7-c0dc-4b72-904e-ba840cba7c49@65.109.215.185:4049?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&host=rubika.ir&headerType=http&type=tcp#Khodemoni-450057
-vless://b5c36be7-c0dc-4b72-904e-ba840cba7c49@65.109.215.185:4049?security=none&encryption=none&host=rubika.ir&headerType=http&type=tcp#Khodemoni-450022
 vless://a237ca49-48d5-466f-aee5-c44f728a99ab@edge7.rumedia-cdn.com:8443?flow=xtls-rprx-vision&pbk=Z3dT5WeVvmrbBtZycHfI3kO6kyoLH3tAqpT_ReaMaxI&security=reality&sid=4f676caa93313eab&sni=www.rumedia-cdn.com&spx=%2F&type=tcp&fp=chrome#Khodemoni-450079
 vless://a237ca49-48d5-466f-aee5-c44f728a99ab@edge7.rumedia-cdn.com:8443?flow=xtls-rprx-vision&pbk=Z3dT5WeVvmrbBtZycHfI3kO6kyoLH3tAqpT_ReaMaxI&security=reality&sid=4f676caa93313eab&sni=www.rumedia-cdn.com&spx=%2F&type=tcp&fp=qq#Khodemoni-450080
 vless://14777bd9-56a5-46f6-a94f-826b4800dc05@200.165.235.98:9892?type=grpc&security=reality&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aa&sni=dl.google.com&serviceName=grpc-tunnel&spx=%2F&fp=qq#Khodemoni-450094
