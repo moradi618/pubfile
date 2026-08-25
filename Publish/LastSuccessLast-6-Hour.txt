@@ -1,5 +1,5 @@
-vless://f62a1751-c1e4-4612-90e7-bd5781c1aede@bz2.wba-pn.ru:2053?type=ws&security=tls&sni=bz2.wba-pn.ru&fp=firefox#Khodemoni-425862
 vless://aee570eb-a87f-fb97-ee3b-2be2ce9f7c29@prisonvpnc-production.up.railway.app:443?path=/ws/aee570eb-a87f-fb97-ee3b-2be2ce9f7c29&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=&fp=ios&type=ws&allowInsecure=0&sni=#Khodemoni-453240
+vless://f62a1751-c1e4-4612-90e7-bd5781c1aede@bz2.wba-pn.ru:2053?type=ws&security=tls&sni=bz2.wba-pn.ru&fp=firefox#Khodemoni-425862
 vless://8b7e1a51-0577-44f3-8d3f-0adefae7f82f@91.99.81.222:8443?security=reality&encryption=none&pbk=dYsy51W78tzZf26ql7Fh0Db65VlRSjGp6EH9nsAIRgo&headerType=none&fp=chrome&spx=/Spz0tOd0EkkLZLX&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=4716935a30eac6#Khodemoni-453243
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.235.154:62145?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-453258
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.210.33:62145?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-453257
