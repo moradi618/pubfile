@@ -1173,8 +1173,8 @@ vless://b97e287f-a24e-0021-a103-7e7ecef83139@185.218.194.70:443?type=tcp&headerT
 vless://7fa84611-065f-477d-be7a-88db3ecdfaca@178.104.202.46:4433?security=tls&type=ws&path=/@Marisa_kristi&host=9-7u3b6e.wzkija0v0du4yhk6jfyfafml3nh22kne.workers.dev&packetEncoding=xudp&sni=9-7u3b6e.wzkija0v0du4yhk6jfyfafml3nh22kne.workers.dev&fp=chrome#Khodemoni-403053
 vless://31216f81-3139-0021-bac4-646680314264@185.218.194.71:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&security=reality&sid=e1f8a3b6&sni=www.amd.com&type=tcp#Khodemoni-383168
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#Khodemoni-396382
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@80.93.202.40:8880?security=none&type=ws&host=vms.lifetime02.workers.dev&path=/#Khodemoni-383303
 vless://916e3030-6eac-418b-9402-7508ca7d6280@172.64.152.241:8443?path=%2F&security=tls&encryption=none&insecure=0&host=us-akile.nanniang.top&fp=chrome&type=ws&allowInsecure=0&sni=us-akile.nanniang.top#Khodemoni-400349
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@80.93.202.40:8880?security=none&type=ws&host=vms.lifetime02.workers.dev&path=/#Khodemoni-383303
 vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?encryption=none&security=none&type=ws&host=azsv1.drpingservice.com&path=/?telegram-marambashi_marambashi_marambashi_marambashi_marambashi?ed=512#Khodemoni-416151
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@193.124.45.154:443?type=tcp&headerType=none&security=reality&encryption=none&sni=eu-central.cendora.ru&fp=chrome&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083&flow=xtls-rprx-vision#Khodemoni-416461
 vless://31216f81-3139-0021-bac4-646680314264@185.218.194.71:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.amd.com&fp=firefox&flow=xtls-rprx-vision&sid=e1f8a3b6&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&encryption=none#Khodemoni-403027
