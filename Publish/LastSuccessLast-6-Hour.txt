@@ -1,5 +1,6 @@
 vless://9ce4c9e2-1dcc-abe8-9abf-9bf8bc1269f6@77.110.108.196:8443?&security=tls&fp=chrome&sni=j.n.i.l.6.m.7.3.o.t.e.s.j.3.us.art-us.kdns.fr&type=ws&headerType=none&host=j.n.i.l.6.m.7.3.o.t.e.s.j.3.us.art-us.kdns.fr&path=%2Fpg%2F10086-dfc816f117c49173#Khodemoni-453013
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@5.253.28.189:443?security=reality&encryption=none&pbk=eaRNeC8fccrx0nBNvBpAXZgK4m4FxfnQ-t0W7NOM7mU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=asia.cendora.ru&sid=e53048e82bb20077#Khodemoni-453007
+vless://9ce4c9e2-1dcc-abe8-9abf-9bf8bc1269f6@85.192.37.138:443?&security=tls&fp=chrome&sni=8.o.8.e.t.g.7.w.8.n.e.1.l.e.us.art-us.kdns.fr&type=ws&headerType=none&host=8.o.8.e.t.g.7.w.8.n.e.1.l.e.us.art-us.kdns.fr&path=%2Fpg%2F10086-dfc816f117c49173#Khodemoni-453014
 trojan://humanity@45.130.125.160:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#Khodemoni-288467
 vless://7e85ed3f-3829-45b1-8b1c-6a2e45ebc967@164.68.127.108:24144/?type=tcp&encryption=none&flow=#Khodemoni-415502
 vless://714e1212-6707-471e-9f40-2fbd3d8d3b4b@201.24.49.233:2200?&type=ws&headerType=none&host=rzd.ru&path=%2Fv1#Khodemoni-453002
