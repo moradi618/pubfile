@@ -1,3 +1,5 @@
+vless://246bf902-1b08-4bc4-b851-c4987d804bac@217.149.30.225:2053/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.rumedia-cdn.com&fp=chrome&security=reality&pbk=CmkWD75j7txo_SEUQ7XzKI2b0_Odd0jc7cv_HqaTTAc&sid=688c54e7b1ebddec#Khodemoni-450907
+vless://a3594e9c-9ea5-4d0d-9946-0998950db803@144.225.65.181:37430?type=tcp&encryption=none&security=reality&pbk=5D-NW26AfOLI-0Kobd0S0ph815_EUBGww0Hkrpbp4SU&fp=chrome&sni=amp-api-edge.apps.apple.com&spx=/#Khodemoni-450916
 vless://80d02a71-54a5-4c5b-976d-5ee573c502af@104.171.128.225:443?encryption=none&pbk=eNvO4-6_VFngHHC6D5AhcCpCpOdi5gY7-Srimhh-6Xw&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&type=grpc&fp=firefox#Khodemoni-449621
 vless://80d02a71-54a5-4c5b-976d-5ee573c502af@104.171.128.225:443?encryption=none&pbk=eNvO4-6_VFngHHC6D5AhcCpCpOdi5gY7-Srimhh-6Xw&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&type=grpc&fp=edge#Khodemoni-449620
 vless://80d02a71-54a5-4c5b-976d-5ee573c502af@104.171.128.225:443?encryption=none&pbk=eNvO4-6_VFngHHC6D5AhcCpCpOdi5gY7-Srimhh-6Xw&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&type=grpc&fp=ios#Khodemoni-449690
@@ -37,7 +39,6 @@ vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@cfd.130209.xyz:443?security=tls&sni
 vless://1078d418-b4e0-4668-9018-dc90c2042d61@104.17.28.89:443?encryption=none&security=tls&sni=workspace.evan00.dpdns.org&insecure=0&allowInsecure=0&type=ws&path=%2F#Khodemoni-380579
 vless://828b7f2c-a6fe-431d-9469-2d7445b7e71f@199.232.78.159:443?path=/&security=tls&encryption=none&host=lsjaoijji.global.ssl.fastly.neT&type=ws&sni=ssl.fastly.com#Khodemoni-450442
 ss://YWVzLTI1Ni1nY206NmIzOWFlMzIzNGRmZDY4Yg@45.140.169.123:1900#Khodemoni-450409
-vless://403500e3-d737-4e9d-b315-0fdd1d5a5321@104.21.53.47:8443?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=t0r.bol.qzz.io#Khodemoni-450263
 vless://437ebf3c-a92c-4f40-9fc5-9af78c28802d@45.82.67.183:443?security=reality&encryption=none&pbk=daiJkQwpAcBk7oH1iZzRthMj-jAlqovX7vAiwVqfjTU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=northwaleswildlifetrust.org.uk&sid=8880a9f75eb46d91#Khodemoni-450440
 vless://add363b9-b934-4158-8cfe-a28e3e9e8d22@176.65.151.83:37430?type=tcp&encryption=none&security=reality&pbk=SH-kDcAJqxHIyvtvSjt9DIiOy-5pscb8-Xdt8QxmG38&fp=chrome&sni=amp-api-edge.apps.apple.com&spx=/#Khodemoni-450393
 vless://828b7f2c-a6fe-431d-9469-2d7445b7e71f@199.232.78.159:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/&security=tls&encryption=none&insecure=0&host=lsjaoijji.global.ssl.fastly.neT&type=ws&allowInsecure=0&sni=ssl.fastly.com#Khodemoni-450441
