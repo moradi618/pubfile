@@ -9,6 +9,7 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.185.170:22223?encryption=non
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.102.158.171:22222?security=&encryption=none&headerType=&type=tcp#Khodemoni-452509
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.2.124:22224?encryption=none&security=none&type=tcp#Khodemoni-452497
 vless://2f16a514-69cf-4758-8b2d-c918c0bf203a@172.239.26.211:53147?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#Khodemoni-452835
+vless://2f16a514-69cf-4758-8b2d-c918c0bf203a@172.239.26.211:53147?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#Khodemoni-452991
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.2.124:22222?encryption=none&security=none&type=tcp#Khodemoni-452475
 vmess://eyJhZGQiOiI5NS4xODIuODAuMjQyIiwiaWQiOiI4MDNjZDExNi01NmY2LTQ2ODAtOWVmNy04MmUyZGVkNTgxMGIiLCJuZXQiOiJ0Y3AiLCJwb3J0Ijo0NDMsInBzIjoiS2hvZGVtb25pLTQ1Mjc5NSIsInNjeSI6ImF1dG8iLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vless://fe77e96c-76df-4f96-8986-030119c4a928@213.165.44.101:12787?security=&encryption=none&headerType=&type=tcp#Khodemoni-452492
