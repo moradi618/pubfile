@@ -1,6 +1,7 @@
-vless://0e05fc31-9763-4fef-a2d2-caf400a1c823@Wsestin.horlutr.ir:2087?security=none&encryption=none&host=%2F&headerType=http&type=tcp#Khodemoni-451870
+vless://d4d4d103-5074-47e9-96e6-5431f4e35c57@nodefulcrum.mooo.com:443?security=reality&type=tcp&packetEncoding=xudp&sni=nodefulcrum.mooo.com&fp=chrome&flow=xtls-rprx-vision&sid=6547735997055a35&pbk=IhbpvWBZmJEzDs4eI2zoFmL_a-1J_7Z7Sepyrn7-xF8&encryption=none#Khodemoni-443635
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@77.232.43.195:443?mode=auto&path=%2Fweb%2Fcdn%2Fv2%2Fassets&security=reality&encryption=none&pbk=2P7D_IkxXWre3YziEe2tkF9L_gUbdZE_WCu9_SQq4hE&fp=firefox&type=xhttp&sni=ya.ru&sid=2b5b1ffa8a6a1a68#Khodemoni-451887
 vless://246bf902-1b08-4bc4-b851-c4987d804bac@217.149.30.225:2053?encryption=none&type=tcp&security=reality&headerType=none&sni=www.rumedia-cdn.com&fp=chrome&insecure=1&allowInsecure=1&pbk=CmkWD75j7txo_SEUQ7XzKI2b0_Odd0jc7cv_HqaTTAc&sid=688c54e7b1ebddec&flow=xtls-rprx-vision#Khodemoni-451928
+vless://0e05fc31-9763-4fef-a2d2-caf400a1c823@Wsestin.horlutr.ir:2087?security=none&encryption=none&host=%2F&headerType=http&type=tcp#Khodemoni-451870
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.102.158.171:22224?encryption=none&security=none&type=tcp#Khodemoni-451912
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.102.158.171:22222?encryption=none&security=none&type=tcp#Khodemoni-451909
 vless://15fd22d1-8931-4d41-af37-8ba6711e93fe@preview.netraidly.ru:40443?encryption=none&type=tcp&security=reality&headerType=none&sni=deepl.com&fp=chrome&insecure=1&allowInsecure=1&pbk=d1gJntekIStCHyAwgJCuv-N4_BBx5dDQ7K6CeWmpMRo&sid=84fc&flow=xtls-rprx-vision#Khodemoni-451926
