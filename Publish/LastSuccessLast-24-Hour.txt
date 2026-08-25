@@ -1,3 +1,5 @@
+vless://246bf902-1b08-4bc4-b851-c4987d804bac@217.149.30.225:2053/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.rumedia-cdn.com&fp=chrome&security=reality&pbk=CmkWD75j7txo_SEUQ7XzKI2b0_Odd0jc7cv_HqaTTAc&sid=688c54e7b1ebddec#Khodemoni-450907
+vless://a3594e9c-9ea5-4d0d-9946-0998950db803@144.225.65.181:37430?type=tcp&encryption=none&security=reality&pbk=5D-NW26AfOLI-0Kobd0S0ph815_EUBGww0Hkrpbp4SU&fp=chrome&sni=amp-api-edge.apps.apple.com&spx=/#Khodemoni-450916
 vless://80d02a71-54a5-4c5b-976d-5ee573c502af@104.171.128.225:443?encryption=none&pbk=eNvO4-6_VFngHHC6D5AhcCpCpOdi5gY7-Srimhh-6Xw&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&type=grpc&fp=firefox#Khodemoni-449621
 vless://80d02a71-54a5-4c5b-976d-5ee573c502af@104.171.128.225:443?encryption=none&pbk=eNvO4-6_VFngHHC6D5AhcCpCpOdi5gY7-Srimhh-6Xw&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&type=grpc&fp=edge#Khodemoni-449620
 vless://80d02a71-54a5-4c5b-976d-5ee573c502af@104.171.128.225:443?encryption=none&pbk=eNvO4-6_VFngHHC6D5AhcCpCpOdi5gY7-Srimhh-6Xw&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&type=grpc&fp=ios#Khodemoni-449690
