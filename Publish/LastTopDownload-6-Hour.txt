@@ -7,8 +7,8 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.153.183:22223?encryption=non
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.153.183:22224?encryption=none&security=none&type=tcp#Khodemoni-453035
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.102.158.171:22224?security=&encryption=none&headerType=&type=tcp#Khodemoni-452511
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.181.91.194:22222?encryption=none&amp;security=none&amp;type=tcp#Khodemoni-453422
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.153.183:22222?encryption=none&amp;security=none&amp;type=tcp#Khodemoni-453424
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.181.91.194:22223?security=&encryption=none&headerType=&type=tcp#Khodemoni-453246
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.153.183:22222?encryption=none&amp;security=none&amp;type=tcp#Khodemoni-453424
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.181.91.194:22222?Telegram=Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server&encryption=none&type=tcp#Khodemoni-453224
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.166.114:22223?encryption=none&security=none&type=tcp#Khodemoni-453465
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.102.158.171:22222?security=&encryption=none&headerType=&type=tcp#Khodemoni-452509
@@ -39,11 +39,10 @@ vless://8ff82100-8aad-4281-bf41-f318519d7182@46.20.105.31:443?encryption=none&fl
 vless://8ff82100-8aad-4281-bf41-f318519d7182@46.20.105.30:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=de.jobinvest.ru&type=tcp#Khodemoni-452061
 vless://4f8efa61-96db-1391-b134-9ce844e31228@sw.volnalink.uk:2083?type=tcp&headerType=none&security=reality&encryption=none&sni=www.booking.com&pbk=a3_DLO6p_ZfPf7I0JFTVlAI2pPAPtC-ji2diyPcHcQA&sid=b4&flow=xtls-rprx-vision&fp=chrome#Khodemoni-453155
 vless://8ff82100-8aad-4281-bf41-f318519d7182@46.20.105.32:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=uk.jobinvest.ru&type=tcp#Khodemoni-452110
-vless://9ee2b2d7-7518-469e-9390-2565d81be673@update.georkup.ir:2050?security=reality&encryption=none&pbk=87HZewEoPUrnq4LxNZjPDArFr7IyfX74eGkisGBwQH8&headerType=none&fp=edge&spx=%2F29a276eac8e5de4&type=tcp&sni=perplexity.ai&sid=0102#Khodemoni-452834
 vless://8ff82100-8aad-4281-bf41-f318519d7182@46.20.105.30:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=uk.jobinvest.ru&type=tcp#Khodemoni-452108
+vless://9ee2b2d7-7518-469e-9390-2565d81be673@update.georkup.ir:2050?security=reality&encryption=none&pbk=87HZewEoPUrnq4LxNZjPDArFr7IyfX74eGkisGBwQH8&headerType=none&fp=edge&spx=%2F29a276eac8e5de4&type=tcp&sni=perplexity.ai&sid=0102#Khodemoni-452834
 vless://4f8efa61-96db-1391-b134-9ce844e31228@sw.volnalink.uk:2083?type=tcp&headerType=none&security=reality&encryption=none&sni=www.booking.com&pbk=a3_DLO6p_ZfPf7I0JFTVlAI2pPAPtC-ji2diyPcHcQA&sid=b4&flow=xtls-rprx-vision&fp=qq#Khodemoni-453214
 vless://9972a440-39a6-4672-8883-5dd188863acf@159.200.230.146:52?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-453506
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@200.165.229.169:443?encryption=none&fp=firefox&host=ya.ru&path=/web/cdn/v2/assets&pbk=2P7D_IkxXWre3YziEe2tkF9L_gUbdZE_WCu9_SQq4hE&security=reality&sid=2b5b1ffa8a6a1a68&sni=ya.ru&type=xhttp#Khodemoni-442314
 vmess://eyJhZGQiOiI2NS4xMDkuMjExLjEzNiIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJiMmM2ODQ0Zi1kMzFmLTQxMWEtOGVmMS03NTgwNzE4YjllYzYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjMzMTIwIiwicHMiOiJLaG9kZW1vbmktNDUyNzc4Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://%58lnTeam-39@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#Khodemoni-453603
 vless://8ff82100-8aad-4281-bf41-f318519d7182@46.20.105.32:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=de.jobinvest.ru&type=tcp#Khodemoni-452066
@@ -75,6 +74,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFbmJVcHBiVGhkbnJLY2JyU2E3ZUlYLzBqaHR4NHVVMHl
 vless://2f16a514-69cf-4758-8b2d-c918c0bf203a@93.114.98.84:32855?security=reality&encryption=none&pbk=fRtTW1zQqje-Yh1DqPAHA8nWOMsX983pZUxy58FaY10&headerType=none&fp=firefox&type=tcp&sni=amp-api-edge.apps.apple.com&sid=deb7a9e5a6e1d41a#Khodemoni-452831
 vless://8ff82100-8aad-4281-bf41-f318519d7182@46.20.105.31:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=ca.jobinvest.ru&type=tcp#Khodemoni-451984
 vless://70d94f75-064c-4e34-d2cf-0b6ef4d49ef7@a2.arshia-nova.ir:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#Khodemoni-453548
+vless://9a972dcb-47ad-4728-9e8b-b627697d2eda@144.225.65.248:8080?encryption=none&fp=chrome&pbk=XjAD1E53sYVIuRNykkDLGQYjDIM1FC4jVczV2o7O4x8&security=reality&sid=8de25df3d9&sni=updates.cdn-apple.com&spx=%2FfOBJqBP3cSXqv4T&type=tcp#Khodemoni-453622
 vless://d8b42cd5-b149-4356-9e61-222222222222@45.140.36.118:1054?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-453226
 vless://XpnTeam-37@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#Khodemoni-453046
 vless://XpnTeam-37@199.232.78.160:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/&security=tls&alpn=http/1.1&encryption=none&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#Khodemoni-453045
