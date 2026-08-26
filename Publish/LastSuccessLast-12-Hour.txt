@@ -1,3 +1,7 @@
+vless://064a967e-0862-4cea-bdbd-9458cb7b6070@89.111.169.68:9882?encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sid=aabb&sni=dl.google.com&type=grpc&fp=firefox#Khodemoni-456595
+vmess://eyJhZGQiOiJuZXdyZWxheC5yZWxheGVkYm95Lm9ubGluZSIsImFpZCI6IjAiLCJob3N0IjoibmV3cmVsYXgucmVsYXhlZGJveS5vbmxpbmUiLCJpZCI6IjhlOTY4N2ZjLWEzYTctNDE0YS04Njc2LThlMjEzNjc5N2NmZSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjExMCIsInBzIjoiS2hvZGVtb25pLTQ1MTcyNyIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#Khodemoni-094613
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#Khodemoni-094614
 vless://07bc5553-753f-4485-9d7f-d9fcef61a5cb@23.235.42.251:80?encryption=none&type=ws&path=%2F&host=sijifoxx.global.ssl.fastly.net&allowInsecure=1#Khodemoni-456587
 vless://064a967e-0862-4cea-bdbd-9458cb7b6070@89.111.169.68:9882?encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sid=aabb&sni=dl.google.com&type=grpc&fp=ios#Khodemoni-456612
 vless://064a967e-0862-4cea-bdbd-9458cb7b6070@89.104.67.179:9882?encryption=none&type=grpc&security=reality&sni=dl.google.com&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aa&serviceName=grpc-tunnel&fp=qq#Khodemoni-456610
