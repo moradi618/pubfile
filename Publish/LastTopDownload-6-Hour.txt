@@ -3,7 +3,6 @@ vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@144.31.157.104:20017?encryption=non
 trojan://parsconn_bot@144.225.65.228:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&host=dictionary.cambridge.org&headerType=http&type=tcp#Khodemoni-453776
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.181.91.194:22222?encryption=none&amp;security=none&amp;type=tcp#Khodemoni-453422
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.181.91.194:22223?security=&encryption=none&headerType=&type=tcp#Khodemoni-453246
-vless://d0471048-b677-48a4-94d1-50c0a4fb7191@212.67.10.55:445?#Khodemoni-454126
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.181.91.194:22224?encryption=none&security=none&type=tcp#Khodemoni-453020
 vless://8f53fce2-6c17-4e37-9ae9-d969fd85117c@104.21.87.238:8080?encryption=none&host=ApI-hub-C9A393.ALiMiRZAi539-484.WOrKerS.DeV&type=ws&security=none&path=%2Fvl%2FWp4FqWLcoYNYXCovu4%3Fed%3D2560#Khodemoni-420315
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MDBPZmVhVTl2dUh2MmxxRzFINXh1WFhVWXpmT1JRZQ==@tw.lampcomputervz.ir:9403#Khodemoni-453963
