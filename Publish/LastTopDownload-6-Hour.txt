@@ -1,4 +1,5 @@
 vless://01a95af3-a2f6-453e-9f88-b2fc011627cc@92.114.24.95:43630?encryption=none&security=none&type=raw&headertype=none#Khodemoni-425734
+vless://49c37551-2843-4cd0-87ff-b75f5938a6d9@5.57.32.153:80?&type=tcp&headerType=none&path=%2F#Khodemoni-456773
 vless://49c37551-2843-4cd0-87ff-b75f5938a6d9@5.57.32.153:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=&encryption=none&headerType=none&type=tcp#Khodemoni-456138
 vless://69d8dc73-20ff-4241-bdd8-a9d6d07553b6@167.233.209.231:15000?encryption=none&type=tcp&headerType=none&host=cdn-apple.com#Khodemoni-457470
 vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@xn-de.dbsll.ir:20017?Telegram=Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server&security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-457289
