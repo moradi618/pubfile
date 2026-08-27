@@ -1,3 +1,4 @@
+vless://50767b5d-7e5d-4aee-af39-5a07d36ccc36@de62.mechvpn.online:443?security=tls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&fp=safari#Khodemoni-459040
 ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ%3D%3D@57.131.48.45:8388#Khodemoni-459387
 vless://a2e8c7db-05c6-4d03-8638-136792554de5@23.235.42.251:80?path=%2F&security=none&encryption=none&host=bahr.global.ssl.fastly.net&type=ws#Khodemoni-459380
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.146.147:22223?encryption=none&security=none&type=tcp#Khodemoni-459389
@@ -2670,12 +2671,8 @@ vless://b2bef9e4-0e52-43d7-9613-f6e73c2eb970@109.169.76.34:443?encryption=none&f
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MDBPZmVhVTl2dUh2MmxxRzFINXh1WFhVWXpmT1JRZQ==@sh.neqazhcomp.ir:3333#Khodemoni-453962
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MDBPZmVhVTl2dUh2MmxxRzFINXh1WFhVWXpmT1JRZQ==@tw.lampcomputervz.ir:9403#Khodemoni-453963
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNemN4WQ@45.95.2.25:8388? #Khodemoni-450872
-trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:59385?security=tls&sni=www.microsoft.com&type=tcp&headerType=none&allowInsecure=1&fp=firefox#Khodemoni-443265
 vless://d0471048-b677-48a4-94d1-50c0a4fb7191@212.67.10.55:445?#Khodemoni-454126
 vless://19b64e79-73b4-4478-bbfc-fb57737b94f8@45.198.96.210:443?security=reality&encryption=none&pbk=9Y-_jCI3Z1x6SXK2tHdZ6V1CN9IJPNPnoxSW0cbXxD8&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=764f497dda21c4fc#Khodemoni-449274
-trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:59385?security=tls&sni=www.microsoft.com&type=tcp&headerType=none&allowInsecure=1&fp=chrome#Khodemoni-443264
-vless://d34a3c99-5ea8-488b-8df4-a20af43b740b@79.174.92.85:6443?security=reality&encryption=none&pbk=lU1yF2A1b0lM9DZbXWPpLfoU7_KQpXOYX0NFrPEIJy8&fp=firefox&type=grpc&serviceName=grpc&sni=iv.kommersant.ru&sid=bad5722c72a0#Khodemoni-451653
-trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:46292?allowInsecure=1&sni=www.microsoft.com#Khodemoni-442345
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@150.241.102.202:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=v1hVg2Uc7Wsc_bhlLfKkML_HUGogQA9O9n9uZFwzQSM&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=america.cendora.ru&sid=065cf4f1c7d83e79#Khodemoni-452954
 vless://%58lnTeam-39@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#Khodemoni-453603
 vless://4005ddae-29bb-431e-a212-7737316d08ea@94.228.168.18:10444?&type=ws&headerType=none&host=vpnpolar.online&path=%2Fbeeline#Khodemoni-452403
@@ -3688,7 +3685,6 @@ vless://4005ddae-29bb-431e-a212-7737316d08ea@185.173.147.6:10444?encryption=none
 vmess://eyJhZGQiOiJuZXdyZWxheC5yZWxheGVkYm95Lm9ubGluZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4ZTk2ODdmYy1hM2E3LTQxNGEtODY3Ni04ZTIxMzY3OTdjZmUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjExMCIsInBzIjoiS2hvZGVtb25pLTQ1MjYwNSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
 vmess://eyJhZGQiOiI2NS4xMDkuMjExLjEzNiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJkOWM5MTljMi04NzJlLTQyOWQtYTY4MC0xZTZjNmJmZTY4MWIiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjMzMTIwIiwicHMiOiJLaG9kZW1vbmktNDUzMjI5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.0.169:2052?security=none&type=ws&path=%2F%3Fed%3D2560security%3Dtls&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr#Khodemoni-452864
-vless://50414e45-4c5f-5a45-5553-14aa761f45aa@172.67.150.133:443?path=%2Fstream%2FPANEL_ZEUS%2F14aa761f45aa%2Floc-1&security=tls&encryption=none&host=xkz69re5uz6s.sajadali2020.workers.dev&fp=ios&type=ws&sni=xkz69re5uz6s.sajadali2020.workers.dev#Khodemoni-453657
 vless://42a6ff62-1d4e-4065-8e44-bab910e19e3b@217.149.30.225:443?security=reality&encryption=none&pbk=MFVPHZoccZWr4YZLcIaVedY07BhRfdT4y1XWpp2IWnA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.rumedia-cdn.com&sid=97fbc6738543f9dc#Khodemoni-451219
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@104.18.46.234:80?security=none&type=ws&path=%2F%3Fed%3D2560security%3Dtls&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr#Khodemoni-452859
 vmess://eyJhZGQiOiI2NS4xMDkuMjExLjEzNiIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJkOWM5MTljMi04NzJlLTQyOWQtYTY4MC0xZTZjNmJmZTY4MWIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjMzMTIwIiwicHMiOiJLaG9kZW1vbmktNDUzMjQyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
