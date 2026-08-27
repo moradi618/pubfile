@@ -1,6 +1,5 @@
 vless://49c37551-2843-4cd0-87ff-b75f5938a6d9@5.57.32.153:80?&type=tcp&headerType=none&path=%2F#Khodemoni-456773
 vless://49c37551-2843-4cd0-87ff-b75f5938a6d9@5.57.32.153:80?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-454865
-vless://aebf0af6-7890-45ec-adf9-e6f502f2303e@178.104.129.39:14726/?encryption=none&flow=&host=amp-api-edge.apps.apple.com&type=tcp&headerType=http#Khodemoni-457533
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.145.173:22224?encryption=none&security=none&type=tcp#Khodemoni-458306
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6eEdVeWdlMFc3c3NqMkM3NUtkdDhvZ2JaSzdqTmZ6eUwvanJLa3c1L21DOD0@134.98.151.48:45819#Khodemoni-458027
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.234.51:22223?encryption=none&type=tcp&headerType=none#Khodemoni-458033
@@ -48,6 +47,7 @@ vless://142e6abf-9c03-4225-ad0d-a42118399419@thu2n.pastilbastani.ir:2096?encrypt
 vless://3c244324-e6ad-4b07-a6c2-cc22beae76b5@31.77.61.125:443?encryption=none&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=ar.jobinvest.ru&type=tcp&fp=firefox#Khodemoni-457707
 vless://3c244324-e6ad-4b07-a6c2-cc22beae76b5@31.77.61.125:443?encryption=none&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=ai.jobinvest.ru&type=tcp&fp=firefox#Khodemoni-457705
 vless://238bc88c-6f47-4622-9d6f-cab2ed76f098@Geue.horlutr.ir:2087?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Khodemoni-457928
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@144.31.168.95:443?type=tcp&security=reality&sni=eu-central.cendora.ru&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083&encryption=none&flow=xtls-rprx-vision&fp=firefox#Khodemoni-458166
 vless://54a33907-c356-40fa-b6f3-844b3e6a8b7c@95.85.241.208:443?Telegram=Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server&encryption=none&security=reality&sni=dl.google.com&fp=chrome&pbk=6CHUluOn_Tdab7JOfUArmcfQPVEd4PbEQJMPvKWElhw&type=grpc&serviceName=grpc-tunnel&mode=gun#Khodemoni-458083
 vless://54a33907-c356-40fa-b6f3-844b3e6a8b7c@95.85.241.208:443?encryption=none&security=reality&sni=dl.google.com&fp=chrome&pbk=6CHUluOn_Tdab7JOfUArmcfQPVEd4PbEQJMPvKWElhw&type=grpc&authority=&serviceName=grpc-tunnel&mode=gun#Khodemoni-458063
 vless://98b0ccb7-325d-4dd4-b1c0-92671e94f5be@150.241.121.61:443?mode=gun&security=tls&alpn=h2&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus--&insecure=0&fp=firefox&type=grpc&serviceName=grpc&allowInsecure=0&sni=1pgt5wjq9slq.bosfiles.net#Khodemoni-458001
