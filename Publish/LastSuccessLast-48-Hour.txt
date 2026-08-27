@@ -1,3 +1,6 @@
+vless://255386a8-aec5-4425-bfe7-ca49b7448deb@193.160.32.36:2053?security=reality&encryption=none&pbk=Sh2F8IDDBaFvXPI59IwN-25UR1G0fjXNmuVqwNbTpUk&host=%2F%3FBIA_TELEGRAM%40TOOTFFARANGI&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=c87bfa39a28a95b9#Khodemoni-459453
+vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@cf.008500.xyz:443?encryption=none&security=tls&sni=powered-by-surena.configfarsi695fd01a94fe7.workers.dev&fp=firefox&type=ws&host=powered-by-surena.configfarsi695fd01a94fe7.workers.dev&path=%2F%3Fed%3D2560#Khodemoni-328466
+vless://05bfcbaa-cba0-4bce-9103-09fe3f5f0667@62.171.228.244:8443?security=reality&encryption=none&pbk=PiMm8p728z5Z3ukO__9Y1pqXKv2PBQWq99ifoxRHJzU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=face912fc5a49158#Khodemoni-447657
 vless://20000024-8788-9182-f000-a35f2e23a020@185.243.218.182:322?security=reality&encryption=none&pbk=T7JiblULt3JN3iWxcGPD9E912LAneFSPA3J05PD9MjA&host=%2F%3FBIA_TELEGRAM%40TOOTFFARANGI&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=wyrebyte.com&sid=2757df499273bcb2#Khodemoni-459452
 vless://54066024-4508-47ac-9bfe-d497d0521b06@155.103.69.156:47680?encryption=none&security=none&type=tcp#Khodemoni-459456
 vless://3ab31593-94d3-9d01-8fc8-b7d99a53b7bf@afa-production-479a.up.railway.app:443?path=/ws/3ab31593-94d3-9d01-8fc8-b7d99a53b7bf&security=tls&encryption=none&insecure=0&host=&fp=chrome&type=ws&allowInsecure=0&sni=#Khodemoni-459466
@@ -4211,7 +4214,6 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.133.19.17:22224?Telegram=Cfox_Se
 vless://d1bc0d1d-883b-4abd-852d-2d8b8ec73739@cfsi.amirarshiaaliparasti.ir:2087?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#Khodemoni-452392
 vless://b2bef9e4-0e52-43d7-9613-f6e73c2eb970@109.169.76.34:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=JZ6o_q7-OSJ87w9kTrcn9I4UiMVZdPUnjXoRs4TbLzE&security=reality&sid=61811b12a62fb2a4&sni=slashdot.org&type=tcp#Khodemoni-449087
 vless://1a88f661-c972-4606-83a4-d10a6cf525c2@let2.orangesms.ir:61169?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=amp-api-edge.apps.apple.com#Khodemoni-453027
-vless://XlnTeam-39@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#Khodemoni-453633
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MDBPZmVhVTl2dUh2MmxxRzFINXh1WFhVWXpmT1JRZQ==@sh.neqazhcomp.ir:3333#Khodemoni-453962
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MDBPZmVhVTl2dUh2MmxxRzFINXh1WFhVWXpmT1JRZQ==@tw.lampcomputervz.ir:9403#Khodemoni-453963
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNemN4WQ@45.95.2.25:8388? #Khodemoni-450872
@@ -4219,7 +4221,6 @@ vless://d0471048-b677-48a4-94d1-50c0a4fb7191@212.67.10.55:445?#Khodemoni-454126
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@150.241.102.202:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=v1hVg2Uc7Wsc_bhlLfKkML_HUGogQA9O9n9uZFwzQSM&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=america.cendora.ru&sid=065cf4f1c7d83e79#Khodemoni-452954
 vless://afbceea5-b771-4997-9c57-cd33ca370d93@u.mrgang.shop:8443?encryption=none&security=none&type=tcp#Khodemoni-454225
 vless://8f2d8e96-85a0-4d26-9662-b861643dafb5@176.65.151.83:37430?type=tcp&encryption=none&security=reality&pbk=SH-kDcAJqxHIyvtvSjt9DIiOy-5pscb8-Xdt8QxmG38&fp=chrome&sni=amp-api-edge.apps.apple.com&spx=/#Khodemoni-454104
-trojan://7e70223b-f331-41d5-9313-02b8d2df2885@d3.catcat321.com:20025/?type=tcp&security=tls&sni=tw.catxstar.com&allowInsecure=1#Khodemoni-453078
 vless://09f2c9cc-4275-4b4b-96d8-bacbe53f3c89@172.66.146.2:8443?path=/&security=tls&encryption=none&insecure=1&host=arvan.dearhossein-taktaz.ir&fp=chrome&type=ws&allowInsecure=1&sni=arvan.dearhossein-taktaz.ir#Khodemoni-451143
 vless://de31ad7d-7383-4bf1-933b-4006e5765630@199.232.78.159:443?path=%2F&security=tls&encryption=none&host=lsjaoijji.global.ssl.fastly.neT&type=ws&sni=ssl.fastly.com#Khodemoni-453961
 vless://0cc3a24a-1e51-44ae-92c7-83102c8f0392@store17.vevluma.ir:1234?flow=xtls-rprx-vision&pbk=4sT8gYkbYI1RUPlO-SFVpJENKfGgMWoYQpflbcfspkI&security=reality&sid=4844fb0c077b20b7&sni=updates.cdn-apple.com&type=tcp&fp=safari#Khodemoni-454138
