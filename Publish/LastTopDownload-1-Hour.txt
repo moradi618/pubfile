@@ -18,7 +18,8 @@ trojan://fef70590-17a9-4ddc-a38c-2b7467c083b5@clsk2.rvvs.im:16825?security=tls&s
 trojan://fef70590-17a9-4ddc-a38c-2b7467c083b5@clsk2.rvvs.im:16825?security=tls&sni=clsk2.rvvs.im&fp=firefox#Khodemoni-458299
 trojan://fef70590-17a9-4ddc-a38c-2b7467c083b5@clsk2.rvvs.im:16825?security=tls&sni=clsk2.rvvs.im&fp=edge#Khodemoni-458132
 vless://109de54b-25f8-40cd-acfa-a05df873942e@91.107.145.117:40893?security=&encryption=mlkem768x25519plus.native.0rtt.o6Wf5_-drqcw9U0dxA4LPHDREUVsHtdiCXl1J1qwPBQ&headerType=none&type=tcp#Khodemoni-459399
+vless://ce551b1c-95f5-4ea2-b6fc-5e9ef472fae1@tw8.china-206xswl.com:443?security=reality&flow=xtls-rprx-vision&pbk=Vnqdeucsy7BpmqGyH1hE46XMVQ7n3E1crpRsa5Sarg4&sid=64c0b06c&sni=blzddist1-a.akamaihd.net&type=tcp&headerType=none&host=blzddist1-a.akamaihd.net&path=%2F&fp=firefox#Khodemoni-456046
+vless://ce551b1c-95f5-4ea2-b6fc-5e9ef472fae1@tw8.china-206xswl.com:443?security=reality&flow=xtls-rprx-vision&pbk=Vnqdeucsy7BpmqGyH1hE46XMVQ7n3E1crpRsa5Sarg4&sid=64c0b06c&sni=blzddist1-a.akamaihd.net&type=tcp&headerType=none&host=blzddist1-a.akamaihd.net&path=%2F&fp=edge#Khodemoni-455960
 vless://05bfcbaa-cba0-4bce-9103-09fe3f5f0667@62.171.228.244:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.bing.com&pbk=3ei2ET7SLe8rAO3KOlUWyXy0U22zb86VNOqUCshRVl8&sid=f648da8196bdb32e&flow=xtls-rprx-vision&fp=safari#Khodemoni-448294
-vless://ecb589cf-b20e-448f-bd52-f9c8e594dbb0@172.104.147.30:2087?security=none&encryption=none&headerType=http&type=tcp#Khodemoni-459375
 vless://1190cdb2-a31c-473e-a8ac-c0fc8a35c062@fant2.milkabebar.ir:10694?encryption=none&type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&fp=edge&pbk=CHNEnURyZzZ1OQwb5SD2Ze8K9eIY2oggyrV5FOIsU28&sid=a0fbc54d937aaccb#Khodemoni-459420
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.133.19.17:22224?security=&encryption=none&headerType=&type=tcp#Khodemoni-459400
