@@ -44,7 +44,6 @@ vless://a99dd449-ed34-4469-a3ca-a1d7f9aa7cf4@157.173.3.169:443?security=tls&sni=
 vless://a99dd449-ed34-4469-a3ca-a1d7f9aa7cf4@157.173.3.169:443?security=tls&sni=4b9ibss6tuv6.bosfiles.net&type=grpc&serviceName=grpc&fp=chrome#Khodemoni-457158
 vless://e8652acb-1f75-4762-95eb-51d6bc44907f@188.137.158.144:443?alpn=h2&encryption=none&security=tls&serviceName=grpc&sni=ezjb4e6x5ug0.bosfiles.net&type=grpc&fp=chrome#Khodemoni-457150
 vless://84a794a5-2420-4ca7-8e08-8d21571f36f3@avstri.plus-hit.ru:8443?type=grpc&security=reality&pbk=Zvq-k6PMXjmd6YlWcu3T1J63m0IxZcOaedRwSG9O0lI&sid=92558baf673ab721&sni=avstri.plus-hit.ru&fp=random#Khodemoni-457127
-vless://84a794a5-2420-4ca7-8e08-8d21571f36f3@avstri.plus-hit.ru:8443?type=grpc&security=reality&pbk=Zvq-k6PMXjmd6YlWcu3T1J63m0IxZcOaedRwSG9O0lI&sid=92558baf673ab721&sni=avstri.plus-hit.ru&fp=ios#Khodemoni-457126
 vless://629f88a6-b20b-4489-a22f-4d8b418c0488@ams1.stream-pop.net:7444?type=grpc&security=reality&encryption=none&sni=ams1.stream-pop.net&serviceName=grpc-md-8h3k4j6n2p4q8r5t&pbk=RwtMzZtTCmy9WRq3_27xeGF8-1l_qPXRVG3yIFp-6Go&sid=c0d1d1776fed0f6d&mode=gun&spx=%2F&fp=edge#Khodemoni-457089
 vless://e8652acb-1f75-4762-95eb-51d6bc44907f@157.173.7.109:443?alpn=h2&encryption=none&security=tls&serviceName=grpc&sni=32ukc4l1gq6h.bosfiles.net&type=grpc&fp=qq#Khodemoni-457046
 vless://e8652acb-1f75-4762-95eb-51d6bc44907f@157.173.7.109:443?alpn=h2&encryption=none&security=tls&serviceName=grpc&sni=32ukc4l1gq6h.bosfiles.net&type=grpc&fp=firefox#Khodemoni-457045
