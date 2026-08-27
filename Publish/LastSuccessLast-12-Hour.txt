@@ -1,6 +1,6 @@
 vless://50767b5d-7e5d-4aee-af39-5a07d36ccc36@de62.mechvpn.online:443?security=tls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&fp=safari#Khodemoni-459040
-vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@138.197.186.182:440?security=&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#Khodemoni-459405
 vmess://eyJhZGQiOiIxNTYuMjMxLjExNi4xNTYiLCJhaWQiOjAsImhvc3QiOiJpbWFnZXMtbmEuc3NsLWltYWdlcy1hbWF6b24uY29tIiwiaWQiOiI5ZWJlY2Y1ZS1iMTYwLTQzYmQtODA2ZS01NGNkOTk0ZmM0YzMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvaW1hZ2UiLCJwb3J0IjoiODA4MCIsInBzIjoiS2hvZGVtb25pLTQ1OTM5NyIsInNuaSI6ImltYWdlcy1uYS5zc2wtaW1hZ2VzLWFtYXpvbi5jb20iLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
+vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@138.197.186.182:440?security=&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#Khodemoni-459405
 vless://109de54b-25f8-40cd-acfa-a05df873942e@91.107.145.117:40893?security=&encryption=mlkem768x25519plus.native.0rtt.o6Wf5_-drqcw9U0dxA4LPHDREUVsHtdiCXl1J1qwPBQ&headerType=none&type=tcp#Khodemoni-459399
 vless://2808bf00-f7af-4b8b-85cb-6bb5cfa4cba6@158.23.49.45:8443?security=tls&sni=mexicotrash.duckdns.org&type=tcp&fp=ios#Khodemoni-446884
 vless://05bfcbaa-cba0-4bce-9103-09fe3f5f0667@62.171.228.244:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.bing.com&pbk=3ei2ET7SLe8rAO3KOlUWyXy0U22zb86VNOqUCshRVl8&sid=f648da8196bdb32e&flow=xtls-rprx-vision&fp=safari#Khodemoni-448294
