@@ -1,3 +1,4 @@
+vless://01640ed0-9b23-493d-ac18-3947750e25c2@bot.rayopoder.top:50972?security=none&encryption=none&type=tcp&host=bale.ai&headerType=http#Khodemoni-437818
 vless://01640ed0-9b23-493d-ac18-3947750e25c2@bot.rayopoder.top:50972?encryption=none&type=tcp&headerType=http&host=bale.ai#Khodemoni-449908
 vless://763a08ce-794f-0808-745e-a7376197e312@x4gpanel-production-757b.up.railway.app:443?mode=auto&path=%2Fxhttp-siz10%2F763a08ce-794f-0808-745e-a7376197e312&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=x4gpanel-production-757b.up.railway.app&fp=chrome&type=xhttp&sni=x4gpanel-production-757b.up.railway.app#Khodemoni-457887
 vless://7ff2b521-63a8-486d-b9be-0b238b02d33f@199.232.78.159:443?sni=ssl.fastly.com&type=ws&security=tls&host=lsjaoijji.global.ssl.fastly.neT&insecure=0&allowInsecure=0&encryption=none&path=%2F#Khodemoni-457888
