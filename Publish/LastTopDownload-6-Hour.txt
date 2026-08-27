@@ -3,6 +3,7 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.146.147:22223?encryption=non
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.133.19.17:22223?encryption=none&security=none&type=tcp#Khodemoni-459178
 vless://cd922ef2-6d9f-4f9d-acd5-9921da8be3b8@45.76.87.168:29672?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Khodemoni-458911
 vless://cd922ef2-6d9f-4f9d-acd5-9921da8be3b8@45.76.87.168:29672?type=tcp&encryption=none&path=%2F&host=zula.ir&headerType=http&security=none#Khodemoni-458681
+vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@138.197.186.182:440?security=&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#Khodemoni-459405
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.133.19.17:22224?Telegram=Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server&encryption=none&security=none&type=tcp#Khodemoni-459223
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.133.19.17:22222?encryption=none&security=none&type=tcp#Khodemoni-459180
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.133.19.17:22224?encryption=none&security=none&type=tcp#Khodemoni-459179
