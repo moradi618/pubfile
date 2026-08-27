@@ -17,7 +17,6 @@ vless://035225a9-5d27-4288-b12e-7e13d6d321ce@46.226.162.172:64584?Telegram=Cfox_
 vless://e76dc9ca-b09f-07d0-bd4f-316ee0dce041@94.26.249.216:52006?alpn=h2,http/1.1&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=clode.fastaichat.ru&type=raw#Khodemoni-445515
 vless://addac6b8-90f4-422b-918e-233859b3a03e@gfe.systemcont.ir:24443?encryption=none&security=reality&type=tcp&headerType=none&sni=www.apple.com&fp=chrome&pbk=A-WcezAbYc6GrL7gqM9Kg89OAgLBp2nxC_wrpenGlDg&sid=b7e45d3a65bfc319#Khodemoni-457867
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.234.51:22224?encryption=none&type=tcp&headerType=none#Khodemoni-458007
-trojan://3cdc222f5fb8f018@www.speedtest.net:2082?path=/tr/HEGRVuvT3RGjwTkwdVM?ed=2560&host=channel-fixping.fixpingchannelatomicmailiosaccount.workers.dev&security=none&type=ws#Khodemoni-457503
 vless://142e6abf-9c03-4225-ad0d-a42118399419@www.hcaptcha.com:8080?encryption=none&security=none&type=httpupgrade&headerType=none&path=%2F%3Fed%3D2080&host=casc.cksurge.ir#Khodemoni-458303
 vless://7e03eba6-a230-41ea-8eaf-2fa08b7bb779@172.232.142.156:32855?security=reality&encryption=none&pbk=fRtTW1zQqje-Yh1DqPAHA8nWOMsX983pZUxy58FaY10&headerType=none&fp=firefox&type=tcp&sni=amp-api-edge.apps.apple.com&sid=deb7a9e5a6e1d41a#Khodemoni-457856
 vless://3c244324-e6ad-4b07-a6c2-cc22beae76b5@31.77.61.125:443?encryption=none&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=kz.jobinvest.ru&type=tcp&fp=firefox#Khodemoni-457713
@@ -63,3 +62,4 @@ vless://2db7e4e0-1bfd-46a9-b428-b95d66697219@176.65.151.235:443?authority=176.65
 vless://748ad1e3-0e23-4473-9aad-da0ace6a7d09@188.137.158.144:443?alpn=h2&encryption=none&security=tls&serviceName=grpc&sni=ezjb4e6x5ug0.bosfiles.net&type=grpc&fp=qq#Khodemoni-457149
 vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@cfd.130209.xyz:8443?security=tls&type=ws&path=%2Fcdn%2Fpackages%2Fruntime-core.tar.gz&host=turkey.912461.xyz&sni=turkey.912461.xyz&fp=qq#Khodemoni-452693
 vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@cfd.130209.xyz:8443?security=tls&type=ws&path=%2Fcdn%2Fpackages%2Fruntime-core.tar.gz&host=turkey.912461.xyz&sni=turkey.912461.xyz&fp=chrome#Khodemoni-452690
+vless://78d66dd1-a432-454e-80c0-cb4aa0407375@188.114.96.3:2053?path=%2FeyJqdW5rIjoiVmNMT1VrQngzb2xCeCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=ez-87b829.ashkashk.workers.dev&fp=chrome&type=ws&sni=Ez-87B829.aShkashk.wOrkeRS.dev#Khodemoni-146284
