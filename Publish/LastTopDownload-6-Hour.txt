@@ -13,6 +13,7 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.134.132.121:22224?encryption=non
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.146.147:22222?encryption=none&security=none&type=tcp#Khodemoni-459386
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.133.19.17:22222?Telegram=Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server&encryption=none&security=none&type=tcp#Khodemoni-459191
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.133.19.17:22223?Telegram=Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server&encryption=none&security=none&type=tcp#Khodemoni-459192
+vless://69d8dc73-20ff-4241-bdd8-a9d6d07553b6@w1.beraghsadevs.ir:15001?encryption=none&type=tcp&headerType=none#Khodemoni-459484
 vless://e76dc9ca-b09f-07d0-bd4f-316ee0dce041@94.26.249.216:52006?alpn=h2,http/1.1&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=clode.fastaichat.ru&type=raw#Khodemoni-445515
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.133.19.17:22222?security=&encryption=none&headerType=&type=tcp#Khodemoni-459401
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.134.132.121:22222?encryption=none&security=none&type=tcp#Khodemoni-459078
