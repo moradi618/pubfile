@@ -1,5 +1,6 @@
 vless://603819a3-dd65-408a-abab-15d8dc49887f@104.248.93.196:8880?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#Khodemoni-463640
 vless://f09ca7ff-bfc2-4f72-8cf4-a3c81100cc15@parr.mechanicir.ir:38479?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#Khodemoni-463584
+vless://d706eacb-df4e-48d2-a7bd-649ef28554a7@159.242.242.37:443?path=%2Fstream%2FPANEL_ZEUS%2F649ef28554a7&security=tls&encryption=none&insecure=0&host=srv-5fa266-32f996.raha36masou-3d44.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=srv-5fa266-32f996.raha36masou-3d44.workers.dev#Khodemoni-463644
 vless://8c2d5e7e-116a-49c4-8437-937f4bfce346@parr.mechanicir.ir:10694?security=reality&encryption=none&pbk=CHNEnURyZzZ1OQwb5SD2Ze8K9eIY2oggyrV5FOIsU28&headerType=none&fp=firefox&type=tcp&sni=amp-api-edge.apps.apple.com&sid=a0fbc54d937aaccb#Khodemoni-463583
 vless://c100e5ba-1cf5-45ce-b491-5c2b02cdde5e@parr.mechanicir.ir:38479?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#Khodemoni-463582
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@mnl.savesafe.space:443?type=xhttp&security=reality&pbk=2P7D_IkxXWre3YziEe2tkF9L_gUbdZE_WCu9_SQq4hE&sid=2b5b1ffa8a6a1a68&sni=ya.ru&path=%2Fweb%2Fcdn%2Fv2%2Fassets&fp=safari#Khodemoni-453892
