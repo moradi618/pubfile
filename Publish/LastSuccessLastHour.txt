@@ -1,3 +1,6 @@
+trojan://humanity@80.77.25.142:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#Khodemoni-372979
+trojan://humanity@104.18.8.83:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2F%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#Khodemoni-421657
+vless://f62a1751-c1e4-4612-90e7-bd5781c1aede@186.246.12.85:2053?encryption=none&type=ws&path=%2F&host=186.246.12.85&security=tls&sni=bz2.wba-pn.ru&allowInsecure=1#Khodemoni-448705
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@chatgpt.com:80?encryption=none&host=de.vpnbase.net&path=%2Fhttp&security=none&type=ws#Khodemoni-451607
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.165:8080#Khodemoni-451121
 vless://0772109c-a680-4896-b005-d86513194f96@77.221.152.100:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=node14.mxvpn.dev&sid=bbc68cec8bb8d2e3#Khodemoni-453718
@@ -17,6 +20,3 @@ vmess://eyJhZGQiOiJtYXNzdGVyLmJpZ2NoYW5nZXIuc2l0ZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwi
 trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:54657?allowInsecure=1&fp=chrome&sni=us01.duotg.top#Khodemoni-460214
 trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:59385?allowInsecure=1&fp=chrome&sni=us01.duotg.top#Khodemoni-460211
 vless://5e127068-e5d0-4c3f-86c4-dfb6b34e64a4@2.24.131.46:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=em5MbaJeZoe--syIy7L8MEoNBwN1mLB2ur_YAY8PuQ0&sid=daf012feff3b00d0&type=tcp#Khodemoni-460278
-vmess://eyJhZGQiOiJ3d3cuc2hvcGlmeS5jb20iLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiZGltZW5zaW9uYWwtcmVndWxhcmx5LWJ1aWxkaW5ncy1rZXlzLnRyeWNsb3VkZmxhcmUuY29tIiwiaWQiOiJkMTg3YTIzYS03NmE5LTRkNTUtODRlMy1lYTNiOGIyMjJjYmYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZDE4N2EyM2EtNzZhOS00ZDU1LTg0ZTMtZWEzYjhiMjIyY2JmLXZtIiwicG9ydCI6IjQ0MyIsInBzIjoiS2hvZGVtb25pLTQ2NDk3MSIsInNjeSI6ImF1dG8iLCJzbmkiOiJkaW1lbnNpb25hbC1yZWd1bGFybHktYnVpbGRpbmdzLWtleXMudHJ5Y2xvdWRmbGFyZS5jb20iLCJ0bHMiOiJ0bHMiLCJ2IjoiMiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPaEdYSkc0bkVxVE42MmNERGNEXzhfQ2RkcnBUSG4wdQ@de-server-1.zelnora.ir:1080? #Khodemoni-464969
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.41:80?path=%2Fhttp&security=none&encryption=none&host=de.vpnbase.net&fp=chrome&type=ws#Khodemoni-451889
