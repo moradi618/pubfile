@@ -1,8 +1,8 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPaEdYSkc0bkVxVE42MmNERGNEXzhfQ2RkcnBUSG4wdQ@207.241.172.111:1080#Khodemoni-464393
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPaEdYSkc0bkVxVE42MmNERGNEXzhfQ2RkcnBUSG4wdQ@de-server-1.zelnora.ir:1080#Khodemoni-464394
 vmess://eyJ2IjoiMiIsInBzIjoiS2hvZGVtb25pLTQ1NjY1OCIsImFkZCI6InJlbmRlcmVyLXN0cmVhbS0yLTYyLm1pcnJhLm5vdyIsInBvcnQiOiI0NDMiLCJpZCI6ImRiNTBhMjBlLTdmZjUtNGU3MC05NDhmLTE3Y2M5Y2E3YzE1NCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiL2FwaS92MS9ncHUtc3RyZWFtL3NvY2tldCIsInRscyI6InRscyIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjY5In0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPaEdYSkc0bkVxVE42MmNERGNEXzhfQ2RkcnBUSG4wdQ@207.241.172.111:1080#Khodemoni-464393
 vless://a9ad5751-32e3-4fdc-b250-36b594bed2be@194.110.207.89:443?encryption=none&flow=xtls-rprx-vision&pbk=oXYB-DXrI08UVBRFq8MERP36betSSd7Yb6MLN88F2R4&security=reality&sid=f6b5862c1f73ab80&sni=frantax.my3cx.de&type=tcp&fp=qq#Khodemoni-464298
 ss://YWVzLTI1Ni1nY206ZDk5YzQyMjE5OWU2MmI2Yg@195.58.48.97:40404#Khodemoni-464395
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPaEdYSkc0bkVxVE42MmNERGNEXzhfQ2RkcnBUSG4wdQ@de-server-1.zelnora.ir:1080#Khodemoni-464394
 ss://YWVzLTI1Ni1nY206ODFhMjA0MjkxNjVkZjg3ZQ@195.133.23.200:40404#Khodemoni-464396
 vless://0772109c-a680-4896-b005-d86513194f96@77.221.152.100:443?security=reality&encryption=none&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&host=%2F%3FBIA_TELEGRAM%40TOOTFFARANGI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=node14.mxvpn.dev&sid=bbc68cec8bb8d2e3#Khodemoni-453712
 vless://a9ad5751-32e3-4fdc-b250-36b594bed2be@194.110.207.89:443?encryption=none&flow=xtls-rprx-vision&pbk=oXYB-DXrI08UVBRFq8MERP36betSSd7Yb6MLN88F2R4&security=reality&sid=f6b5862c1f73ab80&sni=frantax.my3cx.de&type=tcp&fp=chrome#Khodemoni-464296
