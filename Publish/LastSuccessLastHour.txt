@@ -1,4 +1,5 @@
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6YVpmZldqTHBxdDBpMXhQZGFDelFGOC9XTXd3SVB1c0dLTy9Nd3JNY0E0ST0@129.159.27.74:59924#Khodemoni-463267
+vmess://eyJ2IjoiMiIsInBzIjoiS2hvZGVtb25pLTQ2MTQyNyIsImFkZCI6IjguMjE4LjE4NC40IiwicG9ydCI6IjQ0MyIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJOWWNRZzE5emt3YUNQTTFCLnYuM2Rucy52aXAiLCJwYXRoIjoiL3dzLXZtZXNzIiwidGxzIjoidGxzIiwic25pIjoiTlljUWcxOXprd2FDUE0xQi52LjNkbnMudmlwIiwidGVzdF9uYW1lIjoiSEsifQ==
 vless://d499fa8c-2e14-4bd5-a3ca-73fae7f04cb5@a2.arshia-nova.ir:443?encryption=none&security=tls&sni=ssl.fastly.com&fp=firefox&alpn=h2&type=ws&host=c12.com&path=%2F#Khodemoni-463269
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.187.181:62145?&type=tcp&headerType=none&path=%2F#Khodemoni-463265
 vless://8a0c5bc5-4fed-44e9-a9b5-037704d4ad24@217.11.164.92:37430?security=reality&encryption=none&pbk=RxTaQwnqqU8vxMMvD6AeUTFadLVvwzUplghzVAilAEg&headerType=none&fp=ios&spx=%2F&type=tcp&sni=amp-api-edge.apps.apple.com#Khodemoni-463262
@@ -136,5 +137,3 @@ trojan://owefv0_92Z540k2F_nx83245_J9130oS_tY@5.180.21.146:4443?security=tls&sni=
 trojan://kakashka13222@194.9.172.236:1105?security=tls&sni=194.9.172.236&insecure=1&allowInsecure=1&type=tcp&headerType=none&fp=firefox#Khodemoni-462002
 vless://54a9c202-cfe9-4bb8-826c-653a52a96c6d@8.sahanwickramasinghe.me:443?security=tls&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=zoom.us#Khodemoni-462956
 vless://22f1decb-c0ec-4c57-b04d-091f49298118@chatgpt.com:8443?alpn=h2,http/1.1&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=chrome&host=gg.mynoor10.ir&mode=auto&path=/&security=tls&sni=gg.mynoor10.ir&type=xhttp&x_padding_bytes=100-1000#Khodemoni-462795
-vless://85223e1a-f55d-4d0d-b27d-39e8be49d220@83.147.246.153:4100?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=ws&host=live.ok.ru&path=%2Fv1#Khodemoni-463094
-vless://7967bf59-57e3-4cde-9898-527b0fe60022@88.216.66.7:8443?security=tls&type=ws&path=/dula?Telegram-WangCai2&host=speed.dulacloud.store&ed=2560&packetEncoding=xudp&sni=speed.dulacloud.store&fp=chrome&encryption=none#Khodemoni-463097
