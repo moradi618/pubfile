@@ -1,6 +1,7 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0cHVXdkFRdGpkLU12dms4MWw3T0xn@cdn-2d12.giftcardbazarbot.com:8243? #Khodemoni-464968
 vmess://eyJhZGQiOiJtYXNzdGVyLmJpZ2NoYW5nZXIuc2l0ZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJpZCI6ImM2MjUzMzUwLTI0N2MtNDkwMC1hNjAxLTgwZWJkMDczMzg5NyIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBvcnQiOiI5MDkwIiwicHMiOiJLaG9kZW1vbmktNDY0OTc2Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vless://bfb3f06c-e33f-41ac-b101-012c8325a689@gangroot.mrgang.shop:8082?encryption=none&headerType=none&security=none&type=tcp#Khodemoni-464977
-vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.22.18.205:440?security=&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#Khodemoni-464871
 vless://80228f4b-e307-422f-84a2-4302c5312862@frkks.plasdomain.ir:32855?encryption=none&security=reality&type=tcp&headerType=none&sni=amp-api-edge.apps.apple.com&fp=firefox&pbk=fRtTW1zQqje-Yh1DqPAHA8nWOMsX983pZUxy58FaY10&sid=deb7a9e5a6e1d41a#Khodemoni-464896
+vmess://eyJhZGQiOiJtYXNzdGVyLmJpZ2NoYW5nZXIuc2l0ZSIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJjNjI1MzM1MC0yNDdjLTQ5MDAtYTYwMS04MGViZDA3MzM4OTciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjkwOTAiLCJwcyI6Iktob2RlbW9uaS00NjQ5OTAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://751caaf6-39c7-41a3-803d-6001cdbc6517@usa2.milkabebar.ir:10694?encryption=none&type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&fp=firefox&pbk=CHNEnURyZzZ1OQwb5SD2Ze8K9eIY2oggyrV5FOIsU28&sid=a0fbc54d937aaccb#Khodemoni-464211
+vless://338efc17-02d7-433b-902a-e7d4771dc802@147.45.229.3:443?path=/api/user&security=tls&alpn=http/1.1&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=gaaga.korgivps.ru#Khodemoni-464987
