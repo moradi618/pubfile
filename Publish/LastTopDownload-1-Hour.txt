@@ -10,7 +10,6 @@ vless://84491c04-b011-4fdc-b97d-770975586f3a@nid1th.jarvesitw.ru:443?encryption=
 vless://d499fa8c-2e14-4bd5-a3ca-73fae7f04cb5@a2.arshia-nova.ir:443?encryption=none&security=tls&sni=ssl.fastly.com&alpn=h2&fp=chrome&allowinsecure=0&type=ws&host=c12.com&path=/#Khodemoni-463362
 vless://d499fa8c-2e14-4bd5-a3ca-73fae7f04cb5@151.101.56.6:443?path=/?TELEGRAM--KANAL--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#Khodemoni-463348
 vless://d499fa8c-2e14-4bd5-a3ca-73fae7f04cb5@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#Khodemoni-463467
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.130.61.248:22222?encryption=none&security=none&type=tcp#Khodemoni-462439
 vless://86692dde-f7a3-4fcf-b0dc-e070693c63d2@2.188.244.60:443?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-463301
 vless://bc85e463-6151-484c-b6af-f96ccf96224a@130.185.120.62:1819?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0#Khodemoni-463275
 vless://d499fa8c-2e14-4bd5-a3ca-73fae7f04cb5@a2.arshia-nova.ir:443?encryption=none&security=tls&sni=ssl.fastly.com&fp=chrome&alpn=h2&type=ws&host=c12.com&path=/#Khodemoni-463455
