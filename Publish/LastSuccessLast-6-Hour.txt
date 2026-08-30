@@ -1,3 +1,4 @@
+vless://84491c04-b011-4fdc-b97d-770975586f3a@72.56.22.100:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=iTCQz0n0AolvGxU2ZASJIsSVoKOR9PAFbnZVQDnSnF8&security=reality&sid=c481d750&sni=app2.jarvesitw.ru&type=tcp#Khodemoni-463222
 vless://640a1f84-3273-4e3e-8465-7633ab16a585@it.selqora.ir:22211?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-464147
 vmess://eyJ2IjoiMiIsInBzIjoiS2hvZGVtb25pLTQ2Mzk2MyIsImFkZCI6IjQzLjE5OC4yMDQuMzUiLCJwb3J0IjoiNDQzIiwiaWQiOiJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6ImNlMGdlZHB4d291NmNxb24udi4zZG5zLnZpcCIsInBhdGgiOiIvd3Mtdm1lc3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJjZTBnZWRweHdvdTZjcW9uLnYuM2Rucy52aXAiLCJ0ZXN0X25hbWUiOiJISzEwIn0=
 vless://640a1f84-3273-4e3e-8465-7633ab16a585@usa1.selqora.ir:50303?security=reality&encryption=none&pbk=XhfHr5VYPbNs6BrrsYc7Wd6-D2nJAO8QrixRuJarFkU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=4fd1b3b30e82af52#Khodemoni-464148
@@ -51,7 +52,6 @@ vless://a289a3d3-5833-4b28-8809-ae72898a98d0@138.16.141.59:7443?encryption=none&
 vless://a289a3d3-5833-4b28-8809-ae72898a98d0@138.16.141.59:7443?security=reality&encryption=none&pbk=RY7zkFQ01lI92jxNAyCa8T33UBW1fgpJgg8ZEqMA10k&headerType=none&fp=firefox&type=tcp&sni=ibm.com&sid=a09ff9f8#Khodemoni-459175
 vless://a289a3d3-5833-4b28-8809-ae72898a98d0@138.16.141.59:7443?encryption=none&pbk=RY7zkFQ01lI92jxNAyCa8T33UBW1fgpJgg8ZEqMA10k&security=reality&sid=a09ff9f8&sni=ibm.com&type=tcp&fp=chrome#Khodemoni-458248
 vless://a289a3d3-5833-4b28-8809-ae72898a98d0@138.16.141.59:7443?encryption=none&security=reality&sni=ibm.com&fp=chrome&pbk=RY7zkFQ01lI92jxNAyCa8T33UBW1fgpJgg8ZEqMA10k&sid=a09ff9f8&type=tcp&headerType=none#Khodemoni-459712
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6YVpmZldqTHBxdDBpMXhQZGFDelFGOC9XTXd3SVB1c0dLTy9Nd3JNY0E0ST0@129.159.27.74:59924#Khodemoni-463267
 trojan://humanity@45.130.125.75:443?sni=www.calmlunch.com&host=www.calmlunch.com&type=ws&security=tls&path=%2Fassignment#Khodemoni-137495
 vmess://eyJ2IjoiMiIsInBzIjoiS2hvZGVtb25pLTM4MTMwNyIsImFkZCI6Ind3dy5uZXh0a3ljLmNvbSIsInBvcnQiOiI4NDQzIiwiaWQiOiI2MDQ0MTU0OC1iNjhlLTQzYjItODE5MS1lM2I4ODRiZTRiM2MiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJ2MnJheTEuZG96YXBwLnh5eiIsInBhdGgiOiIvbE1uc1pVTjQvIiwidGxzIjoidGxzIiwic25pIjoidjJyYXkxLmRvemFwcC54eXoiLCJ0ZXN0X25hbWUiOiIxMTgifQ==
 vless://2e79f3ca-b8db-4d4d-a96e-8f7313480696@168.222.203.14:4100?path=/v1&security=none&encryption=none&host=live.ok.ru&type=ws#Khodemoni-419219
