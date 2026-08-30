@@ -77,7 +77,6 @@ vless://c3c53d05-8b01-4869-9e7d-1b2228d88535@199.232.78.159:443?path=/&security=
 vless://0ada5b3f-5c33-4813-9fd9-527f1af1e858@136.244.96.67:32855?security=reality&encryption=none&pbk=fRtTW1zQqje-Yh1DqPAHA8nWOMsX983pZUxy58FaY10&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=deb7a9e5a6e1d41a#Khodemoni-462881
 vless://435fc5e1-f12b-468b-b1d4-802a9ce86ba3@one.alpheratzz.org:443?type=xhttp&security=tls&sni=app-6a936c8a.adhil.uk&mode=stream-one&extra=%7B%22xmux%22%3A%7B%22maxConnections%22%3A1%2C%22maxReuseTimes%22%3A0%7D%7D&fp=ios#Khodemoni-462784
 vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?encryption=none&security=tls&alpn=h2&fp=firefox&type=xhttp&path=%2Fkavir&mode=stream-one#Khodemoni-454334
-vless://d0ee468a-084b-411d-b2be-b886a61065d1@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#Khodemoni-461168
 trojan://BxceQaOe@119.246.1.143:443?#Khodemoni-376612
 trojan://BxceQaOe@119.246.1.143:443?security=tls&sni=119.246.1.143#Khodemoni-372956
 vmess://eyJ2IjoiMiIsInBzIjoiS2hvZGVtb25pLTExMjE3NCIsImFkZCI6IjE1OC41MS4xMjEuNjMiLCJwb3J0IjoiNDQzIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJzZXJpYnVzLm9yZyIsInBhdGgiOiJsaW5rdndzIiwidGxzIjoidGxzIiwic25pIjoic2VyaWJ1cy5vcmciLCJ0ZXN0X25hbWUiOiIyNiJ9
