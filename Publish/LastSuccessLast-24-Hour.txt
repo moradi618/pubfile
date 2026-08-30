@@ -1,3 +1,6 @@
+trojan://humanity@80.77.25.142:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#Khodemoni-372979
+trojan://humanity@104.18.8.83:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2F%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#Khodemoni-421657
+vless://f62a1751-c1e4-4612-90e7-bd5781c1aede@186.246.12.85:2053?encryption=none&type=ws&path=%2F&host=186.246.12.85&security=tls&sni=bz2.wba-pn.ru&allowInsecure=1#Khodemoni-448705
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@chatgpt.com:80?encryption=none&host=de.vpnbase.net&path=%2Fhttp&security=none&type=ws#Khodemoni-451607
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.165:8080#Khodemoni-451121
 vless://0772109c-a680-4896-b005-d86513194f96@77.221.152.100:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=node14.mxvpn.dev&sid=bbc68cec8bb8d2e3#Khodemoni-453718
