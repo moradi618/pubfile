@@ -1,4 +1,6 @@
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@138.124.255.221:443?type=tcp&security=reality&sni=russia.cendora.ru&pbk=uo-U-FDlo7Cqldg7JKUe8jHvYnwP08NanGX0tUFrqEc&sid=bef240e96a8474a3&fp=chrome&encryption=none&flow=xtls-rprx-vision#Khodemoni-457333
+vless://c7e9c591-2764-423a-afca-efbd010fd396@104.21.70.21:443?path=%2F&security=tls&encryption=none&host=freeuse.firta.ru&type=ws&sni=freeuse.firta.ru#Khodemoni-465128
+vless://0c0ec86e-e118-4879-a988-60440253e223@tr1p.soundfiy.ir:61169?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#Khodemoni-465127
 vless://f735a3b7-5acb-41e0-9b0c-94dd532feaef@134.195.101.187:443?type=tcp&security=reality&sni=iosapps.itunes.apple.com&flow=xtls-rprx-vision&pbk=PuA87-QwgLpJr4WyqC0e2aMFShkeovMT6recdpHPaSc&sid=67af2e70&fp=ios#Khodemoni-465073
 vless://f735a3b7-5acb-41e0-9b0c-94dd532feaef@134.195.101.187:443?type=tcp&security=reality&sni=iosapps.itunes.apple.com&flow=xtls-rprx-vision&pbk=PuA87-QwgLpJr4WyqC0e2aMFShkeovMT6recdpHPaSc&sid=67af2e70&fp=chrome#Khodemoni-465072
 vless://f735a3b7-5acb-41e0-9b0c-94dd532feaef@134.195.101.187:443?type=tcp&security=reality&sni=iosapps.itunes.apple.com&flow=xtls-rprx-vision&pbk=PuA87-QwgLpJr4WyqC0e2aMFShkeovMT6recdpHPaSc&sid=67af2e70&fp=safari#Khodemoni-465074
@@ -67,9 +69,3 @@ vless://XpnTeam-40@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encrypti
 vless://338efc17-02d7-433b-902a-e7d4771dc802@147.45.229.3:443?path=/api/user&security=tls&alpn=http/1.1&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=gaaga.korgivps.ru#Khodemoni-464987
 vmess://eyJhZGQiOiJtYXNzdGVyLmJpZ2NoYW5nZXIuc2l0ZSIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJjNjI1MzM1MC0yNDdjLTQ5MDAtYTYwMS04MGViZDA3MzM4OTciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjkwOTAiLCJwcyI6Iktob2RlbW9uaS00NjQ5OTAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.175.73:62145?#Khodemoni-463272
-vless://bfb3f06c-e33f-41ac-b101-012c8325a689@gangroot.mrgang.shop:8082?encryption=none&headerType=none&security=none&type=tcp#Khodemoni-464977
-vless://1dd334f9-8730-42fd-9c91-ffc1933c7db3@217.11.164.92:37430?security=reality&encryption=none&pbk=RxTaQwnqqU8vxMMvD6AeUTFadLVvwzUplghzVAilAEg&headerType=none&fp=ios&spx=%2F&type=tcp&sni=amp-api-edge.apps.apple.com#Khodemoni-464980
-vmess://eyJhZGQiOiJtYXNzdGVyLmJpZ2NoYW5nZXIuc2l0ZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJpZCI6ImM2MjUzMzUwLTI0N2MtNDkwMC1hNjAxLTgwZWJkMDczMzg5NyIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBvcnQiOiI5MDkwIiwicHMiOiJLaG9kZW1vbmktNDY0OTc2Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:54657?allowInsecure=1&fp=chrome&sni=us01.duotg.top#Khodemoni-460214
-trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:59385?allowInsecure=1&fp=chrome&sni=us01.duotg.top#Khodemoni-460211
-vless://5e127068-e5d0-4c3f-86c4-dfb6b34e64a4@2.24.131.46:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=em5MbaJeZoe--syIy7L8MEoNBwN1mLB2ur_YAY8PuQ0&sid=daf012feff3b00d0&type=tcp#Khodemoni-460278
