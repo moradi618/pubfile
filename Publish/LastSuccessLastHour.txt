@@ -1,3 +1,4 @@
+trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com&note=@FreeOnlineVPN#Khodemoni-111503
 vless://fa47585b-260a-4dbb-a32c-11fe7fb24fc7@mnl.savesafe.space:443?fp=firefox&mode=auto&path=%2Fweb%2Fcdn%2Fv2%2Fassets&pbk=2P7D_IkxXWre3YziEe2tkF9L_gUbdZE_WCu9_SQq4hE&security=reality&sid=b997e34499a919f3&sni=ya.ru&type=xhttp#Khodemoni-453894
 vless://dd7ea5ae-d430-4e7b-a733-8c562f49a3de@104.252.30.239:15201?security=&encryption=none&headerType=none&type=tcp#Khodemoni-463656
 vless://e0d07faf-4486-47fb-b987-1ed7abdc40bf@freevpn35-266.up.railway.app:443?path=%2Fconnect%2Fna0gRkeaL3FJyHqElKZlbzDN&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=freevpn35-266.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=freevpn35-266.up.railway.app#Khodemoni-463655
@@ -52,15 +53,3 @@ vmess://eyJ2IjoiMiIsInBzIjoiS2hvZGVtb25pLTQxODcwOSIsImFkZCI6IjEwNC4yMS41Ny44NCIs
 vless://395d040e-a04a-43d7-a1e9-8635f545879a@104.17.70.206:2096?&security=tls&fp=chrome&sni=shalana.xyz&type=ws&headerType=none&host=shalana.xyz&path=%2Fshalana#Khodemoni-257401
 vless://0772109c-a680-4896-b005-d86513194f96@77.221.152.100:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=node14.mxvpn.dev&security=reality&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&sid=bbc68cec8bb8d2e3#Khodemoni-452482
 vless://395d040e-a04a-43d7-a1e9-8635f545879a@104.17.70.206:2096?encryption=none&security=tls&sni=shalana.xyz&insecure=0&allowInsecure=0&type=ws&host=shalana.xyz&path=%2Fshalana#Khodemoni-455552
-trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#Khodemoni-094614
-trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#Khodemoni-094613
-trojan://humanity@104.18.8.83:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment#Khodemoni-256160
-trojan://humanity@104.18.8.83:443?encryption=none&security=tls&sni=www.calmlunch.com&fp=chrome&type=ws&path=%2Fassignment#Khodemoni-254783
-trojan://humanity@104.18.32.47:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#Khodemoni-224753
-trojan://humanity@104.18.8.83:443?path=%2F%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#Khodemoni-419299
-trojan://humanity@104.18.8.83:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#Khodemoni-259112
-trojan://humanity@185.220.100.168:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#Khodemoni-403293
-vless://395d040e-a04a-43d7-a1e9-8635f545879a@104.17.70.206:2096?security=tls&type=ws&path=%2Fshalana&host=shalana.xyz&alpn=h2%2Chttp%2F1.1&sni=shalana.xyz&fp=chrome&encryption=none#Khodemoni-242162
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.238:8080#Khodemoni-447006
-vless://0772109c-a680-4896-b005-d86513194f96@77.221.152.100:443?security=reality&encryption=none&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=node14.mxvpn.dev&sid=bbc68cec8bb8d2e3#Khodemoni-453720
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.234:8080?type=tcp&headerType=none#Khodemoni-455050
