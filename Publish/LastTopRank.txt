@@ -1,8 +1,8 @@
-vless://f09ca7ff-bfc2-4f72-8cf4-a3c81100cc15@parr.mechanicir.ir:38479?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#Khodemoni-463584
 vless://0b8864b7-f9de-47f5-9646-56c82ef940ea@5.75.196.117:56539?security=none&encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&host=www.unscramblerer.com&headerType=http&type=tcp#Khodemoni-463546
+vless://f09ca7ff-bfc2-4f72-8cf4-a3c81100cc15@parr.mechanicir.ir:38479?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#Khodemoni-463584
 vless://8c2d5e7e-116a-49c4-8437-937f4bfce346@parr.mechanicir.ir:10694?security=reality&encryption=none&pbk=CHNEnURyZzZ1OQwb5SD2Ze8K9eIY2oggyrV5FOIsU28&headerType=none&fp=firefox&type=tcp&sni=amp-api-edge.apps.apple.com&sid=a0fbc54d937aaccb#Khodemoni-463583
-vless://c100e5ba-1cf5-45ce-b491-5c2b02cdde5e@parr.mechanicir.ir:38479?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#Khodemoni-463582
 vless://a61abe08-05d6-f72d-58ab-b92576abd790@nice.iranapplecenter.com:443?mode=auto&security=tls&alpn=h2&encryption=none&insecure=0&host=shshsujsjiiyour-name.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#Khodemoni-463448
+vless://c100e5ba-1cf5-45ce-b491-5c2b02cdde5e@parr.mechanicir.ir:38479?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#Khodemoni-463582
 vless://03c48eca-e0aa-4e18-998c-1f53f1de293c@31.76.88.10:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=LceNbOus12Xf9wqkpHRV98Q6DHY8w-5twDvjLHFW8jI&security=reality&sid=ade84e150892ab4a&sni=www.google.com&type=tcp#Khodemoni-463533
 vless://b5539644-22ce-4140-96c9-9e844318ce24@212.115.103.189:56539?security=none&encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&host=www.unscramblerer.com&headerType=http&type=tcp#Khodemoni-463545
 vless://a61abe08-05d6-f72d-58ab-b92576abd790@nice.iranapplecenter.com:443?mode=auto&security=tls&alpn=h2&encryption=none&insecure=0&host=shshsujsjiiyour-name.global.ssl.fastly.net&fp=firefox&type=xhttp&allowInsecure=0&sni=global.fastly.com#Khodemoni-463261
