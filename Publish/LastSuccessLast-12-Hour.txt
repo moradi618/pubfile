@@ -1,3 +1,4 @@
+vless://22f1decb-c0ec-4c57-b04d-091f49298118@chatgpt.com:8443?alpn=h2,http/1.1&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=chrome&host=gg.mynoor10.ir&mode=auto&path=/&security=tls&sni=gg.mynoor10.ir&type=xhttp&x_padding_bytes=100-1000#Khodemoni-462795
 vless://85223e1a-f55d-4d0d-b27d-39e8be49d220@83.147.246.153:4100?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=ws&host=live.ok.ru&path=%2Fv1#Khodemoni-463094
 vless://7967bf59-57e3-4cde-9898-527b0fe60022@88.216.66.7:8443?security=tls&type=ws&path=/dula?Telegram-WangCai2&host=speed.dulacloud.store&ed=2560&packetEncoding=xudp&sni=speed.dulacloud.store&fp=chrome&encryption=none#Khodemoni-463097
 trojan://owefv0_92Z540k2F_nx83245_J9130oS_tY@5.180.21.146:4443?allowInsecure=1&security=tls&sni=borat-hopp.bumbleshrimp.com&type=tcp#Khodemoni-462989
