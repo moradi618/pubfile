@@ -1,5 +1,6 @@
 vless://9ec52cb8-8daa-0021-ac36-d38295a25e5b@5.61.91.207:443?security=reality&type=tcp&packetEncoding=xudp&alpn=http/1.1&sni=www.amd.com&fp=chrome&flow=xtls-rprx-vision&sid=a7b2c9d4&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&encryption=none#Khodemoni-465301
 vless://31216f81-3139-0021-bac4-646680314264@185.218.194.71:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.amd.com&fp=chrome&flow=xtls-rprx-vision&sid=e1f8a3b6&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&encryption=none#Khodemoni-465288
+trojan://BxceQaOe@95.40.28.75:9149?allowInsecure=1&sni=t.me%252Fripaojiedian#Khodemoni-465418
 vless://338efc17-02d7-433b-902a-e7d4771dc802@147.45.229.3:443?&security=tls&fp=chrome&alpn=http/1.1&sni=gaaga.korgivps.ru&type=ws&headerType=none&path=/api/user#Khodemoni-465289
 vless://afcfff39-ef29-4a26-ba94-25d6f0cf5deb@V.FARS-REMEN.IR:37739?encryption=none&security=reality&type=tcp&headerType=none&sni=amp-api-edge.apps.apple.com&fp=edge&pbk=X2via1s2pTcQzUcS1IPI-Yhj6UWZjoRJdclX2z3PeWs&sid=769731e9683ce530#Khodemoni-465323
 trojan://Telegram_healer_config@172.67.187.87:443?path=%2Ftr%2FJIPAVWGHbaGJWIcEUAFGZIxrVCPW%3Fed&security=tls&alpn=http%2F1.1&insecure=0&host=bktf381b04nchtxkn8tidezqgf.tcnth9s31mg1j4tnxlad62o1s2o.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=bKtF381b04NcHTXkN8TidEzQgF.TCNTH9s31mg1j4TNxLAD62O1s2o.wOrKErS.DEV#Khodemoni-463311
