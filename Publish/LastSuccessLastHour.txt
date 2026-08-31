@@ -1,3 +1,4 @@
+vmess://eyJhZGQiOiIxMDcuMTczLjI1NC4yNyIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJhZDc4ZDAyYi04NzNmLTRjZmYtOGQ0YS02NzNmNTNkNmNlMGYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIxNTMxMSIsInBzIjoiS2hvZGVtb25pLTQ1MTEzOCIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://91f99ea6-4782-4c83-becc-af6606df10fd@204.10.194.82:56539?security=none&encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#Khodemoni-477222
 trojan://owefv0_92Z540k2F_nx83245_J9130oS_tY@5.180.21.146:4443?allowInsecure=1&security=tls&sni=borat-hopp.bumbleshrimp.com&type=tcp#Khodemoni-462989
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.34.121:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=uo-U-FDlo7Cqldg7JKUe8jHvYnwP08NanGX0tUFrqEc&security=reality&sid=bef240e96a8474a3&sni=russia.cendora.ru&type=tcp#Khodemoni-476659
@@ -47,6 +48,3 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.61.111.198:22222?security=none&e
 vless://f2616bce-337a-4d13-8c58-1b5e71986569@82.24.203.174:2083?mode=gun&security=none&encryption=none&type=grpc&serviceName=chat.deepseek.com#Khodemoni-477185
 vless://a491b1c4-1141-4f59-9731-e0621f6e452f@www.speedtest.net:2083?alpn=http/1.1,h2&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=chrome&host=zahra2011.tr&mode=auto&path=/@mahdi_383ir&security=tls&sni=zahra2011.tr&type=xhttp&x_padding_bytes=100-1000#Khodemoni-464741
 vless://a491b1c4-1141-4f59-9731-e0621f6e452f@www.speedtest.net:443?alpn=http/1.1,h2&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=chrome&host=zahra2011.tr&mode=auto&path=/@mahdi_383ir&security=tls&sni=zahra2011.tr&type=xhttp&x_padding_bytes=100-1000#Khodemoni-464834
-vless://Telegramjoin%3ATurboConfigs%20@82.40.62.178:9090?encryption=none&type=tcp&headerType=http&path=%2F&host=amp-api-edge.apps.apple.com#Khodemoni-477160
-vless://a544b3c6-8397-48b8-a12c-187106f65e3b@tp.paydar.site:8443?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#Khodemoni-477150
-vless://fb2fbf7a-17a0-4ef9-b0ec-1e35b0707eb6@104.21.51.132:8080?path=/play&security=&encryption=mlkem768x25519plus.native.0rtt.NxUupdiNQtkbNwVt0xD5FhzqzI-SSyB3tlg5Km59onY&host=de-jkas.th3store.ir&type=httpupgrade#Khodemoni-476841
