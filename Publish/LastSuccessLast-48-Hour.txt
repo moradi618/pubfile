@@ -1,4 +1,6 @@
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@138.124.255.221:443?type=tcp&security=reality&sni=russia.cendora.ru&pbk=uo-U-FDlo7Cqldg7JKUe8jHvYnwP08NanGX0tUFrqEc&sid=bef240e96a8474a3&fp=chrome&encryption=none&flow=xtls-rprx-vision#Khodemoni-457333
+vless://c7e9c591-2764-423a-afca-efbd010fd396@104.21.70.21:443?path=%2F&security=tls&encryption=none&host=freeuse.firta.ru&type=ws&sni=freeuse.firta.ru#Khodemoni-465128
+vless://0c0ec86e-e118-4879-a988-60440253e223@tr1p.soundfiy.ir:61169?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#Khodemoni-465127
 vless://f735a3b7-5acb-41e0-9b0c-94dd532feaef@134.195.101.187:443?type=tcp&security=reality&sni=iosapps.itunes.apple.com&flow=xtls-rprx-vision&pbk=PuA87-QwgLpJr4WyqC0e2aMFShkeovMT6recdpHPaSc&sid=67af2e70&fp=ios#Khodemoni-465073
 vless://f735a3b7-5acb-41e0-9b0c-94dd532feaef@134.195.101.187:443?type=tcp&security=reality&sni=iosapps.itunes.apple.com&flow=xtls-rprx-vision&pbk=PuA87-QwgLpJr4WyqC0e2aMFShkeovMT6recdpHPaSc&sid=67af2e70&fp=chrome#Khodemoni-465072
 vless://f735a3b7-5acb-41e0-9b0c-94dd532feaef@134.195.101.187:443?type=tcp&security=reality&sni=iosapps.itunes.apple.com&flow=xtls-rprx-vision&pbk=PuA87-QwgLpJr4WyqC0e2aMFShkeovMT6recdpHPaSc&sid=67af2e70&fp=safari#Khodemoni-465074
