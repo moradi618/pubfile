@@ -1,5 +1,3 @@
-vless://81b3fa7e-12b0-4c2b-9866-324edd26ef7f@172.67.179.98:8880?encryption=none&security=none&type=ws&host=falling-lake-0b5a.192-3e2.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#Khodemoni-193736
-vless://XpnTeam-40@140.248.186.45:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=ssl.fastly.com&type=ws&headerType=none&host=Appxdn.global.ssl.fastly.net&path=%2F#Khodemoni-465271
 vless://9ec52cb8-8daa-0021-ac36-d38295a25e5b@5.61.91.207:443?security=reality&type=tcp&packetEncoding=xudp&alpn=http/1.1&sni=www.amd.com&fp=chrome&flow=xtls-rprx-vision&sid=a7b2c9d4&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&encryption=none#Khodemoni-465301
 vless://31216f81-3139-0021-bac4-646680314264@185.218.194.71:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.amd.com&fp=chrome&flow=xtls-rprx-vision&sid=e1f8a3b6&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&encryption=none#Khodemoni-465288
 vless://338efc17-02d7-433b-902a-e7d4771dc802@147.45.229.3:443?&security=tls&fp=chrome&alpn=http/1.1&sni=gaaga.korgivps.ru&type=ws&headerType=none&path=/api/user#Khodemoni-465289
