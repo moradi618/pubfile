@@ -1,3 +1,6 @@
+vless://62a05f8e-eedf-4500-8c79-c9315f565bcc@lt.sixseven.network:25177?type=tcp&security=reality&sni=proxy11.h1guro.ovh&pbk=e0n3UVBtKMkw4IWscdj2nKq3kZ5aQnIkjpzqKdjVOTo&sid=a14b2eae02438fe4&flow=xtls-rprx-vision&fp=chrome#Khodemoni-479059
+vless://b4a30b6a-2d8d-4652-827e-357d9d720a1e@185.204.171.230:1819?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&fp=qq#Khodemoni-479046
+vless://62a05f8e-eedf-4500-8c79-c9315f565bcc@81.90.17.115:25482?encryption=none&flow=xtls-rprx-vision&pbk=JNXlwxCw4NYxL8OtRcLSpyriXk5_FMe6yGvoCJndMCs&security=reality&sid=73c9de0342648c1c&sni=proxy11.h1guro.ovh&type=tcp&fp=safari#Khodemoni-479067
 vless://2ee0d2aa-867e-a77e-9538-2edfc0b242aa@216.24.57.15:443?sni=four04-rd37.onrender.com&alpn=http/1.1&type=ws&host=four04-rd37.onrender.com&path=/ws/2ee0d2aa-867e-a77e-9538-2edfc0b242aafp=chrome&security=tls#Khodemoni-460712
 trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.volumeroot.com&type=ws&sni=www.volumeroot.com&fp=edge#Khodemoni-479026
 vless://62a05f8e-eedf-4500-8c79-c9315f565bcc@lt.sixseven.network:25177?type=tcp&security=reality&sni=proxy11.h1guro.ovh&pbk=e0n3UVBtKMkw4IWscdj2nKq3kZ5aQnIkjpzqKdjVOTo&sid=a14b2eae02438fe4&flow=xtls-rprx-vision&fp=firefox#Khodemoni-479060
@@ -74,4 +77,3 @@ vless://bbecfa92-4f64-4eb8-82e6-388394d909fe@www.ipget.net:8880?encryption=none&
 vless://df5dc160-3764-4e6b-805d-1286ea701310@www.iplocation.net:8880?encryption=none&security=none&alpn=http%2F1.1&type=ws&host=dawn-mode-a061.444-a0e.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#Khodemoni-451601
 vless://b1b99d33-8df1-4c74-b140-28941b43a4d2@deepl.com:8880?type=ws&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&host=nameless-poetry-cc33.268-910.workers.dev&sni=deepl.com#Khodemoni-452719
 vless://bbecfa92-4f64-4eb8-82e6-388394d909fe@www.ipget.net:8880?type=ws&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&host=empty-poetry-07b6.477-e0d.workers.dev&sni=www.ipget.net#Khodemoni-452623
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.175.73:62145?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&#Khodemoni-463354
