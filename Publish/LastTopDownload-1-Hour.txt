@@ -1,3 +1,5 @@
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.42.235.201:22224?encryption=none&security=none&type=tcp#Khodemoni-479656
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.42.235.201:22222?encryption=none&security=none&type=tcp#Khodemoni-479655
 vless://42afec8a-7879-4138-92f4-136146a73e85@176.97.218.225:2020?encryption=none&security=none&type=tcp#Khodemoni-479676
+vless://a64ae61d-4c20-4072-930b-7c23c8687031@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=lsjaoijji.global.ssl.fastly.neT&type=ws&allowInsecure=0&sni=ssl.fastly.com#Khodemoni-479698
+vless://49739922-a02a-4afe-9344-ee7d0f12da45@65.109.217.127:31862?security=none&encryption=none&host=git.xpkg.ru&headerType=http&type=tcp#Khodemoni-479696
