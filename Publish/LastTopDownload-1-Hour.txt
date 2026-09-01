@@ -19,4 +19,3 @@ vless://47da4209-89fb-4102-ad51-5b2d8b32e975@5.152.223.115:443?encryption=none&f
 vless://337e83cf-e9f9-4237-b27c-5649ec7ee293@germany.spacexiphone.cyou:25259?security=none&encryption=mlkem768x25519plus.native.0rtt.7vqvi9LMYJrixfTh3GaGeB6tpe-oiIdl6zh1YgsrM2U&headerType=none&type=tcp#Khodemoni-480360
 vless://8de51712-ee01-4f17-9b48-627b9a561d33@199.232.78.159:443?path=%2F&security=tls&encryption=none&host=Swedenman.global.ssl.fastly.net.&type=ws&sni=ssl.fastly.com#Khodemoni-480218
 vless://6b8fe542-f1d9-47cb-97d4-14aa52287879@5.152.223.115:443?security=reality&encryption=none&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=strapi.io&sid=fd55b698ee8c3629#Khodemoni-480271
-vless://47da4209-89fb-4102-ad51-5b2d8b32e975@5.152.223.115:443?encryption=none&flow=xtls-rprx-vision&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&security=reality&sid=fd55b698ee8c3629&sni=strapi.io&type=tcp&fp=safari#Khodemoni-463805
