@@ -1,6 +1,7 @@
 vless://78d66dd1-a432-454e-80c0-cb4aa0407375@188.114.96.3:2053?path=%2FeyJqdW5rIjoiVmNMT1VrQngzb2xCeCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=ez-87b829.ashkashk.workers.dev&fp=chrome&type=ws&sni=Ez-87B829.aShkashk.wOrkeRS.dev#Khodemoni-146284
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.42.235.201:22222?encryption=none&security=none&type=tcp#Khodemoni-479655
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.142.182:22222?encryption=none&amp;security=none&amp;type=tcp#Khodemoni-479928
+vless://7ab9fe4f-6699-427f-a828-9fcf2496d714@201.24.54.210:24443?type=grpc&security=reality&serviceName=9d30d49278&sni=www.cloudflare.com&pbk=s2uiu3GQA2SlZzsr86Z5Dav97eAFTPf7Nvr-zqzzRgg&sid=72ccd4a7563c2953&encryption=none&fp=edge#Khodemoni-478419
 vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?mode=stream-one&path=%2Fkavir&security=tls&alpn=h2&encryption=none&insecure=0&host=dey.lnmarketplace.net&fp=firefox&type=xhttp&allowInsecure=0&sni=dey.lnmarketplace.net#Khodemoni-397427
 vless://a0208c32-14c1-42d7-a697-2503dcbf1a06@tr1p.soundfiy.ir:61169?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#Khodemoni-478390
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.42.235.201:22224?encryption=none&security=none&type=tcp#Khodemoni-479656
