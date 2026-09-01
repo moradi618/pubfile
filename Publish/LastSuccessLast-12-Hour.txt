@@ -1,3 +1,8 @@
+vmess://eyJhZGQiOiIxMTkuNDYuNTEuNDUiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiOWI3NmJjMzEtMTdhNS00NDU0LTkzNGEtOGQ1ZmI2MDJjZDcwIiwibmF0aW9uIjoiIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIzNzUxNSIsInBzIjoiS2hvZGVtb25pLTQ1NDA1MyIsInNjeSI6ImF1dG8iLCJzZXJ2ZXJQb3J0IjowLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vless://a289a3d3-5833-4b28-8809-ae72898a98d0@138.16.141.59:7443?encryption=none&pbk=RY7zkFQ01lI92jxNAyCa8T33UBW1fgpJgg8ZEqMA10k&security=reality&sid=a09ff9f8&sni=ibm.com&type=tcp&fp=edge#Khodemoni-458249
+vless://a289a3d3-5833-4b28-8809-ae72898a98d0@138.16.141.59:7443?encryption=none&security=reality&sni=ibm.com&fp=chrome&pbk=RY7zkFQ01lI92jxNAyCa8T33UBW1fgpJgg8ZEqMA10k&sid=a09ff9f8&type=tcp&headerType=none#Khodemoni-459712
+vless://a289a3d3-5833-4b28-8809-ae72898a98d0@138.16.141.59:7443?encryption=none&pbk=RY7zkFQ01lI92jxNAyCa8T33UBW1fgpJgg8ZEqMA10k&security=reality&sid=a09ff9f8&sni=ibm.com&type=tcp&fp=firefox#Khodemoni-458250
+vless://a289a3d3-5833-4b28-8809-ae72898a98d0@138.16.141.59:7443?encryption=none&pbk=RY7zkFQ01lI92jxNAyCa8T33UBW1fgpJgg8ZEqMA10k&security=reality&sid=a09ff9f8&sni=ibm.com&type=tcp&fp=safari#Khodemoni-458251
 trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&type=ws&allowInsecure=1&sni=www.volumeroot.com&fp=qq#Khodemoni-478409
 trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&type=ws&allowInsecure=1&sni=www.volumeroot.com&fp=android#Khodemoni-478407
 trojan://humanity@188.42.145.180:443?encryption=none&type=ws&security=tls&host=www.volumeroot.com&path=%2Fassignment&sni=www.volumeroot.com&alpn=http%2F1.1&allowInsecure=1&fp=android#Khodemoni-478405
@@ -2124,11 +2129,9 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.61.111.198:22224?security=&encry
 vless://fb2fbf7a-17a0-4ef9-b0ec-1e35b0707eb6@104.21.51.132:8080?path=/play&security=&encryption=mlkem768x25519plus.native.0rtt.NxUupdiNQtkbNwVt0xD5FhzqzI-SSyB3tlg5Km59onY&host=de-jkas.th3store.ir&type=httpupgrade#Khodemoni-476841
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.61.111.198:22222?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-477180
 vless://785923c4-0b40-43b4-8506-523e31578d21@87.58.153.39:8443?security=reality&encryption=none&pbk=v5gYvnzEnIBByr3VdAeEYMNgQ3XoUKYpHKRl09spFWU&headerType=none&fp=safari&spx=%2Fnaranv2ray&type=tcp&sni=amp-api-edge.apps.apple.com&sid=5dea88#Khodemoni-476710
-vless://01c2b190-58df-4fa7-96e8-0e7a3a2148f1@91.99.81.222:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=dYsy51W78tzZf26ql7Fh0Db65VlRSjGp6EH9nsAIRgo&security=reality&sid=16d9cabe&sni=amp-api-edge.apps.apple.com&spx=%2FgJQ6bFfNCQ136pW&type=tcp#Khodemoni-477177
 vless://aafd3b60-b7a8-49c4-8690-2fe2da0b808c@altaria.proxy.rlwy.net:33178?encryption=none&host=&path=%2F&security=none&type=ws#Khodemoni-477194
 vless://01c2b190-58df-4fa7-96e8-0e7a3a2148f1@91.99.81.222:443?security=reality&encryption=none&pbk=dYsy51W78tzZf26ql7Fh0Db65VlRSjGp6EH9nsAIRgo&headerType=none&fp=chrome&spx=%2FgJQ6bFfNCQ136pW&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=16d9cabe#Khodemoni-477181
 vless://de5906f3-df38-4463-aa9d-2b01320cc6ea@31.76.76.28:443?path=%2F&security=none&encryption=none&type=ws#Khodemoni-477186
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.61.111.198:22223?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-477168
 vless://a3f59a62-b4ad-4f02-bfce-ef68e63ab6f7@5.129.214.249:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=tls&sni=nlxy.korgivps.ru&fp=chrome&alpn=http/1.1&type=ws&path=/api/user#Khodemoni-477661
 vmess://eyJ2IjoiMiIsInBzIjoiS2hvZGVtb25pLTQ3NzY4NyIsImFkZCI6ImpwLjY4MDcyNTEueHl6IiwicG9ydCI6IjYyMjgzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjdhYTNhMDI0LWUzMzMtNGI2My05OWEyLTNkYjlkM2IyMDU0ZSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6ImEuMTg5LmNuIiwidGxzIjoiIiwic2N5IjoiYXV0byIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
 trojan://owefv0_92Z540k2F_nx83245_J9130oS_tY@5.180.21.146:4443?security=tls&sni=borat-hopp.bumbleshrimp.com#Khodemoni-461314
