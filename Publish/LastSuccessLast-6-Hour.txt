@@ -1,13 +1,13 @@
-trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&type=ws&allowInsecure=1&sni=www.volumeroot.com&fp=android#Khodemoni-478407
 trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&type=ws&allowInsecure=1&sni=www.volumeroot.com&fp=qq#Khodemoni-478409
-trojan://humanity@213.182.199.137:443?alpn=http%2F1.1&host=www.pleadcourt.org&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws&allowInsecure=1&fp=safari#Khodemoni-478410
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&type=ws&allowInsecure=1&sni=www.volumeroot.com&fp=android#Khodemoni-478407
 trojan://humanity@188.42.145.180:443?encryption=none&type=ws&security=tls&host=www.volumeroot.com&path=%2Fassignment&sni=www.volumeroot.com&alpn=http%2F1.1&allowInsecure=1&fp=android#Khodemoni-478405
+trojan://humanity@213.182.199.137:443?alpn=http%2F1.1&host=www.pleadcourt.org&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws&allowInsecure=1&fp=safari#Khodemoni-478410
 trojan://humanity@188.42.145.180:443?encryption=none&type=ws&security=tls&host=www.volumeroot.com&path=%2Fassignment&sni=www.volumeroot.com&alpn=http%2F1.1&allowInsecure=1&fp=safari#Khodemoni-478406
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&type=ws&allowInsecure=1&sni=www.volumeroot.com&fp=chrome#Khodemoni-478408
 vless://ed2c5f6c-8383-4f7a-a231-c28916489f76@88.216.214.143:40443?encryption=none&flow=xtls-rprx-vision&pbk=-cxFcuI9vCkNZvlwGFms4bENl_cZbOz2pUMOVCKB4j0&security=reality&sid=e6bbe5cbfd3a1c9f&sni=tv.apple.com&type=tcp&fp=firefox#Khodemoni-478470
 vless://d2aeb078-90db-4f90-b334-623bcbea8d31@81.90.17.173:443?type=tcp&security=reality&sni=cdnjs.cloudflare.com&fp=firefox&pbk=zSUGAaQT4fl4OGIGQjUkU4gVWvyexICHgLE-bM2GUV4&sid=8d7ec053417caa53&flow=xtls-rprx-vision#Khodemoni-478400
 trojan://tripitropa994825@45.85.88.194:2234?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=vps.tropicalhosting.net&alpn=http%2F1.1&fp=chrome#Khodemoni-478413
 trojan://tripitropa994825@45.85.88.194:2234?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=vps.tropicalhosting.net&alpn=http%2F1.1&fp=android#Khodemoni-478412
-trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&type=ws&allowInsecure=1&sni=www.volumeroot.com&fp=chrome#Khodemoni-478408
 trojan://humanity@213.182.199.137:443?alpn=http%2F1.1&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws&allowInsecure=1&fp=android#Khodemoni-478411
 trojan://tripitropa994825@45.85.88.194:2234?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=vps.tropicalhosting.net&alpn=http%2F1.1&fp=firefox#Khodemoni-478414
 vless://015b83b4-53a3-4719-8553-3a7c03c4128d@2.26.129.245:443?encryption=none&flow=xtls-rprx-vision&pbk=gPTBA-gVUWAK9yziB_v_sGSncm0LwBQvEAsTQZK4jEE&security=reality&sid=5a8e1a04f3d92b67&sni=ukrop.mycdn-me.ru&type=tcp&fp=chrome#Khodemoni-478447
@@ -1819,7 +1819,3 @@ vless://9f4b666c-ecf1-49e9-8ab8-9ae2c4f4c613@188.114.97.6:8880?path=%2F&security
 vless://fe467f51-b2cc-4b16-b50b-a78865ed3dd9@188.114.97.6:8880?path=%2F&security=none&encryption=none&host=crimson-wind-71bc.19-5fd.workers.dev&type=ws#Khodemoni-442646
 vless://94ed4a58-dcf4-43cb-afc1-f158e14ec42d@188.114.97.6:8880?path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none&encryption=none&host=gentle-surf-cc74.345-604.workers.dev&type=ws#Khodemoni-442648
 vless://b4a18856-301d-4bb2-b729-6afcb700faf5@104.16.100.66:8880?security=none&type=ws&path=/pyip=ProxyIP.JP.CMLiussss.net&host=red-flower-a2bf.363.workers.dev&packetEncoding=xudp&encryption=none#Khodemoni-442411
-vless://bb5f4b63-0b91-4f2c-8a02-66c3f99c1aaa@194.76.18.2:8880?security=none&type=ws&path=/pyip=Telegram @WangCai2&host=yellow-mouse-fcce.400-318.workers.dev&packetEncoding=xudp&encryption=none#Khodemoni-442855
-vless://17b2ed22-5fd0-47ad-b5f0-658379379ced@104.18.11.118:8880?encryption=none&security=none&type=ws&host=black-wildflower-dd92.72-1e8.workers.dev&path=%2Fpyip#Khodemoni-443099
-vless://5fc8a5e4-d0c5-4ad2-8bfe-db589553c6c1@104.18.39.196:8880?path=/pyip&security=none&encryption=none&host=red-disk-58df.153-2ce.workers.dev&type=ws#Khodemoni-442251
-vless://5fc8a5e4-d0c5-4ad2-8bfe-db589553c6c1@104.18.39.196:8880?security=none&type=ws&path=/pyip=ProxyIP.KR.CMLiussss.net&host=red-disk-58df.153-2ce.workers.dev&packetEncoding=xudp#Khodemoni-442187
