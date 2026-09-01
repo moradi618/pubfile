@@ -1,1 +1,1 @@
-vless://62a05f8e-eedf-4500-8c79-c9315f565bcc@lt.sixseven.network:25177?type=tcp&security=reality&sni=proxy11.h1guro.ovh&pbk=e0n3UVBtKMkw4IWscdj2nKq3kZ5aQnIkjpzqKdjVOTo&sid=a14b2eae02438fe4&flow=xtls-rprx-vision&fp=firefox#Khodemoni-479060
+vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@91.201.67.58:443?encryption=none&type=xhttp&path=/assets&security=tls&fp=firefox&sni=media-it.adsmoba.com#Khodemoni-479187
