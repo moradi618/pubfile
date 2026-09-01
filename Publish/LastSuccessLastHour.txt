@@ -22,5 +22,3 @@ vless://a4efbdb6-b72e-411d-b516-59919045957c@45.59.126.91:443?security=none&encr
 vless://44d2374f-4530-4cd6-a475-4f5bcfae5ced@104.105.192.149:445?&type=tcp&headerType=none&path=%2F#Khodemoni-478976
 vless://a4efbdb6-b72e-411d-b516-59919045957c@45.59.126.91:8080?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-478967
 trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:54657?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=us01.duotg.top#Khodemoni-475695
-vless://b712ae49-e20f-44d9-ae80-b81f399c5a3a@147.45.100.79:2053?encryption=none&type=ws&path=%2F&host=147.45.100.79&security=tls&sni=bz16.wba-pn.ru#Khodemoni-465477
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6TnpRaXB5QmdnTWhzQ1lXNGZwdGcva2U3ODhLMmt3WmRsMkU0ckh0ekl0WT0@144.21.41.104:45819#Khodemoni-478965
