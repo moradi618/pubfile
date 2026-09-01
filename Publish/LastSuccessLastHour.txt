@@ -1,4 +1,8 @@
 vless://2ee0d2aa-867e-a77e-9538-2edfc0b242aa@216.24.57.15:443?sni=four04-rd37.onrender.com&alpn=http/1.1&type=ws&host=four04-rd37.onrender.com&path=/ws/2ee0d2aa-867e-a77e-9538-2edfc0b242aafp=chrome&security=tls#Khodemoni-460712
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.volumeroot.com&type=ws&sni=www.volumeroot.com&fp=edge#Khodemoni-479026
+vless://62a05f8e-eedf-4500-8c79-c9315f565bcc@lt.sixseven.network:25177?type=tcp&security=reality&sni=proxy11.h1guro.ovh&pbk=e0n3UVBtKMkw4IWscdj2nKq3kZ5aQnIkjpzqKdjVOTo&sid=a14b2eae02438fe4&flow=xtls-rprx-vision&fp=firefox#Khodemoni-479060
+vless://62a05f8e-eedf-4500-8c79-c9315f565bcc@al.sixseven.network:25026?security=reality&encryption=none&sni=proxy11.h1guro.ovh&pbk=3qBfeZG4LvSGPNSacB-tCpO91TtLVLftWwNeNg5jplU&sid=bc1c3578b48ae7cc&flow=xtls-rprx-vision&fp=ios#Khodemoni-479121
+vless://62a05f8e-eedf-4500-8c79-c9315f565bcc@al.sixseven.network:25026?security=reality&encryption=none&sni=proxy11.h1guro.ovh&pbk=3qBfeZG4LvSGPNSacB-tCpO91TtLVLftWwNeNg5jplU&sid=bc1c3578b48ae7cc&flow=xtls-rprx-vision&fp=qq#Khodemoni-479033
 vless://62a05f8e-eedf-4500-8c79-c9315f565bcc@al.sixseven.network:25026?security=reality&encryption=none&sni=proxy11.h1guro.ovh&pbk=3qBfeZG4LvSGPNSacB-tCpO91TtLVLftWwNeNg5jplU&sid=bc1c3578b48ae7cc&flow=xtls-rprx-vision&fp=chrome#Khodemoni-479030
 trojan://humanity@188.42.145.180:443?alpn=http%2F1.1&path=%2Fassignment&security=tls&sni=www.volumeroot.com&type=ws&allowInsecure=1&fp=android#Khodemoni-479024
 trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.volumeroot.com&type=ws&sni=www.volumeroot.com&fp=android#Khodemoni-479025
@@ -14,7 +18,6 @@ vless://39c42b0a-b823-4c93-bb99-74b4183e518d@auth.justsavesafe.com:443?type=xhtt
 trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumeroot.com&type=ws&allowInsecure=0&sni=www.volumeroot.com&fp=firefox#Khodemoni-479153
 trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.volumeroot.com&type=ws&sni=www.volumeroot.com&fp=safari#Khodemoni-479028
 trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.volumeroot.com&type=ws&sni=www.volumeroot.com&fp=qq#Khodemoni-479027
-vless://62a05f8e-eedf-4500-8c79-c9315f565bcc@al.sixseven.network:25026?security=reality&encryption=none&sni=proxy11.h1guro.ovh&pbk=3qBfeZG4LvSGPNSacB-tCpO91TtLVLftWwNeNg5jplU&sid=bc1c3578b48ae7cc&flow=xtls-rprx-vision&fp=qq#Khodemoni-479033
 vless://54f3d606-f92f-462c-8c63-0718943c9ac5@66.33.22.220:18333?Telegram=Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server&path=%2F&encryption=none&type=ws#Khodemoni-478994
 vless://c63d2c0f-786d-49ff-9891-f63bd1ac58d7@45.59.126.91:8080?security=&encryption=none&headerType=none&type=tcp#Khodemoni-478995
 vless://0bbd1c9c-bd0a-4c47-8ad1-4ca7da1a1114@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=netgerb.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=ssl.fastly.com#Khodemoni-479001
@@ -72,5 +75,3 @@ vless://df5dc160-3764-4e6b-805d-1286ea701310@www.iplocation.net:8880?encryption=
 vless://b1b99d33-8df1-4c74-b140-28941b43a4d2@deepl.com:8880?type=ws&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&host=nameless-poetry-cc33.268-910.workers.dev&sni=deepl.com#Khodemoni-452719
 vless://bbecfa92-4f64-4eb8-82e6-388394d909fe@www.ipget.net:8880?type=ws&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&host=empty-poetry-07b6.477-e0d.workers.dev&sni=www.ipget.net#Khodemoni-452623
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.175.73:62145?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&#Khodemoni-463354
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NmJmMzNlYS02MmQ5LTQ5YTEtOWJkMC03M2U0NWY2ZTE0MDM@us1002.lunartrace.io:40013#Khodemoni-478989
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.3.30:22224?encryption=none&security=none&type=tcp&headerType=none#Khodemoni-478992
