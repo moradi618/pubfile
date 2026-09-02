@@ -1,3 +1,5 @@
+trojan://50414e45-4c5f-5a45-5553-18758aad47e1@172.67.147.237:80?path=/stream/PANEL_ZEUS/18758aad47e1&security=none&fragment=200-3000,1-2,tlshello&host=nwz42weeut9s.e7zixieluycs.workers.dev&fp=unsafe&type=ws&sni=nwz42weeut9s.e7zixieluycs.workers.dev#Khodemoni-464212
+vless://50414e45-4c5f-5a45-5553-18758aad47e1@104.21.87.255:443?path=%2Fstream%2FPANEL_ZEUS%2F18758aad47e1&security=tls&fragment=200-3000%2C1-2%2Ctlshello&encryption=none&insecure=0&host=nwz42weeut9s.e7zixieluycs.workers.dev&type=ws&allowInsecure=0&sni=nwz42weeut9s.e7zixieluycs.workers.dev#Khodemoni-464203
 vless://f22856f8-66f0-4655-ba86-5385971e1302@themeforest.net:8880?&type=ws&headerType=&host=throbbing-mountain-45e9.314-df3.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#Khodemoni-220628
 vless://b8cd08fd-a19a-4ad0-b8ae-b664b89791da@themeforest.net:8880?host=sweet-scene-bffd.312-860.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&type=ws#Khodemoni-262149
 vless://530868e7-d788-4595-b2d6-6a40c098164d@themeforest.net:8880?type=ws&host=crimson-sea-a4bb.343-1a7.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&fp=chrome#Khodemoni-227152
