@@ -1,3 +1,4 @@
+vless://00e76985-35cb-44f2-a9b3-b0a29a8ac782@172.64.146.23:2087?path=%2F&security=tls&encryption=none&host=kurdnet.kurdmarivanzaribar.xyz&fp=chrome&type=httpupgrade&sni=kurdnet.kurdmarivanzaribar.xyz#Khodemoni-483080
 vless://3b4274c1-4744-452e-9903-e11ccc0c9900@201.24.49.79:4100?encryption=none&security=none&fp=edge&type=ws&host=live.ok.ru&path=%2Fv1#Khodemoni-483344
 vless://5999a497-a2da-41d0-92cb-5b758082f83c@147.45.61.190:443?alpn=h2%2Chttp%2F1.1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=som5.api3-max.ru&type=tcp&fp=safari#Khodemoni-483377
 vless://5999a497-a2da-41d0-92cb-5b758082f83c@147.45.61.188:443?alpn=h2%2Chttp%2F1.1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=som3.api3-max.ru&type=tcp&fp=chrome#Khodemoni-483363
@@ -62,7 +63,6 @@ vless://0dd9cfaa-cebd-4444-8778-70cb22737944@94.26.83.7:443?encryption=none&pbk=
 vmess://eyJ2IjoiMiIsInBzIjoiS2hvZGVtb25pLTQ1NjU2OCIsImFkZCI6IjQ3Ljc2LjE5Ny43MiIsInBvcnQiOiI0NDMiLCJpZCI6ImYyM2JiNDI3YzFmOTQzNzM4NzZjMmY0M2U5Zjc5MGYzIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6Im0wMWM3YjJ6MjZkdHFnZWUudi4zZG5zLnZpcCIsInBhdGgiOiIvd3Mtdm1lc3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
 vless://eaeb9077-b90c-45e3-a52c-da847f5f86d7@v5p.sabermusic.ir:443?Telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&type=tcp&security=tls&sni=v5p.sabermusic.ir&allowInsecure=0&insecure=0&fp=android#Khodemoni-483130
 vless://eaeb9077-b90c-45e3-a52c-da847f5f86d7@5.61.28.51:443?security=tls&sni=v5p.sabermusic.ir&type=tcp&allowInsecure=0&insecure=0&fp=qq#Khodemoni-483123
-vless://00e76985-35cb-44f2-a9b3-b0a29a8ac782@172.64.146.23:2087?path=%2F&security=tls&encryption=none&host=kurdnet.kurdmarivanzaribar.xyz&fp=chrome&type=httpupgrade&sni=kurdnet.kurdmarivanzaribar.xyz#Khodemoni-483080
 vless://8fe8c95f-1840-42b8-bdf2-35c858eca4e9@91.92.43.177:443?security=reality&encryption=none&pbk=NUszayjBaw2LyjJtctsGRPzLltoafwwxO7xgEcDXWGk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=expire.selfsteal.vip&sid=6ba85179e30d4fc2#Khodemoni-483087
 vless://476c41db-77e1-4ac4-8f6c-66b43d9148ce@www.d.mobilenarges.ir:443?security=reality&encryption=none&pbk=6yOrgIsMRfTe-Gr9TYgyan-0mnKTNfk6fDBxVOiT4HM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=5002b5329814b487#Khodemoni-483083
 vless://%40Cooonfig%40Cooonfig@65.109.217.127:53618?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#Khodemoni-483100
