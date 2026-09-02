@@ -1,5 +1,6 @@
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.184.231:22222?encryption=none&security=none&type=tcp#Khodemoni-481539
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptNXpTUXljMXBsZERWdnNZYVNOcjVjTWdLVWdsNmV5T1BRTkp4Qys5UXBvPQ@e1.cover20.ir:51570?type=tcp#Khodemoni-481562
+vless://44b5f266-2b4f-46ca-83ff-99df77147c30@ger22.orangesms.ir:61169?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#Khodemoni-481568
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.184.231:22224?encryption=none&security=none&type=tcp#Khodemoni-481540
 vless://4de3058b-2bfe-4c20-b352-dc3ab445e17a@ger9.danqela.ir:50303?security=reality&encryption=none&pbk=XhfHr5VYPbNs6BrrsYc7Wd6-D2nJAO8QrixRuJarFkU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=4fd1b3b30e82af52#Khodemoni-481538
 vless://f1632cd2-3dd7-41c3-9755-6fea5f85a8db@lit6.litiran.ir:2053?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=image-us.vipfast6.shop&type=xhttp&allowInsecure=0&sni=image-us.vipfast6.shop#Khodemoni-481551
