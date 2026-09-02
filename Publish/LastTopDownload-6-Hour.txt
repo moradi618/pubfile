@@ -3,7 +3,7 @@ vless://c3aeb32c-ec2f-4a29-9a50-f4c058beb6a9@84.32.230.37:64373?encryption=none&
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.142.182:22224?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-480055
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.184.231:22222?encryption=none&security=none&type=tcp#Khodemoni-481539
 vless://f13ec484-0d6f-468b-a683-9b7b22770446@153.75.88.69:443?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-480679
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.42.235.201:22222?security=&encryption=none&headerType=none&type=tcp#Khodemoni-480675
+vless://44b5f266-2b4f-46ca-83ff-99df77147c30@ger22.orangesms.ir:61169?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#Khodemoni-481568
 vless://33918b20-9e02-4dc6-8b30-79b2d4b2e0e6@188.114.97.6:8080?type=ws&host=aUto-scaLe-238B2B.inFra-coRE-1630dD.WorKerS.DeV&path=/eyJqdW5rIjoiUjJBU3JkVlRwSWtnciIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbImJwYi55b3VzZWYuaXNlZ2Fyby5jb20iXX0#Khodemoni-478387
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.142.182:22222?encryption=none&security=none&type=tcp#Khodemoni-479634
 vless://f2ea3f68-6e31-4e07-a78c-fff6ebe246c3@2.26.129.73:443?security=reality&encryption=none&pbk=gPTBA-gVUWAK9yziB_v_sGSncm0LwBQvEAsTQZK4jEE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ukrop.mycdn-me.ru&sid=5a8e1a04f3d92b67#Khodemoni-480691
