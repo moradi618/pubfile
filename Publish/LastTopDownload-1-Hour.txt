@@ -1,8 +1,6 @@
 vless://f13ec484-0d6f-468b-a683-9b7b22770446@153.75.88.69:443?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-480679
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.42.235.201:22222?security=&encryption=none&headerType=none&type=tcp#Khodemoni-480675
-vless://05e7abc2-46e1-4a23-9cdc-173ce17eb0d4@188.114.97.6:8080?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/pyip&security=none&encryption=none&host=round-term-947c.41-332.workers.dev&type=ws#Khodemoni-448817
 vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@104.16.72.113:2086?security=none&type=ws&path=/9om0kfpk0v09&host=index.arcane509.workers.dev&ed=2560&packetEncoding=xudp&encryption=none#Khodemoni-402794
-vless://9e1d737e-f3c1-4757-84b2-3dcf66a468ed@144.31.243.148:443?security=reality&type=tcp&packetEncoding=xudp&sni=dl.google.com&fp=firefox&flow=xtls-rprx-vision&pbk=3wa3ZmMniymkL-58bPtY7baWPxdJ6n2UaJMG7YiLiGo#Khodemoni-446229
 vless://XpnTeam-48@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#Khodemoni-480668
 vless://31216f81-3139-0021-bac4-646680314264@185.218.194.71:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.amd.com&fp=chrome&flow=xtls-rprx-vision&sid=e1f8a3b6&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&encryption=none#Khodemoni-465288
 vless://f5e98e30-28b8-468a-a5a5-c6c22be64055@196.245.156.30:443?security=reality&encryption=none&pbk=hyOYRfDSIYyqALQt3N2H0RjK8gbV1JvPTkNACC4PJF8&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rm2.magazinnarubeva.ru&sid=8718c58d3d51db59#Khodemoni-480676
