@@ -1,11 +1,6 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.184.231:22223?encryption=none&security=none&type=tcp#Khodemoni-481534
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.184.231:22222?encryption=none&security=none&type=tcp#Khodemoni-481539
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptNXpTUXljMXBsZERWdnNZYVNOcjVjTWdLVWdsNmV5T1BRTkp4Qys5UXBvPQ@e1.cover20.ir:51570?type=tcp#Khodemoni-481562
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.184.231:22224?encryption=none&security=none&type=tcp#Khodemoni-481540
-vless://eaeb9077-b90c-45e3-a52c-da847f5f86d7@v5p.sabermusic.ir:443?encryption=none&security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#Khodemoni-481506
 vless://4de3058b-2bfe-4c20-b352-dc3ab445e17a@ger9.danqela.ir:50303?security=reality&encryption=none&pbk=XhfHr5VYPbNs6BrrsYc7Wd6-D2nJAO8QrixRuJarFkU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=4fd1b3b30e82af52#Khodemoni-481538
 vless://f1632cd2-3dd7-41c3-9755-6fea5f85a8db@lit6.litiran.ir:2053?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=image-us.vipfast6.shop&type=xhttp&allowInsecure=0&sni=image-us.vipfast6.shop#Khodemoni-481551
-vless://f2ea3f68-6e31-4e07-a78c-fff6ebe246c3@2.26.135.201:443?flow=xtls-rprx-vision&sid=a1f9c0e21d7b6485&headerType=none&encryption=none&pbk=09O8bAlIWm9AGnNyxBtHwpYNQxlXPSQeQeKzS3ZMwGE&fp=firefox&type=tcp&sni=smorodina.mycdn-me.ru&security=reality#Khodemoni-481504
 vmess://eyJ2IjoiMiIsInBzIjoiS2hvZGVtb25pLTQ3ODAyMiIsImFkZCI6IjE2Ni44OC4zNS4xMjgiLCJwb3J0IjoiMjc1MzMiLCJpZCI6ImFjM2U3MDVlLTM3MTMtNDBiMC1jMGZlLTAzNDJjMzI4ZWVkMyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6IiIsInBhdGgiOiIvYWMzZTcwNWUiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIxMSJ9
-vmess://eyJ2IjoiMiIsInBzIjoiS2hvZGVtb25pLTQ3OTI3NCIsImFkZCI6InphLWEtenp5LmdsbnlobGdjLmNvbSIsInBvcnQiOiI0NDMiLCJpZCI6IjU1ODNhZjUwLWY0NjQtNGRmNi1lMmVmLTM0NTkyMzExZTVjNiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoidGxzIiwic25pIjoiemEtYS16enkuZ2xueWhsZ2MuY29tIiwicGF0aCI6Ii9hYm91dC83Njc4In0=
-vless://4db504c3-f945-41f4-80c5-78a06434e4cb@65.109.217.127:53618?encryption=none&headerType=http&path=%2F&security=none&type=tcp#Khodemoni-481503
