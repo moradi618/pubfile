@@ -1,4 +1,3 @@
-vless://f13ec484-0d6f-468b-a683-9b7b22770446@153.75.88.69:443?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-480679
-vless://f13ec484-0d6f-468b-a683-9b7b22770446@153.75.88.69:110?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-480682
 vless://b97e287f-a24e-0021-a103-7e7ecef83139@5.61.91.220:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.amd.com&fp=chrome&flow=xtls-rprx-vision&sid=e1f8a3b6&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4#Khodemoni-465304
 vless://b97e287f-a24e-0021-a103-7e7ecef83139@185.218.194.70:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.amd.com&fp=chrome&flow=xtls-rprx-vision&sid=e1f8a3b6&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4#Khodemoni-465303
+vless://412d7fbe-7474-4f1d-86c6-7eebdc628f72@ip.kickfarsi.com:2087?allowInsecure=1&encryption=none&fp=chrome&security=tls&sni=kbfvtb.utady.ir&type=xhttp#Khodemoni-462987
