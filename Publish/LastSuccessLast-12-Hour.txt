@@ -1,3 +1,4 @@
+trojan://humanity@162.159.91.211:443?security=tls&sni=www.calmlunch.com&insecure=0&allowInsecure=0&type=ws&host=www.calmlunch.com&path=%2Fassignment#Khodemoni-114977
 vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=none&encryption=none&host=azsv1.drpingservice.com&type=ws#Khodemoni-143437
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.117.112.30:8880?security=none&type=ws&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FYouTube%40%E5%B0%8F%E9%9D%92%E7%A7%91%E5%AD%A6%E7%BD%91%F0%9F%87%A8%F0%9F%87%B3&host=vms.lifetime11.workers.dev&packetEncoding=xudp&encryption=none#Khodemoni-194776
 vless://fe467f51-b2cc-4b16-b50b-a78865ed3dd9@skk.moe:8880?security=none&type=ws&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&host=crimson-wind-71bc.19-5fd.workers.dev&packetEncoding=xudp#Khodemoni-194853
