@@ -1,3 +1,5 @@
+trojan://50414e45-4c5f-5a45-5553-18758aad47e1@172.67.147.237:80?path=/stream/PANEL_ZEUS/18758aad47e1&security=none&fragment=200-3000,1-2,tlshello&host=nwz42weeut9s.e7zixieluycs.workers.dev&fp=unsafe&type=ws&sni=nwz42weeut9s.e7zixieluycs.workers.dev#Khodemoni-464212
+vless://50414e45-4c5f-5a45-5553-18758aad47e1@104.21.87.255:443?path=%2Fstream%2FPANEL_ZEUS%2F18758aad47e1&security=tls&fragment=200-3000%2C1-2%2Ctlshello&encryption=none&insecure=0&host=nwz42weeut9s.e7zixieluycs.workers.dev&type=ws&allowInsecure=0&sni=nwz42weeut9s.e7zixieluycs.workers.dev#Khodemoni-464203
 vless://f22856f8-66f0-4655-ba86-5385971e1302@themeforest.net:8880?&type=ws&headerType=&host=throbbing-mountain-45e9.314-df3.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#Khodemoni-220628
 vless://b8cd08fd-a19a-4ad0-b8ae-b664b89791da@themeforest.net:8880?host=sweet-scene-bffd.312-860.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&type=ws#Khodemoni-262149
 vless://530868e7-d788-4595-b2d6-6a40c098164d@themeforest.net:8880?type=ws&host=crimson-sea-a4bb.343-1a7.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&fp=chrome#Khodemoni-227152
@@ -37,7 +39,6 @@ vless://b7300b59-7598-4997-9714-27efd75065d0@www.ipget.net:8880?encryption=none&
 vless://506e4a91-1d05-5683-b84c-2113f673cb19@172.67.69.152:443/?type=ws&encryption=none&flow=&host=vltj.qzz.io&path=%2Fid-pusat&security=tls&sni=vltj.qzz.io#Khodemoni-173678
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.159.247.30:8880?security=none&encryption=none&host=vms.lifetime59.workers.dev&type=ws#Khodemoni-218150
 vless://41ce10f9-748b-46a0-be7c-e29d863aa028@www.ipget.net:8880?encryption=none&security=none&type=ws&host=gentle-violet-ceef.497-2fe.workers.dev&path=%2Fpyip%3Dproxyip.jp.cmliussss.net#Khodemoni-228296
-vless://bbecfa92-4f64-4eb8-82e6-388394d909fe@www.ipget.net:8880?type=ws&host=empty-poetry-07b6.477-e0d.workers.dev&path=/pyip=ProxyIP.JP.CMLiussss.net#Khodemoni-195834
 vless://90f0ae37-5a8f-4649-98ad-ac5323840f93@www.ipget.net:8880?path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none&encryption=none&host=silent-king-06b6.297-842.workers.dev&type=ws#Khodemoni-194426
 vless://b7300b59-7598-4997-9714-27efd75065d0@www.ipget.net:8880?path=/pyip=ProxyIP.KR.CMLiussss.net&security=&encryption=none&host=mute-lab-4c55.389.workers.dev&type=ws#Khodemoni-195726
 vless://b7300b59-7598-4997-9714-27efd75065d0@www.ipget.net:8880?encryption=none&security=none&type=ws&host=mute-lab-4c55.389.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#Khodemoni-194507
