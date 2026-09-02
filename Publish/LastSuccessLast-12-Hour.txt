@@ -1,5 +1,5 @@
-trojan://humanity@104.18.9.83:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com#Khodemoni-232659
 vmess://eyJ2IjoiMiIsInBzIjoiS2hvZGVtb25pLTQ4MTAxMCIsImFkZCI6InJlbmRlcmVyLXN0cmVhbS0yLTYyLm1pcnJhLm5vdyIsInBvcnQiOiI0NDMiLCJpZCI6ImRiNTBhMjBlLTdmZjUtNGU3MC05NDhmLTE3Y2M5Y2E3YzE1NCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiL2FwaS92MS9ncHUtc3RyZWFtL3NvY2tldCIsInRscyI6InRscyIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjU1In0=
+trojan://humanity@104.18.9.83:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com#Khodemoni-232659
 vless://6cbc63c1-97de-4460-847c-7fd7bdda3fa6@212.43.158.62:545?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-483324
 vless://bfb3f06c-e33f-41ac-b101-012c8325a689@206.1.96.52:8082?security=none&encryption=none&host=--v2rayNplus--v2rayNplus--v2rayNplus--&headerType=none&type=tcp#Khodemoni-483330
 vless://eaeb9077-b90c-45e3-a52c-da847f5f86d7@v5p.sabermusic.ir:443?security=tls&encryption=none&host=--v2rayNplus--v2rayNplus--v2rayNplus--&headerType=none&type=tcp#Khodemoni-483331
