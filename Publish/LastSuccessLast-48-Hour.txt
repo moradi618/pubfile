@@ -1,3 +1,5 @@
+vless://f1632cd2-3dd7-41c3-9755-6fea5f85a8db@lit6.litiran.ir:2053?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=image-us.vipfast6.shop&type=xhttp&allowInsecure=0&sni=image-us.vipfast6.shop#Khodemoni-481551
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptNXpTUXljMXBsZERWdnNZYVNOcjVjTWdLVWdsNmV5T1BRTkp4Qys5UXBvPQ@e1.cover20.ir:51570?type=tcp#Khodemoni-481562
 trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#Khodemoni-250321
 vless://2f142ede-d555-4ceb-b005-7df31b484be3@anydesk.com:8880?type=ws&encryption=none&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&host=bitter-pine-001c.450-e0e.workers.dev&fp=chrome&alpn=http%2F1.1&headerType=none#Khodemoni-246100
 vless://e9f44bc0-72c5-435b-9ab0-b1525823ad02@anydesk.com:8880?security=none&type=ws&path=/pyip=ProxyIP.US.CMLiussss.net&host=gentle-rice-a9b4.460-a3e.workers.dev&packetEncoding=xudp#Khodemoni-227162
