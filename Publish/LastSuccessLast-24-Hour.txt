@@ -1,5 +1,5 @@
-trojan://humanity@104.18.9.83:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com#Khodemoni-232659
 vmess://eyJ2IjoiMiIsInBzIjoiS2hvZGVtb25pLTQ4MTAxMCIsImFkZCI6InJlbmRlcmVyLXN0cmVhbS0yLTYyLm1pcnJhLm5vdyIsInBvcnQiOiI0NDMiLCJpZCI6ImRiNTBhMjBlLTdmZjUtNGU3MC05NDhmLTE3Y2M5Y2E3YzE1NCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiL2FwaS92MS9ncHUtc3RyZWFtL3NvY2tldCIsInRscyI6InRscyIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjU1In0=
+trojan://humanity@104.18.9.83:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com#Khodemoni-232659
 vless://2808bf00-f7af-4b8b-85cb-6bb5cfa4cba6@158.23.49.45:8443?security=tls&sni=mexicotrash.duckdns.org&type=tcp&fp=ios#Khodemoni-446884
 vless://6cbc63c1-97de-4460-847c-7fd7bdda3fa6@212.43.158.62:545?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-483324
 vless://bfb3f06c-e33f-41ac-b101-012c8325a689@206.1.96.52:8082?security=none&encryption=none&host=--v2rayNplus--v2rayNplus--v2rayNplus--&headerType=none&type=tcp#Khodemoni-483330
@@ -3015,8 +3015,8 @@ vless://19c21f30-3590-4b97-a65a-39b50b810edf@trg.awextr.ir:2082?security=none&en
 vless://5b3c87d2-9df6-40d4-bbfc-7014c99e1508@fin.goodname.com.tr:8452?security=reality&encryption=none&pbk=n7_Ddz9DUWdhhtPh92wOWNehjZr1ewHMvJmVyRYGhX4&headerType=none&fp=qq&type=tcp&sni=amp-api-edge.apps.apple.com&sid=68d2d5f8#Khodemoni-481729
 vless://5b3c87d2-9df6-40d4-bbfc-7014c99e1508@fin.goodname.com.tr:8450?security=reality&encryption=none&pbk=GHH3KnDmEWWfo71LQxPV9mtGvzB-lIx1P78QXOQroxk&headerType=none&fp=qq&type=tcp&sni=amp-api-edge.apps.apple.com&sid=68d2d5f8#Khodemoni-481724
 vless://4b905f8d-7a39-4e26-8e2a-88fc8ad87db0@82.26.74.22:443?spx=%2Fahmadv2ray&fp=firefox&security=reality&pbk=zYNnGVEkMFCUR_9NcYeaXfm9A_L-PP6iG2sIIST6S0M&sid=1ed136481e0ede74&encryption=none&fm=ahmadv2ray&headerType=none&flow=xtls-rprx-vision&type=tcp&sni=cdn.byteark.com#Khodemoni-481738
-vless://5b3c87d2-9df6-40d4-bbfc-7014c99e1508@nether.goodname.com.tr:8448?security=reality&encryption=none&pbk=FrL9e7VL4vyMK6P9haw7--RGPC1irebFEFfVt7PDz3I&headerType=none&fp=qq&type=tcp&sni=amp-api-edge.apps.apple.com&sid=68d2d5f8#Khodemoni-481728
 vless://5b3c87d2-9df6-40d4-bbfc-7014c99e1508@istan.goodname.com.tr:8444?security=reality&encryption=none&pbk=4_-SYNUa6FNFe4yKiomBiyW9UqUZwlJfA8LnXZ0QRXA&headerType=none&fp=qq&type=tcp&sni=amp-api-edge.apps.apple.com&sid=68d2d5f8#Khodemoni-481727
+vless://5b3c87d2-9df6-40d4-bbfc-7014c99e1508@nether.goodname.com.tr:8448?security=reality&encryption=none&pbk=FrL9e7VL4vyMK6P9haw7--RGPC1irebFEFfVt7PDz3I&headerType=none&fp=qq&type=tcp&sni=amp-api-edge.apps.apple.com&sid=68d2d5f8#Khodemoni-481728
 vless://0dc5792d-0e46-497c-8bb3-03f32da0b311@myleto.orangesms.ir:61169?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#Khodemoni-481720
 vless://5b3c87d2-9df6-40d4-bbfc-7014c99e1508@tur.goodname.com.tr:8443?security=reality&encryption=none&pbk=TRhKuUcgNtOODXlz6zQ8vPX2CCwqGRiV2LoHrQ0WN2U&headerType=none&fp=qq&type=tcp&sni=amp-api-edge.apps.apple.com&sid=68d2d5f8#Khodemoni-481723
 vless://5b3c87d2-9df6-40d4-bbfc-7014c99e1508@fin.goodname.com.tr:8447?security=reality&encryption=none&pbk=2vemWMcM5_ONPpHNr0nLE1w2Y90gmwGPRy5vieJjvxA&headerType=none&fp=qq&type=tcp&sni=amp-api-edge.apps.apple.com&sid=68d2d5f8#Khodemoni-481726
