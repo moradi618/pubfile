@@ -1,7 +1,3 @@
-vless://37a80f27-a184-4da7-a320-7d5ff19cdac1@mmd5964.kaliteam.ir:32865?encryption=none&security=none&type=tcp&headerType=none&path=/mobile/464179-samsung-mobile-division-first-loss#Khodemoni-481443
-vless://37a80f27-a184-4da7-a320-7d5ff19cdac1@forloveyou.kaliteam.ir:50925?encryption=none&security=none&type=tcp&headerType=none&path=/mobile/464179-samsung-mobile-division-first-loss#Khodemoni-481440
-vless://37a80f27-a184-4da7-a320-7d5ff19cdac1@halabosamkon.kaliteam.ir:45535?security=none&type=tcp&packetEncoding=xudp&encryption=none#Khodemoni-481453
-vless://37a80f27-a184-4da7-a320-7d5ff19cdac1@halabosamkon.kaliteam.ir:45535?encryption=none&security=none&type=tcp&headerType=none&path=/mobile/464179-samsung-mobile-division-first-loss#Khodemoni-480589
 vless://739c1201-db54-47f5-aed7-29782a5bbe18@2.26.130.118:443?encryption=none&flow=xtls-rprx-vision&pbk=GUdrwZxYWVvIFgC2fSJDs6U5Un6c7t1Yuvzl7yI1ohU&security=reality&sid=2f6a8c3e90b2d574&sni=nora.mycdn-me.ru&type=tcp&fp=qq#Khodemoni-482395
 vless://739c1201-db54-47f5-aed7-29782a5bbe18@2.26.130.118:443?encryption=none&flow=xtls-rprx-vision&pbk=GUdrwZxYWVvIFgC2fSJDs6U5Un6c7t1Yuvzl7yI1ohU&security=reality&sid=2f6a8c3e90b2d574&sni=nora.mycdn-me.ru&type=tcp&fp=safari#Khodemoni-482396
 vless://739c1201-db54-47f5-aed7-29782a5bbe18@2.26.130.118:443?encryption=none&flow=xtls-rprx-vision&pbk=GUdrwZxYWVvIFgC2fSJDs6U5Un6c7t1Yuvzl7yI1ohU&security=reality&sid=2f6a8c3e90b2d574&sni=nora.mycdn-me.ru&type=tcp&fp=ios#Khodemoni-482394
