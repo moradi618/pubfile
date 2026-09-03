@@ -1,3 +1,8 @@
+vless://ffa431ab-a59b-4092-a418-905fcb1e4d5f@188.114.97.6:8080?type=ws&host=s0p42f8wwpdde5tf7m4l6l.ab1x-sn9o4y3n7ondkrd.workers.dev&path=/vl/rYScQPG1EEjxXdswdMEU2b3rM4?ed=2560#Khodemoni-483682
+vless://523c955d-f3d8-48db-b16b-64c5924116c7@199.232.78.140:443?mode=auto&path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=hhmnl.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#Khodemoni-483676
+vless://523c955d-f3d8-48db-b16b-64c5924116c7@199.232.78.140:443?mode=auto&path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=cloudy.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#Khodemoni-483677
+vless://523c955d-f3d8-48db-b16b-64c5924116c7@199.232.78.140:443?mode=auto&path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=hajhy.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#Khodemoni-483678
+vless://523c955d-f3d8-48db-b16b-64c5924116c7@199.232.78.140:443?mode=auto&path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=afagh.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#Khodemoni-483679
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@88.216.67.30:8880/?encryption=none&security=none&type=ws&host=vms.lifetime05.workers.dev&path=%2F#Khodemoni-007339
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.193.30.30:8880?path=%2F&security=none&encryption=none&host=vms.lifetime09.workers.dev&type=ws#Khodemoni-195030
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.74.228.30:8880?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&host=vms.lifetime58.workers.dev&type=ws#Khodemoni-147164
