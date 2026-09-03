@@ -1,4 +1,6 @@
 vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@212.67.9.113:2200?path=%2Fv1%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=none&encryption=none&type=ws#Khodemoni-343587
+vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@81.95.4.189:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/vws/&security=tls&encryption=none&insecure=0&host=bab-6.site&fp=chrome&type=ws&allowInsecure=0&sni=bab-6.site#Khodemoni-419134
+trojan://humanity@185.220.100.168:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#Khodemoni-424698
 vless://0c78b433-e644-4249-9e56-86ab4c5106e2@144.31.213.199:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=vip.check-ghost.space&fp=firefox&type=tcp&headerType=none#Khodemoni-494556
 vless://b3a11068-1a7e-4643-85de-7c82cce46943@91.193.17.156:9458?type=grpc&headerType=none&security=reality&encryption=none&sni=www.google.com&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY&spx=%2F&serviceName=TunService&fp=firefox#Khodemoni-495391
 vless://b3a11068-1a7e-4643-85de-7c82cce46943@91.193.17.156:9458?type=grpc&headerType=none&security=reality&encryption=none&sni=www.google.com&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY&spx=%2F&serviceName=TunService&fp=safari#Khodemoni-495399
