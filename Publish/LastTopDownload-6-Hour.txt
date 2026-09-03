@@ -51,7 +51,6 @@ vless://eaeb9077-b90c-45e3-a52c-da847f5f86d7@v5p.sabermusic.ir:443?security=tls&
 vless://3536e1fa-0850-44d1-b123-925ce12476cf@206.71.158.124:443?mode=stream-one&path=/kavir&security=tls&alpn=h2&encryption=none&insecure=1&host=dey.lnmarketplace.net&fp=chrome&type=xhttp&allowInsecure=1&sni=dey.lnmarketplace.net#Khodemoni-242396
 vless://634134d3-f0d3-4061-86bf-a8ccff5247a7@s3.zynetraq.ir:2087?mode=auto&pcs=1b995919865b4b061a1768296995613e66d1afad274f8b227d70521038e56c2b&path=%2FBetForward&security=tls&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=s3.zynetraq.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=s3.zynetraq.ir#Khodemoni-484441
 vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?security=tls&encryption=none&insecure=1&host=%2F%3FBIA_TELEGRAM%40vpnserverrr_vpnserverrr_vpnsetverrr_vpnserverrr&headerType=none&type=tcp&allowInsecure=1&sni=186.190.211.188#Khodemoni-145926
-vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?encryption=none&security=tls&sni=dey.lnmarketplace.net&alpn=h2&fp=chrome&type=xhttp&path=%2Fkavir&mode=stream-one#Khodemoni-228977
 vless://eaeb9077-b90c-45e3-a52c-da847f5f86d7@v5p.sabermusic.ir:443?security=tls&encryption=none&headerType=none&type=tcp#Khodemoni-494558
 trojan://BxceQaOe@119.246.1.143:443?security=tls&type=tcp&headerType=none&path=/&allow_insecure=1 #Khodemoni-281273
 vless://eaeb9077-b90c-45e3-a52c-da847f5f86d7@v5p.sabermusic.ir:443?type=tcp&security=tls&fp=chrome#Khodemoni-483554
