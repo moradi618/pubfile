@@ -1,12 +1,12 @@
+vless://af60d475-3c13-41cf-af0e-18353d08877a@201.24.49.77:2200?path=/v1&security=none&encryption=none&host=rzd.ru&type=ws#Khodemoni-484223
+vless://395d040e-a04a-43d7-a1e9-8635f545879a@188.114.97.6:2096?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&&security=tls&fp=unsafe&sni=shalana.xyz&type=ws&headerType=none&host=shalana.xyz&path=/shalana#Khodemoni-484230
 vless://3b4274c1-4744-452e-9903-e11ccc0c9900@201.24.49.79:2200?encryption=none&type=ws&security=none&path=/v1&host=rzd.ru&fp=chrome#Khodemoni-484200
 vless://84d0ff7b-9760-415f-a974-b3e1fe92264f@194.26.229.122:2200?encryption=none&type=ws&security=none&path=/v1&host=rzd.ru&fp=chrome#Khodemoni-484197
-vless://395d040e-a04a-43d7-a1e9-8635f545879a@188.114.97.6:2096?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&&security=tls&fp=unsafe&sni=shalana.xyz&type=ws&headerType=none&host=shalana.xyz&path=/shalana#Khodemoni-484230
+vless://936b7663-a841-4b42-b639-6e3fab1dbf45@200.165.234.119:2200?encryption=none&type=ws&security=none&path=/v1&host=rzd.ru&fp=chrome#Khodemoni-484229
 vmess://eyJhZGQiOiJ3d3cuMzYxMzcxLnh5eiIsImFpZCI6MCwiaG9zdCI6Ind3dy4zNjEzNzEueHl6IiwiaWQiOiJkYTc3YzU2NC0zODE1LTQ2OGMtODg2Ny0wYWVhMGIzOTcwMjciLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3MtNnJtMjd5IiwicG9ydCI6NDQzLCJwcyI6Iktob2RlbW9uaS00ODQxODAiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vless://23578a2c-2493-41f0-89ef-d7d3a7b85252@95.85.226.217:8443?allowInsecure=0&insecure=0&host=nl3.pad-service.com&path=/NL3W&sni=nl3.pad-service.com&encryption=none&type=ws&security=tls&fp=chrome#Khodemoni-484191
-vless://af60d475-3c13-41cf-af0e-18353d08877a@201.24.49.77:2200?path=/v1&security=none&encryption=none&host=rzd.ru&type=ws#Khodemoni-484223
 vless://fe0afb65-a43e-4493-81b9-6d9edd57f79c@2.26.90.204:443?fp=chrome&sni=www.yandex.ru&security=reality&host=evovpn.pro&sid=b4c823&path=/video/download&type=xhttp&encryption=none&pbk=ZKd5bjQ8ACciPQo_0ol7WEkUYUjGXaK9fMciQkFurF4#Khodemoni-484190
 vless://52b7a871-1455-4a6e-9e9c-78a0a1e43f86@meli-netbot-join.team-pluss.com:8080?security=reality&encryption=none&pbk=a31ZnQOsnWUJq5bSLVWIeuGJZFPE52NidulBT5CV_z4&headerType=none&fp=chrome&spx=/276a63766749207&type=tcp&sni=the.world.of.the.champions.retrovip.net&sid=f40ef36067#Khodemoni-484215
-vless://936b7663-a841-4b42-b639-6e3fab1dbf45@200.165.234.119:2200?encryption=none&type=ws&security=none&path=/v1&host=rzd.ru&fp=chrome#Khodemoni-484229
 vless://b55d4ef4-4f37-467e-8a34-14986a21d6da@aml1.plasdomain.ir:32855?security=reality&encryption=none&pbk=fRtTW1zQqje-Yh1DqPAHA8nWOMsX983pZUxy58FaY10&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=deb7a9e5a6e1d41a#Khodemoni-484236
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.56.63:22222?encryption=none&amp;security=none&amp;type=tcp#Khodemoni-484246
 vless://b55d4ef4-4f37-467e-8a34-14986a21d6da@tuuy.plasdomain.ir:32855?security=reality&encryption=none&pbk=fRtTW1zQqje-Yh1DqPAHA8nWOMsX983pZUxy58FaY10&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=deb7a9e5a6e1d41a#Khodemoni-484253
