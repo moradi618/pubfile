@@ -3,4 +3,3 @@ vless://cfd29242-a9b1-454d-8f48-09eebb9a7d79@205.237.104.142:8443?type=xhttp&sec
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@179.61.251.89:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=tls&sni=static.lotussec.com&fp=chrome&alpn=h2&insecure=0&allowInsecure=0&type=xhttp&host=static.lotussec.com&path=/Join-JavidnamanIran-on-Telegram&mode=stream-one#Khodemoni-372286
 vless://39c42b0a-b823-4c93-bb99-74b4183e518d@cdg.quicksavesafe.com:443?type=xhttp&security=reality&path=/&sni=cdg.quicksavesafe.com&fp=firefox&pbk=fkYk0Ow--0GYExpBFb2wZjooymT7uASOQLw9ESC3DF8&sid=62b6d6e64d461d78#Khodemoni-483863
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.134.70.15:22222?encryption=none&security=none&type=tcp#Khodemoni-482511
-vless://eaeb9077-b90c-45e3-a52c-da847f5f86d7@v5p.sabermusic.ir:443?encryption=none&security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#Khodemoni-481506
