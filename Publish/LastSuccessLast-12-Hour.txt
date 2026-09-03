@@ -1,3 +1,4 @@
+trojan://8qCNZU2XdtefT7uB4uPxgRR839btqMG8@178.172.227.178:500?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&fp=chrome&type=grpc&allowInsecure=0&sni=by01.botovod.space#Khodemoni-479717
 vless://6aa028bc-08a9-41d1-a397-d60ce65df081@support.zoom.us:80?security=none&type=ws&path=/shalana&host=shalana.xyz&encryption=none#Khodemoni-310525
 vless://6aa028bc-08a9-41d1-a397-d60ce65df081@170.114.46.6:80?security=none&type=ws&path=/shalana&host=shalana.xyz&packetEncoding=xudp#Khodemoni-311635
 vless://6aa028bc-08a9-41d1-a397-d60ce65df081@170.114.46.6:80?security=none&type=ws&path=/shalana&host=shalana.xyz&encryption=none#Khodemoni-310141
