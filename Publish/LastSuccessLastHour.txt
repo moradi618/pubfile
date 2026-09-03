@@ -1,5 +1,9 @@
-vless://395d040e-a04a-43d7-a1e9-8635f545879a@188.114.97.6:2096?&security=tls&fp=unsafe&sni=shalana.xyz&type=ws&headerType=none&host=shalana.xyz&path=%2Fshalana#Khodemoni-463843
 vless://4c25beb5-ccda-59ce-84fc-389c6651c0fd@89.125.28.56:443?path=%2F49383e7702174e49&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=lts.bearln.net&fp=chrome&type=xhttp&allowInsecure=0&sni=lts.bearln.net#Khodemoni-484142
+vless://b55d4ef4-4f37-467e-8a34-14986a21d6da@tuuy.plasdomain.ir:32855?security=reality&encryption=none&pbk=fRtTW1zQqje-Yh1DqPAHA8nWOMsX983pZUxy58FaY10&headerType=none&fp=firefox&type=tcp&sni=amp-api-edge.apps.apple.com&sid=deb7a9e5a6e1d41a#Khodemoni-484149
+vless://b55d4ef4-4f37-467e-8a34-14986a21d6da@aml1.plasdomain.ir:32855?security=reality&encryption=none&pbk=fRtTW1zQqje-Yh1DqPAHA8nWOMsX983pZUxy58FaY10&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=deb7a9e5a6e1d41a#Khodemoni-484151
+vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@188.114.97.6:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=xwrivr.pages.dev&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=xwrivr.pages.dev#Khodemoni-484158
+vless://b55d4ef4-4f37-467e-8a34-14986a21d6da@tuuy.plasdomain.ir:53147?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#Khodemoni-484150
+vless://395d040e-a04a-43d7-a1e9-8635f545879a@188.114.97.6:2096?&security=tls&fp=unsafe&sni=shalana.xyz&type=ws&headerType=none&host=shalana.xyz&path=%2Fshalana#Khodemoni-463843
 vless://d98c1be3-7837-4d8a-a9fc-05e7a807ccb0@172.67.219.238:8080?path=%2FeyJqdW5rIjoiSWZqSHF3Q2RLIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19&security=none&encryption=none&host=server1.poludiro.workers.dev&type=ws#Khodemoni-481764
 vless://3adac494-0eb1-4d89-a187-b2181691444d@skk.moe:8880?&security=none&type=ws&headerType=&host=tiny-lake-bbf1.369-766.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#Khodemoni-143278
 trojan://Mehdi1234@172.64.144.251:2083?ed=2560&eh=Sec-WebSocket-Protocol&host=purple-recipe-5e30.cimavo4626.workers.dev&path=%2F&security=tls&sni=purple-recipe-5e30.cimavo4626.workers.dev&type=ws#Khodemoni-258992
@@ -52,5 +56,3 @@ vless://9adb120c-0cce-4b56-9023-ccf7f1e13536@icook.tw:8880?&security=none&type=w
 vless://9adb120c-0cce-4b56-9023-ccf7f1e13536@icook.tw:8880?type=ws&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&host=spring-sunset-81e8.322.workers.dev&sni=icook.tw#Khodemoni-227919
 vless://3536e1fa-0850-44d1-b123-925ce12476cf@206.71.158.124:443?mode=stream-one&path=%2Fkavir&security=tls&alpn=h2&encryption=none&host=dey.lnmarketplace.net&fp=chrome&type=xhttp&sni=dey.lnmarketplace.net#Khodemoni-235688
 vless://ac7fb60f-0b7a-465d-a002-05160ec04ed6@94.103.1.228:443?alpn=h2%2Chttp%2F1.1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=som6.api3-max.ru&type=tcp#Khodemoni-484094
-vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@212.67.9.113:2200?path=%2Fv1%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=none&encryption=none&type=ws#Khodemoni-343587
-trojan://humanity@5.181.187.58:443?path=/assignment&security=tls&sni=www.calmlunch.com&type=ws&sni=www.calmlunch.com#Khodemoni-395609
