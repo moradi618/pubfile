@@ -1,3 +1,9 @@
+vless://b9507a19-b57c-4065-b9a4-75f16e5e49dc@syncpointbase.online:443?type=ws&security=tls&encryption=none&path=%2Fws&fp=android#Khodemoni-495558
+vless://b9507a19-b57c-4065-b9a4-75f16e5e49dc@syncpointbase.online:443?type=ws&security=tls&encryption=none&path=%2Fws&fp=safari#Khodemoni-495562
+vless://b9507a19-b57c-4065-b9a4-75f16e5e49dc@syncpointbase.online:443?type=ws&security=tls&encryption=none&path=%2Fws&fp=qq#Khodemoni-495561
+vless://b9507a19-b57c-4065-b9a4-75f16e5e49dc@syncpointbase.online:443?type=ws&security=tls&encryption=none&path=%2Fws&fp=chrome#Khodemoni-495559
+vless://b9507a19-b57c-4065-b9a4-75f16e5e49dc@syncpointbase.online:443?type=ws&security=tls&encryption=none&path=%2Fws&fp=edge#Khodemoni-495593
+vless://b9507a19-b57c-4065-b9a4-75f16e5e49dc@syncpointbase.online:443?type=ws&security=tls&encryption=none&path=%2Fws&fp=firefox#Khodemoni-495594
 vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@81.95.4.189:443?security=tls&sni=bab-6.site&type=ws&headerType=none&host=bab-6.site&path=%2Fvws%2F&fp=chrome#Khodemoni-399583
 vless://30610baf-4645-4c7b-9a22-0d0a0a79eab5@188.114.97.6:443?encryption=none&security=tls&sni=mao.kipfel.kdns.fr&fp=unsafe&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%225%22%2C%2294%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22109%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%22355%22%7D%7D%5D%7D&type=ws&host=mao.kipfel.kdns.fr&path=%2Fglasspanel%2Fguest000_0_5de14443985f%2F#Khodemoni-455858
 vless://f0d24eb0-a88a-455f-92b8-3a99c38dfb0c@5.129.224.93:443?security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=hys42.wba-pn.ru#Khodemoni-463432
