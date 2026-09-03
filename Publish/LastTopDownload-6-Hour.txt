@@ -6,6 +6,7 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.177.173.203:22222?encryption=non
 vless://37a80f27-a184-4da7-a320-7d5ff19cdac1@polisi.kaliteam.ir:19113?encryption=none&security=none&type=tcp&headerType=none&path=/mobile/464179-samsung-mobile-division-first-loss#Khodemoni-481442
 vless://e0f66109-6639-58bc-6e8b-800894f1d8e6@69.46.46.125:443?path=%2Fws%2Fe0f66109-6639-58bc-6e8b-800894f1d8e6&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=norl-production-fd1c.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=norl-production-fd1c.up.railway.app#Khodemoni-494451
 vless://08ffff12-93bb-42eb-8c83-6489644a1d04@a2.arshia-nova.ir:443?encryption=none&security=tls&sni=ssl.fastly.com&fp=firefox&alpn=h2&type=ws&host=c12.com&path=%2F#Khodemoni-494633
+vless://a3bd1997-6f78-4e61-83e1-4f5d5000ed24@78.17.41.122:42262?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-494779
 vless://b8f991d5-37fd-4bde-a23b-adca1fb4723e@tp.paydar.site:7070?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#Khodemoni-494683
 vless://bd425e20-ed7a-4e20-9565-e1a350babf98@qx330.pastilbastani.ir:2096?security=reality&encryption=none&pbk=Yef9_YrfRICUYUYnwCwDy3w9vzs7ljBmlOsPU9OVa1k&host=play.google.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=8ce5e1dbeceab54a#Khodemoni-494713
 vless://5efabea4-f6d4-91fd-b8f0-17e004c89c68@38.58.180.136:3087?encryption=none&security=none&type=ws&path=%2F%40s5gydl#Khodemoni-484445
@@ -55,4 +56,5 @@ vless://eaeb9077-b90c-45e3-a52c-da847f5f86d7@v5p.sabermusic.ir:443?security=tls&
 trojan://BxceQaOe@119.246.1.143:443?security=tls&type=tcp&headerType=none&path=/&allow_insecure=1 #Khodemoni-281273
 vless://eaeb9077-b90c-45e3-a52c-da847f5f86d7@v5p.sabermusic.ir:443?type=tcp&security=tls&fp=chrome#Khodemoni-483554
 vless://eaeb9077-b90c-45e3-a52c-da847f5f86d7@5.61.28.51:443?security=tls&sni=v5p.sabermusic.ir&type=tcp&allowInsecure=0&insecure=0&fp=firefox#Khodemoni-483122
+vless://675ee872-adb2-4c66-8358-bd360259311f@185.215.228.254:2086?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=mlkem768x25519plus.native.0rtt.Kr-To-SdPFLSTQ1Ku0S6YIrfpS1FZ18y3N8t5I1xLX0&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=england1.navigatoer.ir#Khodemoni-494975
 vless://eaeb9077-b90c-45e3-a52c-da847f5f86d7@5.61.28.51:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v5p.sabermusic.ir#Khodemoni-494496
