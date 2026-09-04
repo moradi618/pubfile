@@ -2,3 +2,4 @@ vmess://eyJhZGQiOiJ2aXAxLnJpY2hhcmRzZXJ2ZXIuaXIiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlk
 trojan://UQfj7bdfjibTjpUHfg72aew51S7fB32g@portal.buildtunnel.com:443?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=portal.buildtunnel.com&fp=chrome#Khodemoni-495803
 trojan://UQfj7bdfjibTjpUHfg72aew51S7fB32g@portal.buildtunnel.com:443?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=portal.buildtunnel.com&fp=android#Khodemoni-496115
 trojan://UQfj7bdfjibTjpUHfg72aew51S7fB32g@bright.bitgas.org:443?security=tls&fp=chrome#Khodemoni-496412
+vless://1c332eae-7e02-4acd-996d-4eb3e652401c@prep.wwwinternetvideo.click:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=yandex.ru&fp=chrome&pbk=uitO4Z8t9TplwwYaqwLqh5rfxDh_X8bOBiNuPbzvaEM&sid=bbe46bd8f6b96839&allowInsecure=1#Khodemoni-496555
