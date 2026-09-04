@@ -1,3 +1,6 @@
+vless://935ed92d-68c3-42c7-8c32-2db2595737e6@147.45.61.56:443?encryption=none&path=%2Fapi%2Fv2%2Ftelemetry&pbk=660bDah5b-PtCfAbQ3g2tJySO41zsfaXCPb7L3nQCQc&security=reality&sid=e1ac2faf5e5f309e&sni=preview.medic-ml.ru&type=xhttp&fp=qq#Khodemoni-497312
+vless://62bf55a7-ba8b-4e65-aa2f-383d425d57c2@www.d.mobilesari.ir:443?security=reality&encryption=none&pbk=6yOrgIsMRfTe-Gr9TYgyan-0mnKTNfk6fDBxVOiT4HM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=5002b5329814b487#Khodemoni-497932
+vless://469bc714-57c1-4091-8913-ff804b38bd3a@naseza.tarfiq.ir:443?encryption=none&type=ws&security=tls&path=/&host=teranko.global.ssl.fastly.net&sni=global.fastly.com&fp=firefox&insecure=1&allowInsecure=1#Khodemoni-497924
 vless://ff7390de-ce93-4d7d-b08b-bef8f71a85cf@188.114.97.6:8080?host=tiny-lake-c7f3.16-1af.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none&type=ws#Khodemoni-497888
 vless://469bc714-57c1-4091-8913-ff804b38bd3a@tehran.sorixset.ir:443?encryption=none&type=ws&security=tls&path=/&host=Tazia.global.ssl.fastly.net&sni=global.fastly.com&fp=firefox&insecure=1&allowInsecure=1#Khodemoni-497920
 trojan://eabf1999fefbb7d2@104.21.42.129:2087?alpn=http%2F1.1&fp=chrome&path=%2Ftr%2FsMpzOZ0eWEt6jbZ1jjN3BaM7LLoQ&security=tls&sni=WaYSi.wAYsI6688.WOrkeRS.deV&type=ws#Khodemoni-497859
