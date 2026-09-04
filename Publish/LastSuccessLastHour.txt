@@ -1,3 +1,9 @@
+trojan://humanity@45.130.125.112:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#Khodemoni-085268
+vless://1c332eae-7e02-4acd-996d-4eb3e652401c@prep.wwwinternetvideo.click:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=yandex.ru&fp=chrome&pbk=uitO4Z8t9TplwwYaqwLqh5rfxDh_X8bOBiNuPbzvaEM&sid=bbe46bd8f6b96839&allowInsecure=1#Khodemoni-496555
+vless://2db92da9-8ffb-491b-81d6-6e8d50876020@www.speedtest.net:443?alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=bpb-01c11365.hjdbcvdbkv.workers.dev&path=%2FeyJqdW5rIjoiWlFRWlMwRDdLakVqMyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&sni=bpB-01c11365.HJdBcvDbKV.WORKErS.dEV&type=ws#Khodemoni-171589
+vless://b7977b65-cfd8-4db9-a029-6ef014a4ae4a@165.215.250.12:2086?type=xhttp&headerType=none&security=none&encryption=none&path=%2F&host=dev.speciq.co#Khodemoni-309245
+trojan://Telegram_healer_config@www.speedtest.net:443?path=/tr/VQ1n6VuZtSQv0vvjjCG?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=bjsa2ygfitzjtho8ucze29xf2m2q9c.g3fiajpf0erm9k3x6ww-yegzl2.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=BjSa2yGfiTzJtho8uCZE29Xf2M2Q9C.g3fIAjPF0erM9k3X6wW-YeGZl2.WORkERS.dev#Khodemoni-305942
+vless://b7977b65-cfd8-4db9-a029-6ef014a4ae4a@165.215.250.12:2086?encryption=none&security=none&type=xhttp&host=dev.speciq.co&path=%2F&mode=packet-up#Khodemoni-306751
 trojan://Telegram_healer_config@www.speedtest.net:443?alpn=http%2F1.1&fp=chrome&path=%2Ftr%2FmPZ7O1CUbIBPGNPZQ2HeV%3Fed%3D2560&security=tls&sni=TO6R63-KKChIGHQM2.VxZ0DDUq7tO7su0cDqF.WoRKeRs.DeV&type=ws#Khodemoni-403124
 trojan://humanity@5.181.187.58:443?path=/assignment&security=tls&sni=www.calmlunch.com&type=ws&sni=www.calmlunch.com#Khodemoni-395609
 vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@81.95.4.189:443?security=tls&sni=bab-6.site&type=ws&path=%2Fvws%2F&host=bab-6.site&fp=chrome#Khodemoni-400861
@@ -57,14 +63,3 @@ vless://e10a03dc-aa0d-4c45-af45-05085c304d47@5.75.196.249:433?security=none&encr
 vless://01e5bbe0-03b1-4e03-bd10-9760a8401fdf@5.75.196.249:2095?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-497086
 vless://07b69edc-18b1-4cbf-a33a-a0fe08c3db15@5.75.196.249:110?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-497082
 vless://9327fd86-0c43-4cf2-9373-d6d228140b41@5.75.196.249:433?security=none&encryption=none&headerType=none&type=tcp#Khodemoni-497084
-vless://0019c93d-2fc1-4652-a4cc-da72b17ef766@31.76.21.44:443?path=/websocket?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=31.76.21.44.fwqfw783rg2dad.website#Khodemoni-496771
-vless://1c332eae-7e02-4acd-996d-4eb3e652401c@144.31.50.236:443?security=reality&encryption=none&pbk=uitO4Z8t9TplwwYaqwLqh5rfxDh_X8bOBiNuPbzvaEM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=bbe46bd8f6b96839#Khodemoni-496846
-trojan://humanity@162.159.91.211:443?security=tls&sni=www.calmlunch.com&insecure=0&allowInsecure=0&type=ws&host=www.calmlunch.com&path=%2Fassignment#Khodemoni-114977
-vless://23ffebbc-141b-4056-b110-cb68e7821af7@188.114.97.149:443?&security=tls&fp=randomized&sni=ip.racknerd.henso.wiki&type=ws&headerType=&host=ip.racknerd.henso.wiki&path=%2F%3Fed%3D2048#Khodemoni-115545
-trojan://humanity@162.159.91.211:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#Khodemoni-095195
-trojan://humanity@162.159.91.211:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#Khodemoni-095192
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@62.72.166.30:8880/?type=ws&encryption=none&flow=&host=vms.lifetime40.workers.dev#Khodemoni-137346
-vmess://eyJ2IjoiMiIsInBzIjoiS2hvZGVtb25pLTEzOTA4NyIsImFkZCI6IjE1OC41MS4xMjEuNjMiLCJwb3J0IjoiNDQzIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJzZXJpYnVzLm9yZyIsInBhdGgiOiJsaW5rdndzIiwidGxzIjoidGxzIiwic25pIjoic2VyaWJ1cy5vcmciLCJ0ZXN0X25hbWUiOiI0MyJ9
-trojan://humanity@45.130.125.75:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&allowinsecure=0&type=ws&sni=www.calmlunch.com#Khodemoni-139596
-vless://9be3bb59-c281-4fee-ae3d-7cf6c4b47eb4@skk.moe:8880?&security=none&type=ws&headerType=&host=late-mountain-6801.355.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#Khodemoni-142845
-vless://f6a92fa2-5685-3c70-16d5-ba38b388dbbf@172.67.165.120:443?security=tls&sni=empty-water-a05b.gfbghfbfngbdgbghngf.workers.dev&type=ws&host=empty-water-a05b.gfbghfbfngbdgbghngf.workers.dev&path=%2Fsync&fp=chrome&allowInsecure=0#Khodemoni-169273
