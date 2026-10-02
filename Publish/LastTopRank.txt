@@ -1,3 +1,8 @@
+trojan://humanity@172.67.139.14:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumeroot.com&type=ws&allowInsecure=0&sni=www.volumeroot.com#Khodemoni-576750
+trojan://humanity@104.21.57.25:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumeroot.com&type=ws&allowInsecure=0&sni=www.volumeroot.com#Khodemoni-576752
+vless://a9a3278d-cdd1-40ac-83bc-adb53ff9be3d@chatgpt.com:443?mode=auto&path=%2Ffe20b2ea9bee5906%2F10001%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=out-cloudflare.royal-me.site&fp=chrome&type=xhttp&allowInsecure=0&sni=tyytout-cloudflare.royal-me.site#Khodemoni-576778
+vless://b1c31d36-c6b5-414b-88d2-9e24e7bfcca3@185.146.234.242:443?&security=tls&fp=chrome&sni=www.nihaoyun.top&type=ws&headerType=none&host=www.nihaoyun.top&path=%2F#Khodemoni-576820
+vless://b1c31d36-c6b5-414b-88d2-9e24e7bfcca3@103.31.4.127:443?&security=tls&fp=chrome&sni=www.nihaoyun.top&type=ws&headerType=none&host=www.nihaoyun.top&path=%2F#Khodemoni-576824
 ss://YWVzLTEyOC1nY206NDA0MjQzZjFmMjk5MzIwMTRiODEyMTYyMDhmOTYwMzE@216.105.168.157:11331#Khodemoni-576878
 ss://YWVzLTEyOC1nY206NmM0OTkzYWNkMWNhN2YxMmYwYTE4YmRjYjNjMzdjNmM@66.23.201.172:10272#Khodemoni-576879
 ss://YWVzLTEyOC1nY206N2VmMTQzNjBhMjVmZmU1MDRlMzhmYjlhMGE4MmYyMjQ=@45.82.67.39:16486?#Khodemoni-576888
@@ -7,11 +12,8 @@ vless://bc659d88-a1e0-4c65-a49a-7b51b26a7a7f@87.192.47.10:52006?security=tls&alp
 vless://81dc0b61-f9fe-4ad6-8b4e-b8c067b73712@152.228.139.33:35108?mode=gun&security=reality&encryption=none&authority=%2F%3FTELEGRAM--ICV2RAY--ICV2RAY&pbk=X_lOw5Zz4SJBa1cRHV4dAq5msYE-ClY5-WNcBmBWRxg&fp=chrome&type=grpc&serviceName=grpc-common3&sni=www.nvidia.com&sid=52add08b86a5ccea#Khodemoni-576978
 vless://bc659d88-a1e0-4c65-a49a-7b51b26a7a7f@179.254.71.20:52006?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl.setlisting.ru#Khodemoni-576979
 vless://1cc6bd10-e414-4171-9220-09aaba23a6fa@subnimnet1.ir:80?mode=auto&path=%2Fws&security=none&encryption=none&host=fl.subnimnet2.ir&type=xhttp#Khodemoni-576983
-trojan://humanity@172.67.139.14:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumeroot.com&type=ws&allowInsecure=0&sni=www.volumeroot.com#Khodemoni-576750
-trojan://humanity@104.21.57.25:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumeroot.com&type=ws&allowInsecure=0&sni=www.volumeroot.com#Khodemoni-576752
-vless://a9a3278d-cdd1-40ac-83bc-adb53ff9be3d@chatgpt.com:443?mode=auto&path=%2Ffe20b2ea9bee5906%2F10001%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=out-cloudflare.royal-me.site&fp=chrome&type=xhttp&allowInsecure=0&sni=tyytout-cloudflare.royal-me.site#Khodemoni-576778
-vless://b1c31d36-c6b5-414b-88d2-9e24e7bfcca3@185.146.234.242:443?&security=tls&fp=chrome&sni=www.nihaoyun.top&type=ws&headerType=none&host=www.nihaoyun.top&path=%2F#Khodemoni-576820
-vless://b1c31d36-c6b5-414b-88d2-9e24e7bfcca3@103.31.4.127:443?&security=tls&fp=chrome&sni=www.nihaoyun.top&type=ws&headerType=none&host=www.nihaoyun.top&path=%2F#Khodemoni-576824
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKZW9xOHVqZmtxWktLdkFDUWhvcUJRMVBBM3VxNDI0Mg@45.149.114.171:777#Khodemoni-576362
+vless://0f4081e7-612b-425f-8def-eebf144aedba@2.27.249.130:443?security=reality&encryption=none&pbk=ITd6cmCxudmTvGcwnAzpd0VRe8jS9KJAQ1tmtVN3mCM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=n11.clouderiux.com&sid=9e15546f267baa64#Khodemoni-576747
 vless://f0a52dd3-4377-4402-a450-210bc81bcf25@2.26.88.52:443?security=reality&encryption=none&pbk=gcx8FNkRv0rdkd0kRhgSLWDXqVc7KgAw4rnYaYx9JgE&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=sh-lv-01.mintrocket.org&sid=338e250284b889ba#Khodemoni-576830
 vless://aaec4e42-a095-44b6-a239-f16d234a0798@137.74.16.237:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=7LSzvilTVKGMtBDuKGeMrLtlhY7tQf5YcG566dEgO0I&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=b390e0a721d242b0#Khodemoni-576876
-vless://0f4081e7-612b-425f-8def-eebf144aedba@2.27.249.130:443?security=reality&encryption=none&pbk=ITd6cmCxudmTvGcwnAzpd0VRe8jS9KJAQ1tmtVN3mCM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=n11.clouderiux.com&sid=9e15546f267baa64#Khodemoni-576747
+vless://8d130a3a-c2fc-4544-99a4-d46ffb12f0a6@91.215.40.26:16443?encryption=none&fp=&host=ddg.steptofsvo.com&mode=auto&path=%2FaFlS06iNEzhdEdIa&pbk=NcusujNOLaj9kiNIAMzg3BKdb3WYXMdkCgfeNHyie1E&security=reality&sid=67ca97db5f330f5f&sni=ddg.steptofsvo.com&type=xhttp#Khodemoni-576790
